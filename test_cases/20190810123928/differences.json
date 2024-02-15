@@ -1,0 +1,74 @@
+{
+  "1|A|1|422.5125|422.5125|FB8|11K3F1D|A": {
+    "nxgen": "The Maximum ERP for the EAH of 177.40 is 150 Watts.|Rule 30: Emissions may not exceed 11k.",
+    "legacy": "The Maximum ERP for the EAH of 177.40 is 150.00 Watts.|Rule 30: Telemetry operations will be authorized on a secondary basis."
+  },
+  "9|A|1|422.6375|422.6375|FB8|11K3F1D|A": {
+    "nxgen": "The Maximum ERP for the EAH of 177.40 is 150 Watts.|Rule 30: Emissions may not exceed 11k.",
+    "legacy": "The Maximum ERP for the EAH of 177.40 is 150.00 Watts.|Rule 30: Telemetry operations will be authorized on a secondary basis."
+  },
+  "17|A|1|422.8625|422.8625|FB8|11K3F1D|A": {
+    "nxgen": "The Maximum ERP for the EAH of 177.40 is 150 Watts.|Rule 30: Emissions may not exceed 11k.",
+    "legacy": "The Maximum ERP for the EAH of 177.40 is 150.00 Watts.|Rule 30: Telemetry operations will be authorized on a secondary basis."
+  },
+  "25|A|1|422.2875|422.2875|FB8|11K3F1D|A": {
+    "nxgen": "The Maximum ERP for the EAH of 177.40 is 150 Watts.|Rule 30: Emissions may not exceed 11k.",
+    "legacy": "The Maximum ERP for the EAH of 177.40 is 150.00 Watts.|Rule 30: Telemetry operations will be authorized on a secondary basis."
+  },
+  "33|A|1|424.5375|424.5375|FB8|11K3F1D|A": {
+    "nxgen": "The Maximum ERP for the EAH of 177.40 is 150 Watts.|Rule 30: Emissions may not exceed 11k.",
+    "legacy": "The Maximum ERP for the EAH of 177.40 is 150.00 Watts.|Rule 30: Telemetry operations will be authorized on a secondary basis."
+  },
+  "41|A|1|424.6625|424.6625|FB8|11K3F1D|A": {
+    "nxgen": "The Maximum ERP for the EAH of 177.40 is 150 Watts.|Rule 30: Emissions may not exceed 11k.",
+    "legacy": "The Maximum ERP for the EAH of 177.40 is 150.00 Watts.|Rule 30: Telemetry operations will be authorized on a secondary basis."
+  },
+  "49|A|1|424.7875|424.7875|FB8|11K3F1D|A": {
+    "nxgen": "The Maximum ERP for the EAH of 177.40 is 150 Watts.|Rule 30: Emissions may not exceed 11k.",
+    "legacy": "The Maximum ERP for the EAH of 177.40 is 150.00 Watts.|Rule 30: Telemetry operations will be authorized on a secondary basis."
+  },
+  "57|A|1|424.9125|424.9125|FB8|11K3F1D|A": {
+    "nxgen": "The Maximum ERP for the EAH of 177.40 is 150 Watts.|Rule 30: Emissions may not exceed 11k.",
+    "legacy": "The Maximum ERP for the EAH of 177.40 is 150.00 Watts.|Rule 30: Telemetry operations will be authorized on a secondary basis."
+  },
+  "65|A|1|424.4125|424.4125|FB8|11K3F1D|A": {
+    "nxgen": "The Maximum ERP for the EAH of 177.40 is 150 Watts.|Rule 30: Emissions may not exceed 11k.",
+    "legacy": "The Maximum ERP for the EAH of 177.40 is 150.00 Watts.|Rule 30: Telemetry operations will be authorized on a secondary basis."
+  },
+  "73|G|2|427.5125|427.5125|MO8|11K3F1D|A": {
+    "nxgen": "Rule 30: Emissions may not exceed 11k.|Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis."
+  },
+  "81|G|2|427.6375|427.6375|MO8|11K3F1D|A": {
+    "nxgen": "Rule 30: Emissions may not exceed 11k.|Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis."
+  },
+  "89|G|2|427.8625|427.8625|MO8|11K3F1D|A": {
+    "nxgen": "Rule 30: Emissions may not exceed 11k.|Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis."
+  },
+  "97|G|2|427.2875|427.2875|MO8|11K3F1D|A": {
+    "nxgen": "Rule 30: Emissions may not exceed 11k.|Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis."
+  },
+  "105|G|2|429.5375|429.5375|MO8|11K3F1D|A": {
+    "nxgen": "Rule 30: Emissions may not exceed 11k.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis."
+  },
+  "113|G|2|429.6625|429.6625|MO8|11K3F1D|A": {
+    "nxgen": "Rule 30: Emissions may not exceed 11k.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis."
+  },
+  "121|G|2|429.7875|429.7875|MO8|11K3F1D|A": {
+    "nxgen": "Rule 30: Emissions may not exceed 11k.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis."
+  },
+  "129|G|2|429.9125|429.9125|MO8|11K3F1D|A": {
+    "nxgen": "Rule 30: Emissions may not exceed 11k.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis."
+  },
+  "137|G|2|429.4125|429.4125|MO8|11K3F1D|A": {
+    "nxgen": "Rule 30: Emissions may not exceed 11k.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis."
+  }
+}

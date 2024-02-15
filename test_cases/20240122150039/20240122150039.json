@@ -1,0 +1,91 @@
+{
+    "licenseType": "IB",
+    "scheduleGhs": [
+        {
+            "lineNum": 1,
+            "locationCode": "A",
+            "locationNum": 1,
+            "frequencyLow": 450,
+            "frequencyHigh": 469.99999,
+            "stationClass": "FB8",
+            "emissionDesignator": "7K60FXD",
+            "power": 100,
+            "erp": 75,
+            "haat": 125.6,
+            "transmittingAntennaHeight": 96,
+            "coordinationCode": "A",
+            "requestNum": 1
+        },
+        {
+            "lineNum": 2,
+            "locationCode": "A",
+            "locationNum": 1,
+            "frequencyLow": 450,
+            "frequencyHigh": 469.99999,
+            "stationClass": "FB8",
+            "emissionDesignator": "7K60FXE",
+            "power": 100,
+            "erp": 75,
+            "haat": 125.6,
+            "transmittingAntennaHeight": 96,
+            "coordinationCode": "C",
+            "requestNum": 2
+        },
+        {
+            "lineNum": 3,
+            "locationCode": "G",
+            "locationNum": 2,
+            "frequencyLow": 450,
+            "frequencyHigh": 469.99999,
+            "stationClass": "MO8",
+            "emissionDesignator": "7K60FXD",
+            "power": 40,
+            "erp": 40,
+            "haat": null,
+            "transmittingAntennaHeight": null,
+            "coordinationCode": "A",
+            "requestNum": 3
+        },
+        {
+            "lineNum": 4,
+            "locationCode": "G",
+            "locationNum": 2,
+            "frequencyLow": 450,
+            "frequencyHigh": 469.99999,
+            "stationClass": "MO8",
+            "emissionDesignator": "7K60FXE",
+            "power": 40,
+            "erp": 40,
+            "haat": null,
+            "transmittingAntennaHeight": null,
+            "coordinationCode": "C",
+            "requestNum": 4
+        }
+    ],
+    "scheduleEs": [
+        {
+            "state": "MS",
+            "city": "DERMA",
+            "county": "CALHOUN",
+            "locationNum": 1,
+            "locationCode": "A",
+            "latitude": 33.825,
+            "longitude": -89.225,
+            "areaOfOperation": null,
+            "serviceAreaRadius": null,
+            "elevation": 128
+        },
+        {
+            "state": null,
+            "city": null,
+            "county": null,
+            "locationNum": 2,
+            "locationCode": "G",
+            "latitude": 0,
+            "longitude": 0,
+            "areaOfOperation": "1",
+            "serviceAreaRadius": 32,
+            "elevation": null
+        }
+    ]
+}
