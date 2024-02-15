@@ -103,7 +103,7 @@ const columns = {
 
 function checkDifference() {
   let buildKey = (lineNum, locationCode, locationNum, frequencyLow, frequencyHigh, stationClassCode, emissionDesignator, coordinationCode) => {
-    return `${lineNum}|${locationCode}|${locationNum}|${frequencyLow}|${frequencyHigh}|${stationClassCode}|${emissionDesignator}|${coordinationCode}`;
+    return `${locationCode}|${locationNum}|${frequencyLow}|${frequencyHigh}|${stationClassCode}|${emissionDesignator}|${coordinationCode}`;
   }
   
   fs.readFile(`./test_cases/${test_case}/legacy_results.csv`, 'utf8', (err, data) => {
