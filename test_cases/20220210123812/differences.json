@@ -3,246 +3,36 @@
     "nxgen": "",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 191. While testing Location 9"
   },
-  "E|5|159.6|159.6|MO|11K2F3E|A": {
-    "nxgen": ""
-  },
-  "E|5|159.6|159.6|MO|7K60FXD|C": {
-    "nxgen": ""
-  },
-  "E|5|159.6|159.6|MO|7K60FXE|C": {
-    "nxgen": ""
-  },
-  "F|6|152.36|152.36|MO|11K2F3E|A": {
-    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
-  },
-  "F|6|152.36|152.36|MO|7K60FXD|C": {
-    "nxgen": ""
-  },
-  "F|6|152.36|152.36|MO|7K60FXE|C": {
-    "nxgen": ""
-  },
   "C|3|151.97|151.97|FB2|11K2F3E|A": {
     "nxgen": "Rule 30: Emissions may not exceed 11k.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis."
   },
-  "G|7|151.97|151.97|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Emissions may not exceed 11k."
-  },
-  "G|7|151.97|151.97|MO|7K60FXD|C": {
-    "nxgen": ""
-  },
-  "G|7|151.97|151.97|MO|7K60FXE|C": {
-    "nxgen": ""
+  "I|7|151.97|151.97|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Emissions may not exceed 11k.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis."
   },
   "D|4|152.4275|152.4275|FB2|11K2F3E|A": {
     "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k.",
     "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Telemetry operations will be authorized on a secondary basis."
   },
-  "H|8|152.4275|152.4275|MO|11K2F3E|A": {
-    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
-  },
-  "H|8|152.4275|152.4275|MO|7K60FXD|C": {
-    "nxgen": ""
-  },
-  "H|8|152.4275|152.4275|MO|7K60FXE|C": {
-    "nxgen": ""
-  },
-  "E|5|151.85|151.85|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Emissions may not exceed 11k."
-  },
-  "E|5|151.85|151.85|MO|7K60FXD|C": {
-    "nxgen": ""
-  },
-  "E|5|151.85|151.85|MO|7K60FXE|C": {
-    "nxgen": ""
-  },
-  "F|6|157.62|157.62|MO|11K2F3E|A": {
-    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
-  },
-  "F|6|157.62|157.62|MO|7K60FXD|C": {
-    "nxgen": ""
-  },
-  "F|6|157.62|157.62|MO|7K60FXE|C": {
-    "nxgen": ""
-  },
-  "G|7|154.505|154.505|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Emissions may not exceed 11k."
-  },
-  "G|7|154.505|154.505|MO|7K60FXD|C": {
-    "nxgen": ""
-  },
-  "G|7|154.505|154.505|MO|7K60FXE|C": {
-    "nxgen": ""
-  },
-  "H|8|157.6875|157.6875|MO|11K2F3E|A": {
-    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
-  },
-  "H|8|157.6875|157.6875|MO|7K60FXD|C": {
-    "nxgen": ""
-  },
-  "H|8|157.6875|157.6875|MO|7K60FXE|C": {
-    "nxgen": ""
-  },
-  "I|9|151.625|151.625|MO|11K2F3E|A": {
-    "nxgen": "Rule 10: Station Class must be itinerant. DETROIT, MI"
-  },
-  "I|9|151.625|151.625|MO|7K60FXD|C": {
-    "nxgen": ""
-  },
-  "I|9|151.625|151.625|MO|7K60FXE|C": {
-    "nxgen": ""
-  },
-  "I|9|153.035|153.035|MO|11K2F3E|A": {
-    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
-  },
-  "I|9|153.035|153.035|MO|7K60FXD|C": {
-    "nxgen": ""
-  },
-  "I|9|153.035|153.035|MO|7K60FXE|C": {
-    "nxgen": ""
-  },
-  "I|9|151.655|151.655|MO|11K2F3E|A": {
-    "nxgen": ""
-  },
-  "I|9|151.655|151.655|MO|7K60FXD|C": {
-    "nxgen": ""
-  },
-  "I|9|151.655|151.655|MO|7K60FXE|C": {
-    "nxgen": ""
-  },
-  "I|9|158.355|158.355|MO|11K2F3E|A": {
-    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
-  },
-  "I|9|158.355|158.355|MO|7K60FXD|C": {
-    "nxgen": ""
-  },
-  "I|9|158.355|158.355|MO|7K60FXE|C": {
-    "nxgen": ""
-  },
-  "I|9|152.975|152.975|MO|11K2F3E|A": {
-    "nxgen": ""
-  },
-  "I|9|152.975|152.975|MO|7K60FXD|C": {
-    "nxgen": ""
-  },
-  "I|9|152.975|152.975|MO|7K60FXE|C": {
-    "nxgen": ""
-  },
-  "G|5|159.6|159.6|MO|11K2F3E|A": {
-    "legacy": ""
-  },
-  "G|5|159.6|159.6|MO|7K60FXD|C": {
-    "legacy": ""
-  },
-  "G|5|159.6|159.6|MO|7K60FXE|C": {
-    "legacy": ""
+  "J|8|152.4275|152.4275|MO|11K2F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Telemetry operations will be authorized on a secondary basis."
   },
   "G|5|151.85|151.85|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Emissions may not exceed 11k.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis."
-  },
-  "G|5|151.85|151.85|MO|7K60FXD|C": {
-    "legacy": ""
-  },
-  "G|5|151.85|151.85|MO|7K60FXE|C": {
-    "legacy": ""
-  },
-  "H|6|152.36|152.36|MO|11K2F3E|A": {
-    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
-  },
-  "H|6|152.36|152.36|MO|7K60FXD|C": {
-    "legacy": ""
-  },
-  "H|6|152.36|152.36|MO|7K60FXE|C": {
-    "legacy": ""
-  },
-  "H|6|157.62|157.62|MO|11K2F3E|A": {
-    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
-  },
-  "H|6|157.62|157.62|MO|7K60FXD|C": {
-    "legacy": ""
-  },
-  "H|6|157.62|157.62|MO|7K60FXE|C": {
-    "legacy": ""
-  },
-  "I|7|151.97|151.97|MO|11K2F3E|A": {
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis."
-  },
-  "I|7|151.97|151.97|MO|7K60FXD|C": {
-    "legacy": ""
-  },
-  "I|7|151.97|151.97|MO|7K60FXE|C": {
-    "legacy": ""
   },
   "I|7|154.505|154.505|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Emissions may not exceed 11k.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis."
   },
-  "I|7|154.505|154.505|MO|7K60FXD|C": {
-    "legacy": ""
-  },
-  "I|7|154.505|154.505|MO|7K60FXE|C": {
-    "legacy": ""
-  },
-  "J|8|152.4275|152.4275|MO|11K2F3E|A": {
-    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Telemetry operations will be authorized on a secondary basis."
-  },
-  "J|8|152.4275|152.4275|MO|7K60FXD|C": {
-    "legacy": ""
-  },
-  "J|8|152.4275|152.4275|MO|7K60FXE|C": {
-    "legacy": ""
-  },
   "J|8|157.6875|157.6875|MO|11K2F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k.",
     "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Telemetry operations will be authorized on a secondary basis."
-  },
-  "J|8|157.6875|157.6875|MO|7K60FXD|C": {
-    "legacy": ""
-  },
-  "J|8|157.6875|157.6875|MO|7K60FXE|C": {
-    "legacy": ""
   },
   "K|9|151.625|151.625|MO|11K2F3E|A": {
+    "nxgen": "Rule 10: Station Class must be itinerant. DETROIT, MI",
     "legacy": "Rule 10: Itinerant except within 56 km of Detroit, MI where itinerant/permanent use permitted. Detroit, MI|Rule 10: Station Class must be itinerant. Detroit, MI"
-  },
-  "K|9|151.625|151.625|MO|7K60FXD|C": {
-    "legacy": ""
-  },
-  "K|9|151.625|151.625|MO|7K60FXE|C": {
-    "legacy": ""
-  },
-  "K|9|153.035|153.035|MO|11K2F3E|A": {
-    "legacy": "Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
-  },
-  "K|9|153.035|153.035|MO|7K60FXD|C": {
-    "legacy": ""
-  },
-  "K|9|153.035|153.035|MO|7K60FXE|C": {
-    "legacy": ""
-  },
-  "K|9|151.655|151.655|MO|11K2F3E|A": {
-    "legacy": ""
-  },
-  "K|9|151.655|151.655|MO|7K60FXD|C": {
-    "legacy": ""
-  },
-  "K|9|151.655|151.655|MO|7K60FXE|C": {
-    "legacy": ""
-  },
-  "K|9|158.355|158.355|MO|11K2F3E|A": {
-    "legacy": "Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
-  },
-  "K|9|158.355|158.355|MO|7K60FXD|C": {
-    "legacy": ""
-  },
-  "K|9|158.355|158.355|MO|7K60FXE|C": {
-    "legacy": ""
-  },
-  "K|9|152.975|152.975|MO|11K2F3E|A": {
-    "legacy": ""
-  },
-  "K|9|152.975|152.975|MO|7K60FXD|C": {
-    "legacy": ""
-  },
-  "K|9|152.975|152.975|MO|7K60FXE|C": {
-    "legacy": ""
   }
 }
