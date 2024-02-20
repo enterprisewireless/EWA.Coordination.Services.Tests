@@ -48,7 +48,7 @@
         },
         {
             "lineNum": 4,
-            "locationCode": "E",
+            "locationCode": "G",
             "locationNum": 5,
             "frequencyLow": 159.6,
             "frequencyHigh": null,
@@ -63,7 +63,7 @@
         },
         {
             "lineNum": 5,
-            "locationCode": "E",
+            "locationCode": "G",
             "locationNum": 5,
             "frequencyLow": 159.6,
             "frequencyHigh": null,
@@ -78,7 +78,7 @@
         },
         {
             "lineNum": 6,
-            "locationCode": "E",
+            "locationCode": "G",
             "locationNum": 5,
             "frequencyLow": 159.6,
             "frequencyHigh": null,
@@ -138,7 +138,7 @@
         },
         {
             "lineNum": 10,
-            "locationCode": "F",
+            "locationCode": "H",
             "locationNum": 6,
             "frequencyLow": 152.36,
             "frequencyHigh": null,
@@ -153,7 +153,7 @@
         },
         {
             "lineNum": 11,
-            "locationCode": "F",
+            "locationCode": "H",
             "locationNum": 6,
             "frequencyLow": 152.36,
             "frequencyHigh": null,
@@ -168,7 +168,7 @@
         },
         {
             "lineNum": 12,
-            "locationCode": "F",
+            "locationCode": "H",
             "locationNum": 6,
             "frequencyLow": 152.36,
             "frequencyHigh": null,
@@ -228,7 +228,7 @@
         },
         {
             "lineNum": 16,
-            "locationCode": "G",
+            "locationCode": "I",
             "locationNum": 7,
             "frequencyLow": 151.97,
             "frequencyHigh": null,
@@ -243,7 +243,7 @@
         },
         {
             "lineNum": 17,
-            "locationCode": "G",
+            "locationCode": "I",
             "locationNum": 7,
             "frequencyLow": 151.97,
             "frequencyHigh": null,
@@ -258,7 +258,7 @@
         },
         {
             "lineNum": 18,
-            "locationCode": "G",
+            "locationCode": "I",
             "locationNum": 7,
             "frequencyLow": 151.97,
             "frequencyHigh": null,
@@ -318,7 +318,7 @@
         },
         {
             "lineNum": 22,
-            "locationCode": "H",
+            "locationCode": "J",
             "locationNum": 8,
             "frequencyLow": 152.4275,
             "frequencyHigh": null,
@@ -333,7 +333,7 @@
         },
         {
             "lineNum": 23,
-            "locationCode": "H",
+            "locationCode": "J",
             "locationNum": 8,
             "frequencyLow": 152.4275,
             "frequencyHigh": null,
@@ -348,7 +348,7 @@
         },
         {
             "lineNum": 24,
-            "locationCode": "H",
+            "locationCode": "J",
             "locationNum": 8,
             "frequencyLow": 152.4275,
             "frequencyHigh": null,
@@ -363,7 +363,7 @@
         },
         {
             "lineNum": 25,
-            "locationCode": "E",
+            "locationCode": "G",
             "locationNum": 5,
             "frequencyLow": 151.85,
             "frequencyHigh": null,
@@ -378,7 +378,7 @@
         },
         {
             "lineNum": 26,
-            "locationCode": "E",
+            "locationCode": "G",
             "locationNum": 5,
             "frequencyLow": 151.85,
             "frequencyHigh": null,
@@ -393,7 +393,7 @@
         },
         {
             "lineNum": 27,
-            "locationCode": "E",
+            "locationCode": "G",
             "locationNum": 5,
             "frequencyLow": 151.85,
             "frequencyHigh": null,
@@ -408,7 +408,7 @@
         },
         {
             "lineNum": 28,
-            "locationCode": "F",
+            "locationCode": "H",
             "locationNum": 6,
             "frequencyLow": 157.62,
             "frequencyHigh": null,
@@ -423,7 +423,7 @@
         },
         {
             "lineNum": 29,
-            "locationCode": "F",
+            "locationCode": "H",
             "locationNum": 6,
             "frequencyLow": 157.62,
             "frequencyHigh": null,
@@ -438,7 +438,7 @@
         },
         {
             "lineNum": 30,
-            "locationCode": "F",
+            "locationCode": "H",
             "locationNum": 6,
             "frequencyLow": 157.62,
             "frequencyHigh": null,
@@ -453,7 +453,7 @@
         },
         {
             "lineNum": 31,
-            "locationCode": "G",
+            "locationCode": "I",
             "locationNum": 7,
             "frequencyLow": 154.505,
             "frequencyHigh": null,
@@ -468,7 +468,7 @@
         },
         {
             "lineNum": 32,
-            "locationCode": "G",
+            "locationCode": "I",
             "locationNum": 7,
             "frequencyLow": 154.505,
             "frequencyHigh": null,
@@ -483,7 +483,7 @@
         },
         {
             "lineNum": 33,
-            "locationCode": "G",
+            "locationCode": "I",
             "locationNum": 7,
             "frequencyLow": 154.505,
             "frequencyHigh": null,
@@ -498,7 +498,7 @@
         },
         {
             "lineNum": 34,
-            "locationCode": "H",
+            "locationCode": "J",
             "locationNum": 8,
             "frequencyLow": 157.6875,
             "frequencyHigh": null,
@@ -513,7 +513,7 @@
         },
         {
             "lineNum": 35,
-            "locationCode": "H",
+            "locationCode": "J",
             "locationNum": 8,
             "frequencyLow": 157.6875,
             "frequencyHigh": null,
@@ -528,7 +528,7 @@
         },
         {
             "lineNum": 36,
-            "locationCode": "H",
+            "locationCode": "J",
             "locationNum": 8,
             "frequencyLow": 157.6875,
             "frequencyHigh": null,
@@ -543,7 +543,7 @@
         },
         {
             "lineNum": 37,
-            "locationCode": "I",
+            "locationCode": "K",
             "locationNum": 9,
             "frequencyLow": 151.625,
             "frequencyHigh": null,
@@ -558,7 +558,7 @@
         },
         {
             "lineNum": 38,
-            "locationCode": "I",
+            "locationCode": "K",
             "locationNum": 9,
             "frequencyLow": 151.625,
             "frequencyHigh": null,
@@ -573,7 +573,7 @@
         },
         {
             "lineNum": 39,
-            "locationCode": "I",
+            "locationCode": "K",
             "locationNum": 9,
             "frequencyLow": 151.625,
             "frequencyHigh": null,
@@ -588,7 +588,7 @@
         },
         {
             "lineNum": 40,
-            "locationCode": "I",
+            "locationCode": "K",
             "locationNum": 9,
             "frequencyLow": 153.035,
             "frequencyHigh": null,
@@ -603,7 +603,7 @@
         },
         {
             "lineNum": 41,
-            "locationCode": "I",
+            "locationCode": "K",
             "locationNum": 9,
             "frequencyLow": 153.035,
             "frequencyHigh": null,
@@ -618,7 +618,7 @@
         },
         {
             "lineNum": 42,
-            "locationCode": "I",
+            "locationCode": "K",
             "locationNum": 9,
             "frequencyLow": 153.035,
             "frequencyHigh": null,
@@ -633,7 +633,7 @@
         },
         {
             "lineNum": 43,
-            "locationCode": "I",
+            "locationCode": "K",
             "locationNum": 9,
             "frequencyLow": 151.655,
             "frequencyHigh": null,
@@ -648,7 +648,7 @@
         },
         {
             "lineNum": 44,
-            "locationCode": "I",
+            "locationCode": "K",
             "locationNum": 9,
             "frequencyLow": 151.655,
             "frequencyHigh": null,
@@ -663,7 +663,7 @@
         },
         {
             "lineNum": 45,
-            "locationCode": "I",
+            "locationCode": "K",
             "locationNum": 9,
             "frequencyLow": 151.655,
             "frequencyHigh": null,
@@ -678,7 +678,7 @@
         },
         {
             "lineNum": 46,
-            "locationCode": "I",
+            "locationCode": "K",
             "locationNum": 9,
             "frequencyLow": 158.355,
             "frequencyHigh": null,
@@ -693,7 +693,7 @@
         },
         {
             "lineNum": 47,
-            "locationCode": "I",
+            "locationCode": "K",
             "locationNum": 9,
             "frequencyLow": 158.355,
             "frequencyHigh": null,
@@ -708,7 +708,7 @@
         },
         {
             "lineNum": 48,
-            "locationCode": "I",
+            "locationCode": "K",
             "locationNum": 9,
             "frequencyLow": 158.355,
             "frequencyHigh": null,
@@ -723,7 +723,7 @@
         },
         {
             "lineNum": 49,
-            "locationCode": "I",
+            "locationCode": "K",
             "locationNum": 9,
             "frequencyLow": 152.975,
             "frequencyHigh": null,
@@ -738,7 +738,7 @@
         },
         {
             "lineNum": 50,
-            "locationCode": "I",
+            "locationCode": "K",
             "locationNum": 9,
             "frequencyLow": 152.975,
             "frequencyHigh": null,
@@ -753,7 +753,7 @@
         },
         {
             "lineNum": 51,
-            "locationCode": "I",
+            "locationCode": "K",
             "locationNum": 9,
             "frequencyLow": 152.975,
             "frequencyHigh": null,
