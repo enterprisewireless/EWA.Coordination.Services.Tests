@@ -1,0 +1,49 @@
+{
+  "licenseType": "IB",
+  "scheduleGhs": [
+      {
+          "lineNum": 1,
+          "locationCode": "G",
+          "locationNum": 1,
+          "frequencyLow": 150,
+          "frequencyHigh": 174.99999,
+          "stationClass": "MO",
+          "emissionDesignator": "11K2F3E",
+          "power": 30,
+          "erp": 30,
+          "haat": null,
+          "transmittingAntennaHeight": null,
+          "coordinationCode": "A",
+          "requestNum": 1
+      },
+      {
+          "lineNum": 2,
+          "locationCode": "G",
+          "locationNum": 1,
+          "frequencyLow": 150,
+          "frequencyHigh": 174.99999,
+          "stationClass": "MO",
+          "emissionDesignator": "7K60FXE",
+          "power": 30,
+          "erp": 30,
+          "haat": null,
+          "transmittingAntennaHeight": null,
+          "coordinationCode": "C",
+          "requestNum": 2
+      }
+  ],
+  "scheduleEs": [
+      {
+          "state": "ND",
+          "city": "Graske",
+          "county": "Ramsey",
+          "locationNum": 1,
+          "locationCode": "G",
+          "latitude": 48.357167,
+          "longitude": -98.875472,
+          "areaOfOperation": null,
+          "serviceAreaRadius": 32,
+          "elevation": null
+      }
+  ]
+}
