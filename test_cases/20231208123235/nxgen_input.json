@@ -1,0 +1,121 @@
+{
+    "licenseType": "IB",
+    "scheduleGhs": [
+        {
+            "lineNum": 1,
+            "locationCode": "A",
+            "locationNum": 1,
+            "frequencyLow": 450,
+            "frequencyHigh": 459.99999,
+            "stationClass": "FXO",
+            "emissionDesignator": "10K6G1D",
+            "power": 5,
+            "erp": 10,
+            "haat": 44,
+            "transmittingAntennaHeight": 35.7,
+            "coordinationCode": "A",
+            "requestNum": 1
+        },
+        {
+            "lineNum": 2,
+            "locationCode": "A",
+            "locationNum": 1,
+            "frequencyLow": 450,
+            "frequencyHigh": 459.99999,
+            "stationClass": "FXO",
+            "emissionDesignator": "10K6D1D",
+            "power": 5,
+            "erp": 10,
+            "haat": 44,
+            "transmittingAntennaHeight": 35.7,
+            "coordinationCode": "C",
+            "requestNum": 2
+        },
+        {
+            "lineNum": 3,
+            "locationCode": "G",
+            "locationNum": 2,
+            "frequencyLow": 456.5,
+            "frequencyHigh": null,
+            "stationClass": "FXOT",
+            "emissionDesignator": "10K6G1D",
+            "power": 5,
+            "erp": 10,
+            "haat": null,
+            "transmittingAntennaHeight": null,
+            "coordinationCode": "C",
+            "requestNum": 3
+        },
+        {
+            "lineNum": 4,
+            "locationCode": "G",
+            "locationNum": 2,
+            "frequencyLow": 456.5,
+            "frequencyHigh": null,
+            "stationClass": "FXOT",
+            "emissionDesignator": "10K6D1D",
+            "power": 5,
+            "erp": 10,
+            "haat": null,
+            "transmittingAntennaHeight": null,
+            "coordinationCode": "C",
+            "requestNum": 4
+        },
+        {
+            "lineNum": 5,
+            "locationCode": "G",
+            "locationNum": 2,
+            "frequencyLow": 457.325,
+            "frequencyHigh": null,
+            "stationClass": "FXOT",
+            "emissionDesignator": "10K6G1D",
+            "power": 5,
+            "erp": 10,
+            "haat": null,
+            "transmittingAntennaHeight": null,
+            "coordinationCode": "C",
+            "requestNum": 5
+        },
+        {
+            "lineNum": 6,
+            "locationCode": "G",
+            "locationNum": 2,
+            "frequencyLow": 457.325,
+            "frequencyHigh": null,
+            "stationClass": "FXOT",
+            "emissionDesignator": "10K6D1D",
+            "power": 5,
+            "erp": 10,
+            "haat": null,
+            "transmittingAntennaHeight": null,
+            "coordinationCode": "C",
+            "requestNum": 6
+        }
+    ],
+    "scheduleEs": [
+        {
+            "state": "MN",
+            "city": "Thomson",
+            "county": "Carlton",
+            "locationNum": 1,
+            "locationCode": "A",
+            "latitude": 46.661611,
+            "longitude": -92.349417,
+            "areaOfOperation": null,
+            "serviceAreaRadius": null,
+            "elevation": 324.4
+        },
+        {
+            "state": null,
+            "city": null,
+            "county": null,
+            "locationNum": 2,
+            "locationCode": "G",
+            "latitude": 0,
+            "longitude": 0,
+            "areaOfOperation": "1",
+            "serviceAreaRadius": 32,
+            "elevation": null
+        }
+    ]
+}
