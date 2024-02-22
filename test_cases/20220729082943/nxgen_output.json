@@ -1,0 +1,2657 @@
+{
+  "results": [
+    {
+      "recordNum": 1,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 422.625,
+      "frequencyHigh": 422.625,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 2,
+      "lineNum": 2,
+      "locationCode": "B",
+      "locationNum": 3,
+      "frequencyLow": 422.625,
+      "frequencyHigh": 422.625,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 3,
+      "lineNum": 3,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 422.625,
+      "frequencyHigh": 422.625,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 4,
+      "lineNum": 4,
+      "locationCode": "C",
+      "locationNum": 5,
+      "frequencyLow": 422.625,
+      "frequencyHigh": 422.625,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 5,
+      "lineNum": 5,
+      "locationCode": "D",
+      "locationNum": 7,
+      "frequencyLow": 422.625,
+      "frequencyHigh": 422.625,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 6,
+      "lineNum": 6,
+      "locationCode": "E",
+      "locationNum": 9,
+      "frequencyLow": 422.625,
+      "frequencyHigh": 422.625,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 7,
+      "lineNum": 7,
+      "locationCode": "F",
+      "locationNum": 11,
+      "frequencyLow": 422.625,
+      "frequencyHigh": 422.625,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 8,
+      "lineNum": 8,
+      "locationCode": "M",
+      "locationNum": 13,
+      "frequencyLow": 425.125,
+      "frequencyHigh": 425.125,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 9,
+      "lineNum": 9,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 427.625,
+      "frequencyHigh": 427.625,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 10,
+      "lineNum": 10,
+      "locationCode": "M",
+      "locationNum": 13,
+      "frequencyLow": 425.15,
+      "frequencyHigh": 425.15,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 11,
+      "lineNum": 11,
+      "locationCode": "M",
+      "locationNum": 13,
+      "frequencyLow": 425.175,
+      "frequencyHigh": 425.175,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 12,
+      "lineNum": 12,
+      "locationCode": "M",
+      "locationNum": 13,
+      "frequencyLow": 425.2,
+      "frequencyHigh": 425.2,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 13,
+      "lineNum": 13,
+      "locationCode": "M",
+      "locationNum": 13,
+      "frequencyLow": 425.225,
+      "frequencyHigh": 425.225,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 14,
+      "lineNum": 14,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 422.3875,
+      "frequencyHigh": 422.3875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 15,
+      "lineNum": 15,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 424.475,
+      "frequencyHigh": 424.475,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 16,
+      "lineNum": 16,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 424.65,
+      "frequencyHigh": 424.65,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 17,
+      "lineNum": 17,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 424.775,
+      "frequencyHigh": 424.775,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 18,
+      "lineNum": 18,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 424.7875,
+      "frequencyHigh": 424.7875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 19,
+      "lineNum": 19,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 424.95,
+      "frequencyHigh": 424.95,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 20,
+      "lineNum": 20,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 422.5875,
+      "frequencyHigh": 422.5875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 21,
+      "lineNum": 21,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 422.75,
+      "frequencyHigh": 422.75,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 22,
+      "lineNum": 22,
+      "locationCode": "H",
+      "locationNum": 4,
+      "frequencyLow": 422.625,
+      "frequencyHigh": 422.625,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 23,
+      "lineNum": 23,
+      "locationCode": "I",
+      "locationNum": 6,
+      "frequencyLow": 422.625,
+      "frequencyHigh": 422.625,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 24,
+      "lineNum": 24,
+      "locationCode": "J",
+      "locationNum": 8,
+      "frequencyLow": 422.625,
+      "frequencyHigh": 422.625,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 25,
+      "lineNum": 25,
+      "locationCode": "K",
+      "locationNum": 10,
+      "frequencyLow": 422.625,
+      "frequencyHigh": 422.625,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 26,
+      "lineNum": 26,
+      "locationCode": "L",
+      "locationNum": 12,
+      "frequencyLow": 422.625,
+      "frequencyHigh": 422.625,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 27,
+      "lineNum": 27,
+      "locationCode": "H",
+      "locationNum": 4,
+      "frequencyLow": 427.625,
+      "frequencyHigh": 427.625,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 28,
+      "lineNum": 28,
+      "locationCode": "I",
+      "locationNum": 6,
+      "frequencyLow": 427.625,
+      "frequencyHigh": 427.625,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 29,
+      "lineNum": 29,
+      "locationCode": "J",
+      "locationNum": 8,
+      "frequencyLow": 427.625,
+      "frequencyHigh": 427.625,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 30,
+      "lineNum": 30,
+      "locationCode": "K",
+      "locationNum": 10,
+      "frequencyLow": 427.625,
+      "frequencyHigh": 427.625,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 31,
+      "lineNum": 31,
+      "locationCode": "L",
+      "locationNum": 12,
+      "frequencyLow": 427.625,
+      "frequencyHigh": 427.625,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 32,
+      "lineNum": 32,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 422.3875,
+      "frequencyHigh": 422.3875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 33,
+      "lineNum": 33,
+      "locationCode": "H",
+      "locationNum": 4,
+      "frequencyLow": 422.3875,
+      "frequencyHigh": 422.3875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 34,
+      "lineNum": 34,
+      "locationCode": "I",
+      "locationNum": 6,
+      "frequencyLow": 422.3875,
+      "frequencyHigh": 422.3875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 35,
+      "lineNum": 35,
+      "locationCode": "J",
+      "locationNum": 8,
+      "frequencyLow": 422.3875,
+      "frequencyHigh": 422.3875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 36,
+      "lineNum": 36,
+      "locationCode": "K",
+      "locationNum": 10,
+      "frequencyLow": 422.3875,
+      "frequencyHigh": 422.3875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 37,
+      "lineNum": 37,
+      "locationCode": "L",
+      "locationNum": 12,
+      "frequencyLow": 422.3875,
+      "frequencyHigh": 422.3875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 38,
+      "lineNum": 38,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 427.3875,
+      "frequencyHigh": 427.3875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 39,
+      "lineNum": 39,
+      "locationCode": "H",
+      "locationNum": 4,
+      "frequencyLow": 427.3875,
+      "frequencyHigh": 427.3875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 40,
+      "lineNum": 40,
+      "locationCode": "I",
+      "locationNum": 6,
+      "frequencyLow": 427.3875,
+      "frequencyHigh": 427.3875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 41,
+      "lineNum": 41,
+      "locationCode": "J",
+      "locationNum": 8,
+      "frequencyLow": 427.3875,
+      "frequencyHigh": 427.3875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 42,
+      "lineNum": 42,
+      "locationCode": "K",
+      "locationNum": 10,
+      "frequencyLow": 427.3875,
+      "frequencyHigh": 427.3875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 43,
+      "lineNum": 43,
+      "locationCode": "L",
+      "locationNum": 12,
+      "frequencyLow": 427.3875,
+      "frequencyHigh": 427.3875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 44,
+      "lineNum": 44,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 424.475,
+      "frequencyHigh": 424.475,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 45,
+      "lineNum": 45,
+      "locationCode": "H",
+      "locationNum": 4,
+      "frequencyLow": 424.475,
+      "frequencyHigh": 424.475,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 46,
+      "lineNum": 46,
+      "locationCode": "I",
+      "locationNum": 6,
+      "frequencyLow": 424.475,
+      "frequencyHigh": 424.475,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 47,
+      "lineNum": 47,
+      "locationCode": "J",
+      "locationNum": 8,
+      "frequencyLow": 424.475,
+      "frequencyHigh": 424.475,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 48,
+      "lineNum": 48,
+      "locationCode": "K",
+      "locationNum": 10,
+      "frequencyLow": 424.475,
+      "frequencyHigh": 424.475,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 49,
+      "lineNum": 49,
+      "locationCode": "L",
+      "locationNum": 12,
+      "frequencyLow": 424.475,
+      "frequencyHigh": 424.475,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 50,
+      "lineNum": 50,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 429.475,
+      "frequencyHigh": 429.475,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 51,
+      "lineNum": 51,
+      "locationCode": "H",
+      "locationNum": 4,
+      "frequencyLow": 429.475,
+      "frequencyHigh": 429.475,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 52,
+      "lineNum": 52,
+      "locationCode": "I",
+      "locationNum": 6,
+      "frequencyLow": 429.475,
+      "frequencyHigh": 429.475,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 53,
+      "lineNum": 53,
+      "locationCode": "J",
+      "locationNum": 8,
+      "frequencyLow": 429.475,
+      "frequencyHigh": 429.475,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 54,
+      "lineNum": 54,
+      "locationCode": "K",
+      "locationNum": 10,
+      "frequencyLow": 429.475,
+      "frequencyHigh": 429.475,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 55,
+      "lineNum": 55,
+      "locationCode": "L",
+      "locationNum": 12,
+      "frequencyLow": 429.475,
+      "frequencyHigh": 429.475,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 56,
+      "lineNum": 56,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 464.65,
+      "frequencyHigh": 464.65,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "There was no Fixed Base with a Location '1' found for this Mobile Unit."
+      ]
+    },
+    {
+      "recordNum": 57,
+      "lineNum": 57,
+      "locationCode": "H",
+      "locationNum": 4,
+      "frequencyLow": 464.65,
+      "frequencyHigh": 464.65,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "There was no Fixed Base with a Location '3' found for this Mobile Unit."
+      ]
+    },
+    {
+      "recordNum": 58,
+      "lineNum": 58,
+      "locationCode": "I",
+      "locationNum": 6,
+      "frequencyLow": 464.65,
+      "frequencyHigh": 464.65,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 59,
+      "lineNum": 59,
+      "locationCode": "J",
+      "locationNum": 8,
+      "frequencyLow": 464.65,
+      "frequencyHigh": 464.65,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "There was no Fixed Base with a Location '7' found for this Mobile Unit."
+      ]
+    },
+    {
+      "recordNum": 60,
+      "lineNum": 60,
+      "locationCode": "K",
+      "locationNum": 10,
+      "frequencyLow": 464.65,
+      "frequencyHigh": 464.65,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "There was no Fixed Base with a Location '9' found for this Mobile Unit."
+      ]
+    },
+    {
+      "recordNum": 61,
+      "lineNum": 61,
+      "locationCode": "L",
+      "locationNum": 12,
+      "frequencyLow": 464.65,
+      "frequencyHigh": 464.65,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "There was no Fixed Base with a Location '11' found for this Mobile Unit."
+      ]
+    },
+    {
+      "recordNum": 62,
+      "lineNum": 62,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 429.65,
+      "frequencyHigh": 429.65,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 63,
+      "lineNum": 63,
+      "locationCode": "H",
+      "locationNum": 4,
+      "frequencyLow": 429.65,
+      "frequencyHigh": 429.65,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 64,
+      "lineNum": 64,
+      "locationCode": "I",
+      "locationNum": 6,
+      "frequencyLow": 429.65,
+      "frequencyHigh": 429.65,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 65,
+      "lineNum": 65,
+      "locationCode": "J",
+      "locationNum": 8,
+      "frequencyLow": 429.65,
+      "frequencyHigh": 429.65,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 66,
+      "lineNum": 66,
+      "locationCode": "K",
+      "locationNum": 10,
+      "frequencyLow": 429.65,
+      "frequencyHigh": 429.65,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 67,
+      "lineNum": 67,
+      "locationCode": "L",
+      "locationNum": 12,
+      "frequencyLow": 429.65,
+      "frequencyHigh": 429.65,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 68,
+      "lineNum": 68,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 424.775,
+      "frequencyHigh": 424.775,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 69,
+      "lineNum": 69,
+      "locationCode": "H",
+      "locationNum": 4,
+      "frequencyLow": 424.775,
+      "frequencyHigh": 424.775,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 70,
+      "lineNum": 70,
+      "locationCode": "I",
+      "locationNum": 6,
+      "frequencyLow": 424.775,
+      "frequencyHigh": 424.775,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 71,
+      "lineNum": 71,
+      "locationCode": "J",
+      "locationNum": 8,
+      "frequencyLow": 424.775,
+      "frequencyHigh": 424.775,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 72,
+      "lineNum": 72,
+      "locationCode": "K",
+      "locationNum": 10,
+      "frequencyLow": 424.775,
+      "frequencyHigh": 424.775,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 73,
+      "lineNum": 73,
+      "locationCode": "L",
+      "locationNum": 12,
+      "frequencyLow": 424.775,
+      "frequencyHigh": 424.775,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 74,
+      "lineNum": 74,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 429.775,
+      "frequencyHigh": 429.775,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 75,
+      "lineNum": 75,
+      "locationCode": "H",
+      "locationNum": 4,
+      "frequencyLow": 429.775,
+      "frequencyHigh": 429.775,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 76,
+      "lineNum": 76,
+      "locationCode": "I",
+      "locationNum": 6,
+      "frequencyLow": 429.775,
+      "frequencyHigh": 429.775,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 77,
+      "lineNum": 77,
+      "locationCode": "J",
+      "locationNum": 8,
+      "frequencyLow": 429.775,
+      "frequencyHigh": 429.775,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 78,
+      "lineNum": 78,
+      "locationCode": "K",
+      "locationNum": 10,
+      "frequencyLow": 429.775,
+      "frequencyHigh": 429.775,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 79,
+      "lineNum": 79,
+      "locationCode": "L",
+      "locationNum": 12,
+      "frequencyLow": 429.775,
+      "frequencyHigh": 429.775,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 80,
+      "lineNum": 80,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 424.7875,
+      "frequencyHigh": 424.7875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 81,
+      "lineNum": 81,
+      "locationCode": "H",
+      "locationNum": 4,
+      "frequencyLow": 424.7875,
+      "frequencyHigh": 424.7875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 82,
+      "lineNum": 82,
+      "locationCode": "I",
+      "locationNum": 6,
+      "frequencyLow": 424.7875,
+      "frequencyHigh": 424.7875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 83,
+      "lineNum": 83,
+      "locationCode": "J",
+      "locationNum": 8,
+      "frequencyLow": 424.7875,
+      "frequencyHigh": 424.7875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 84,
+      "lineNum": 84,
+      "locationCode": "K",
+      "locationNum": 10,
+      "frequencyLow": 424.7875,
+      "frequencyHigh": 424.7875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 85,
+      "lineNum": 85,
+      "locationCode": "L",
+      "locationNum": 12,
+      "frequencyLow": 424.7875,
+      "frequencyHigh": 424.7875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 86,
+      "lineNum": 86,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 429.7875,
+      "frequencyHigh": 429.7875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 87,
+      "lineNum": 87,
+      "locationCode": "H",
+      "locationNum": 4,
+      "frequencyLow": 429.7875,
+      "frequencyHigh": 429.7875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 88,
+      "lineNum": 88,
+      "locationCode": "I",
+      "locationNum": 6,
+      "frequencyLow": 429.7875,
+      "frequencyHigh": 429.7875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 89,
+      "lineNum": 89,
+      "locationCode": "J",
+      "locationNum": 8,
+      "frequencyLow": 429.7875,
+      "frequencyHigh": 429.7875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 90,
+      "lineNum": 90,
+      "locationCode": "K",
+      "locationNum": 10,
+      "frequencyLow": 429.7875,
+      "frequencyHigh": 429.7875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 91,
+      "lineNum": 91,
+      "locationCode": "L",
+      "locationNum": 12,
+      "frequencyLow": 429.7875,
+      "frequencyHigh": 429.7875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 92,
+      "lineNum": 92,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 424.95,
+      "frequencyHigh": 424.95,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 93,
+      "lineNum": 93,
+      "locationCode": "H",
+      "locationNum": 4,
+      "frequencyLow": 424.95,
+      "frequencyHigh": 424.95,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 94,
+      "lineNum": 94,
+      "locationCode": "I",
+      "locationNum": 6,
+      "frequencyLow": 424.95,
+      "frequencyHigh": 424.95,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 95,
+      "lineNum": 95,
+      "locationCode": "J",
+      "locationNum": 8,
+      "frequencyLow": 424.95,
+      "frequencyHigh": 424.95,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 96,
+      "lineNum": 96,
+      "locationCode": "K",
+      "locationNum": 10,
+      "frequencyLow": 424.95,
+      "frequencyHigh": 424.95,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 97,
+      "lineNum": 97,
+      "locationCode": "L",
+      "locationNum": 12,
+      "frequencyLow": 424.95,
+      "frequencyHigh": 424.95,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 98,
+      "lineNum": 98,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 429.95,
+      "frequencyHigh": 429.95,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 99,
+      "lineNum": 99,
+      "locationCode": "H",
+      "locationNum": 4,
+      "frequencyLow": 429.95,
+      "frequencyHigh": 429.95,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 100,
+      "lineNum": 100,
+      "locationCode": "I",
+      "locationNum": 6,
+      "frequencyLow": 429.95,
+      "frequencyHigh": 429.95,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 101,
+      "lineNum": 101,
+      "locationCode": "J",
+      "locationNum": 8,
+      "frequencyLow": 429.95,
+      "frequencyHigh": 429.95,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 102,
+      "lineNum": 102,
+      "locationCode": "K",
+      "locationNum": 10,
+      "frequencyLow": 429.95,
+      "frequencyHigh": 429.95,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 103,
+      "lineNum": 103,
+      "locationCode": "L",
+      "locationNum": 12,
+      "frequencyLow": 429.95,
+      "frequencyHigh": 429.95,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 104,
+      "lineNum": 104,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 422.5875,
+      "frequencyHigh": 422.5875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 105,
+      "lineNum": 105,
+      "locationCode": "H",
+      "locationNum": 4,
+      "frequencyLow": 422.5875,
+      "frequencyHigh": 422.5875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 106,
+      "lineNum": 106,
+      "locationCode": "I",
+      "locationNum": 6,
+      "frequencyLow": 422.5875,
+      "frequencyHigh": 422.5875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 107,
+      "lineNum": 107,
+      "locationCode": "J",
+      "locationNum": 8,
+      "frequencyLow": 422.5875,
+      "frequencyHigh": 422.5875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 108,
+      "lineNum": 108,
+      "locationCode": "K",
+      "locationNum": 10,
+      "frequencyLow": 422.5875,
+      "frequencyHigh": 422.5875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 109,
+      "lineNum": 109,
+      "locationCode": "L",
+      "locationNum": 12,
+      "frequencyLow": 422.5875,
+      "frequencyHigh": 422.5875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 110,
+      "lineNum": 110,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 427.5875,
+      "frequencyHigh": 427.5875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 111,
+      "lineNum": 111,
+      "locationCode": "H",
+      "locationNum": 4,
+      "frequencyLow": 427.5875,
+      "frequencyHigh": 427.5875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 112,
+      "lineNum": 112,
+      "locationCode": "I",
+      "locationNum": 6,
+      "frequencyLow": 427.5875,
+      "frequencyHigh": 427.5875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 113,
+      "lineNum": 113,
+      "locationCode": "J",
+      "locationNum": 8,
+      "frequencyLow": 427.5875,
+      "frequencyHigh": 427.5875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 114,
+      "lineNum": 114,
+      "locationCode": "K",
+      "locationNum": 10,
+      "frequencyLow": 427.5875,
+      "frequencyHigh": 427.5875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 115,
+      "lineNum": 115,
+      "locationCode": "L",
+      "locationNum": 12,
+      "frequencyLow": 427.5875,
+      "frequencyHigh": 427.5875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 116,
+      "lineNum": 116,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 422.75,
+      "frequencyHigh": 422.75,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 117,
+      "lineNum": 117,
+      "locationCode": "H",
+      "locationNum": 4,
+      "frequencyLow": 422.75,
+      "frequencyHigh": 422.75,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 118,
+      "lineNum": 118,
+      "locationCode": "I",
+      "locationNum": 6,
+      "frequencyLow": 422.75,
+      "frequencyHigh": 422.75,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 119,
+      "lineNum": 119,
+      "locationCode": "J",
+      "locationNum": 8,
+      "frequencyLow": 422.75,
+      "frequencyHigh": 422.75,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 120,
+      "lineNum": 120,
+      "locationCode": "K",
+      "locationNum": 10,
+      "frequencyLow": 422.75,
+      "frequencyHigh": 422.75,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 121,
+      "lineNum": 121,
+      "locationCode": "L",
+      "locationNum": 12,
+      "frequencyLow": 422.75,
+      "frequencyHigh": 422.75,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging",
+        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+      ]
+    },
+    {
+      "recordNum": 122,
+      "lineNum": 122,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 429.75,
+      "frequencyHigh": 429.75,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 123,
+      "lineNum": 123,
+      "locationCode": "H",
+      "locationNum": 4,
+      "frequencyLow": 429.75,
+      "frequencyHigh": 429.75,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 124,
+      "lineNum": 124,
+      "locationCode": "I",
+      "locationNum": 6,
+      "frequencyLow": 429.75,
+      "frequencyHigh": 429.75,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 125,
+      "lineNum": 125,
+      "locationCode": "J",
+      "locationNum": 8,
+      "frequencyLow": 429.75,
+      "frequencyHigh": 429.75,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 126,
+      "lineNum": 126,
+      "locationCode": "K",
+      "locationNum": 10,
+      "frequencyLow": 429.75,
+      "frequencyHigh": 429.75,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 127,
+      "lineNum": 127,
+      "locationCode": "L",
+      "locationNum": 12,
+      "frequencyLow": 429.75,
+      "frequencyHigh": 429.75,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 128,
+      "lineNum": 128,
+      "locationCode": "B",
+      "locationNum": 3,
+      "frequencyLow": 422.3875,
+      "frequencyHigh": 422.3875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 129,
+      "lineNum": 129,
+      "locationCode": "B",
+      "locationNum": 3,
+      "frequencyLow": 424.475,
+      "frequencyHigh": 424.475,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 130,
+      "lineNum": 130,
+      "locationCode": "B",
+      "locationNum": 3,
+      "frequencyLow": 424.65,
+      "frequencyHigh": 424.65,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 131,
+      "lineNum": 131,
+      "locationCode": "B",
+      "locationNum": 3,
+      "frequencyLow": 424.775,
+      "frequencyHigh": 424.775,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 132,
+      "lineNum": 132,
+      "locationCode": "B",
+      "locationNum": 3,
+      "frequencyLow": 424.7875,
+      "frequencyHigh": 424.7875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 133,
+      "lineNum": 133,
+      "locationCode": "B",
+      "locationNum": 3,
+      "frequencyLow": 424.95,
+      "frequencyHigh": 424.95,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 134,
+      "lineNum": 134,
+      "locationCode": "B",
+      "locationNum": 3,
+      "frequencyLow": 422.5875,
+      "frequencyHigh": 422.5875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 135,
+      "lineNum": 135,
+      "locationCode": "B",
+      "locationNum": 3,
+      "frequencyLow": 422.75,
+      "frequencyHigh": 422.75,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 136,
+      "lineNum": 136,
+      "locationCode": "C",
+      "locationNum": 5,
+      "frequencyLow": 422.3875,
+      "frequencyHigh": 422.3875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 137,
+      "lineNum": 137,
+      "locationCode": "C",
+      "locationNum": 5,
+      "frequencyLow": 424.475,
+      "frequencyHigh": 424.475,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 138,
+      "lineNum": 138,
+      "locationCode": "C",
+      "locationNum": 5,
+      "frequencyLow": 464.65,
+      "frequencyHigh": 464.65,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 139,
+      "lineNum": 139,
+      "locationCode": "C",
+      "locationNum": 5,
+      "frequencyLow": 424.775,
+      "frequencyHigh": 424.775,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 140,
+      "lineNum": 140,
+      "locationCode": "C",
+      "locationNum": 5,
+      "frequencyLow": 424.7875,
+      "frequencyHigh": 424.7875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 141,
+      "lineNum": 141,
+      "locationCode": "C",
+      "locationNum": 5,
+      "frequencyLow": 424.95,
+      "frequencyHigh": 424.95,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 142,
+      "lineNum": 142,
+      "locationCode": "C",
+      "locationNum": 5,
+      "frequencyLow": 422.5875,
+      "frequencyHigh": 422.5875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 143,
+      "lineNum": 143,
+      "locationCode": "C",
+      "locationNum": 5,
+      "frequencyLow": 422.75,
+      "frequencyHigh": 422.75,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 144,
+      "lineNum": 144,
+      "locationCode": "D",
+      "locationNum": 7,
+      "frequencyLow": 422.3875,
+      "frequencyHigh": 422.3875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 145,
+      "lineNum": 145,
+      "locationCode": "D",
+      "locationNum": 7,
+      "frequencyLow": 424.475,
+      "frequencyHigh": 424.475,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 146,
+      "lineNum": 146,
+      "locationCode": "D",
+      "locationNum": 7,
+      "frequencyLow": 424.65,
+      "frequencyHigh": 424.65,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 147,
+      "lineNum": 147,
+      "locationCode": "D",
+      "locationNum": 7,
+      "frequencyLow": 424.775,
+      "frequencyHigh": 424.775,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 148,
+      "lineNum": 148,
+      "locationCode": "D",
+      "locationNum": 7,
+      "frequencyLow": 424.7875,
+      "frequencyHigh": 424.7875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 149,
+      "lineNum": 149,
+      "locationCode": "D",
+      "locationNum": 7,
+      "frequencyLow": 424.95,
+      "frequencyHigh": 424.95,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 150,
+      "lineNum": 150,
+      "locationCode": "D",
+      "locationNum": 7,
+      "frequencyLow": 422.5875,
+      "frequencyHigh": 422.5875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 151,
+      "lineNum": 151,
+      "locationCode": "D",
+      "locationNum": 7,
+      "frequencyLow": 422.75,
+      "frequencyHigh": 422.75,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 152,
+      "lineNum": 152,
+      "locationCode": "E",
+      "locationNum": 9,
+      "frequencyLow": 422.3875,
+      "frequencyHigh": 422.3875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 153,
+      "lineNum": 153,
+      "locationCode": "E",
+      "locationNum": 9,
+      "frequencyLow": 424.475,
+      "frequencyHigh": 424.475,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 154,
+      "lineNum": 154,
+      "locationCode": "E",
+      "locationNum": 9,
+      "frequencyLow": 424.65,
+      "frequencyHigh": 424.65,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 155,
+      "lineNum": 155,
+      "locationCode": "E",
+      "locationNum": 9,
+      "frequencyLow": 424.775,
+      "frequencyHigh": 424.775,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 156,
+      "lineNum": 156,
+      "locationCode": "E",
+      "locationNum": 9,
+      "frequencyLow": 424.7875,
+      "frequencyHigh": 424.7875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 157,
+      "lineNum": 157,
+      "locationCode": "E",
+      "locationNum": 9,
+      "frequencyLow": 424.95,
+      "frequencyHigh": 424.95,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 158,
+      "lineNum": 158,
+      "locationCode": "E",
+      "locationNum": 9,
+      "frequencyLow": 422.5875,
+      "frequencyHigh": 422.5875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 159,
+      "lineNum": 159,
+      "locationCode": "E",
+      "locationNum": 9,
+      "frequencyLow": 422.75,
+      "frequencyHigh": 422.75,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 160,
+      "lineNum": 160,
+      "locationCode": "F",
+      "locationNum": 11,
+      "frequencyLow": 422.3875,
+      "frequencyHigh": 422.3875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 161,
+      "lineNum": 161,
+      "locationCode": "F",
+      "locationNum": 11,
+      "frequencyLow": 424.475,
+      "frequencyHigh": 424.475,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 162,
+      "lineNum": 162,
+      "locationCode": "F",
+      "locationNum": 11,
+      "frequencyLow": 424.65,
+      "frequencyHigh": 424.65,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 163,
+      "lineNum": 163,
+      "locationCode": "F",
+      "locationNum": 11,
+      "frequencyLow": 424.775,
+      "frequencyHigh": 424.775,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 164,
+      "lineNum": 164,
+      "locationCode": "F",
+      "locationNum": 11,
+      "frequencyLow": 424.7875,
+      "frequencyHigh": 424.7875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 165,
+      "lineNum": 165,
+      "locationCode": "F",
+      "locationNum": 11,
+      "frequencyLow": 424.95,
+      "frequencyHigh": 424.95,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    },
+    {
+      "recordNum": 166,
+      "lineNum": 166,
+      "locationCode": "F",
+      "locationNum": 11,
+      "frequencyLow": 422.5875,
+      "frequencyHigh": 422.5875,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 167,
+      "lineNum": 167,
+      "locationCode": "F",
+      "locationNum": 11,
+      "frequencyLow": 422.75,
+      "frequencyHigh": 422.75,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging"
+      ]
+    }
+  ],
+  "status": "Success",
+  "resultCount": 167
+}
