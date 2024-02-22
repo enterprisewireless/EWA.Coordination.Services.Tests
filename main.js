@@ -36,15 +36,32 @@ axios.post(`https://login.microsoftonline.com/${process.env.TENANT_ID}/oauth2/v2
     .then(response => {
         bearerToken = response.data.access_token;
         // Make HTTP POST request with request body
-        axios.post(endpointUrl, requestBody, {headers: {'Authorization': `Bearer ${bearerToken}`}})
-        .then(response => {
-            // Write response body to JSON file
-            writeJSONToFile(responseBodyFilePath, response.data);
-            checkDifference()
-        })
-        .catch(error => {
-            console.error('Error making HTTP request:', error.response ? error.response.data : error.message);
-        });
+        if(environment == "local") {
+          const httpsAgent = new https.Agent({
+            rejectUnauthorized: false
+          });
+
+          console.log(endpointUrl);
+          axios.post(endpointUrl, requestBody, {headers: {'Authorization': `Bearer ${bearerToken}`}, httpsAgent: httpsAgent})
+          .then(response => {
+              // Write response body to JSON file
+              writeJSONToFile(responseBodyFilePath, response.data);
+              checkDifference()
+          })
+          .catch(error => {
+              console.error('Error making local HTTP request:', error.response ? error.response.data : error.message);
+          });
+        } else {
+          axios.post(endpointUrl, requestBody, {headers: {'Authorization': `Bearer ${bearerToken}`}})
+          .then(response => {
+              // Write response body to JSON file
+              writeJSONToFile(responseBodyFilePath, response.data);
+              checkDifference()
+          })
+          .catch(error => {
+              console.error('Error making HTTP request:', error.response ? error.response.data : error.message);
+          });
+        }
     })
     .catch(error => {
         console.error('Error making HTTP request:', error.response ? error.response.data : error.message);
@@ -71,9 +88,16 @@ function writeJSONToFile(filePath, data) {
     }
 }
 
+let endpointUrl;
 // RESTful endpoint URL
-const endpointUrl = 'https://coordination.azure-api.net/validate/v1/Fcc601Application/External?=';
-//const endpointUrl = 'https://localhost:7200/v1/Fcc601Application/External';
+switch(environment) {
+  case "local":
+    endpointUrl = 'https://localhost:7200/v1/Fcc601Application/External';
+    break;
+  case "develop":
+    endpointUrl = 'https://coordination.azure-api.net/validate/v1/Fcc601Application/External?=';
+    break;
+}
 
 // Path to request body JSON file
 const requestBodyFilePath = `./test_cases/${test_case}/nxgen_input.json`;

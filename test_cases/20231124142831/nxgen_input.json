@@ -1,0 +1,133 @@
+{
+  "licenseType": "IB",
+  "scheduleGhs": [
+      {
+          "lineNum": 1,
+          "locationCode": "A",
+          "locationNum": 1,
+          "frequencyLow": 450,
+          "frequencyHigh": 469.99999,
+          "stationClass": "FXO",
+          "emissionDesignator": "10K5W1W",
+          "power": 8,
+          "erp": 32,
+          "haat": -123.2,
+          "transmittingAntennaHeight": 13.1,
+          "coordinationCode": "A",
+          "requestNum": 1
+      },
+      {
+          "lineNum": 2,
+          "locationCode": "B",
+          "locationNum": 2,
+          "frequencyLow": 450,
+          "frequencyHigh": 469.99999,
+          "stationClass": "FXO",
+          "emissionDesignator": "10K5W1W",
+          "power": 8,
+          "erp": 32,
+          "haat": 126.4,
+          "transmittingAntennaHeight": 13.1,
+          "coordinationCode": "A",
+          "requestNum": 2
+      },
+      {
+          "lineNum": 3,
+          "locationCode": "G",
+          "locationNum": 3,
+          "frequencyLow": 452.325,
+          "frequencyHigh": null,
+          "stationClass": "FXOT",
+          "emissionDesignator": "10K5W1W",
+          "power": 8,
+          "erp": 32,
+          "haat": null,
+          "transmittingAntennaHeight": null,
+          "coordinationCode": "C",
+          "requestNum": 3
+      },
+      {
+          "lineNum": 4,
+          "locationCode": "A",
+          "locationNum": 1,
+          "frequencyLow": 457.325,
+          "frequencyHigh": null,
+          "stationClass": "FXO",
+          "emissionDesignator": "10K5W1W",
+          "power": 8,
+          "erp": 32,
+          "haat": -123.2,
+          "transmittingAntennaHeight": 13.1,
+          "coordinationCode": "A",
+          "requestNum": 4
+      },
+      {
+          "lineNum": 5,
+          "locationCode": "B",
+          "locationNum": 2,
+          "frequencyLow": 457.325,
+          "frequencyHigh": null,
+          "stationClass": "FXO",
+          "emissionDesignator": "10K5W1W",
+          "power": 8,
+          "erp": 32,
+          "haat": 126.4,
+          "transmittingAntennaHeight": 13.1,
+          "coordinationCode": "A",
+          "requestNum": 5
+      },
+      {
+          "lineNum": 6,
+          "locationCode": "G",
+          "locationNum": 3,
+          "frequencyLow": 457.325,
+          "frequencyHigh": null,
+          "stationClass": "FXOT",
+          "emissionDesignator": "10K5W1W",
+          "power": 8,
+          "erp": 32,
+          "haat": null,
+          "transmittingAntennaHeight": null,
+          "coordinationCode": "C",
+          "requestNum": 6
+      }
+  ],
+  "scheduleEs": [
+      {
+          "state": "HI",
+          "city": "Waikoloa Village",
+          "county": "Hawaii",
+          "locationNum": 1,
+          "locationCode": "A",
+          "latitude": 19.931889,
+          "longitude": -155.766194,
+          "areaOfOperation": null,
+          "serviceAreaRadius": null,
+          "elevation": 392
+      },
+      {
+          "state": "HI",
+          "city": "Kailua-Kona",
+          "county": "Hawaii",
+          "locationNum": 2,
+          "locationCode": "B",
+          "latitude": 19.753222,
+          "longitude": -155.978444,
+          "areaOfOperation": null,
+          "serviceAreaRadius": null,
+          "elevation": 498
+      },
+      {
+          "state": null,
+          "city": null,
+          "county": null,
+          "locationNum": 3,
+          "locationCode": "G",
+          "latitude": 0,
+          "longitude": 0,
+          "areaOfOperation": "1",
+          "serviceAreaRadius": 32,
+          "elevation": null
+      }
+  ]
+}
