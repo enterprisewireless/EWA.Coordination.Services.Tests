@@ -1,0 +1,91 @@
+{
+    "licenseType": "IB",
+    "scheduleGhs": [
+        {
+            "lineNum": 1,
+            "locationCode": "A",
+            "locationNum": 1,
+            "frequencyLow": 150,
+            "frequencyHigh": 174.99999,
+            "stationClass": "FB2",
+            "emissionDesignator": "4K00F1E",
+            "power": 40,
+            "erp": 10,
+            "haat": 775.7,
+            "transmittingAntennaHeight": 15.2,
+            "coordinationCode": "C",
+            "requestNum": 1
+        },
+        {
+            "lineNum": 2,
+            "locationCode": "A",
+            "locationNum": 1,
+            "frequencyLow": 150,
+            "frequencyHigh": 174.99999,
+            "stationClass": "FB2",
+            "emissionDesignator": "11K2F1E",
+            "power": 40,
+            "erp": 10,
+            "haat": 775.7,
+            "transmittingAntennaHeight": 15.2,
+            "coordinationCode": "A",
+            "requestNum": 2
+        },
+        {
+            "lineNum": 3,
+            "locationCode": "G",
+            "locationNum": 2,
+            "frequencyLow": 150,
+            "frequencyHigh": 174.99999,
+            "stationClass": "MO",
+            "emissionDesignator": "4K00F1E",
+            "power": 40,
+            "erp": 40,
+            "haat": null,
+            "transmittingAntennaHeight": null,
+            "coordinationCode": "C",
+            "requestNum": 3
+        },
+        {
+            "lineNum": 4,
+            "locationCode": "G",
+            "locationNum": 2,
+            "frequencyLow": 150,
+            "frequencyHigh": 174.99999,
+            "stationClass": "MO",
+            "emissionDesignator": "11K2F1E",
+            "power": 40,
+            "erp": 40,
+            "haat": null,
+            "transmittingAntennaHeight": null,
+            "coordinationCode": "A",
+            "requestNum": 4
+        }
+    ],
+    "scheduleEs": [
+        {
+            "state": "CA",
+            "city": "Mount Lukens",
+            "county": "Los Angeles",
+            "locationNum": 1,
+            "locationCode": "A",
+            "latitude": 34.268889,
+            "longitude": -118.238222,
+            "areaOfOperation": null,
+            "serviceAreaRadius": null,
+            "elevation": 1540
+        },
+        {
+            "state": null,
+            "city": null,
+            "county": null,
+            "locationNum": 2,
+            "locationCode": "G",
+            "latitude": 0,
+            "longitude": 0,
+            "areaOfOperation": "1",
+            "serviceAreaRadius": 40,
+            "elevation": null
+        }
+    ]
+}

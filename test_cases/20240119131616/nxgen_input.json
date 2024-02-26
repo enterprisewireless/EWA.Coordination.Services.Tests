@@ -1,0 +1,34 @@
+{
+    "licenseType": "IB",
+    "scheduleGhs": [
+        {
+            "lineNum": 1,
+            "locationCode": "G",
+            "locationNum": 1,
+            "frequencyLow": 450,
+            "frequencyHigh": 469.99999,
+            "stationClass": "MO",
+            "emissionDesignator": "4K00F1E",
+            "power": 45,
+            "erp": 45,
+            "haat": null,
+            "transmittingAntennaHeight": null,
+            "coordinationCode": "A",
+            "requestNum": 1
+        }
+    ],
+    "scheduleEs": [
+        {
+            "state": "SD",
+            "city": "Yankton",
+            "county": "Yankton",
+            "locationNum": 1,
+            "locationCode": "G",
+            "latitude": 42.888194,
+            "longitude": -97.405222,
+            "areaOfOperation": null,
+            "serviceAreaRadius": 32,
+            "elevation": null
+        }
+    ]
+}

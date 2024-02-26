@@ -1,0 +1,168 @@
+LogID,LineNum,Loc,LocNum,FreqLow,FreqHi,FreqType,Class,Emission,Power,Erp,Haat,TxAntHgt,CoordCode,ErrTxt
+20220729082943,16,G,2,464.65,464.65,,MO,7K60FXW,3,3,0,0,A,There was no Fixed Base with a Location '1'  found for this Mobile Unit.
+20220729082943,43,H,4,464.65,464.65,,MO,7K60FXW,3,3,0,0,A,There was no Fixed Base with a Location '3'  found for this Mobile Unit.
+20220729082943,97,J,8,464.65,464.65,,MO,7K60FXW,3,3,0,0,A,There was no Fixed Base with a Location '7'  found for this Mobile Unit.
+20220729082943,124,K,10,464.65,464.65,,MO,7K60FXW,3,3,0,0,A,There was no Fixed Base with a Location '9'  found for this Mobile Unit.
+20220729082943,151,L,12,464.65,464.65,,MO,7K60FXW,3,3,0,0,A,There was no Fixed Base with a Location '11'  found for this Mobile Unit.
+20220729082943,1,A,1,422.625,0,,FB2,7K60FXW,10,10,-2.4,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,2,A,1,422.3875,0,,FB2,7K60FXW,10,10,-2.4,8.5,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20220729082943,3,A,1,424.475,0,,FB2,7K60FXW,10,10,-2.4,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,4,A,1,424.65,0,,FB2,7K60FXW,10,10,-2.4,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,5,A,1,424.775,0,,FB2,7K60FXW,10,10,-2.4,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,6,A,1,424.7875,0,,FB2,7K60FXW,10,10,-2.4,8.5,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20220729082943,7,A,1,424.95,0,,FB2,7K60FXW,10,10,-2.4,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,8,A,1,422.5875,0,,FB2,7K60FXW,10,10,-2.4,8.5,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20220729082943,9,A,1,422.75,0,,FB2,7K60FXW,10,10,-2.4,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,10,G,2,422.625,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,11,G,2,427.625,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,12,G,2,422.3875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,13,G,2,427.3875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,14,G,2,424.475,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,15,G,2,429.475,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,17,G,2,429.65,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,18,G,2,424.775,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,19,G,2,429.775,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,20,G,2,424.7875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,21,G,2,429.7875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,22,G,2,424.95,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,23,G,2,429.95,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,24,G,2,422.5875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,25,G,2,427.5875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,26,G,2,422.75,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,27,G,2,429.75,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,28,B,3,422.625,0,,FB2,7K60FXW,10,10,1,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,29,B,3,422.3875,0,,FB2,7K60FXW,10,10,1,8.5,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20220729082943,30,B,3,424.475,0,,FB2,7K60FXW,10,10,1,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,31,B,3,424.65,0,,FB2,7K60FXW,10,10,1,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,32,B,3,424.775,0,,FB2,7K60FXW,10,10,1,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,33,B,3,424.7875,0,,FB2,7K60FXW,10,10,1,8.5,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20220729082943,34,B,3,424.95,0,,FB2,7K60FXW,10,10,1,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,35,B,3,422.5875,0,,FB2,7K60FXW,10,10,1,8.5,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20220729082943,36,B,3,422.75,0,,FB2,7K60FXW,10,10,1,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,37,H,4,422.625,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,38,H,4,427.625,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,39,H,4,422.3875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,40,H,4,427.3875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,41,H,4,424.475,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,42,H,4,429.475,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,44,H,4,429.65,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,45,H,4,424.775,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,46,H,4,429.775,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,47,H,4,424.7875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,48,H,4,429.7875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,49,H,4,424.95,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,50,H,4,429.95,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,51,H,4,422.5875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,52,H,4,427.5875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,53,H,4,422.75,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,54,H,4,429.75,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,55,C,5,422.625,0,,FB2,7K60FXW,10,10,2.5,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,56,C,5,422.3875,0,,FB2,7K60FXW,10,10,2.5,8.5,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20220729082943,57,C,5,424.475,0,,FB2,7K60FXW,10,10,2.5,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,58,C,5,464.65,464.65,,FB2,7K60FXW,10,10,2.5,8.5,A,This site is north of Line 'A'.
+20220729082943,59,C,5,424.775,0,,FB2,7K60FXW,10,10,2.5,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,60,C,5,424.7875,0,,FB2,7K60FXW,10,10,2.5,8.5,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20220729082943,61,C,5,424.95,0,,FB2,7K60FXW,10,10,2.5,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,62,C,5,422.5875,0,,FB2,7K60FXW,10,10,2.5,8.5,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20220729082943,63,C,5,422.75,0,,FB2,7K60FXW,10,10,2.5,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,64,I,6,422.625,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,65,I,6,427.625,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,66,I,6,422.3875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,67,I,6,427.3875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,68,I,6,424.475,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,69,I,6,429.475,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,70,I,6,464.65,0,,MO,7K60FXW,3,3,0,0,A,
+20220729082943,71,I,6,429.65,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,72,I,6,424.775,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,73,I,6,429.775,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,74,I,6,424.7875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,75,I,6,429.7875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,76,I,6,424.95,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,77,I,6,429.95,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,78,I,6,422.5875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,79,I,6,427.5875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,80,I,6,422.75,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,81,I,6,429.75,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,82,D,7,422.625,0,,FB2,7K60FXW,10,10,3.3,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,83,D,7,422.3875,0,,FB2,7K60FXW,10,10,3.3,8.5,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20220729082943,84,D,7,424.475,0,,FB2,7K60FXW,10,10,3.3,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,85,D,7,424.65,0,,FB2,7K60FXW,10,10,3.3,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,86,D,7,424.775,0,,FB2,7K60FXW,10,10,3.3,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,87,D,7,424.7875,0,,FB2,7K60FXW,10,10,3.3,8.5,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20220729082943,88,D,7,424.95,0,,FB2,7K60FXW,10,10,3.3,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,89,D,7,422.5875,0,,FB2,7K60FXW,10,10,3.3,8.5,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20220729082943,90,D,7,422.75,0,,FB2,7K60FXW,10,10,3.3,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,91,J,8,422.625,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,92,J,8,427.625,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,93,J,8,422.3875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,94,J,8,427.3875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,95,J,8,424.475,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,96,J,8,429.475,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,98,J,8,429.65,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,99,J,8,424.775,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,100,J,8,429.775,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,101,J,8,424.7875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,102,J,8,429.7875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,103,J,8,424.95,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,104,J,8,429.95,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,105,J,8,422.5875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,106,J,8,427.5875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,107,J,8,422.75,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,108,J,8,429.75,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,109,E,9,422.625,0,,FB2,7K60FXW,10,10,-0.1,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,110,E,9,422.3875,0,,FB2,7K60FXW,10,10,-0.1,8.5,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20220729082943,111,E,9,424.475,0,,FB2,7K60FXW,10,10,-0.1,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,112,E,9,424.65,0,,FB2,7K60FXW,10,10,-0.1,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,113,E,9,424.775,0,,FB2,7K60FXW,10,10,-0.1,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,114,E,9,424.7875,0,,FB2,7K60FXW,10,10,-0.1,8.5,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20220729082943,115,E,9,424.95,0,,FB2,7K60FXW,10,10,-0.1,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,116,E,9,422.5875,0,,FB2,7K60FXW,10,10,-0.1,8.5,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20220729082943,117,E,9,422.75,0,,FB2,7K60FXW,10,10,-0.1,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,118,K,10,422.625,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,119,K,10,427.625,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,120,K,10,422.3875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,121,K,10,427.3875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,122,K,10,424.475,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,123,K,10,429.475,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,125,K,10,429.65,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,126,K,10,424.775,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,127,K,10,429.775,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,128,K,10,424.7875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,129,K,10,429.7875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,130,K,10,424.95,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,131,K,10,429.95,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,132,K,10,422.5875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,133,K,10,427.5875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,134,K,10,422.75,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,135,K,10,429.75,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,136,F,11,422.625,0,,FB2,7K60FXW,10,10,-2.3,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,137,F,11,422.3875,0,,FB2,7K60FXW,10,10,-2.3,8.5,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20220729082943,138,F,11,424.475,0,,FB2,7K60FXW,10,10,-2.3,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,139,F,11,424.65,0,,FB2,7K60FXW,10,10,-2.3,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,140,F,11,424.775,0,,FB2,7K60FXW,10,10,-2.3,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,141,F,11,424.7875,0,,FB2,7K60FXW,10,10,-2.3,8.5,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20220729082943,142,F,11,424.95,0,,FB2,7K60FXW,10,10,-2.3,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,143,F,11,422.5875,0,,FB2,7K60FXW,10,10,-2.3,8.5,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20220729082943,144,F,11,422.75,0,,FB2,7K60FXW,10,10,-2.3,8.5,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20220729082943,145,L,12,422.625,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,146,L,12,427.625,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,147,L,12,422.3875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,148,L,12,427.3875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,149,L,12,424.475,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,150,L,12,429.475,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,152,L,12,429.65,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,153,L,12,424.775,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,154,L,12,429.775,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,155,L,12,424.7875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,156,L,12,429.7875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,157,L,12,424.95,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,158,L,12,429.95,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,159,L,12,422.5875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,160,L,12,427.5875,0,,MO,7K60FXW,3,3,0,0,A,"Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,161,L,12,422.75,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 79: Must be within 80.47kM of Detroit, MI Detroit, MI"
+20220729082943,162,L,12,429.75,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,163,M,13,425.125,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,164,M,13,425.15,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,165,M,13,425.175,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,166,M,13,425.2,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20220729082943,167,M,13,425.225,0,,MO,7K60FXW,3,3,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
