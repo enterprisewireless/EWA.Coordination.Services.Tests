@@ -5,55 +5,6 @@
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
-      "frequencyLow": 451.00625,
-      "frequencyHigh": 451.00625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 2,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.0125,
-      "frequencyHigh": 451.0125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 3,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.01875,
-      "frequencyHigh": 451.01875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 130: IW Frequency"
-      ]
-    },
-    {
-      "recordNum": 4,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
       "frequencyLow": 451.025,
       "frequencyHigh": 451.025,
       "frequencyType": null,
@@ -66,24 +17,7 @@
       ]
     },
     {
-      "recordNum": 5,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.03125,
-      "frequencyHigh": 451.03125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 130: IW Frequency"
-      ]
-    },
-    {
-      "recordNum": 6,
+      "recordNum": 2,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -100,24 +34,7 @@
       ]
     },
     {
-      "recordNum": 7,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.04375,
-      "frequencyHigh": 451.04375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 130: IW Frequency"
-      ]
-    },
-    {
-      "recordNum": 8,
+      "recordNum": 3,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -133,24 +50,7 @@
       ]
     },
     {
-      "recordNum": 9,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.05625,
-      "frequencyHigh": 451.05625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 130: IW Frequency"
-      ]
-    },
-    {
-      "recordNum": 10,
+      "recordNum": 4,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -167,24 +67,7 @@
       ]
     },
     {
-      "recordNum": 11,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.06875,
-      "frequencyHigh": 451.06875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 130: IW Frequency"
-      ]
-    },
-    {
-      "recordNum": 12,
+      "recordNum": 5,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -200,24 +83,7 @@
       ]
     },
     {
-      "recordNum": 13,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.08125,
-      "frequencyHigh": 451.08125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 130: IW Frequency"
-      ]
-    },
-    {
-      "recordNum": 14,
+      "recordNum": 6,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -234,24 +100,7 @@
       ]
     },
     {
-      "recordNum": 15,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.09375,
-      "frequencyHigh": 451.09375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 130: IW Frequency"
-      ]
-    },
-    {
-      "recordNum": 16,
+      "recordNum": 7,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -267,24 +116,7 @@
       ]
     },
     {
-      "recordNum": 17,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.10625,
-      "frequencyHigh": 451.10625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 130: IW Frequency"
-      ]
-    },
-    {
-      "recordNum": 18,
+      "recordNum": 8,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -301,24 +133,7 @@
       ]
     },
     {
-      "recordNum": 19,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.11875,
-      "frequencyHigh": 451.11875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 130: IW Frequency"
-      ]
-    },
-    {
-      "recordNum": 20,
+      "recordNum": 9,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -334,24 +149,7 @@
       ]
     },
     {
-      "recordNum": 21,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.13125,
-      "frequencyHigh": 451.13125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 130: IW Frequency"
-      ]
-    },
-    {
-      "recordNum": 22,
+      "recordNum": 10,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -368,24 +166,7 @@
       ]
     },
     {
-      "recordNum": 23,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.14375,
-      "frequencyHigh": 451.14375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 130: IW Frequency"
-      ]
-    },
-    {
-      "recordNum": 24,
+      "recordNum": 11,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -401,24 +182,7 @@
       ]
     },
     {
-      "recordNum": 25,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.15625,
-      "frequencyHigh": 451.15625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 130: IW Frequency"
-      ]
-    },
-    {
-      "recordNum": 26,
+      "recordNum": 12,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -435,24 +199,7 @@
       ]
     },
     {
-      "recordNum": 27,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.16875,
-      "frequencyHigh": 451.16875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 130: IW Frequency"
-      ]
-    },
-    {
-      "recordNum": 28,
+      "recordNum": 13,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -469,23 +216,7 @@
       ]
     },
     {
-      "recordNum": 29,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.18125,
-      "frequencyHigh": 451.18125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 30,
+      "recordNum": 14,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -501,23 +232,7 @@
       ]
     },
     {
-      "recordNum": 31,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.19375,
-      "frequencyHigh": 451.19375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 32,
+      "recordNum": 15,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -533,24 +248,7 @@
       ]
     },
     {
-      "recordNum": 33,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.20625,
-      "frequencyHigh": 451.20625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 130: IW Frequency"
-      ]
-    },
-    {
-      "recordNum": 34,
+      "recordNum": 16,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -567,24 +265,7 @@
       ]
     },
     {
-      "recordNum": 35,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.21875,
-      "frequencyHigh": 451.21875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 130: IW Frequency"
-      ]
-    },
-    {
-      "recordNum": 36,
+      "recordNum": 17,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -601,24 +282,7 @@
       ]
     },
     {
-      "recordNum": 37,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.23125,
-      "frequencyHigh": 451.23125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
-      ]
-    },
-    {
-      "recordNum": 38,
+      "recordNum": 18,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -635,24 +299,7 @@
       ]
     },
     {
-      "recordNum": 39,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.24375,
-      "frequencyHigh": 451.24375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
-      ]
-    },
-    {
-      "recordNum": 40,
+      "recordNum": 19,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -668,24 +315,7 @@
       ]
     },
     {
-      "recordNum": 41,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.25625,
-      "frequencyHigh": 451.25625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 130: IW Frequency"
-      ]
-    },
-    {
-      "recordNum": 42,
+      "recordNum": 20,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -702,24 +332,7 @@
       ]
     },
     {
-      "recordNum": 43,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.26875,
-      "frequencyHigh": 451.26875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 130: IW Frequency"
-      ]
-    },
-    {
-      "recordNum": 44,
+      "recordNum": 21,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -736,23 +349,7 @@
       ]
     },
     {
-      "recordNum": 45,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.28125,
-      "frequencyHigh": 451.28125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 46,
+      "recordNum": 22,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -768,23 +365,7 @@
       ]
     },
     {
-      "recordNum": 47,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.29375,
-      "frequencyHigh": 451.29375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 48,
+      "recordNum": 23,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -799,23 +380,7 @@
       ]
     },
     {
-      "recordNum": 49,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.30625,
-      "frequencyHigh": 451.30625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 50,
+      "recordNum": 24,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -831,23 +396,7 @@
       ]
     },
     {
-      "recordNum": 51,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.31875,
-      "frequencyHigh": 451.31875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 52,
+      "recordNum": 25,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -862,24 +411,7 @@
       ]
     },
     {
-      "recordNum": 53,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.33125,
-      "frequencyHigh": 451.33125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
-      ]
-    },
-    {
-      "recordNum": 54,
+      "recordNum": 26,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -896,24 +428,7 @@
       ]
     },
     {
-      "recordNum": 55,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.34375,
-      "frequencyHigh": 451.34375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
-      ]
-    },
-    {
-      "recordNum": 56,
+      "recordNum": 27,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -928,23 +443,7 @@
       ]
     },
     {
-      "recordNum": 57,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.35625,
-      "frequencyHigh": 451.35625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 58,
+      "recordNum": 28,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -960,23 +459,7 @@
       ]
     },
     {
-      "recordNum": 59,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.36875,
-      "frequencyHigh": 451.36875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 60,
+      "recordNum": 29,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -993,23 +476,7 @@
       ]
     },
     {
-      "recordNum": 61,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.38125,
-      "frequencyHigh": 451.38125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 62,
+      "recordNum": 30,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1025,23 +492,7 @@
       ]
     },
     {
-      "recordNum": 63,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.39375,
-      "frequencyHigh": 451.39375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 64,
+      "recordNum": 31,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1056,23 +507,7 @@
       ]
     },
     {
-      "recordNum": 65,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.40625,
-      "frequencyHigh": 451.40625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 66,
+      "recordNum": 32,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1088,23 +523,7 @@
       ]
     },
     {
-      "recordNum": 67,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.41875,
-      "frequencyHigh": 451.41875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 68,
+      "recordNum": 33,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1121,24 +540,7 @@
       ]
     },
     {
-      "recordNum": 69,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.43125,
-      "frequencyHigh": 451.43125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
-      ]
-    },
-    {
-      "recordNum": 70,
+      "recordNum": 34,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1155,24 +557,7 @@
       ]
     },
     {
-      "recordNum": 71,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.44375,
-      "frequencyHigh": 451.44375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
-      ]
-    },
-    {
-      "recordNum": 72,
+      "recordNum": 35,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1187,23 +572,7 @@
       ]
     },
     {
-      "recordNum": 73,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.45625,
-      "frequencyHigh": 451.45625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 74,
+      "recordNum": 36,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1219,23 +588,7 @@
       ]
     },
     {
-      "recordNum": 75,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.46875,
-      "frequencyHigh": 451.46875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 76,
+      "recordNum": 37,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1252,23 +605,7 @@
       ]
     },
     {
-      "recordNum": 77,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.48125,
-      "frequencyHigh": 451.48125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 78,
+      "recordNum": 38,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1284,23 +621,7 @@
       ]
     },
     {
-      "recordNum": 79,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.49375,
-      "frequencyHigh": 451.49375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 80,
+      "recordNum": 39,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1315,23 +636,7 @@
       ]
     },
     {
-      "recordNum": 81,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.50625,
-      "frequencyHigh": 451.50625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 82,
+      "recordNum": 40,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1347,23 +652,7 @@
       ]
     },
     {
-      "recordNum": 83,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.51875,
-      "frequencyHigh": 451.51875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 84,
+      "recordNum": 41,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1380,24 +669,7 @@
       ]
     },
     {
-      "recordNum": 85,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.53125,
-      "frequencyHigh": 451.53125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
-      ]
-    },
-    {
-      "recordNum": 86,
+      "recordNum": 42,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1414,24 +686,7 @@
       ]
     },
     {
-      "recordNum": 87,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.54375,
-      "frequencyHigh": 451.54375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
-      ]
-    },
-    {
-      "recordNum": 88,
+      "recordNum": 43,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1454,7 +709,7 @@
       ]
     },
     {
-      "recordNum": 89,
+      "recordNum": 44,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1476,7 +731,7 @@
       ]
     },
     {
-      "recordNum": 90,
+      "recordNum": 45,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1498,7 +753,7 @@
       ]
     },
     {
-      "recordNum": 91,
+      "recordNum": 46,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1520,7 +775,7 @@
       ]
     },
     {
-      "recordNum": 92,
+      "recordNum": 47,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1537,23 +792,7 @@
       ]
     },
     {
-      "recordNum": 93,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.58125,
-      "frequencyHigh": 451.58125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 94,
+      "recordNum": 48,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1569,23 +808,7 @@
       ]
     },
     {
-      "recordNum": 95,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.59375,
-      "frequencyHigh": 451.59375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 96,
+      "recordNum": 49,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1608,7 +831,7 @@
       ]
     },
     {
-      "recordNum": 97,
+      "recordNum": 50,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1630,7 +853,7 @@
       ]
     },
     {
-      "recordNum": 98,
+      "recordNum": 51,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1652,7 +875,7 @@
       ]
     },
     {
-      "recordNum": 99,
+      "recordNum": 52,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1674,7 +897,7 @@
       ]
     },
     {
-      "recordNum": 100,
+      "recordNum": 53,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1691,24 +914,7 @@
       ]
     },
     {
-      "recordNum": 101,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.63125,
-      "frequencyHigh": 451.63125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
-      ]
-    },
-    {
-      "recordNum": 102,
+      "recordNum": 54,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1725,24 +931,7 @@
       ]
     },
     {
-      "recordNum": 103,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.64375,
-      "frequencyHigh": 451.64375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
-      ]
-    },
-    {
-      "recordNum": 104,
+      "recordNum": 55,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1765,7 +954,7 @@
       ]
     },
     {
-      "recordNum": 105,
+      "recordNum": 56,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1787,7 +976,7 @@
       ]
     },
     {
-      "recordNum": 106,
+      "recordNum": 57,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1809,7 +998,7 @@
       ]
     },
     {
-      "recordNum": 107,
+      "recordNum": 58,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1831,7 +1020,7 @@
       ]
     },
     {
-      "recordNum": 108,
+      "recordNum": 59,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1848,23 +1037,7 @@
       ]
     },
     {
-      "recordNum": 109,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.68125,
-      "frequencyHigh": 451.68125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 110,
+      "recordNum": 60,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1880,23 +1053,7 @@
       ]
     },
     {
-      "recordNum": 111,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.69375,
-      "frequencyHigh": 451.69375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 112,
+      "recordNum": 61,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1919,7 +1076,7 @@
       ]
     },
     {
-      "recordNum": 113,
+      "recordNum": 62,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1941,7 +1098,7 @@
       ]
     },
     {
-      "recordNum": 114,
+      "recordNum": 63,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1963,7 +1120,7 @@
       ]
     },
     {
-      "recordNum": 115,
+      "recordNum": 64,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1985,7 +1142,7 @@
       ]
     },
     {
-      "recordNum": 116,
+      "recordNum": 65,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2000,23 +1157,7 @@
       ]
     },
     {
-      "recordNum": 117,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.73125,
-      "frequencyHigh": 451.73125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 118,
+      "recordNum": 66,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2032,23 +1173,7 @@
       ]
     },
     {
-      "recordNum": 119,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.74375,
-      "frequencyHigh": 451.74375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 120,
+      "recordNum": 67,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2071,7 +1196,7 @@
       ]
     },
     {
-      "recordNum": 121,
+      "recordNum": 68,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2093,7 +1218,7 @@
       ]
     },
     {
-      "recordNum": 122,
+      "recordNum": 69,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2115,7 +1240,7 @@
       ]
     },
     {
-      "recordNum": 123,
+      "recordNum": 70,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2137,7 +1262,7 @@
       ]
     },
     {
-      "recordNum": 124,
+      "recordNum": 71,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2152,23 +1277,7 @@
       ]
     },
     {
-      "recordNum": 125,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.78125,
-      "frequencyHigh": 451.78125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 126,
+      "recordNum": 72,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2184,94 +1293,7 @@
       ]
     },
     {
-      "recordNum": 127,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.79375,
-      "frequencyHigh": 451.79375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 128,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.8,
-      "frequencyHigh": 451.8,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 17: Station Class must be itinerant.",
-        "Rule 58: Operational fixed secondary basis. Limited ERP based on distance to 200,000 population."
-      ]
-    },
-    {
-      "recordNum": 129,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.80625,
-      "frequencyHigh": 451.80625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 17: Station Class must be itinerant.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 58: Operational fixed secondary basis. Limited ERP based on distance to 200,000 population."
-      ]
-    },
-    {
-      "recordNum": 130,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.8125,
-      "frequencyHigh": 451.8125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 17: Station Class must be itinerant.",
-        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-        "Rule 58: Operational fixed secondary basis. Limited ERP based on distance to 200,000 population."
-      ]
-    },
-    {
-      "recordNum": 131,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.81875,
-      "frequencyHigh": 451.81875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 17: Station Class must be itinerant.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 58: Operational fixed secondary basis. Limited ERP based on distance to 200,000 population."
-      ]
-    },
-    {
-      "recordNum": 132,
+      "recordNum": 73,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2286,23 +1308,7 @@
       ]
     },
     {
-      "recordNum": 133,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.83125,
-      "frequencyHigh": 451.83125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 134,
+      "recordNum": 74,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2318,23 +1324,7 @@
       ]
     },
     {
-      "recordNum": 135,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.84375,
-      "frequencyHigh": 451.84375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 136,
+      "recordNum": 75,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2349,23 +1339,7 @@
       ]
     },
     {
-      "recordNum": 137,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.85625,
-      "frequencyHigh": 451.85625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 138,
+      "recordNum": 76,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2381,23 +1355,7 @@
       ]
     },
     {
-      "recordNum": 139,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.86875,
-      "frequencyHigh": 451.86875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 140,
+      "recordNum": 77,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2412,23 +1370,7 @@
       ]
     },
     {
-      "recordNum": 141,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.88125,
-      "frequencyHigh": 451.88125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 142,
+      "recordNum": 78,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2444,23 +1386,7 @@
       ]
     },
     {
-      "recordNum": 143,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.89375,
-      "frequencyHigh": 451.89375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 144,
+      "recordNum": 79,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2475,23 +1401,7 @@
       ]
     },
     {
-      "recordNum": 145,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.90625,
-      "frequencyHigh": 451.90625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 146,
+      "recordNum": 80,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2507,23 +1417,7 @@
       ]
     },
     {
-      "recordNum": 147,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.91875,
-      "frequencyHigh": 451.91875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 148,
+      "recordNum": 81,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2538,23 +1432,7 @@
       ]
     },
     {
-      "recordNum": 149,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.93125,
-      "frequencyHigh": 451.93125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 150,
+      "recordNum": 82,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2570,23 +1448,7 @@
       ]
     },
     {
-      "recordNum": 151,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.94375,
-      "frequencyHigh": 451.94375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 152,
+      "recordNum": 83,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2601,23 +1463,7 @@
       ]
     },
     {
-      "recordNum": 153,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.95625,
-      "frequencyHigh": 451.95625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 154,
+      "recordNum": 84,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2633,23 +1479,7 @@
       ]
     },
     {
-      "recordNum": 155,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.96875,
-      "frequencyHigh": 451.96875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 156,
+      "recordNum": 85,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2664,23 +1494,7 @@
       ]
     },
     {
-      "recordNum": 157,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.98125,
-      "frequencyHigh": 451.98125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 158,
+      "recordNum": 86,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2696,23 +1510,7 @@
       ]
     },
     {
-      "recordNum": 159,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 451.99375,
-      "frequencyHigh": 451.99375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 160,
+      "recordNum": 87,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2727,23 +1525,7 @@
       ]
     },
     {
-      "recordNum": 161,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.00625,
-      "frequencyHigh": 452.00625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 162,
+      "recordNum": 88,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2759,23 +1541,7 @@
       ]
     },
     {
-      "recordNum": 163,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.01875,
-      "frequencyHigh": 452.01875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 164,
+      "recordNum": 89,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2790,23 +1556,7 @@
       ]
     },
     {
-      "recordNum": 165,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.03125,
-      "frequencyHigh": 452.03125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 166,
+      "recordNum": 90,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2822,23 +1572,7 @@
       ]
     },
     {
-      "recordNum": 167,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.04375,
-      "frequencyHigh": 452.04375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 168,
+      "recordNum": 91,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2853,23 +1587,7 @@
       ]
     },
     {
-      "recordNum": 169,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.05625,
-      "frequencyHigh": 452.05625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 170,
+      "recordNum": 92,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2885,23 +1603,7 @@
       ]
     },
     {
-      "recordNum": 171,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.06875,
-      "frequencyHigh": 452.06875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 172,
+      "recordNum": 93,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2916,23 +1618,7 @@
       ]
     },
     {
-      "recordNum": 173,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.08125,
-      "frequencyHigh": 452.08125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 174,
+      "recordNum": 94,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2948,39 +1634,7 @@
       ]
     },
     {
-      "recordNum": 175,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.09375,
-      "frequencyHigh": 452.09375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 176,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.10625,
-      "frequencyHigh": 452.10625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 177,
+      "recordNum": 95,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2996,23 +1650,7 @@
       ]
     },
     {
-      "recordNum": 178,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.11875,
-      "frequencyHigh": 452.11875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 179,
+      "recordNum": 96,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3027,23 +1665,7 @@
       ]
     },
     {
-      "recordNum": 180,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.13125,
-      "frequencyHigh": 452.13125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 181,
+      "recordNum": 97,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3059,23 +1681,7 @@
       ]
     },
     {
-      "recordNum": 182,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.14375,
-      "frequencyHigh": 452.14375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 183,
+      "recordNum": 98,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3090,23 +1696,7 @@
       ]
     },
     {
-      "recordNum": 184,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.15625,
-      "frequencyHigh": 452.15625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 185,
+      "recordNum": 99,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3122,23 +1712,7 @@
       ]
     },
     {
-      "recordNum": 186,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.16875,
-      "frequencyHigh": 452.16875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 187,
+      "recordNum": 100,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3153,23 +1727,7 @@
       ]
     },
     {
-      "recordNum": 188,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.18125,
-      "frequencyHigh": 452.18125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 189,
+      "recordNum": 101,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3185,23 +1743,7 @@
       ]
     },
     {
-      "recordNum": 190,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.19375,
-      "frequencyHigh": 452.19375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 191,
+      "recordNum": 102,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3216,23 +1758,7 @@
       ]
     },
     {
-      "recordNum": 192,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.20625,
-      "frequencyHigh": 452.20625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 193,
+      "recordNum": 103,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3248,23 +1774,7 @@
       ]
     },
     {
-      "recordNum": 194,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.21875,
-      "frequencyHigh": 452.21875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 195,
+      "recordNum": 104,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3279,23 +1789,7 @@
       ]
     },
     {
-      "recordNum": 196,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.23125,
-      "frequencyHigh": 452.23125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 197,
+      "recordNum": 105,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3311,23 +1805,7 @@
       ]
     },
     {
-      "recordNum": 198,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.24375,
-      "frequencyHigh": 452.24375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 199,
+      "recordNum": 106,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3342,23 +1820,7 @@
       ]
     },
     {
-      "recordNum": 200,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.25625,
-      "frequencyHigh": 452.25625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 201,
+      "recordNum": 107,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3374,23 +1836,7 @@
       ]
     },
     {
-      "recordNum": 202,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.26875,
-      "frequencyHigh": 452.26875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 203,
+      "recordNum": 108,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3405,23 +1851,7 @@
       ]
     },
     {
-      "recordNum": 204,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.28125,
-      "frequencyHigh": 452.28125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 205,
+      "recordNum": 109,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3437,23 +1867,7 @@
       ]
     },
     {
-      "recordNum": 206,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.29375,
-      "frequencyHigh": 452.29375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 207,
+      "recordNum": 110,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3468,24 +1882,7 @@
       ]
     },
     {
-      "recordNum": 208,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.30625,
-      "frequencyHigh": 452.30625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
-      ]
-    },
-    {
-      "recordNum": 209,
+      "recordNum": 111,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3502,24 +1899,7 @@
       ]
     },
     {
-      "recordNum": 210,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.31875,
-      "frequencyHigh": 452.31875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
-      ]
-    },
-    {
-      "recordNum": 211,
+      "recordNum": 112,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3536,23 +1916,7 @@
       ]
     },
     {
-      "recordNum": 212,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.33125,
-      "frequencyHigh": 452.33125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 213,
+      "recordNum": 113,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3568,23 +1932,7 @@
       ]
     },
     {
-      "recordNum": 214,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.34375,
-      "frequencyHigh": 452.34375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 215,
+      "recordNum": 114,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3599,23 +1947,7 @@
       ]
     },
     {
-      "recordNum": 216,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.35625,
-      "frequencyHigh": 452.35625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 217,
+      "recordNum": 115,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3631,23 +1963,7 @@
       ]
     },
     {
-      "recordNum": 218,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.36875,
-      "frequencyHigh": 452.36875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 219,
+      "recordNum": 116,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3664,23 +1980,7 @@
       ]
     },
     {
-      "recordNum": 220,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.38125,
-      "frequencyHigh": 452.38125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 221,
+      "recordNum": 117,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3696,23 +1996,7 @@
       ]
     },
     {
-      "recordNum": 222,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.39375,
-      "frequencyHigh": 452.39375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 223,
+      "recordNum": 118,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3727,24 +2011,7 @@
       ]
     },
     {
-      "recordNum": 224,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.40625,
-      "frequencyHigh": 452.40625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
-      ]
-    },
-    {
-      "recordNum": 225,
+      "recordNum": 119,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3761,24 +2028,7 @@
       ]
     },
     {
-      "recordNum": 226,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.41875,
-      "frequencyHigh": 452.41875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
-      ]
-    },
-    {
-      "recordNum": 227,
+      "recordNum": 120,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3795,23 +2045,7 @@
       ]
     },
     {
-      "recordNum": 228,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.43125,
-      "frequencyHigh": 452.43125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 229,
+      "recordNum": 121,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3827,23 +2061,7 @@
       ]
     },
     {
-      "recordNum": 230,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.44375,
-      "frequencyHigh": 452.44375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 231,
+      "recordNum": 122,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3858,23 +2076,7 @@
       ]
     },
     {
-      "recordNum": 232,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.45625,
-      "frequencyHigh": 452.45625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 233,
+      "recordNum": 123,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3890,23 +2092,7 @@
       ]
     },
     {
-      "recordNum": 234,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.46875,
-      "frequencyHigh": 452.46875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 235,
+      "recordNum": 124,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3923,23 +2109,7 @@
       ]
     },
     {
-      "recordNum": 236,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.48125,
-      "frequencyHigh": 452.48125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 237,
+      "recordNum": 125,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3955,23 +2125,7 @@
       ]
     },
     {
-      "recordNum": 238,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.49375,
-      "frequencyHigh": 452.49375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 239,
+      "recordNum": 126,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -3986,24 +2140,7 @@
       ]
     },
     {
-      "recordNum": 240,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.50625,
-      "frequencyHigh": 452.50625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
-      ]
-    },
-    {
-      "recordNum": 241,
+      "recordNum": 127,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4020,24 +2157,7 @@
       ]
     },
     {
-      "recordNum": 242,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.51875,
-      "frequencyHigh": 452.51875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
-      ]
-    },
-    {
-      "recordNum": 243,
+      "recordNum": 128,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4053,24 +2173,7 @@
       ]
     },
     {
-      "recordNum": 244,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.53125,
-      "frequencyHigh": 452.53125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 132: LA Frequency"
-      ]
-    },
-    {
-      "recordNum": 245,
+      "recordNum": 129,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4087,24 +2190,7 @@
       ]
     },
     {
-      "recordNum": 246,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.54375,
-      "frequencyHigh": 452.54375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 132: LA Frequency"
-      ]
-    },
-    {
-      "recordNum": 247,
+      "recordNum": 130,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4120,24 +2206,7 @@
       ]
     },
     {
-      "recordNum": 248,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.55625,
-      "frequencyHigh": 452.55625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 132: LA Frequency"
-      ]
-    },
-    {
-      "recordNum": 249,
+      "recordNum": 131,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4154,24 +2223,7 @@
       ]
     },
     {
-      "recordNum": 250,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.56875,
-      "frequencyHigh": 452.56875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 132: LA Frequency"
-      ]
-    },
-    {
-      "recordNum": 251,
+      "recordNum": 132,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4187,24 +2239,7 @@
       ]
     },
     {
-      "recordNum": 252,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.58125,
-      "frequencyHigh": 452.58125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 132: LA Frequency"
-      ]
-    },
-    {
-      "recordNum": 253,
+      "recordNum": 133,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4221,24 +2256,7 @@
       ]
     },
     {
-      "recordNum": 254,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.59375,
-      "frequencyHigh": 452.59375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 132: LA Frequency"
-      ]
-    },
-    {
-      "recordNum": 255,
+      "recordNum": 134,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4254,24 +2272,7 @@
       ]
     },
     {
-      "recordNum": 256,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.60625,
-      "frequencyHigh": 452.60625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 132: LA Frequency"
-      ]
-    },
-    {
-      "recordNum": 257,
+      "recordNum": 135,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4288,24 +2289,7 @@
       ]
     },
     {
-      "recordNum": 258,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.61875,
-      "frequencyHigh": 452.61875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 132: LA Frequency"
-      ]
-    },
-    {
-      "recordNum": 259,
+      "recordNum": 136,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4320,23 +2304,7 @@
       ]
     },
     {
-      "recordNum": 260,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.63125,
-      "frequencyHigh": 452.63125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 261,
+      "recordNum": 137,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4352,23 +2320,7 @@
       ]
     },
     {
-      "recordNum": 262,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.64375,
-      "frequencyHigh": 452.64375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 263,
+      "recordNum": 138,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4383,23 +2335,7 @@
       ]
     },
     {
-      "recordNum": 264,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.65625,
-      "frequencyHigh": 452.65625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 265,
+      "recordNum": 139,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4415,23 +2351,7 @@
       ]
     },
     {
-      "recordNum": 266,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.66875,
-      "frequencyHigh": 452.66875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 267,
+      "recordNum": 140,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4446,23 +2366,7 @@
       ]
     },
     {
-      "recordNum": 268,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.68125,
-      "frequencyHigh": 452.68125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 269,
+      "recordNum": 141,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4478,23 +2382,7 @@
       ]
     },
     {
-      "recordNum": 270,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.69375,
-      "frequencyHigh": 452.69375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 271,
+      "recordNum": 142,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4509,23 +2397,7 @@
       ]
     },
     {
-      "recordNum": 272,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.70625,
-      "frequencyHigh": 452.70625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 273,
+      "recordNum": 143,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4541,23 +2413,7 @@
       ]
     },
     {
-      "recordNum": 274,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.71875,
-      "frequencyHigh": 452.71875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 275,
+      "recordNum": 144,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4572,23 +2428,7 @@
       ]
     },
     {
-      "recordNum": 276,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.73125,
-      "frequencyHigh": 452.73125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 277,
+      "recordNum": 145,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4604,23 +2444,7 @@
       ]
     },
     {
-      "recordNum": 278,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.74375,
-      "frequencyHigh": 452.74375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 279,
+      "recordNum": 146,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4635,24 +2459,7 @@
       ]
     },
     {
-      "recordNum": 280,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.75625,
-      "frequencyHigh": 452.75625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
-      ]
-    },
-    {
-      "recordNum": 281,
+      "recordNum": 147,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4669,24 +2476,7 @@
       ]
     },
     {
-      "recordNum": 282,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.76875,
-      "frequencyHigh": 452.76875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
-      ]
-    },
-    {
-      "recordNum": 283,
+      "recordNum": 148,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4703,23 +2493,7 @@
       ]
     },
     {
-      "recordNum": 284,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.78125,
-      "frequencyHigh": 452.78125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 285,
+      "recordNum": 149,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4735,23 +2509,7 @@
       ]
     },
     {
-      "recordNum": 286,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.79375,
-      "frequencyHigh": 452.79375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 287,
+      "recordNum": 150,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4766,23 +2524,7 @@
       ]
     },
     {
-      "recordNum": 288,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.80625,
-      "frequencyHigh": 452.80625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 289,
+      "recordNum": 151,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4798,23 +2540,7 @@
       ]
     },
     {
-      "recordNum": 290,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.81875,
-      "frequencyHigh": 452.81875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 291,
+      "recordNum": 152,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4831,23 +2557,7 @@
       ]
     },
     {
-      "recordNum": 292,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.83125,
-      "frequencyHigh": 452.83125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 293,
+      "recordNum": 153,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4863,23 +2573,7 @@
       ]
     },
     {
-      "recordNum": 294,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.84375,
-      "frequencyHigh": 452.84375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 295,
+      "recordNum": 154,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4894,24 +2588,7 @@
       ]
     },
     {
-      "recordNum": 296,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.85625,
-      "frequencyHigh": 452.85625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
-      ]
-    },
-    {
-      "recordNum": 297,
+      "recordNum": 155,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4928,24 +2605,7 @@
       ]
     },
     {
-      "recordNum": 298,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.86875,
-      "frequencyHigh": 452.86875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
-      ]
-    },
-    {
-      "recordNum": 299,
+      "recordNum": 156,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4962,23 +2622,7 @@
       ]
     },
     {
-      "recordNum": 300,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.88125,
-      "frequencyHigh": 452.88125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 301,
+      "recordNum": 157,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -4994,23 +2638,7 @@
       ]
     },
     {
-      "recordNum": 302,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.89375,
-      "frequencyHigh": 452.89375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 303,
+      "recordNum": 158,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -5025,23 +2653,7 @@
       ]
     },
     {
-      "recordNum": 304,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.98125,
-      "frequencyHigh": 452.98125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 305,
+      "recordNum": 159,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -5057,23 +2669,7 @@
       ]
     },
     {
-      "recordNum": 306,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 452.99375,
-      "frequencyHigh": 452.99375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 307,
+      "recordNum": 160,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -5088,23 +2684,7 @@
       ]
     },
     {
-      "recordNum": 308,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 453.00625,
-      "frequencyHigh": 453.00625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 309,
+      "recordNum": 161,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -5120,23 +2700,7 @@
       ]
     },
     {
-      "recordNum": 310,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 453.01875,
-      "frequencyHigh": 453.01875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 33: Emissions may not exceed 6k"
-      ]
-    },
-    {
-      "recordNum": 311,
+      "recordNum": 162,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -5153,78 +2717,7 @@
       ]
     },
     {
-      "recordNum": 312,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 456.8,
-      "frequencyHigh": 456.8,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 17: Station Class must be itinerant.",
-        "Rule 58: Operational fixed secondary basis. Limited ERP based on distance to 200,000 population."
-      ]
-    },
-    {
-      "recordNum": 313,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 456.80625,
-      "frequencyHigh": 456.80625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 17: Station Class must be itinerant.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 58: Operational fixed secondary basis. Limited ERP based on distance to 200,000 population."
-      ]
-    },
-    {
-      "recordNum": 314,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 456.8125,
-      "frequencyHigh": 456.8125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 17: Station Class must be itinerant.",
-        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-        "Rule 58: Operational fixed secondary basis. Limited ERP based on distance to 200,000 population."
-      ]
-    },
-    {
-      "recordNum": 315,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 456.81875,
-      "frequencyHigh": 456.81875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 17: Station Class must be itinerant.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 58: Operational fixed secondary basis. Limited ERP based on distance to 200,000 population."
-      ]
-    },
-    {
-      "recordNum": 316,
+      "recordNum": 163,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -5244,70 +2737,7 @@
       ]
     },
     {
-      "recordNum": 317,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 457.53125,
-      "frequencyHigh": 457.53125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 11: Station class must be mobile. Fixed site secondary to mobile.",
-        "Rule 12: This frequency may not be used aboard aircraft in flight.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.",
-        "Rule 60: ERP Must Be <= 2 Watts",
-        "Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
-      ]
-    },
-    {
-      "recordNum": 318,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 457.5375,
-      "frequencyHigh": 457.5375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 11: Station class must be mobile. Fixed site secondary to mobile.",
-        "Rule 12: This frequency may not be used aboard aircraft in flight.",
-        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-        "Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.",
-        "Rule 60: ERP Must Be <= 2 Watts",
-        "Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
-      ]
-    },
-    {
-      "recordNum": 319,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 457.54375,
-      "frequencyHigh": 457.54375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 11: Station class must be mobile. Fixed site secondary to mobile.",
-        "Rule 12: This frequency may not be used aboard aircraft in flight.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.",
-        "Rule 60: ERP Must Be <= 2 Watts",
-        "Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
-      ]
-    },
-    {
-      "recordNum": 320,
+      "recordNum": 164,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -5327,28 +2757,7 @@
       ]
     },
     {
-      "recordNum": 321,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 457.55625,
-      "frequencyHigh": 457.55625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 11: Station class must be mobile. Fixed site secondary to mobile.",
-        "Rule 12: This frequency may not be used aboard aircraft in flight.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.",
-        "Rule 60: ERP Must Be <= 2 Watts",
-        "Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
-      ]
-    },
-    {
-      "recordNum": 322,
+      "recordNum": 165,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -5369,28 +2778,7 @@
       ]
     },
     {
-      "recordNum": 323,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 457.56875,
-      "frequencyHigh": 457.56875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 11: Station class must be mobile. Fixed site secondary to mobile.",
-        "Rule 12: This frequency may not be used aboard aircraft in flight.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.",
-        "Rule 60: ERP Must Be <= 2 Watts",
-        "Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
-      ]
-    },
-    {
-      "recordNum": 324,
+      "recordNum": 166,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -5410,28 +2798,7 @@
       ]
     },
     {
-      "recordNum": 325,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 457.58125,
-      "frequencyHigh": 457.58125,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 11: Station class must be mobile. Fixed site secondary to mobile.",
-        "Rule 12: This frequency may not be used aboard aircraft in flight.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.",
-        "Rule 60: ERP Must Be <= 2 Watts",
-        "Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
-      ]
-    },
-    {
-      "recordNum": 326,
+      "recordNum": 167,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -5452,28 +2819,7 @@
       ]
     },
     {
-      "recordNum": 327,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 457.59375,
-      "frequencyHigh": 457.59375,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 11: Station class must be mobile. Fixed site secondary to mobile.",
-        "Rule 12: This frequency may not be used aboard aircraft in flight.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.",
-        "Rule 60: ERP Must Be <= 2 Watts",
-        "Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
-      ]
-    },
-    {
-      "recordNum": 328,
+      "recordNum": 168,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -5493,28 +2839,7 @@
       ]
     },
     {
-      "recordNum": 329,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 457.60625,
-      "frequencyHigh": 457.60625,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 11: Station class must be mobile. Fixed site secondary to mobile.",
-        "Rule 12: This frequency may not be used aboard aircraft in flight.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.",
-        "Rule 60: ERP Must Be <= 2 Watts",
-        "Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
-      ]
-    },
-    {
-      "recordNum": 330,
+      "recordNum": 169,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -5534,27 +2859,7 @@
       ]
     },
     {
-      "recordNum": 331,
-      "lineNum": 1,
-      "locationCode": "A",
-      "locationNum": 1,
-      "frequencyLow": 457.61875,
-      "frequencyHigh": 457.61875,
-      "frequencyType": null,
-      "emissionDesignator": "10K6G1D",
-      "stationClassCode": "FXO",
-      "coordinationCode": "A",
-      "limitationMessages": [
-        "This site is north of Line 'A'.",
-        "Rule 11: Station class must be mobile. Fixed site secondary to mobile.",
-        "Rule 12: This frequency may not be used aboard aircraft in flight.",
-        "Rule 33: Emissions may not exceed 6k",
-        "Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.",
-        "Rule 60: ERP Must Be <= 2 Watts"
-      ]
-    },
-    {
-      "recordNum": 332,
+      "recordNum": 170,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -5571,7 +2876,7 @@
       ]
     },
     {
-      "recordNum": 333,
+      "recordNum": 171,
       "lineNum": 2,
       "locationCode": "A",
       "locationNum": 1,
@@ -5584,7 +2889,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 334,
+      "recordNum": 172,
       "lineNum": 3,
       "locationCode": "G",
       "locationNum": 2,
@@ -5597,7 +2902,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 335,
+      "recordNum": 173,
       "lineNum": 4,
       "locationCode": "G",
       "locationNum": 2,
@@ -5610,7 +2915,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 336,
+      "recordNum": 174,
       "lineNum": 5,
       "locationCode": "G",
       "locationNum": 2,
@@ -5623,7 +2928,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 337,
+      "recordNum": 175,
       "lineNum": 6,
       "locationCode": "G",
       "locationNum": 2,
@@ -5637,5 +2942,5 @@
     }
   ],
   "status": "Success",
-  "resultCount": 337
+  "resultCount": 175
 }
