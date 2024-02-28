@@ -15,7 +15,7 @@ TENANT_ID=9339fae2-efaa-4336-a27a-4821384ea343
 ```
 
 # Usage
-Run a test case by opening powershell and running the following command in the root directory:
+Run a test case by opening Powershell and running the following command in the root directory:
 ```
 node main.js test_case_directory_name environment_name
 ```
@@ -105,3 +105,8 @@ EWA.Coordination.Services.Tests
 | CoordCode   | CoordinationCode          |
 | ErrTxt      | LimitationMessages        |
 														
+
+# Improvements to be made
+- Allow `all` to be passed in as the `test_case` parameter from CLI to run all the test cases one by one.
+- Add project directories such as Tools and AutoCoord instead of just Validate test cases.
+- Add different node scripts for `/External?` or `/Internal?` or have a parameter to signal.
