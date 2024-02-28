@@ -89,13 +89,15 @@ function writeJSONToFile(filePath, data) {
 }
 
 let endpointUrl;
-// RESTful endpoint URL
 switch(environment) {
   case "local":
     endpointUrl = 'https://localhost:7200/v1/Fcc601Application/External';
     break;
   case "develop":
     endpointUrl = 'https://coordination.azure-api.net/validate/v1/Fcc601Application/External?=';
+    break;
+  case "release":
+    endpointUrl = 'https://coordinationservicesrelease.azure-api.net/validate/v1/Fcc601Application/External?=';
     break;
 }
 
@@ -165,9 +167,8 @@ function checkDifference() {
         )
         
         legacyData[key.toString()] = {
-          "limitationMessages": row[columns.limitationMessages].replace("\r", "").replace("\"", ""),
+          "limitationMessages": row[columns.limitationMessages].toString().replace("\r", "").replace("\"", "").replace("  ", " "),
         };
-  
       });
     });
     fs.readFile(`./test_cases/${test_case}/nxgen_output.json`, 'utf8', (err, content) => {
@@ -190,7 +191,6 @@ function checkDifference() {
             .replace("\r", "")
             .replace("\"", "")
             .replace("\n", "")
-            .replace(".|While testing Location", ".  While testing Location")
             //.replace("|Rule 30: Emissions may not exceed 11k.", "")
             .replace("signaling", "signaling"),
         }
