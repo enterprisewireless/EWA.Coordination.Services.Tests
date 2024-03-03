@@ -1,4 +1,3 @@
-LogID,LineNum,Loc,LocNum,FreqLow,FreqHi,FreqType,Class,Emission,Power,Erp,Haat,TxAntHgt,CoordCode,ErrTxt
 20220919115903,2,A,1,151.1225,0,,FB6,11K2F1E,40,10,775.7,15.2,A,The Maximum HAAT of 670 for the Safe Harbor Table was exceeded.  While testing Location 2|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 31: The State Must Be PR or VI
 20220919115903,2,A,1,151.1375,0,,FB6,11K2F1E,40,10,775.7,15.2,A,The Maximum HAAT of 670 for the Safe Harbor Table was exceeded.  While testing Location 2|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 31: The State Must Be PR or VI
 20220919115903,2,A,1,151.1525,0,,FB6,11K2F1E,40,10,775.7,15.2,A,The Maximum HAAT of 670 for the Safe Harbor Table was exceeded.  While testing Location 2|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 31: The State Must Be PR or VI
