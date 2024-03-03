@@ -1,0 +1,61 @@
+{
+    "licenseType": "IB",
+    "scheduleGhs": [
+        {
+            "lineNum": 1,
+            "locationCode": "A",
+            "locationNum": 1,
+            "frequencyLow": 25,
+            "frequencyHigh": 49.99999,
+            "stationClass": "FB2",
+            "emissionDesignator": "4K00F1W",
+            "power": 10,
+            "erp": 10,
+            "haat": 20,
+            "transmittingAntennaHeight": 23,
+            "coordinationCode": "A",
+            "requestNum": 1
+        },
+        {
+            "lineNum": 2,
+            "locationCode": "G",
+            "locationNum": 2,
+            "frequencyLow": 30.64,
+            "frequencyHigh": null,
+            "stationClass": "MO",
+            "emissionDesignator": "4K00F1W",
+            "power": 10,
+            "erp": 10,
+            "haat": null,
+            "transmittingAntennaHeight": null,
+            "coordinationCode": "A",
+            "requestNum": 2
+        }
+    ],
+    "scheduleEs": [
+        {
+            "state": null,
+            "city": null,
+            "county": null,
+            "locationNum": 2,
+            "locationCode": "G",
+            "latitude": 0,
+            "longitude": 0,
+            "areaOfOperation": "1",
+            "serviceAreaRadius": 5,
+            "elevation": null
+        },
+        {
+            "state": "OR",
+            "city": "Bend",
+            "county": null,
+            "locationNum": 1,
+            "locationCode": "A",
+            "latitude": 44.058167,
+            "longitude": -121.315306,
+            "areaOfOperation": null,
+            "serviceAreaRadius": null,
+            "elevation": 1200
+        }
+    ]
+}

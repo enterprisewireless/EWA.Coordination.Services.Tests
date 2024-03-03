@@ -1,0 +1,45 @@
+{
+  "A|1|43.86|43.86|FB2|4K00F1W|A": {
+    "nxgen": "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.",
+    "legacy": "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation. Base transmits on high side."
+  },
+  "A|1|43.88|43.88|FB2|4K00F1W|A": {
+    "nxgen": "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.",
+    "legacy": "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation. Base transmits on high side."
+  },
+  "A|1|43.9|43.9|FB2|4K00F1W|A": {
+    "nxgen": "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.",
+    "legacy": "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation. Base transmits on high side."
+  },
+  "A|1|43.92|43.92|FB2|4K00F1W|A": {
+    "nxgen": "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.",
+    "legacy": "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation. Base transmits on high side."
+  },
+  "A|1|43.94|43.94|FB2|4K00F1W|A": {
+    "nxgen": "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.",
+    "legacy": "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation. Base transmits on high side."
+  },
+  "A|1|44.36|44.36|FB2|4K00F1W|A": {
+    "nxgen": "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.",
+    "legacy": "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation. Base transmits on high side."
+  },
+  "A|1|44.38|44.38|FB2|4K00F1W|A": {
+    "nxgen": "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.",
+    "legacy": "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation. Base transmits on high side."
+  },
+  "A|1|44.4|44.4|FB2|4K00F1W|A": {
+    "nxgen": "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.",
+    "legacy": "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation. Base transmits on high side."
+  },
+  "A|1|44.42|44.42|FB2|4K00F1W|A": {
+    "nxgen": "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.",
+    "legacy": "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation. Base transmits on high side."
+  },
+  "A|1|44.44|44.44|FB2|4K00F1W|A": {
+    "nxgen": "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.",
+    "legacy": "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation. Base transmits on high side."
+  },
+  "Loc|LocNum|FreqLow|FreqHi|Class|Emission|CoordCode": {
+    "legacy": "ErrTxt"
+  }
+}
