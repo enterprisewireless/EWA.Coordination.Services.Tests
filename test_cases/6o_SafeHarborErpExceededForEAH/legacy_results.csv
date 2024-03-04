@@ -1,4 +1,3 @@
-LogID,LineNum,Loc,LocNum,FreqLow,FreqHi,FreqType,Class,Emission,Power,Erp,Haat,TxAntHgt,CoordCode,ErrTxt
 20190810123928,1,A,1,422.5125,422.5125,,FB8,11K3F1D,100,250,149.4,226,A,The Maximum ERP for the EAH of 177.40 is 150.00 Watts.|Rule 30: Telemetry operations will be authorized on a secondary basis.
 20190810123928,9,A,1,422.6375,422.6375,,FB8,11K3F1D,100,250,149.4,226,A,The Maximum ERP for the EAH of 177.40 is 150.00 Watts.|Rule 30: Telemetry operations will be authorized on a secondary basis.
 20190810123928,17,A,1,422.8625,422.8625,,FB8,11K3F1D,100,250,149.4,226,A,The Maximum ERP for the EAH of 177.40 is 150.00 Watts.|Rule 30: Telemetry operations will be authorized on a secondary basis.

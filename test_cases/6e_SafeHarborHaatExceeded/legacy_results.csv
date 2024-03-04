@@ -1,4 +1,3 @@
-LogID,LineNum,Loc,LocNum,FreqLow,FreqHi,FreqType,Class,Emission,Power,Erp,Haat,TxAntHgt,CoordCode,ErrTxt
 20230321171624,7,D,7,150.815,0,,FB2,11K0F3E,100,50,708,27.4,A,The Maximum HAAT of 670 for the Safe Harbor Table was exceeded.  While testing Location 8|The ERP exceeded the Safe Harbor Table limit of 12.  While testing Location 8|Rule 132: LA Frequency
 20230321171624,7,D,7,150.845,0,,FB2,11K0F3E,100,50,708,27.4,A,The Maximum HAAT of 670 for the Safe Harbor Table was exceeded.  While testing Location 8|The ERP exceeded the Safe Harbor Table limit of 12.  While testing Location 8|Rule 132: LA Frequency
 20230321171624,7,D,7,150.8525,0,,FB2,11K0F3E,100,50,708,27.4,A,The Maximum HAAT of 670 for the Safe Harbor Table was exceeded.  While testing Location 8|The ERP exceeded the Safe Harbor Table limit of 12.  While testing Location 8|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 132: LA Frequency

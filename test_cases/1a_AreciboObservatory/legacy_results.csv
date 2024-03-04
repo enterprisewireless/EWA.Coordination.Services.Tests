@@ -1,4 +1,3 @@
-LogID,LineNum,Loc,LocNum,FreqLow,FreqHi,FreqType,Class,Emission,Power,Erp,Haat,TxAntHgt,CoordCode,ErrTxt
 20231212195408,1,A,1,464.25,464.25,,FB2,11K2F3E,50,75,-0.2,14,A,A copy of this application needs to be sent to the Arecibo Observatory in Puerto Rico.
 20231212195408,2,A,1,464.25,464.25,,FB2,7K60FXE,50,75,-0.2,14,C,
 20231212195408,3,G,2,464.25,0,,MO,11K2F3E,25,25,0,0,A,

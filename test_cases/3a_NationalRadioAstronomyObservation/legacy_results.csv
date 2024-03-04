@@ -1,4 +1,3 @@
-LogID,LineNum,Loc,LocNum,FreqLow,FreqHi,FreqType,Class,Emission,Power,Erp,Haat,TxAntHgt,CoordCode,ErrTxt
 20230428113850,1,G,1,461.4125,0,,MO,11K2F3E,4,4,0,0,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
 20230428113850,2,G,1,461.4125,461.4125,,MO,7K60FXD,4,4,0,0,C,
 20230428113850,3,G,1,461.4125,461.4125,,MO,7K60FXE,4,4,0,0,C,
