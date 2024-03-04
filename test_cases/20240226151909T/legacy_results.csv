@@ -1,4 +1,3 @@
-LogID,LineNum,Loc,LocNum,FreqLow,FreqHi,FreqType,Class,Emission,Power,Erp,Haat,TxAntHgt,CoordCode,ErrTxt
 20240226151909,1,A,1,27.86,0,,FB2,4K00F1W,10,10,20,23,A,Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.
 20240226151909,1,A,1,29.71,0,,FB2,4K00F1W,10,10,20,23,A,
 20240226151909,1,A,1,29.73,0,,FB2,4K00F1W,10,10,20,23,A,
