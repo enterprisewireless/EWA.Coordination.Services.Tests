@@ -1,0 +1,17 @@
+﻿LogID,LineNum,Loc,LocNum,FreqLow,FreqHi,FreqType,Class,Emission,Power,Erp,Haat,TxAntHgt,CoordCode,ErrTxt
+2.02202E+13,1,G,1,72.1,0,,MO,30K2F3E,0.12,0.12,0,0,A,Rule 23: Shared with fixed stations in other services and not protected from interference.|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+2.02202E+13,2,G,1,72.3,0,,MO,30K2F3E,0.12,0.12,0,0,A,Rule 23: Shared with fixed stations in other services and not protected from interference.|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+2.02202E+13,3,G,1,72.5,0,,MO,30K2F3E,0.12,0.12,0,0,A,This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.
+2.02202E+13,4,G,1,72.7,0,,MO,30K2F3E,0.12,0.12,0,0,A,This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.
+2.02202E+13,5,G,1,72.9,0,,MO,30K2F3E,0.12,0.12,0,0,A,This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.
+2.02202E+13,6,G,1,75.5,0,,MO,30K2F3E,0.12,0.12,0,0,A,This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.
+2.02202E+13,7,G,1,75.7,0,,MO,30K2F3E,0.12,0.12,0,0,A,This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.
+2.02202E+13,8,G,1,75.9,0,,MO,30K2F3E,0.12,0.12,0,0,A,This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.
+2.02202E+13,9,H,2,72.1,0,,MO,30K2F3E,0.12,0.12,0,0,A,Rule 23: Shared with fixed stations in other services and not protected from interference.|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+2.02202E+13,10,H,2,72.3,0,,MO,30K2F3E,0.12,0.12,0,0,A,Rule 23: Shared with fixed stations in other services and not protected from interference.|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+2.02202E+13,11,H,2,72.5,0,,MO,30K2F3E,0.12,0.12,0,0,A,This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.
+2.02202E+13,12,H,2,72.7,0,,MO,30K2F3E,0.12,0.12,0,0,A,This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.
+2.02202E+13,13,H,2,72.9,0,,MO,30K2F3E,0.12,0.12,0,0,A,This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.
+2.02202E+13,14,H,2,75.5,0,,MO,30K2F3E,0.12,0.12,0,0,A,This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.
+2.02202E+13,15,H,2,75.7,0,,MO,30K2F3E,0.12,0.12,0,0,A,This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.
+2.02202E+13,16,H,2,75.9,0,,MO,30K2F3E,0.12,0.12,0,0,A,This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.

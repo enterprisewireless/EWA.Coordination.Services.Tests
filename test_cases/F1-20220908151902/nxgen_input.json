@@ -1,0 +1,63 @@
+{
+    "licenseType": "IB",
+    "scheduleGhs": [
+        {
+            "lineNum": "1",
+            "locationCode": "A",
+            "locationNum": "1",
+            "frequencyLow": "30.64",
+            "frequencyHigh": "0",
+            "frequencyType": null,
+            "stationClass": "FB",
+            "emissionDesignator": "11K2F3E",
+            "power": "100",
+            "erp": "200",
+            "haat": "66.8",
+            "transmittingAntennaHeight": "24.4",
+            "coordCode": "A",
+            "requestNum": "0"
+        },
+        {
+            "lineNum": "2",
+            "locationCode": "G",
+            "locationNum": "2",
+            "frequencyLow": "30.64",
+            "frequencyHigh": "0",
+            "frequencyType": null,
+            "stationClass": "MO",
+            "emissionDesignator": "11K2F3E",
+            "power": "100",
+            "erp": "100",
+            "haat": "0",
+            "transmittingAntennaHeight": "0",
+            "coordCode": "A",
+            "requestNum": "0"
+        }
+    ],
+    "scheduleEs": [
+        {
+            "state": "AR",
+            "city": "Yellville",
+            "county": "MARION",
+            "locationNum": "1",
+            "locationCode": "A",
+            "latitude": "36.092306",
+            "longitude": "-92.606278",
+            "areaOfOperation": null,
+            "serviceAreaRadius": null,
+            "elevation": "298"
+        },
+        {
+            "state": null,
+            "city": null,
+            "county": null,
+            "locationNum": "2",
+            "locationCode": "G",
+            "latitude": "0",
+            "longitude": "0",
+            "areaOfOperation": "1",
+            "serviceAreaRadius": "50",
+            "elevation": null
+        }
+    ]
+}

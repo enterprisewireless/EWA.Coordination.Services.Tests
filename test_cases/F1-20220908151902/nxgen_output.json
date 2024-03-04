@@ -1,0 +1,35 @@
+{
+  "results": [
+    {
+      "recordNum": 1,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 30.64,
+      "frequencyHigh": 30.64,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "FB",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 2,
+      "lineNum": 2,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 30.64,
+      "frequencyHigh": 30.64,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    }
+  ],
+  "resultCount": 2
+}

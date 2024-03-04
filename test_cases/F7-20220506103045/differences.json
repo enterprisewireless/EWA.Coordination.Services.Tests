@@ -1,0 +1,92 @@
+{
+  "A|1|460.9|460.9|FB8|11K2F1D|A": {
+    "nxgen": "Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population LOUISVILLE, KY|Rule 64: Power Must Be <= 30 Watts|Rule 65: Central station may communicate with police and fire.",
+    "legacy": "Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population LOUISVILLE, KY|Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population CINCINNATI, OH|Rule 64: Power Must Be <= 30 Watts|Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
+  },
+  "G|2|465.9|465.9|MO8|11K2F1D|A": {
+    "nxgen": "Rule 64: Power Must Be <= 30 Watts",
+    "legacy": "Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population LOUISVILLE, KY|Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population CINCINNATI, OH|Rule 64: Power Must Be <= 30 Watts|Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
+  },
+  "B|3|460.925|460.925|FB8|11K2F1D|A": {
+    "nxgen": "Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population LOUISVILLE, KY|Rule 64: Power Must Be <= 30 Watts|Rule 65: Central station may communicate with police and fire.",
+    "legacy": "Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population LOUISVILLE, KY|Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population CINCINNATI, OH|Rule 64: Power Must Be <= 30 Watts|Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
+  },
+  "H|4|465.925|465.925|MO8|11K2F1D|A": {
+    "nxgen": "Rule 64: Power Must Be <= 30 Watts",
+    "legacy": "Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population LOUISVILLE, KY|Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population CINCINNATI, OH|Rule 64: Power Must Be <= 30 Watts|Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
+  },
+  "C|5|451.0375|451.0375|FB8|11K2F1D|A": {
+    "nxgen": "Rule 30: Emissions may not exceed 11k.|Rule 130: IW Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 130: IW Frequency"
+  },
+  "C|5|464.6875|464.6875|FB8|11K2F1D|A": {
+    "nxgen": "Rule 30: Emissions may not exceed 11k.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis."
+  },
+  "I|6|451.0375|451.0375|MO8|11K2F1D|A": {
+    "nxgen": "Rule 30: Emissions may not exceed 11k.|Rule 130: IW Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 130: IW Frequency"
+  },
+  "I|6|456.0375|456.0375|MO8|11K2F1D|A": {
+    "nxgen": "Rule 30: Emissions may not exceed 11k.|Rule 130: IW Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 130: IW Frequency"
+  },
+  "I|6|464.6875|464.6875|MO8|11K2F1D|A": {
+    "nxgen": "Rule 30: Emissions may not exceed 11k.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis."
+  },
+  "I|6|469.6875|469.6875|MO8|11K2F1D|A": {
+    "nxgen": "Rule 30: Emissions may not exceed 11k.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis."
+  },
+  "D|7|460.9|460.9|FB8|11K2F1D|A": {
+    "nxgen": "Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population LOUISVILLE, KY|Rule 64: Power Must Be <= 30 Watts|Rule 65: Central station may communicate with police and fire.",
+    "legacy": "Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population LOUISVILLE, KY|Rule 64: Power Must Be <= 30 Watts|Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
+  },
+  "J|8|465.9|465.9|MO8|11K2F1D|A": {
+    "nxgen": "Rule 64: Power Must Be <= 30 Watts",
+    "legacy": "Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population LOUISVILLE, KY|Rule 64: Power Must Be <= 30 Watts|Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
+  },
+  "E|9|460.95|460.95|FB8|11K2F1D|A": {
+    "nxgen": "Rule 64: Power Must Be <= 30 Watts|Rule 65: Central station may communicate with police and fire.",
+    "legacy": "Rule 64: Power Must Be <= 30 Watts|Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
+  },
+  "K|10|465.95|465.95|MO8|11K2F1D|A": {
+    "nxgen": "Rule 64: Power Must Be <= 30 Watts",
+    "legacy": "Rule 64: Power Must Be <= 30 Watts|Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
+  },
+  "F|11|460.975|460.975|FB8|11K2F1D|A": {
+    "nxgen": "Rule 64: Power Must Be <= 30 Watts|Rule 65: Central station may communicate with police and fire.|Rule 66: Frequency is for CS - Central Station Alarm",
+    "legacy": "Rule 64: Power Must Be <= 30 Watts|Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire.|Rule 66: Frequency is for CS - Central Station Alarm"
+  },
+  "L|12|465.975|465.975|MO8|11K2F1D|A": {
+    "nxgen": "Rule 64: Power Must Be <= 30 Watts|Rule 66: Frequency is for CS - Central Station Alarm",
+    "legacy": "Rule 64: Power Must Be <= 30 Watts|Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 66: Frequency is for CS - Central Station Alarm"
+  },
+  "G|2|460.9|460.9|MO8|11K2F1D|A": {
+    "nxgen": "Rule 64: Power Must Be <= 30 Watts|Rule 65: Central station may communicate with police and fire.",
+    "legacy": "Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population LOUISVILLE, KY|Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population CINCINNATI, OH|Rule 64: Power Must Be <= 30 Watts|Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
+  },
+  "H|4|460.925|460.925|MO8|11K2F1D|A": {
+    "nxgen": "Rule 64: Power Must Be <= 30 Watts|Rule 65: Central station may communicate with police and fire.",
+    "legacy": "Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population LOUISVILLE, KY|Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population CINCINNATI, OH|Rule 64: Power Must Be <= 30 Watts|Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
+  },
+  "J|8|460.9|460.9|MO8|11K2F1D|A": {
+    "nxgen": "Rule 64: Power Must Be <= 30 Watts|Rule 65: Central station may communicate with police and fire.",
+    "legacy": "Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population LOUISVILLE, KY|Rule 64: Power Must Be <= 30 Watts|Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
+  },
+  "K|10|460.95|460.95|MO8|11K2F1D|A": {
+    "nxgen": "Rule 64: Power Must Be <= 30 Watts|Rule 65: Central station may communicate with police and fire.",
+    "legacy": "Rule 64: Power Must Be <= 30 Watts|Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
+  },
+  "L|12|460.975|460.975|MO8|11K2F1D|A": {
+    "nxgen": "Rule 64: Power Must Be <= 30 Watts|Rule 65: Central station may communicate with police and fire.|Rule 66: Frequency is for CS - Central Station Alarm",
+    "legacy": "Rule 64: Power Must Be <= 30 Watts|Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire.|Rule 66: Frequency is for CS - Central Station Alarm"
+  },
+  "Loc|LocNum|FreqLow|FreqHi|Class|Emission|CoordCode": {
+    "legacy": "ErrTxt"
+  },
+  "||||||": {
+    "legacy": ""
+  }
+}
