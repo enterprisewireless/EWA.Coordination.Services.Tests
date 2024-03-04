@@ -1,0 +1,111 @@
+{
+  "results": [
+    {
+      "recordNum": 1,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 464.25,
+      "frequencyHigh": 464.25,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "A copy of this application needs to be sent to the Arecibo Observatory in Puerto Rico."
+      ]
+    },
+    {
+      "recordNum": 2,
+      "lineNum": 2,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 464.25,
+      "frequencyHigh": 464.25,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXE",
+      "stationClassCode": "FB2",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 3,
+      "lineNum": 3,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 464.25,
+      "frequencyHigh": 464.25,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 4,
+      "lineNum": 4,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 464.25,
+      "frequencyHigh": 464.25,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXE",
+      "stationClassCode": "MO",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 5,
+      "lineNum": 5,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 469.25,
+      "frequencyHigh": 469.25,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 6,
+      "lineNum": 6,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 469.25,
+      "frequencyHigh": 469.25,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXE",
+      "stationClassCode": "MO",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 7,
+      "lineNum": 7,
+      "locationCode": "H",
+      "locationNum": 3,
+      "frequencyLow": 469.25,
+      "frequencyHigh": 469.25,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "FX1",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 8,
+      "lineNum": 8,
+      "locationCode": "H",
+      "locationNum": 3,
+      "frequencyLow": 469.25,
+      "frequencyHigh": 469.25,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXE",
+      "stationClassCode": "FX1",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    }
+  ],
+  "resultCount": 8
+}
