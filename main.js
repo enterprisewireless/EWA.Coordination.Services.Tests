@@ -20,18 +20,13 @@ const authorizationFormData = {
   scope: process.env.SCOPE
 };
 
-// Convert the data to URL-encoded form data
-const authorizationFormDataEncoded = qs.stringify(authorizationFormData);
-
 let bearerToken;
 
-// Define the request headers
-const headers = {
-  'Content-Type': 'application/x-www-form-urlencoded'
-};
-
-axios.post(`https://login.microsoftonline.com/${process.env.TENANT_ID}/oauth2/v2.0/token`, authorizationFormDataEncoded, {
-  'Content-Type': 'application/x-www-form-urlencoded'
+axios({
+  method: 'post',
+  url: `https://login.microsoftonline.com/${process.env.TENANT_ID}/oauth2/v2.0/token`,
+  data: authorizationFormData,
+  headers: { 'Content-Type': 'application/x-www-form-urlencoded' }
 })
     .then(response => {
         bearerToken = response.data.access_token;
@@ -42,7 +37,13 @@ axios.post(`https://login.microsoftonline.com/${process.env.TENANT_ID}/oauth2/v2
           });
 
           console.log(endpointUrl);
-          axios.post(endpointUrl, requestBody, {headers: {'Authorization': `Bearer ${bearerToken}`}, httpsAgent: httpsAgent})
+          axios({
+            method: 'post',
+            url: endpointUrl,
+            data: requestBody, 
+            headers: {'Authorization': `Bearer ${bearerToken}`}, 
+            httpsAgent: httpsAgent
+          })
           .then(response => {
               // Write response body to JSON file
               writeJSONToFile(responseBodyFilePath, response.data);
@@ -52,7 +53,13 @@ axios.post(`https://login.microsoftonline.com/${process.env.TENANT_ID}/oauth2/v2
               console.error('Error making local HTTP request:', error.response ? error.response.data : error.message);
           });
         } else {
-          axios.post(endpointUrl, requestBody, {headers: {'Authorization': `Bearer ${bearerToken}`}})
+          axios({
+            method: 'post',
+            url: endpointUrl, 
+            data: requestBody,
+            headers: {'Authorization': `Bearer ${bearerToken}`},
+            // timeout: 240000
+          })
           .then(response => {
               // Write response body to JSON file
               writeJSONToFile(responseBodyFilePath, response.data);
@@ -188,9 +195,6 @@ function checkDifference() {
   
         nxgenData[key.toString()] = {
           "limitationMessages": result.limitationMessages.join("|")
-            .replace("\r", "")
-            .replace("\"", "")
-            .replace("\n", "")
             //.replace("|Rule 30: Emissions may not exceed 11k.", "")
             .replace("signaling", "signaling"),
         }
@@ -215,10 +219,11 @@ function checkDifference() {
         }
       }
   
-      fs.writeFile(`./test_cases/${test_case}/differences.json`, JSON.stringify(difference, null, 2), err => {
+      differences_path = `./test_cases/${test_case}/differences_${environment}.json` 
+      fs.writeFile(differences_path, JSON.stringify(difference, null, 2), err => {
         // Checking for errors 
         if (err) throw err;
-        console.log(`Done writing. Results are in ./test_cases/${test_case}/differences.json`);
+        console.log(`Done writing. Results are in ${differences_path}`);
       });
     });
   }); 
