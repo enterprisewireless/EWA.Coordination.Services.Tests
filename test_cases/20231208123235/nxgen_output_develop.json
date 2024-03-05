@@ -1,0 +1,2945 @@
+{
+  "results": [
+    {
+      "recordNum": 1,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.025,
+      "frequencyHigh": 451.025,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 2,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.0375,
+      "frequencyHigh": 451.0375,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 3,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.05,
+      "frequencyHigh": 451.05,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 4,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.0625,
+      "frequencyHigh": 451.0625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 5,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.075,
+      "frequencyHigh": 451.075,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 6,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.0875,
+      "frequencyHigh": 451.0875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 7,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.1,
+      "frequencyHigh": 451.1,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 8,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.1125,
+      "frequencyHigh": 451.1125,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 9,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.125,
+      "frequencyHigh": 451.125,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 10,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.1375,
+      "frequencyHigh": 451.1375,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 11,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.15,
+      "frequencyHigh": 451.15,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 12,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.1625,
+      "frequencyHigh": 451.1625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 13,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.175,
+      "frequencyHigh": 451.175,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 14,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.1875,
+      "frequencyHigh": 451.1875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 15,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.2,
+      "frequencyHigh": 451.2,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 16,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.2125,
+      "frequencyHigh": 451.2125,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 17,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.225,
+      "frequencyHigh": 451.225,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 18,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.2375,
+      "frequencyHigh": 451.2375,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
+      ]
+    },
+    {
+      "recordNum": 19,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.25,
+      "frequencyHigh": 451.25,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 20,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.2625,
+      "frequencyHigh": 451.2625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 21,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.275,
+      "frequencyHigh": 451.275,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 22,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.2875,
+      "frequencyHigh": 451.2875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 23,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.3,
+      "frequencyHigh": 451.3,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 24,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.3125,
+      "frequencyHigh": 451.3125,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 25,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.325,
+      "frequencyHigh": 451.325,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 26,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.3375,
+      "frequencyHigh": 451.3375,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
+      ]
+    },
+    {
+      "recordNum": 27,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.35,
+      "frequencyHigh": 451.35,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 28,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.3625,
+      "frequencyHigh": 451.3625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 29,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.375,
+      "frequencyHigh": 451.375,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 30,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.3875,
+      "frequencyHigh": 451.3875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 31,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.4,
+      "frequencyHigh": 451.4,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 32,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.4125,
+      "frequencyHigh": 451.4125,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 33,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.425,
+      "frequencyHigh": 451.425,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 34,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.4375,
+      "frequencyHigh": 451.4375,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
+      ]
+    },
+    {
+      "recordNum": 35,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.45,
+      "frequencyHigh": 451.45,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 36,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.4625,
+      "frequencyHigh": 451.4625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 37,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.475,
+      "frequencyHigh": 451.475,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 38,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.4875,
+      "frequencyHigh": 451.4875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 39,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.5,
+      "frequencyHigh": 451.5,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 40,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.5125,
+      "frequencyHigh": 451.5125,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 41,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.525,
+      "frequencyHigh": 451.525,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 42,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.5375,
+      "frequencyHigh": 451.5375,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
+      ]
+    },
+    {
+      "recordNum": 43,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.55,
+      "frequencyHigh": 451.55,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 44,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.55625,
+      "frequencyHigh": 451.55625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 33: Emissions may not exceed 6k"
+      ]
+    },
+    {
+      "recordNum": 45,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.5625,
+      "frequencyHigh": 451.5625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 46,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.56875,
+      "frequencyHigh": 451.56875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 33: Emissions may not exceed 6k"
+      ]
+    },
+    {
+      "recordNum": 47,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.575,
+      "frequencyHigh": 451.575,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 48,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.5875,
+      "frequencyHigh": 451.5875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 49,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.6,
+      "frequencyHigh": 451.6,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 50,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.60625,
+      "frequencyHigh": 451.60625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 33: Emissions may not exceed 6k"
+      ]
+    },
+    {
+      "recordNum": 51,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.6125,
+      "frequencyHigh": 451.6125,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 52,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.61875,
+      "frequencyHigh": 451.61875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 33: Emissions may not exceed 6k"
+      ]
+    },
+    {
+      "recordNum": 53,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.625,
+      "frequencyHigh": 451.625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 54,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.6375,
+      "frequencyHigh": 451.6375,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
+      ]
+    },
+    {
+      "recordNum": 55,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.65,
+      "frequencyHigh": 451.65,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 56,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.65625,
+      "frequencyHigh": 451.65625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 33: Emissions may not exceed 6k"
+      ]
+    },
+    {
+      "recordNum": 57,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.6625,
+      "frequencyHigh": 451.6625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 58,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.66875,
+      "frequencyHigh": 451.66875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 33: Emissions may not exceed 6k"
+      ]
+    },
+    {
+      "recordNum": 59,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.675,
+      "frequencyHigh": 451.675,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 60,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.6875,
+      "frequencyHigh": 451.6875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 61,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.7,
+      "frequencyHigh": 451.7,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 62,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.70625,
+      "frequencyHigh": 451.70625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 33: Emissions may not exceed 6k"
+      ]
+    },
+    {
+      "recordNum": 63,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.7125,
+      "frequencyHigh": 451.7125,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 64,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.71875,
+      "frequencyHigh": 451.71875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 33: Emissions may not exceed 6k"
+      ]
+    },
+    {
+      "recordNum": 65,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.725,
+      "frequencyHigh": 451.725,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 66,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.7375,
+      "frequencyHigh": 451.7375,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 67,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.75,
+      "frequencyHigh": 451.75,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 68,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.75625,
+      "frequencyHigh": 451.75625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 33: Emissions may not exceed 6k"
+      ]
+    },
+    {
+      "recordNum": 69,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.7625,
+      "frequencyHigh": 451.7625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 70,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.76875,
+      "frequencyHigh": 451.76875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 33: Emissions may not exceed 6k"
+      ]
+    },
+    {
+      "recordNum": 71,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.775,
+      "frequencyHigh": 451.775,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 72,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.7875,
+      "frequencyHigh": 451.7875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 73,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.825,
+      "frequencyHigh": 451.825,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 74,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.8375,
+      "frequencyHigh": 451.8375,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 75,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.85,
+      "frequencyHigh": 451.85,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 76,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.8625,
+      "frequencyHigh": 451.8625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 77,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.875,
+      "frequencyHigh": 451.875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 78,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.8875,
+      "frequencyHigh": 451.8875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 79,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.9,
+      "frequencyHigh": 451.9,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 80,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.9125,
+      "frequencyHigh": 451.9125,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 81,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.925,
+      "frequencyHigh": 451.925,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 82,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.9375,
+      "frequencyHigh": 451.9375,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 83,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.95,
+      "frequencyHigh": 451.95,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 84,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.9625,
+      "frequencyHigh": 451.9625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 85,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.975,
+      "frequencyHigh": 451.975,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 86,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 451.9875,
+      "frequencyHigh": 451.9875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 87,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452,
+      "frequencyHigh": 452,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 88,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.0125,
+      "frequencyHigh": 452.0125,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 89,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.025,
+      "frequencyHigh": 452.025,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 90,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.0375,
+      "frequencyHigh": 452.0375,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 91,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.05,
+      "frequencyHigh": 452.05,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 92,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.0625,
+      "frequencyHigh": 452.0625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 93,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.075,
+      "frequencyHigh": 452.075,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 94,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.0875,
+      "frequencyHigh": 452.0875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 95,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.1125,
+      "frequencyHigh": 452.1125,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 96,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.125,
+      "frequencyHigh": 452.125,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 97,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.1375,
+      "frequencyHigh": 452.1375,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 98,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.15,
+      "frequencyHigh": 452.15,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 99,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.1625,
+      "frequencyHigh": 452.1625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 100,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.175,
+      "frequencyHigh": 452.175,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 101,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.1875,
+      "frequencyHigh": 452.1875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 102,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.2,
+      "frequencyHigh": 452.2,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 103,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.2125,
+      "frequencyHigh": 452.2125,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 104,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.225,
+      "frequencyHigh": 452.225,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 105,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.2375,
+      "frequencyHigh": 452.2375,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 106,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.25,
+      "frequencyHigh": 452.25,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 107,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.2625,
+      "frequencyHigh": 452.2625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 108,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.275,
+      "frequencyHigh": 452.275,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 109,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.2875,
+      "frequencyHigh": 452.2875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 110,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.3,
+      "frequencyHigh": 452.3,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 111,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.3125,
+      "frequencyHigh": 452.3125,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
+      ]
+    },
+    {
+      "recordNum": 112,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.325,
+      "frequencyHigh": 452.325,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 134: Frequency is for LR - Railroad"
+      ]
+    },
+    {
+      "recordNum": 113,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.3375,
+      "frequencyHigh": 452.3375,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 114,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.35,
+      "frequencyHigh": 452.35,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 115,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.3625,
+      "frequencyHigh": 452.3625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 116,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.375,
+      "frequencyHigh": 452.375,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 134: Frequency is for LR - Railroad"
+      ]
+    },
+    {
+      "recordNum": 117,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.3875,
+      "frequencyHigh": 452.3875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 118,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.4,
+      "frequencyHigh": 452.4,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 119,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.4125,
+      "frequencyHigh": 452.4125,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
+      ]
+    },
+    {
+      "recordNum": 120,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.425,
+      "frequencyHigh": 452.425,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 134: Frequency is for LR - Railroad"
+      ]
+    },
+    {
+      "recordNum": 121,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.4375,
+      "frequencyHigh": 452.4375,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 122,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.45,
+      "frequencyHigh": 452.45,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 123,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.4625,
+      "frequencyHigh": 452.4625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 124,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.475,
+      "frequencyHigh": 452.475,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 134: Frequency is for LR - Railroad"
+      ]
+    },
+    {
+      "recordNum": 125,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.4875,
+      "frequencyHigh": 452.4875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 126,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.5,
+      "frequencyHigh": 452.5,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 127,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.5125,
+      "frequencyHigh": 452.5125,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
+      ]
+    },
+    {
+      "recordNum": 128,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.525,
+      "frequencyHigh": 452.525,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 132: LA Frequency"
+      ]
+    },
+    {
+      "recordNum": 129,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.5375,
+      "frequencyHigh": 452.5375,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 132: LA Frequency"
+      ]
+    },
+    {
+      "recordNum": 130,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.55,
+      "frequencyHigh": 452.55,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 132: LA Frequency"
+      ]
+    },
+    {
+      "recordNum": 131,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.5625,
+      "frequencyHigh": 452.5625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 132: LA Frequency"
+      ]
+    },
+    {
+      "recordNum": 132,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.575,
+      "frequencyHigh": 452.575,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 132: LA Frequency"
+      ]
+    },
+    {
+      "recordNum": 133,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.5875,
+      "frequencyHigh": 452.5875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 132: LA Frequency"
+      ]
+    },
+    {
+      "recordNum": 134,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.6,
+      "frequencyHigh": 452.6,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 132: LA Frequency"
+      ]
+    },
+    {
+      "recordNum": 135,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.6125,
+      "frequencyHigh": 452.6125,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 132: LA Frequency"
+      ]
+    },
+    {
+      "recordNum": 136,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.625,
+      "frequencyHigh": 452.625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 137,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.6375,
+      "frequencyHigh": 452.6375,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 138,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.65,
+      "frequencyHigh": 452.65,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 139,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.6625,
+      "frequencyHigh": 452.6625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 140,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.675,
+      "frequencyHigh": 452.675,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 141,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.6875,
+      "frequencyHigh": 452.6875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 142,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.7,
+      "frequencyHigh": 452.7,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 143,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.7125,
+      "frequencyHigh": 452.7125,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 144,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.725,
+      "frequencyHigh": 452.725,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 145,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.7375,
+      "frequencyHigh": 452.7375,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 146,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.75,
+      "frequencyHigh": 452.75,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 147,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.7625,
+      "frequencyHigh": 452.7625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
+      ]
+    },
+    {
+      "recordNum": 148,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.775,
+      "frequencyHigh": 452.775,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 134: Frequency is for LR - Railroad"
+      ]
+    },
+    {
+      "recordNum": 149,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.7875,
+      "frequencyHigh": 452.7875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 150,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.8,
+      "frequencyHigh": 452.8,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 151,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.8125,
+      "frequencyHigh": 452.8125,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 152,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.825,
+      "frequencyHigh": 452.825,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 134: Frequency is for LR - Railroad"
+      ]
+    },
+    {
+      "recordNum": 153,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.8375,
+      "frequencyHigh": 452.8375,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 154,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.85,
+      "frequencyHigh": 452.85,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 155,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.8625,
+      "frequencyHigh": 452.8625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 184: FCC Rule 84: Max antenna height for LP fixed stations will be 23 meters (75 feet) above ground."
+      ]
+    },
+    {
+      "recordNum": 156,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.875,
+      "frequencyHigh": 452.875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 134: Frequency is for LR - Railroad"
+      ]
+    },
+    {
+      "recordNum": 157,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.8875,
+      "frequencyHigh": 452.8875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 158,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.975,
+      "frequencyHigh": 452.975,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 159,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 452.9875,
+      "frequencyHigh": 452.9875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 160,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 453,
+      "frequencyHigh": 453,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 161,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 453.0125,
+      "frequencyHigh": 453.0125,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 162,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 454,
+      "frequencyHigh": 454,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 163,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 457.525,
+      "frequencyHigh": 457.525,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 12: This frequency may not be used aboard aircraft in flight.",
+        "Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.",
+        "Rule 160: FCC Rule 60: This CH frequency is not subject to the 2 Watt ERP restriction listed in (c)(60)(i).",
+        "Rule 160: FCC Rule 60: Applicant Type Must be CH - Cargo Handling",
+        "Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
+      ]
+    },
+    {
+      "recordNum": 164,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 457.55,
+      "frequencyHigh": 457.55,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 12: This frequency may not be used aboard aircraft in flight.",
+        "Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.",
+        "Rule 160: FCC Rule 60: This CH frequency is not subject to the 2 Watt ERP restriction listed in (c)(60)(i).",
+        "Rule 160: FCC Rule 60: Applicant Type Must be CH - Cargo Handling",
+        "Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
+      ]
+    },
+    {
+      "recordNum": 165,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 457.5625,
+      "frequencyHigh": 457.5625,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 12: This frequency may not be used aboard aircraft in flight.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.",
+        "Rule 160: FCC Rule 60: This CH frequency is not subject to the 2 Watt ERP restriction listed in (c)(60)(i).",
+        "Rule 160: FCC Rule 60: Applicant Type Must be CH - Cargo Handling",
+        "Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
+      ]
+    },
+    {
+      "recordNum": 166,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 457.575,
+      "frequencyHigh": 457.575,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 12: This frequency may not be used aboard aircraft in flight.",
+        "Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.",
+        "Rule 160: FCC Rule 60: This CH frequency is not subject to the 2 Watt ERP restriction listed in (c)(60)(i).",
+        "Rule 160: FCC Rule 60: Applicant Type Must be CH - Cargo Handling",
+        "Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
+      ]
+    },
+    {
+      "recordNum": 167,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 457.5875,
+      "frequencyHigh": 457.5875,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 12: This frequency may not be used aboard aircraft in flight.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.",
+        "Rule 160: FCC Rule 60: This CH frequency is not subject to the 2 Watt ERP restriction listed in (c)(60)(i).",
+        "Rule 160: FCC Rule 60: Applicant Type Must be CH - Cargo Handling",
+        "Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
+      ]
+    },
+    {
+      "recordNum": 168,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 457.6,
+      "frequencyHigh": 457.6,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 12: This frequency may not be used aboard aircraft in flight.",
+        "Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.",
+        "Rule 160: FCC Rule 60: This CH frequency is not subject to the 2 Watt ERP restriction listed in (c)(60)(i).",
+        "Rule 160: FCC Rule 60: Applicant Type Must be CH - Cargo Handling",
+        "Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
+      ]
+    },
+    {
+      "recordNum": 169,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 457.6125,
+      "frequencyHigh": 457.6125,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 12: This frequency may not be used aboard aircraft in flight.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.",
+        "Rule 160: FCC Rule 60: This CH frequency is not subject to the 2 Watt ERP restriction listed in (c)(60)(i).",
+        "Rule 160: FCC Rule 60: Applicant Type Must be CH - Cargo Handling"
+      ]
+    },
+    {
+      "recordNum": 170,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 459,
+      "frequencyHigh": 459,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'.",
+        "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 171,
+      "lineNum": 2,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 450,
+      "frequencyHigh": 459.99999,
+      "frequencyType": null,
+      "emissionDesignator": "10K6D1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 172,
+      "lineNum": 3,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 456.5,
+      "frequencyHigh": 456.5,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXOT",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 173,
+      "lineNum": 4,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 456.5,
+      "frequencyHigh": 456.5,
+      "frequencyType": null,
+      "emissionDesignator": "10K6D1D",
+      "stationClassCode": "FXOT",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 174,
+      "lineNum": 5,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 457.325,
+      "frequencyHigh": 457.325,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXOT",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 175,
+      "lineNum": 6,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 457.325,
+      "frequencyHigh": 457.325,
+      "frequencyType": null,
+      "emissionDesignator": "10K6D1D",
+      "stationClassCode": "FXOT",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    }
+  ],
+  "resultCount": 175
+}
