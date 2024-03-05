@@ -1,0 +1,261 @@
+{
+  "results": [
+    {
+      "recordNum": 1,
+      "lineNum": 1,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 72.1,
+      "frequencyHigh": 72.1,
+      "frequencyType": null,
+      "emissionDesignator": "30K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 23: Shared with fixed stations in other services and not protected from interference.",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 2,
+      "lineNum": 2,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 72.3,
+      "frequencyHigh": 72.3,
+      "frequencyType": null,
+      "emissionDesignator": "30K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 23: Shared with fixed stations in other services and not protected from interference.",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 3,
+      "lineNum": 3,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 72.5,
+      "frequencyHigh": 72.5,
+      "frequencyType": null,
+      "emissionDesignator": "30K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This station class is not allowed on this frequency.",
+        "Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use."
+      ]
+    },
+    {
+      "recordNum": 4,
+      "lineNum": 4,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 72.7,
+      "frequencyHigh": 72.7,
+      "frequencyType": null,
+      "emissionDesignator": "30K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This station class is not allowed on this frequency.",
+        "Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use."
+      ]
+    },
+    {
+      "recordNum": 5,
+      "lineNum": 5,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 72.9,
+      "frequencyHigh": 72.9,
+      "frequencyType": null,
+      "emissionDesignator": "30K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This station class is not allowed on this frequency.",
+        "Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use."
+      ]
+    },
+    {
+      "recordNum": 6,
+      "lineNum": 6,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 75.5,
+      "frequencyHigh": 75.5,
+      "frequencyType": null,
+      "emissionDesignator": "30K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This station class is not allowed on this frequency.",
+        "Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use."
+      ]
+    },
+    {
+      "recordNum": 7,
+      "lineNum": 7,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 75.7,
+      "frequencyHigh": 75.7,
+      "frequencyType": null,
+      "emissionDesignator": "30K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This station class is not allowed on this frequency.",
+        "Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use."
+      ]
+    },
+    {
+      "recordNum": 8,
+      "lineNum": 8,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 75.9,
+      "frequencyHigh": 75.9,
+      "frequencyType": null,
+      "emissionDesignator": "30K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This station class is not allowed on this frequency.",
+        "Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use."
+      ]
+    },
+    {
+      "recordNum": 9,
+      "lineNum": 9,
+      "locationCode": "H",
+      "locationNum": 2,
+      "frequencyLow": 72.1,
+      "frequencyHigh": 72.1,
+      "frequencyType": null,
+      "emissionDesignator": "30K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 23: Shared with fixed stations in other services and not protected from interference.",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 10,
+      "lineNum": 10,
+      "locationCode": "H",
+      "locationNum": 2,
+      "frequencyLow": 72.3,
+      "frequencyHigh": 72.3,
+      "frequencyType": null,
+      "emissionDesignator": "30K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 23: Shared with fixed stations in other services and not protected from interference.",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 11,
+      "lineNum": 11,
+      "locationCode": "H",
+      "locationNum": 2,
+      "frequencyLow": 72.5,
+      "frequencyHigh": 72.5,
+      "frequencyType": null,
+      "emissionDesignator": "30K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This station class is not allowed on this frequency.",
+        "Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use."
+      ]
+    },
+    {
+      "recordNum": 12,
+      "lineNum": 12,
+      "locationCode": "H",
+      "locationNum": 2,
+      "frequencyLow": 72.7,
+      "frequencyHigh": 72.7,
+      "frequencyType": null,
+      "emissionDesignator": "30K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This station class is not allowed on this frequency.",
+        "Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use."
+      ]
+    },
+    {
+      "recordNum": 13,
+      "lineNum": 13,
+      "locationCode": "H",
+      "locationNum": 2,
+      "frequencyLow": 72.9,
+      "frequencyHigh": 72.9,
+      "frequencyType": null,
+      "emissionDesignator": "30K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This station class is not allowed on this frequency.",
+        "Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use."
+      ]
+    },
+    {
+      "recordNum": 14,
+      "lineNum": 14,
+      "locationCode": "H",
+      "locationNum": 2,
+      "frequencyLow": 75.5,
+      "frequencyHigh": 75.5,
+      "frequencyType": null,
+      "emissionDesignator": "30K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This station class is not allowed on this frequency.",
+        "Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use."
+      ]
+    },
+    {
+      "recordNum": 15,
+      "lineNum": 15,
+      "locationCode": "H",
+      "locationNum": 2,
+      "frequencyLow": 75.7,
+      "frequencyHigh": 75.7,
+      "frequencyType": null,
+      "emissionDesignator": "30K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This station class is not allowed on this frequency.",
+        "Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use."
+      ]
+    },
+    {
+      "recordNum": 16,
+      "lineNum": 16,
+      "locationCode": "H",
+      "locationNum": 2,
+      "frequencyLow": 75.9,
+      "frequencyHigh": 75.9,
+      "frequencyType": null,
+      "emissionDesignator": "30K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This station class is not allowed on this frequency.",
+        "Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use."
+      ]
+    }
+  ],
+  "resultCount": 16
+}

@@ -1,0 +1,53 @@
+{
+  "G|1|72.5|72.5|MO|30K2F3E|A": {
+    "nxgen": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.",
+    "legacy": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating 1w or < available for temporary use."
+  },
+  "G|1|72.7|72.7|MO|30K2F3E|A": {
+    "nxgen": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.",
+    "legacy": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating 1w or < available for temporary use."
+  },
+  "G|1|72.9|72.9|MO|30K2F3E|A": {
+    "nxgen": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.",
+    "legacy": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating 1w or < available for temporary use."
+  },
+  "G|1|75.5|75.5|MO|30K2F3E|A": {
+    "nxgen": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.",
+    "legacy": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating 1w or < available for temporary use."
+  },
+  "G|1|75.7|75.7|MO|30K2F3E|A": {
+    "nxgen": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.",
+    "legacy": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating 1w or < available for temporary use."
+  },
+  "G|1|75.9|75.9|MO|30K2F3E|A": {
+    "nxgen": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.",
+    "legacy": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating 1w or < available for temporary use."
+  },
+  "H|2|72.5|72.5|MO|30K2F3E|A": {
+    "nxgen": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.",
+    "legacy": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating 1w or < available for temporary use."
+  },
+  "H|2|72.7|72.7|MO|30K2F3E|A": {
+    "nxgen": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.",
+    "legacy": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating 1w or < available for temporary use."
+  },
+  "H|2|72.9|72.9|MO|30K2F3E|A": {
+    "nxgen": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.",
+    "legacy": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating 1w or < available for temporary use."
+  },
+  "H|2|75.5|75.5|MO|30K2F3E|A": {
+    "nxgen": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.",
+    "legacy": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating 1w or < available for temporary use."
+  },
+  "H|2|75.7|75.7|MO|30K2F3E|A": {
+    "nxgen": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.",
+    "legacy": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating 1w or < available for temporary use."
+  },
+  "H|2|75.9|75.9|MO|30K2F3E|A": {
+    "nxgen": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating  1w or < available for temporary use.",
+    "legacy": "This station class is not allowed on this frequency.|Rule 22: Operational fixed listed in § 90.257(a)(1) operating 1w or < available for temporary use."
+  },
+  "Loc|LocNum|FreqLow|FreqHi|Class|Emission|CoordCode": {
+    "legacy": "ErrTxt"
+  }
+}

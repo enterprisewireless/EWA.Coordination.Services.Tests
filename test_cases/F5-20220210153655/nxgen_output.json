@@ -1,0 +1,95 @@
+{
+  "results": [
+    {
+      "recordNum": 1,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 173.39625,
+      "frequencyHigh": 173.39625,
+      "frequencyType": null,
+      "emissionDesignator": "6K00F2D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Invalid Frequency Allocation."
+      ]
+    },
+    {
+      "recordNum": 2,
+      "lineNum": 2,
+      "locationCode": "B",
+      "locationNum": 2,
+      "frequencyLow": 173.39625,
+      "frequencyHigh": 173.39625,
+      "frequencyType": null,
+      "emissionDesignator": "6K00F2D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Invalid Frequency Allocation."
+      ]
+    },
+    {
+      "recordNum": 3,
+      "lineNum": 3,
+      "locationCode": "C",
+      "locationNum": 3,
+      "frequencyLow": 173.39625,
+      "frequencyHigh": 173.39625,
+      "frequencyType": null,
+      "emissionDesignator": "6K00F2D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Invalid Frequency Allocation."
+      ]
+    },
+    {
+      "recordNum": 4,
+      "lineNum": 4,
+      "locationCode": "D",
+      "locationNum": 4,
+      "frequencyLow": 173.39625,
+      "frequencyHigh": 173.39625,
+      "frequencyType": null,
+      "emissionDesignator": "6K00F2D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Invalid Frequency Allocation."
+      ]
+    },
+    {
+      "recordNum": 5,
+      "lineNum": 5,
+      "locationCode": "E",
+      "locationNum": 5,
+      "frequencyLow": 173.39625,
+      "frequencyHigh": 173.39625,
+      "frequencyType": null,
+      "emissionDesignator": "6K00F2D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Invalid Frequency Allocation."
+      ]
+    },
+    {
+      "recordNum": 6,
+      "lineNum": 6,
+      "locationCode": "F",
+      "locationNum": 6,
+      "frequencyLow": 173.39625,
+      "frequencyHigh": 173.39625,
+      "frequencyType": null,
+      "emissionDesignator": "6K00F2D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Invalid Frequency Allocation."
+      ]
+    }
+  ],
+  "resultCount": 6
+}
