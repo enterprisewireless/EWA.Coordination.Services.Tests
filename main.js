@@ -108,11 +108,14 @@ switch(environment) {
     break;
 }
 
+// Path to legacy results CSV file
+const legacyResultsFilePath = `./test_cases/${test_case}/legacy_results.csv`;
+
 // Path to request body JSON file
 const requestBodyFilePath = `./test_cases/${test_case}/nxgen_input.json`;
 
 // Path to response body JSON file
-const responseBodyFilePath = `./test_cases/${test_case}/nxgen_output.json`;
+const responseBodyFilePath = `./test_cases/${test_case}/nxgen_output_${environment}.json`;
 
 // Read request body from JSON file
 const requestBody = readJSONFile(requestBodyFilePath);
@@ -139,7 +142,7 @@ function checkDifference() {
     return `${locationCode}|${locationNum}|${frequencyLow}|${frequencyHigh}|${stationClassCode}|${emissionDesignator}|${coordinationCode}`;
   }
   
-  fs.readFile(`./test_cases/${test_case}/legacy_results.csv`, 'utf8', (err, data) => {
+  fs.readFile(legacyResultsFilePath, 'utf8', (err, data) => {
     let legacyData = {
       
     }
@@ -178,7 +181,7 @@ function checkDifference() {
         };
       });
     });
-    fs.readFile(`./test_cases/${test_case}/nxgen_output.json`, 'utf8', (err, content) => {
+    fs.readFile(responseBodyFilePath, 'utf8', (err, content) => {
       let nxgenJson = JSON.parse(content);
       nxgenJson.results.forEach(result => {
         // console.log(result);
