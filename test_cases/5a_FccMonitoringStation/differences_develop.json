@@ -1,0 +1,1253 @@
+{
+  "A|1|452.5375|452.5375|FB2|4K00F1E|A": {
+    "nxgen": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. CORPUS CHRISTI, TX|Rule 132: LA Frequency",
+    "legacy": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. CORPUS CHRISTI, TX"
+  },
+  "A|1|460.6625|460.6625|FB2|4K00F1E|A": {
+    "nxgen": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "A|1|460.6875|460.6875|FB2|4K00F1E|A": {
+    "nxgen": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "A|1|460.7125|460.7125|FB2|4K00F1E|A": {
+    "nxgen": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "A|1|460.7375|460.7375|FB2|4K00F1E|A": {
+    "nxgen": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "A|1|460.7625|460.7625|FB2|4K00F1E|A": {
+    "nxgen": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "A|1|460.7875|460.7875|FB2|4K00F1E|A": {
+    "nxgen": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "A|1|460.8125|460.8125|FB2|4K00F1E|A": {
+    "nxgen": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "A|1|460.8375|460.8375|FB2|4K00F1E|A": {
+    "nxgen": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "A|1|460.8625|460.8625|FB2|4K00F1E|A": {
+    "nxgen": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "A|1|460.8875|460.8875|FB2|4K00F1E|A": {
+    "nxgen": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "A|1|462.1875|462.1875|FB2|4K00F1E|A": {
+    "nxgen": "This site is near the FCC monitoring station at KINGSVILLE, TX",
+    "legacy": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. CORPUS CHRISTI, TX"
+  },
+  "A|1|464.89375|464.89375|FB2|4K00F1E|A": {
+    "nxgen": "This site is near the FCC monitoring station at KINGSVILLE, TX",
+    "legacy": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 66: Frequency is for CS - Central Station Alarm"
+  },
+  "A|1|465|465|FB2|4K00F1E|A": {
+    "nxgen": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts|Rule 36: Emission Must be A1D, A2D, A3E, F1D, F2D, F3E, G3E",
+    "legacy": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts"
+  },
+  "G|2|451.18125|451.18125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.1875|451.1875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.19375|451.19375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.28125|451.28125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.2875|451.2875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.29375|451.29375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.30625|451.30625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.3125|451.3125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.31875|451.31875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.35625|451.35625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.3625|451.3625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.36875|451.36875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.38125|451.38125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.3875|451.3875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.39375|451.39375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.40625|451.40625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.4125|451.4125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.41875|451.41875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.45625|451.45625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.4625|451.4625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.46875|451.46875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.48125|451.48125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.4875|451.4875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.49375|451.49375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.50625|451.50625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.5125|451.5125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.51875|451.51875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.55625|451.55625|MO|4K00F1E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.5625|451.5625|MO|4K00F1E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.56875|451.56875|MO|4K00F1E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.58125|451.58125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.5875|451.5875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.59375|451.59375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.60625|451.60625|MO|4K00F1E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.6125|451.6125|MO|4K00F1E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.61875|451.61875|MO|4K00F1E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.65625|451.65625|MO|4K00F1E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.6625|451.6625|MO|4K00F1E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.66875|451.66875|MO|4K00F1E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.68125|451.68125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.6875|451.6875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.69375|451.69375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.70625|451.70625|MO|4K00F1E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.7125|451.7125|MO|4K00F1E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.71875|451.71875|MO|4K00F1E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.73125|451.73125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.7375|451.7375|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.74375|451.74375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|451.75625|451.75625|MO|4K00F1E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.7625|451.7625|MO|4K00F1E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|451.76875|451.76875|MO|4K00F1E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|452.03125|452.03125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.0375|452.0375|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|452.04375|452.04375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.05625|452.05625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.0625|452.0625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|452.06875|452.06875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.08125|452.08125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.0875|452.0875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|452.09375|452.09375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.10625|452.10625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.1125|452.1125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|452.11875|452.11875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.13125|452.13125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.1375|452.1375|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|452.14375|452.14375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.15625|452.15625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.1625|452.1625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|452.16875|452.16875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.18125|452.18125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.1875|452.1875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|452.19375|452.19375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.28125|452.28125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.2875|452.2875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|452.29375|452.29375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.48125|452.48125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.4875|452.4875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|452.49375|452.49375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.53125|452.53125|MO|4K00F1E|A": {
+    "nxgen": "Rule 132: LA Frequency"
+  },
+  "G|2|452.5375|452.5375|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 132: LA Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|452.54375|452.54375|MO|4K00F1E|A": {
+    "nxgen": "Rule 132: LA Frequency"
+  },
+  "G|2|452.63125|452.63125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.6375|452.6375|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|452.64375|452.64375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.65625|452.65625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.6625|452.6625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|452.66875|452.66875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.68125|452.68125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.6875|452.6875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|452.69375|452.69375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.70625|452.70625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.7125|452.7125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|452.71875|452.71875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.78125|452.78125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.7875|452.7875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|452.79375|452.79375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.80625|452.80625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.8125|452.8125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|452.81875|452.81875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.83125|452.83125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.8375|452.8375|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|452.84375|452.84375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.88125|452.88125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.8875|452.8875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|452.89375|452.89375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.98125|452.98125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|452.9875|452.9875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|452.99375|452.99375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.18125|456.18125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.1875|456.1875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|456.19375|456.19375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.28125|456.28125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.2875|456.2875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|456.29375|456.29375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.30625|456.30625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.3125|456.3125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|456.31875|456.31875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.35625|456.35625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.3625|456.3625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|456.36875|456.36875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.38125|456.38125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.3875|456.3875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|456.39375|456.39375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.40625|456.40625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.4125|456.4125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|456.41875|456.41875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.45625|456.45625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.4625|456.4625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|456.46875|456.46875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.48125|456.48125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.4875|456.4875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|456.49375|456.49375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.50625|456.50625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.5125|456.5125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|456.51875|456.51875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.55625|456.55625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.5625|456.5625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|456.56875|456.56875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.58125|456.58125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.5875|456.5875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|456.59375|456.59375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.60625|456.60625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.6125|456.6125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|456.61875|456.61875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.65625|456.65625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.6625|456.6625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|456.66875|456.66875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.68125|456.68125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.6875|456.6875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|456.69375|456.69375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.70625|456.70625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.7125|456.7125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|456.71875|456.71875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.73125|456.73125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.7375|456.7375|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|456.74375|456.74375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.75625|456.75625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|456.7625|456.7625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|456.76875|456.76875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.03125|457.03125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.0375|457.0375|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|457.04375|457.04375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.05625|457.05625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.0625|457.0625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|457.06875|457.06875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.08125|457.08125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.0875|457.0875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|457.09375|457.09375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.10625|457.10625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.1125|457.1125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|457.11875|457.11875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.13125|457.13125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.1375|457.1375|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|457.14375|457.14375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.15625|457.15625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.1625|457.1625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|457.16875|457.16875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.18125|457.18125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.1875|457.1875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|457.19375|457.19375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.28125|457.28125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.2875|457.2875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|457.29375|457.29375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.48125|457.48125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.4875|457.4875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|457.49375|457.49375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.63125|457.63125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.6375|457.6375|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|457.64375|457.64375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.65625|457.65625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.6625|457.6625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|457.66875|457.66875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.68125|457.68125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.6875|457.6875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|457.69375|457.69375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.70625|457.70625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.7125|457.7125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|457.71875|457.71875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.78125|457.78125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.7875|457.7875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|457.79375|457.79375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.80625|457.80625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.8125|457.8125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|457.81875|457.81875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.83125|457.83125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.8375|457.8375|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|457.84375|457.84375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.88125|457.88125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.8875|457.8875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|457.89375|457.89375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.98125|457.98125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|457.9875|457.9875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|457.99375|457.99375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|460.65|460.65|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.65625|460.65625|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.6625|460.6625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "G|2|460.66875|460.66875|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.675|460.675|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.68125|460.68125|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.6875|460.6875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "G|2|460.69375|460.69375|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.7|460.7|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.70625|460.70625|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.7125|460.7125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "G|2|460.71875|460.71875|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.725|460.725|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.73125|460.73125|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.7375|460.7375|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "G|2|460.74375|460.74375|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.75|460.75|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.75625|460.75625|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.7625|460.7625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "G|2|460.76875|460.76875|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.775|460.775|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.78125|460.78125|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.7875|460.7875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "G|2|460.79375|460.79375|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.8|460.8|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.80625|460.80625|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.8125|460.8125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "G|2|460.81875|460.81875|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.825|460.825|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.83125|460.83125|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.8375|460.8375|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "G|2|460.84375|460.84375|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.85|460.85|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.85625|460.85625|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.8625|460.8625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "G|2|460.86875|460.86875|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.875|460.875|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.88125|460.88125|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|460.8875|460.8875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "G|2|460.89375|460.89375|MO|4K00F1E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "G|2|462.18125|462.18125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|462.1875|462.1875|MO|4K00F1E|A": {
+    "nxgen": "",
+    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|462.19375|462.19375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|462.45625|462.45625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|462.4625|462.4625|MO|4K00F1E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|462.46875|462.46875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|462.48125|462.48125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|462.4875|462.4875|MO|4K00F1E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|462.49375|462.49375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|462.50625|462.50625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|462.5125|462.5125|MO|4K00F1E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|462.51875|462.51875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|464.89375|464.89375|MO|4K00F1E|A": {
+    "nxgen": "",
+    "legacy": "Rule 66: Frequency is for CS - Central Station Alarm"
+  },
+  "G|2|465.65|465.65|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.65625|465.65625|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.6625|465.6625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.66875|465.66875|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.675|465.675|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.68125|465.68125|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.6875|465.6875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.69375|465.69375|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.7|465.7|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.70625|465.70625|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.7125|465.7125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.71875|465.71875|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.725|465.725|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.73125|465.73125|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.7375|465.7375|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.74375|465.74375|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.75|465.75|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.75625|465.75625|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.7625|465.7625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.76875|465.76875|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.775|465.775|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.78125|465.78125|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.7875|465.7875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.79375|465.79375|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.8|465.8|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.80625|465.80625|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.8125|465.8125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.81875|465.81875|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.825|465.825|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.83125|465.83125|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.8375|465.8375|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.84375|465.84375|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.85|465.85|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.85625|465.85625|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.8625|465.8625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.86875|465.86875|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.875|465.875|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.88125|465.88125|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.8875|465.8875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|465.89375|465.89375|MO|4K00F1E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "G|2|467.18125|467.18125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|467.1875|467.1875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|467.19375|467.19375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|467.45625|467.45625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|467.4625|467.4625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|467.46875|467.46875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|467.48125|467.48125|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|467.4875|467.4875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|467.49375|467.49375|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|467.50625|467.50625|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "G|2|467.5125|467.5125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "G|2|467.51875|467.51875|MO|4K00F1E|A": {
+    "nxgen": ""
+  },
+  "H|3|452.5375|452.5375|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX|Rule 132: LA Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "H|3|460.6625|460.6625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "H|3|460.6875|460.6875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "H|3|460.7125|460.7125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "H|3|460.7375|460.7375|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "H|3|460.7625|460.7625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "H|3|460.7875|460.7875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "H|3|460.8125|460.8125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "H|3|460.8375|460.8375|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "H|3|460.8625|460.8625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "H|3|460.8875|460.8875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
+  },
+  "H|3|462.1875|462.1875|MO|4K00F1E|A": {
+    "nxgen": "",
+    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+  },
+  "H|3|464.89375|464.89375|MO|4K00F1E|A": {
+    "nxgen": "",
+    "legacy": "Rule 66: Frequency is for CS - Central Station Alarm"
+  },
+  "H|3|465.6625|465.6625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "H|3|465.6875|465.6875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "H|3|465.7125|465.7125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "H|3|465.7375|465.7375|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "H|3|465.7625|465.7625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "H|3|465.7875|465.7875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "H|3|465.8125|465.8125|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "H|3|465.8375|465.8375|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "H|3|465.8625|465.8625|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "H|3|465.8875|465.8875|MO|4K00F1E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Corpus Christi International (CRP)"
+  },
+  "A|1|452.1|452.1|FB2|4K00F1E|A": {
+    "legacy": "This site is near the FCC monitoring station at KINGSVILLE, TX"
+  },
+  "G|2|452.1|452.1|MO|4K00F1E|A": {
+    "legacy": ""
+  },
+  "H|3|452.1|452.1|MO|4K00F1E|A": {
+    "legacy": ""
+  }
+}

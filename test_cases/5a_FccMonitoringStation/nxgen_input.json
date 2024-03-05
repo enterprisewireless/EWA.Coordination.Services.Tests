@@ -1,0 +1,88 @@
+{
+  "licenseType": "IB",
+  "scheduleGhs": [
+      {
+          "lineNum": 1,
+          "locationCode": "A",
+          "locationNum": 1,
+          "frequencyLow": 450,
+          "frequencyHigh": 469.99999,
+          "stationClass": "FB2",
+          "emissionDesignator": "4K00F1E",
+          "power": 55,
+          "erp": 67,
+          "haat": 12.5,
+          "transmittingAntennaHeight": 12.2,
+          "coordinationCode": "A",
+          "requestNum": 1
+      },
+      {
+          "lineNum": 2,
+          "locationCode": "G",
+          "locationNum": 2,
+          "frequencyLow": 450,
+          "frequencyHigh": 469.99999,
+          "stationClass": "MO",
+          "emissionDesignator": "4K00F1E",
+          "power": 40,
+          "erp": 40,
+          "haat": null,
+          "transmittingAntennaHeight": null,
+          "coordinationCode": "A",
+          "requestNum": 2
+      },
+      {
+          "lineNum": 3,
+          "locationCode": "H",
+          "locationNum": 3,
+          "frequencyLow": 450,
+          "frequencyHigh": 469.99999,
+          "stationClass": "MO",
+          "emissionDesignator": "4K00F1E",
+          "power": 40,
+          "erp": 40,
+          "haat": null,
+          "transmittingAntennaHeight": null,
+          "coordinationCode": "A",
+          "requestNum": 3
+      }
+  ],
+  "scheduleEs": [
+      {
+          "state": "TX",
+          "city": "KINGSVILLE",
+          "county": "KLEBERG",
+          "locationNum": 1,
+          "locationCode": "A",
+          "latitude": 27.422361,
+          "longitude": -97.856167,
+          "areaOfOperation": null,
+          "serviceAreaRadius": null,
+          "elevation": 17
+      },
+      {
+          "state": null,
+          "city": null,
+          "county": null,
+          "locationNum": 2,
+          "locationCode": "G",
+          "latitude": 0,
+          "longitude": 0,
+          "areaOfOperation": "1",
+          "serviceAreaRadius": 32,
+          "elevation": null
+      },
+      {
+          "state": "TX",
+          "city": "KINGSVILLE",
+          "county": "KLEBERG",
+          "locationNum": 3,
+          "locationCode": "H",
+          "latitude": 27.422361,
+          "longitude": -97.856167,
+          "areaOfOperation": null,
+          "serviceAreaRadius": 40,
+          "elevation": null
+      }
+  ]
+}

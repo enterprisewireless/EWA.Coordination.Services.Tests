@@ -1,0 +1,146 @@
+{
+  "results": [
+    {
+      "recordNum": 1,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 153.2675,
+      "frequencyHigh": 153.2675,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXE",
+      "stationClassCode": "FB",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 2,
+      "lineNum": 2,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 153.2675,
+      "frequencyHigh": 153.2675,
+      "frequencyType": null,
+      "emissionDesignator": "8K10F1E",
+      "stationClassCode": "FB",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "The Service Area exceeded the Safe Harbor Table. While testing Location 3",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel"
+      ]
+    },
+    {
+      "recordNum": 3,
+      "lineNum": 3,
+      "locationCode": "B",
+      "locationNum": 2,
+      "frequencyLow": 153.2675,
+      "frequencyHigh": 153.2675,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXE",
+      "stationClassCode": "FB",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 4,
+      "lineNum": 4,
+      "locationCode": "B",
+      "locationNum": 2,
+      "frequencyLow": 153.2675,
+      "frequencyHigh": 153.2675,
+      "frequencyType": null,
+      "emissionDesignator": "8K10F1E",
+      "stationClassCode": "FB",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel"
+      ]
+    },
+    {
+      "recordNum": 5,
+      "lineNum": 5,
+      "locationCode": "G",
+      "locationNum": 3,
+      "frequencyLow": 153.2675,
+      "frequencyHigh": 153.2675,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXE",
+      "stationClassCode": "MO",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 6,
+      "lineNum": 6,
+      "locationCode": "G",
+      "locationNum": 3,
+      "frequencyLow": 153.2675,
+      "frequencyHigh": 153.2675,
+      "frequencyType": null,
+      "emissionDesignator": "8K10F1E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel"
+      ]
+    },
+    {
+      "recordNum": 7,
+      "lineNum": 7,
+      "locationCode": "H",
+      "locationNum": 4,
+      "frequencyLow": 153.2675,
+      "frequencyHigh": 153.2675,
+      "frequencyType": null,
+      "emissionDesignator": "7K60FXE",
+      "stationClassCode": "MO",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 8,
+      "lineNum": 8,
+      "locationCode": "H",
+      "locationNum": 4,
+      "frequencyLow": 153.2675,
+      "frequencyHigh": 153.2675,
+      "frequencyType": null,
+      "emissionDesignator": "8K10F1E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel"
+      ]
+    }
+  ],
+  "resultCount": 8
+}
