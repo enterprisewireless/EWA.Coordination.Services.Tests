@@ -1,0 +1,21 @@
+LogID,LineNum,Loc,LocNum,FreqLow,FreqHi,FreqType,Class,Emission,Power,Erp,Haat,TxAntHgt,CoordCode,ErrTxt
+20220516193021,1,G,1,72.02,0,,MO,11K0F1D,1,1,0,0,A,Rule 23: Shared with fixed stations in other services and not protected from interference.|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+20220516193021,2,G,1,72.06,0,,MO,11K0F1D,1,1,0,0,A,Rule 23: Shared with fixed stations in other services and not protected from interference.|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+20220516193021,3,G,1,72.1,0,,MO,11K0F1D,1,1,0,0,A,Rule 23: Shared with fixed stations in other services and not protected from interference.|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+20220516193021,4,G,1,72.14,0,,MO,11K0F1D,1,1,0,0,A,Rule 23: Shared with fixed stations in other services and not protected from interference.|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+20220516193021,5,G,1,72.18,0,,MO,11K0F1D,1,1,0,0,A,Rule 23: Shared with fixed stations in other services and not protected from interference.|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+20220516193021,6,G,1,72.22,0,,MO,11K0F1D,1,1,0,0,A,Rule 23: Shared with fixed stations in other services and not protected from interference.|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+20220516193021,7,G,1,72.26,0,,MO,11K0F1D,1,1,0,0,A,Rule 23: Shared with fixed stations in other services and not protected from interference.|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+20220516193021,8,G,1,72.3,0,,MO,11K0F1D,1,1,0,0,A,Rule 23: Shared with fixed stations in other services and not protected from interference.|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+20220516193021,9,G,1,72.34,0,,MO,11K0F1D,1,1,0,0,A,Rule 23: Shared with fixed stations in other services and not protected from interference.|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+20220516193021,10,G,1,72.38,0,,MO,11K0F1D,1,1,0,0,A,Rule 23: Shared with fixed stations in other services and not protected from interference.|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+20220516193021,11,G,1,72.44,0,,MO,11K0F1D,1,1,0,0,A,Rule 13: Shared co-equal with Public Safety licensees|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+20220516193021,12,G,1,72.48,0,,MO,11K0F1D,1,1,0,0,A,Rule 13: Shared co-equal with Public Safety licensees|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+20220516193021,13,G,1,72.52,0,,MO,11K0F1D,1,1,0,0,A,Rule 13: Shared co-equal with Public Safety licensees|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+20220516193021,14,G,1,72.56,0,,MO,11K0F1D,1,1,0,0,A,Rule 13: Shared co-equal with Public Safety licensees|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+20220516193021,15,G,1,72.6,0,,MO,11K0F1D,1,1,0,0,A,Rule 13: Shared co-equal with Public Safety licensees|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+20220516193021,16,G,1,75.44,0,,MO,11K0F1D,1,1,0,0,A,Rule 13: Shared co-equal with Public Safety licensees|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+20220516193021,17,G,1,75.48,0,,MO,11K0F1D,1,1,0,0,A,Rule 13: Shared co-equal with Public Safety licensees|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+20220516193021,18,G,1,75.52,0,,MO,11K0F1D,1,1,0,0,A,Rule 13: Shared co-equal with Public Safety licensees|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+20220516193021,19,G,1,75.56,0,,MO,11K0F1D,1,1,0,0,A,Rule 13: Shared co-equal with Public Safety licensees|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
+20220516193021,20,G,1,75.6,0,,MO,11K0F1D,1,1,0,0,A,Rule 13: Shared co-equal with Public Safety licensees|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).

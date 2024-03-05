@@ -1,0 +1,325 @@
+{
+  "results": [
+    {
+      "recordNum": 1,
+      "lineNum": 1,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 72.02,
+      "frequencyHigh": 72.02,
+      "frequencyType": null,
+      "emissionDesignator": "11K0F1D",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 23: Shared with fixed stations in other services and not protected from interference.",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 2,
+      "lineNum": 2,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 72.06,
+      "frequencyHigh": 72.06,
+      "frequencyType": null,
+      "emissionDesignator": "11K0F1D",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 23: Shared with fixed stations in other services and not protected from interference.",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 3,
+      "lineNum": 3,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 72.1,
+      "frequencyHigh": 72.1,
+      "frequencyType": null,
+      "emissionDesignator": "11K0F1D",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 23: Shared with fixed stations in other services and not protected from interference.",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 4,
+      "lineNum": 4,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 72.14,
+      "frequencyHigh": 72.14,
+      "frequencyType": null,
+      "emissionDesignator": "11K0F1D",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 23: Shared with fixed stations in other services and not protected from interference.",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 5,
+      "lineNum": 5,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 72.18,
+      "frequencyHigh": 72.18,
+      "frequencyType": null,
+      "emissionDesignator": "11K0F1D",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 23: Shared with fixed stations in other services and not protected from interference.",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 6,
+      "lineNum": 6,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 72.22,
+      "frequencyHigh": 72.22,
+      "frequencyType": null,
+      "emissionDesignator": "11K0F1D",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 23: Shared with fixed stations in other services and not protected from interference.",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 7,
+      "lineNum": 7,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 72.26,
+      "frequencyHigh": 72.26,
+      "frequencyType": null,
+      "emissionDesignator": "11K0F1D",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 23: Shared with fixed stations in other services and not protected from interference.",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 8,
+      "lineNum": 8,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 72.3,
+      "frequencyHigh": 72.3,
+      "frequencyType": null,
+      "emissionDesignator": "11K0F1D",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 23: Shared with fixed stations in other services and not protected from interference.",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 9,
+      "lineNum": 9,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 72.34,
+      "frequencyHigh": 72.34,
+      "frequencyType": null,
+      "emissionDesignator": "11K0F1D",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 23: Shared with fixed stations in other services and not protected from interference.",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 10,
+      "lineNum": 10,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 72.38,
+      "frequencyHigh": 72.38,
+      "frequencyType": null,
+      "emissionDesignator": "11K0F1D",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 23: Shared with fixed stations in other services and not protected from interference.",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 11,
+      "lineNum": 11,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 72.44,
+      "frequencyHigh": 72.44,
+      "frequencyType": null,
+      "emissionDesignator": "11K0F1D",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 13: Shared co-equal with Public Safety licensees",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 12,
+      "lineNum": 12,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 72.48,
+      "frequencyHigh": 72.48,
+      "frequencyType": null,
+      "emissionDesignator": "11K0F1D",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 13: Shared co-equal with Public Safety licensees",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 13,
+      "lineNum": 13,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 72.52,
+      "frequencyHigh": 72.52,
+      "frequencyType": null,
+      "emissionDesignator": "11K0F1D",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 13: Shared co-equal with Public Safety licensees",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 14,
+      "lineNum": 14,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 72.56,
+      "frequencyHigh": 72.56,
+      "frequencyType": null,
+      "emissionDesignator": "11K0F1D",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 13: Shared co-equal with Public Safety licensees",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 15,
+      "lineNum": 15,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 72.6,
+      "frequencyHigh": 72.6,
+      "frequencyType": null,
+      "emissionDesignator": "11K0F1D",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 13: Shared co-equal with Public Safety licensees",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 16,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 75.44,
+      "frequencyHigh": 75.44,
+      "frequencyType": null,
+      "emissionDesignator": "11K0F1D",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 13: Shared co-equal with Public Safety licensees",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 17,
+      "lineNum": 17,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 75.48,
+      "frequencyHigh": 75.48,
+      "frequencyType": null,
+      "emissionDesignator": "11K0F1D",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 13: Shared co-equal with Public Safety licensees",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 18,
+      "lineNum": 18,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 75.52,
+      "frequencyHigh": 75.52,
+      "frequencyType": null,
+      "emissionDesignator": "11K0F1D",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 13: Shared co-equal with Public Safety licensees",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 19,
+      "lineNum": 19,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 75.56,
+      "frequencyHigh": 75.56,
+      "frequencyType": null,
+      "emissionDesignator": "11K0F1D",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 13: Shared co-equal with Public Safety licensees",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    },
+    {
+      "recordNum": 20,
+      "lineNum": 20,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 75.6,
+      "frequencyHigh": 75.6,
+      "frequencyType": null,
+      "emissionDesignator": "11K0F1D",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 13: Shared co-equal with Public Safety licensees",
+        "Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b)."
+      ]
+    }
+  ],
+  "resultCount": 20
+}
