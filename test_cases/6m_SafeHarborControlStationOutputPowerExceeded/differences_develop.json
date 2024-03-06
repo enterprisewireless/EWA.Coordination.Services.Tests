@@ -1,0 +1,16 @@
+{
+  "H|3|429.6|429.6|MO|11K2F3E|A": {
+    "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging",
+    "legacy": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+  },
+  "G|2|429.425|429.425|FX1|7K60FXE|A": {
+    "nxgen": "The Maximum OUTPUT POWER for control stations is 20 Watts|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging"
+  },
+  "H|3|429.425|429.425|MO|11K2F3E|A": {
+    "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging",
+    "legacy": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+  },
+  "G|2|429.425|429.425|FX1|7K60FXE|C": {
+    "legacy": ""
+  }
+}
