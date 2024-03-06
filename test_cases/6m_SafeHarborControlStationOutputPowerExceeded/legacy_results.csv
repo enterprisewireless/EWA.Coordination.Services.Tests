@@ -1,1 +1,10 @@
-TODO: TBD
+﻿20240221152250,1,A,1,424.6,424.6,,FB2,11K2F3E,50,90,45,53.6,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20240221152250,2,A,1,424.6,424.6,,FB2,7K60FXE,50,90,45,53.6,C,
+20240221152250,3,A,1,424.525,424.525,,FB2,11K2F3E,50,90,45,53.6,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging
+20240221152250,4,A,1,424.525,424.525,,FB2,7K60FXE,50,90,45,53.6,C,
+20240221152250,5,G,2,429.425,429.425,,FX1,11K2F3E,20,20,0,0,C,
+20240221152250,6,G,2,429.425,429.425,,FX1,7K60FXE,20,20,0,0,C,
+20240221152250,7,H,3,429.6,429.6,,MO,11K2F3E,4,4,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20240221152250,8,H,3,429.6,429.6,,MO,7K60FXE,4,4,0,0,C,
+20240221152250,9,H,3,429.425,429.425,,MO,11K2F3E,4,4,0,0,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+20240221152250,10,H,3,429.425,429.425,,MO,7K60FXE,4,4,0,0,C,
