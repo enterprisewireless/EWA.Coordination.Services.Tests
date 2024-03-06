@@ -1,0 +1,88 @@
+{
+    "licenseType": "IB",
+    "scheduleGhs": [
+        {
+            "lineNum": 1,
+            "locationCode": "A",
+            "locationNum": 1,
+            "frequencyLow": 450,
+            "frequencyHigh": 469.99999,
+            "stationClass": "FB2",
+            "emissionDesignator": "7K60FXE",
+            "power": 45,
+            "erp": 32,
+            "haat": 15.8,
+            "transmittingAntennaHeight": 18.9,
+            "coordinationCode": "A",
+            "requestNum": 1
+        },
+        {
+            "lineNum": 2,
+            "locationCode": "G",
+            "locationNum": 2,
+            "frequencyLow": 450,
+            "frequencyHigh": 469.99999,
+            "stationClass": "MO",
+            "emissionDesignator": "7K60FXE",
+            "power": 5,
+            "erp": 4,
+            "haat": null,
+            "transmittingAntennaHeight": null,
+            "coordinationCode": "A",
+            "requestNum": 2
+        },
+        {
+            "lineNum": 3,
+            "locationCode": "H",
+            "locationNum": 3,
+            "frequencyLow": 450,
+            "frequencyHigh": 469.99999,
+            "stationClass": "MO",
+            "emissionDesignator": "7K60FXE",
+            "power": 5,
+            "erp": 4,
+            "haat": null,
+            "transmittingAntennaHeight": null,
+            "coordinationCode": "A",
+            "requestNum": 3
+        }
+    ],
+    "scheduleEs": [
+        {
+            "state": "FL",
+            "city": "Jacksonville",
+            "county": "Duval",
+            "locationNum": 1,
+            "locationCode": "A",
+            "latitude": 30.402222,
+            "longitude": -81.643056,
+            "areaOfOperation": null,
+            "serviceAreaRadius": null,
+            "elevation": 2
+        },
+        {
+            "state": null,
+            "city": null,
+            "county": null,
+            "locationNum": 2,
+            "locationCode": "G",
+            "latitude": 0,
+            "longitude": 0,
+            "areaOfOperation": "1",
+            "serviceAreaRadius": 8,
+            "elevation": null
+        },
+        {
+            "state": "FL",
+            "city": "Jacksonville",
+            "county": "Duval",
+            "locationNum": 3,
+            "locationCode": "H",
+            "latitude": 30.402222,
+            "longitude": -81.643056,
+            "areaOfOperation": null,
+            "serviceAreaRadius": 8,
+            "elevation": null
+        }
+    ]
+}
