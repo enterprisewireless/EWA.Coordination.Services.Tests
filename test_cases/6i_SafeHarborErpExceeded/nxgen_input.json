@@ -1,0 +1,88 @@
+{
+  "licenseType": "IB",
+  "scheduleGhs": [
+    {
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 450,
+      "frequencyHigh": 469.99999,
+      "stationClass": "FB2",
+      "emissionDesignator": "7K60FXE",
+      "power": 25,
+      "erp": 18,
+      "haat": -5.4,
+      "transmittingAntennaHeight": 3.6,
+      "coordinationCode": "A",
+      "requestNum": 1
+    },
+    {
+      "lineNum": 2,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 450,
+      "frequencyHigh": 469.99999,
+      "stationClass": "MO",
+      "emissionDesignator": "7K60FXE",
+      "power": 4,
+      "erp": 4,
+      "haat": null,
+      "transmittingAntennaHeight": null,
+      "coordinationCode": "A",
+      "requestNum": 2
+    },
+    {
+      "lineNum": 3,
+      "locationCode": "H",
+      "locationNum": 3,
+      "frequencyLow": 450,
+      "frequencyHigh": 469.99999,
+      "stationClass": "MO",
+      "emissionDesignator": "7K60FXE",
+      "power": 4,
+      "erp": 4,
+      "haat": null,
+      "transmittingAntennaHeight": null,
+      "coordinationCode": "A",
+      "requestNum": 3
+    }
+  ],
+  "scheduleEs": [
+    {
+      "state": "MI",
+      "city": "SHERIDAN",
+      "county": "MONTCALM",
+      "locationNum": 1,
+      "locationCode": "A",
+      "latitude": 43.205528,
+      "longitude": -85.004639,
+      "areaOfOperation": null,
+      "serviceAreaRadius": null,
+      "elevation": 243
+    },
+    {
+      "state": null,
+      "city": null,
+      "county": null,
+      "locationNum": 2,
+      "locationCode": "G",
+      "latitude": 0,
+      "longitude": 0,
+      "areaOfOperation": "1",
+      "serviceAreaRadius": 8,
+      "elevation": null
+    },
+    {
+      "state": "MI",
+      "city": "SHERIDAN",
+      "county": "MONTCALM",
+      "locationNum": 3,
+      "locationCode": "H",
+      "latitude": 43.205528,
+      "longitude": -85.004639,
+      "areaOfOperation": "1",
+      "serviceAreaRadius": 2.4,
+      "elevation": null
+    }
+  ]
+}
