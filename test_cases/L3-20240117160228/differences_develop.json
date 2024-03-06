@@ -1,0 +1,6254 @@
+{
+  "A|1|461.6|461.6|FB2|11K2F3E|C": {
+    "nxgen": ""
+  },
+  "A|1|461.6|461.6|FB2|7K60FXE|C": {
+    "nxgen": ""
+  },
+  "G|2|461.6|461.6|MO|11K2F3E|C": {
+    "nxgen": ""
+  },
+  "G|2|461.6|461.6|MO|7K60FXE|C": {
+    "nxgen": ""
+  },
+  "G|2|466.6|466.6|MO|11K2F3E|C": {
+    "nxgen": ""
+  },
+  "G|2|466.6|466.6|MO|7K60FXE|C": {
+    "nxgen": ""
+  },
+  "B|3|463.6125|463.6125|FB2|11K2F3E|C": {
+    "nxgen": ""
+  },
+  "B|3|463.6125|463.6125|FB2|7K60FXE|C": {
+    "nxgen": ""
+  },
+  "H|4|463.6125|463.6125|MO|11K2F3E|C": {
+    "nxgen": ""
+  },
+  "H|4|463.6125|463.6125|MO|7K60FXE|C": {
+    "nxgen": ""
+  },
+  "H|4|468.6125|468.6125|MO|11K2F3E|C": {
+    "nxgen": ""
+  },
+  "H|4|468.6125|468.6125|MO|7K60FXE|C": {
+    "nxgen": ""
+  },
+  "C|5|462.175|462.175|FB2|11K2F3E|C": {
+    "nxgen": ""
+  },
+  "C|5|462.175|462.175|FB2|7K60FXE|C": {
+    "nxgen": ""
+  },
+  "I|6|462.175|462.175|MO|11K2F3E|C": {
+    "nxgen": ""
+  },
+  "I|6|462.175|462.175|MO|7K60FXE|C": {
+    "nxgen": ""
+  },
+  "I|6|467.175|467.175|MO|11K2F3E|C": {
+    "nxgen": ""
+  },
+  "I|6|467.175|467.175|MO|7K60FXE|C": {
+    "nxgen": ""
+  },
+  "D|7|464.2875|464.2875|FB2|11K2F3E|C": {
+    "nxgen": ""
+  },
+  "D|7|464.2875|464.2875|FB2|7K60FXE|C": {
+    "nxgen": ""
+  },
+  "J|8|464.2875|464.2875|MO|11K2F3E|C": {
+    "nxgen": ""
+  },
+  "J|8|464.2875|464.2875|MO|7K60FXE|C": {
+    "nxgen": ""
+  },
+  "J|8|469.2875|469.2875|MO|11K2F3E|C": {
+    "nxgen": ""
+  },
+  "J|8|469.2875|469.2875|MO|7K60FXE|C": {
+    "nxgen": ""
+  },
+  "E|9|464.9375|464.9375|FB2|11K2F3E|C": {
+    "nxgen": ""
+  },
+  "E|9|464.9375|464.9375|FB2|7K60FXE|C": {
+    "nxgen": ""
+  },
+  "K|10|464.9375|464.9375|MO|11K2F3E|C": {
+    "nxgen": ""
+  },
+  "K|10|464.9375|464.9375|MO|7K60FXE|C": {
+    "nxgen": ""
+  },
+  "K|10|469.9375|469.9375|MO|11K2F3E|C": {
+    "nxgen": ""
+  },
+  "K|10|469.9375|469.9375|MO|7K60FXE|C": {
+    "nxgen": ""
+  },
+  "F|11|451.025|451.025|FB2|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "F|11|451.05|451.05|FB2|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "F|11|451.075|451.075|FB2|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "F|11|451.1|451.1|FB2|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "F|11|451.125|451.125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "F|11|451.15|451.15|FB2|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "F|11|451.175|451.175|FB2|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "F|11|451.2|451.2|FB2|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "F|11|451.225|451.225|FB2|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "F|11|451.25|451.25|FB2|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "F|11|451.275|451.275|FB2|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "F|11|451.3|451.3|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|451.325|451.325|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|451.35|451.35|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|451.375|451.375|FB2|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "F|11|451.4|451.4|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|451.425|451.425|FB2|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "F|11|451.45|451.45|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|451.475|451.475|FB2|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "F|11|451.5|451.5|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|451.525|451.525|FB2|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "F|11|451.55|451.55|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
+  },
+  "F|11|451.55625|451.55625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. ORLANDO, FL"
+  },
+  "F|11|451.5625|451.5625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. ORLANDO, FL"
+  },
+  "F|11|451.56875|451.56875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. ORLANDO, FL"
+  },
+  "F|11|451.575|451.575|FB2|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "F|11|451.6|451.6|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
+  },
+  "F|11|451.60625|451.60625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. ORLANDO, FL"
+  },
+  "F|11|451.6125|451.6125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. ORLANDO, FL"
+  },
+  "F|11|451.61875|451.61875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. ORLANDO, FL"
+  },
+  "F|11|451.625|451.625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "F|11|451.65|451.65|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
+  },
+  "F|11|451.65625|451.65625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. ORLANDO, FL"
+  },
+  "F|11|451.6625|451.6625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. ORLANDO, FL"
+  },
+  "F|11|451.66875|451.66875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. ORLANDO, FL"
+  },
+  "F|11|451.675|451.675|FB2|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "F|11|451.7|451.7|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
+  },
+  "F|11|451.70625|451.70625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. ORLANDO, FL"
+  },
+  "F|11|451.7125|451.7125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. ORLANDO, FL"
+  },
+  "F|11|451.71875|451.71875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. ORLANDO, FL"
+  },
+  "F|11|451.725|451.725|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|451.75|451.75|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
+  },
+  "F|11|451.75625|451.75625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. ORLANDO, FL"
+  },
+  "F|11|451.7625|451.7625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. ORLANDO, FL"
+  },
+  "F|11|451.76875|451.76875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. ORLANDO, FL"
+  },
+  "F|11|451.775|451.775|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|451.825|451.825|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|451.85|451.85|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|451.875|451.875|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|451.9|451.9|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|451.925|451.925|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|451.95|451.95|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|451.975|451.975|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452|452|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.025|452.025|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.05|452.05|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.075|452.075|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.125|452.125|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.15|452.15|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.175|452.175|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.2|452.2|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.225|452.225|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.25|452.25|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.275|452.275|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.3|452.3|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.325|452.325|FB2|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
+  },
+  "F|11|452.35|452.35|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.375|452.375|FB2|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
+  },
+  "F|11|452.4|452.4|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.425|452.425|FB2|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
+  },
+  "F|11|452.45|452.45|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.475|452.475|FB2|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
+  },
+  "F|11|452.5|452.5|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.525|452.525|FB2|11K2F3E|A": {
+    "nxgen": "Rule 132: LA Frequency"
+  },
+  "F|11|452.55|452.55|FB2|11K2F3E|A": {
+    "nxgen": "Rule 132: LA Frequency"
+  },
+  "F|11|452.575|452.575|FB2|11K2F3E|A": {
+    "nxgen": "Rule 132: LA Frequency"
+  },
+  "F|11|452.6|452.6|FB2|11K2F3E|A": {
+    "nxgen": "Rule 132: LA Frequency"
+  },
+  "F|11|452.625|452.625|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.65|452.65|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.675|452.675|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.7|452.7|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.725|452.725|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.75|452.75|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.775|452.775|FB2|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
+  },
+  "F|11|452.8|452.8|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.825|452.825|FB2|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
+  },
+  "F|11|452.85|452.85|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|452.875|452.875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
+  },
+  "F|11|452.975|452.975|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|453|453|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|454|454|FB2|11K2F3E|A": {
+    "nxgen": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 131: IP Frequency"
+  },
+  "F|11|457.525|457.525|FB2|11K2F3E|A": {
+    "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.|Rule 160: FCC Rule 60: This CH frequency is not subject to the 2 Watt ERP restriction listed in (c)(60)(i).|Rule 160: FCC Rule 60: Applicant Type Must be CH - Cargo Handling|Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
+  },
+  "F|11|457.55|457.55|FB2|11K2F3E|A": {
+    "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.|Rule 160: FCC Rule 60: This CH frequency is not subject to the 2 Watt ERP restriction listed in (c)(60)(i).|Rule 160: FCC Rule 60: Applicant Type Must be CH - Cargo Handling|Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
+  },
+  "F|11|457.5625|457.5625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 30: Emissions may not exceed 11k.|Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.|Rule 160: FCC Rule 60: This CH frequency is not subject to the 2 Watt ERP restriction listed in (c)(60)(i).|Rule 160: FCC Rule 60: Applicant Type Must be CH - Cargo Handling|Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
+  },
+  "F|11|457.575|457.575|FB2|11K2F3E|A": {
+    "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.|Rule 160: FCC Rule 60: This CH frequency is not subject to the 2 Watt ERP restriction listed in (c)(60)(i).|Rule 160: FCC Rule 60: Applicant Type Must be CH - Cargo Handling|Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
+  },
+  "F|11|457.5875|457.5875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 30: Emissions may not exceed 11k.|Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.|Rule 160: FCC Rule 60: This CH frequency is not subject to the 2 Watt ERP restriction listed in (c)(60)(i).|Rule 160: FCC Rule 60: Applicant Type Must be CH - Cargo Handling|Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
+  },
+  "F|11|457.6|457.6|FB2|11K2F3E|A": {
+    "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.|Rule 160: FCC Rule 60: This CH frequency is not subject to the 2 Watt ERP restriction listed in (c)(60)(i).|Rule 160: FCC Rule 60: Applicant Type Must be CH - Cargo Handling|Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
+  },
+  "F|11|457.6125|457.6125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 30: Emissions may not exceed 11k.|Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.|Rule 160: FCC Rule 60: This CH frequency is not subject to the 2 Watt ERP restriction listed in (c)(60)(i).|Rule 160: FCC Rule 60: Applicant Type Must be CH - Cargo Handling"
+  },
+  "F|11|459|459|FB2|11K2F3E|A": {
+    "nxgen": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 131: IP Frequency"
+  },
+  "F|11|460.9875|460.9875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 66: Frequency is for CS - Central Station Alarm|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "F|11|461.0125|461.0125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 66: Frequency is for CS - Central Station Alarm|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "F|11|461.025|461.025|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.05|461.05|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.075|461.075|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.1|461.1|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.125|461.125|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.15|461.15|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.175|461.175|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.2|461.2|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.225|461.225|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.25|461.25|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.275|461.275|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.3|461.3|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.325|461.325|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.35|461.35|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.375|461.375|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.4|461.4|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.425|461.425|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.45|461.45|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.475|461.475|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.5|461.5|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.525|461.525|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.55|461.55|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.575|461.575|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.6|461.6|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.625|461.625|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.65|461.65|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.675|461.675|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.7|461.7|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.725|461.725|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.75|461.75|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.775|461.775|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.8|461.8|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.825|461.825|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.85|461.85|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.875|461.875|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.9|461.9|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.925|461.925|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.95|461.95|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|461.975|461.975|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|462|462|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|462.025|462.025|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|462.05|462.05|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|462.075|462.075|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|462.1|462.1|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|462.125|462.125|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|462.15|462.15|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|462.175|462.175|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|462.1875|462.1875|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|462.2|462.2|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|462.2125|462.2125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 85: Group B frequencies are available for non-voice operations on a primary basis.|Rule 85: Limited to 6W ERP for base, mobile or operational fixed and 2W ERP for portable units."
+  },
+  "F|11|462.225|462.225|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|462.2375|462.2375|FB2|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 85: Group B frequencies are available for non-voice operations on a primary basis.|Rule 85: Limited to 6W ERP for base, mobile or operational fixed and 2W ERP for portable units."
+  },
+  "F|11|462.25|462.25|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|462.2625|462.2625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 85: Group B frequencies are available for non-voice operations on a primary basis.|Rule 85: Limited to 6W ERP for base, mobile or operational fixed and 2W ERP for portable units."
+  },
+  "F|11|462.275|462.275|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|462.2875|462.2875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 85: Group B frequencies are available for non-voice operations on a primary basis.|Rule 85: Limited to 6W ERP for base, mobile or operational fixed and 2W ERP for portable units."
+  },
+  "F|11|462.3|462.3|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|462.3125|462.3125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 85: Group B frequencies are available for non-voice operations on a primary basis.|Rule 85: Limited to 6W ERP for base, mobile or operational fixed and 2W ERP for portable units."
+  },
+  "F|11|462.325|462.325|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|462.3375|462.3375|FB2|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 85: Group B frequencies are available for non-voice operations on a primary basis.|Rule 85: Limited to 6W ERP for base, mobile or operational fixed and 2W ERP for portable units."
+  },
+  "F|11|462.35|462.35|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|462.3625|462.3625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 85: Group B frequencies are available for non-voice operations on a primary basis.|Rule 85: Limited to 6W ERP for base, mobile or operational fixed and 2W ERP for portable units."
+  },
+  "F|11|462.375|462.375|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|462.3875|462.3875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 85: Group B frequencies are available for non-voice operations on a primary basis.|Rule 85: Limited to 6W ERP for base, mobile or operational fixed and 2W ERP for portable units."
+  },
+  "F|11|462.4|462.4|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|462.4125|462.4125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 85: Group B frequencies are available for non-voice operations on a primary basis.|Rule 85: Limited to 6W ERP for base, mobile or operational fixed and 2W ERP for portable units."
+  },
+  "F|11|462.425|462.425|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|462.4375|462.4375|FB2|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 85: Group B frequencies are available for non-voice operations on a primary basis.|Rule 85: Limited to 6W ERP for base, mobile or operational fixed and 2W ERP for portable units."
+  },
+  "F|11|462.45|462.45|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|462.4625|462.4625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. ORLANDO, FL"
+  },
+  "F|11|462.475|462.475|FB2|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "F|11|462.4875|462.4875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. ORLANDO, FL"
+  },
+  "F|11|462.5|462.5|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|462.5125|462.5125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. ORLANDO, FL"
+  },
+  "F|11|462.525|462.525|FB2|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "F|11|462.75|462.75|FB2|11K2F3E|A": {
+    "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 36: Frequency is for OP - Oneway Paging"
+  },
+  "F|11|462.775|462.775|FB2|11K2F3E|A": {
+    "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 36: Frequency is for OP - Oneway Paging"
+  },
+  "F|11|462.8|462.8|FB2|11K2F3E|A": {
+    "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 36: Frequency is for OP - Oneway Paging"
+  },
+  "F|11|462.825|462.825|FB2|11K2F3E|A": {
+    "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 36: Frequency is for OP - Oneway Paging"
+  },
+  "F|11|462.85|462.85|FB2|11K2F3E|A": {
+    "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 36: Frequency is for OP - Oneway Paging"
+  },
+  "F|11|462.875|462.875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 36: Frequency is for OP - Oneway Paging"
+  },
+  "F|11|462.9|462.9|FB2|11K2F3E|A": {
+    "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 36: Frequency is for OP - Oneway Paging"
+  },
+  "F|11|462.925|462.925|FB2|11K2F3E|A": {
+    "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 36: Frequency is for OP - Oneway Paging"
+  },
+  "F|11|463.2|463.2|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.225|463.225|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.25|463.25|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.275|463.275|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.3|463.3|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.325|463.325|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.35|463.35|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.375|463.375|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.4|463.4|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.425|463.425|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.45|463.45|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.475|463.475|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.5|463.5|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.525|463.525|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.55|463.55|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.575|463.575|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.6|463.6|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.625|463.625|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.65|463.65|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.675|463.675|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.7|463.7|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.725|463.725|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.75|463.75|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.775|463.775|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.8|463.8|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.825|463.825|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.85|463.85|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.875|463.875|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.9|463.9|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.925|463.925|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.95|463.95|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|463.975|463.975|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464|464|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.025|464.025|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.05|464.05|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.075|464.075|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.1|464.1|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.125|464.125|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.15|464.15|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.175|464.175|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.2|464.2|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.225|464.225|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.25|464.25|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.275|464.275|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.3|464.3|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.325|464.325|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.35|464.35|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.375|464.375|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.4|464.4|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.425|464.425|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.45|464.45|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.475|464.475|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.525|464.525|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.575|464.575|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.6|464.6|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.625|464.625|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.65|464.65|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.675|464.675|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.7|464.7|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.725|464.725|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.75|464.75|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.775|464.775|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.8|464.8|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.825|464.825|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.85|464.85|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.875|464.875|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.9|464.9|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.925|464.925|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.95|464.95|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|464.975|464.975|FB2|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "F|11|465|465|FB2|11K2F3E|A": {
+    "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts|Rule 36: Frequency is for OP - Oneway Paging"
+  },
+  "F|11|450|469.99999|FB2|7K60FXE|C": {
+    "nxgen": ""
+  },
+  "L|12|451.025|451.025|MO|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "L|12|451.05|451.05|MO|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "L|12|451.075|451.075|MO|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "L|12|451.1|451.1|MO|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "L|12|451.125|451.125|MO|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "L|12|451.15|451.15|MO|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "L|12|451.175|451.175|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|451.2|451.2|MO|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "L|12|451.225|451.225|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|451.25|451.25|MO|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "L|12|451.275|451.275|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|451.3|451.3|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|451.325|451.325|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|451.35|451.35|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|451.375|451.375|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|451.4|451.4|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|451.425|451.425|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|451.45|451.45|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|451.475|451.475|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|451.5|451.5|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|451.525|451.525|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|451.55|451.55|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
+  },
+  "L|12|451.55625|451.55625|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "L|12|451.5625|451.5625|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k."
+  },
+  "L|12|451.56875|451.56875|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "L|12|451.575|451.575|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|451.6|451.6|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
+  },
+  "L|12|451.60625|451.60625|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "L|12|451.6125|451.6125|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k."
+  },
+  "L|12|451.61875|451.61875|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "L|12|451.625|451.625|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|451.65|451.65|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
+  },
+  "L|12|451.65625|451.65625|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "L|12|451.6625|451.6625|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k."
+  },
+  "L|12|451.66875|451.66875|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "L|12|451.675|451.675|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|451.7|451.7|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
+  },
+  "L|12|451.70625|451.70625|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "L|12|451.7125|451.7125|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k."
+  },
+  "L|12|451.71875|451.71875|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "L|12|451.725|451.725|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|451.75|451.75|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
+  },
+  "L|12|451.75625|451.75625|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "L|12|451.7625|451.7625|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k."
+  },
+  "L|12|451.76875|451.76875|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "L|12|451.775|451.775|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|451.825|451.825|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|451.85|451.85|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|451.875|451.875|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|451.9|451.9|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|451.925|451.925|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|451.95|451.95|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|451.975|451.975|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452|452|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.025|452.025|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.05|452.05|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.075|452.075|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.125|452.125|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.15|452.15|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.175|452.175|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.2|452.2|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.225|452.225|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.25|452.25|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.275|452.275|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.3|452.3|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.325|452.325|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
+  },
+  "L|12|452.35|452.35|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.375|452.375|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
+  },
+  "L|12|452.4|452.4|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.425|452.425|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
+  },
+  "L|12|452.45|452.45|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.475|452.475|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
+  },
+  "L|12|452.5|452.5|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.525|452.525|MO|11K2F3E|A": {
+    "nxgen": "Rule 132: LA Frequency"
+  },
+  "L|12|452.55|452.55|MO|11K2F3E|A": {
+    "nxgen": "Rule 132: LA Frequency"
+  },
+  "L|12|452.575|452.575|MO|11K2F3E|A": {
+    "nxgen": "Rule 132: LA Frequency"
+  },
+  "L|12|452.6|452.6|MO|11K2F3E|A": {
+    "nxgen": "Rule 132: LA Frequency"
+  },
+  "L|12|452.625|452.625|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.65|452.65|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.675|452.675|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.7|452.7|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.725|452.725|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.75|452.75|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.775|452.775|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
+  },
+  "L|12|452.8|452.8|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.825|452.825|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
+  },
+  "L|12|452.85|452.85|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|452.875|452.875|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
+  },
+  "L|12|452.975|452.975|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|453|453|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|454|454|MO|11K2F3E|A": {
+    "nxgen": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 131: IP Frequency"
+  },
+  "L|12|456.025|456.025|MO|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "L|12|456.05|456.05|MO|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "L|12|456.075|456.075|MO|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "L|12|456.1|456.1|MO|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "L|12|456.125|456.125|MO|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "L|12|456.15|456.15|MO|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "L|12|456.175|456.175|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|456.2|456.2|MO|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "L|12|456.225|456.225|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|456.25|456.25|MO|11K2F3E|A": {
+    "nxgen": "Rule 130: IW Frequency"
+  },
+  "L|12|456.275|456.275|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|456.3|456.3|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|456.325|456.325|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|456.35|456.35|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|456.375|456.375|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|456.4|456.4|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|456.425|456.425|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|456.45|456.45|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|456.475|456.475|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|456.5|456.5|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|456.525|456.525|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|456.55|456.55|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
+  },
+  "L|12|456.575|456.575|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|456.6|456.6|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
+  },
+  "L|12|456.625|456.625|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|456.65|456.65|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
+  },
+  "L|12|456.675|456.675|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|456.7|456.7|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
+  },
+  "L|12|456.725|456.725|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|456.75|456.75|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
+  },
+  "L|12|456.775|456.775|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|456.825|456.825|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|456.85|456.85|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|456.875|456.875|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|456.9|456.9|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|456.925|456.925|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|456.95|456.95|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|456.975|456.975|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457|457|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.025|457.025|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.05|457.05|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.075|457.075|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.1|457.1|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.125|457.125|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.15|457.15|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.175|457.175|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.2|457.2|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.225|457.225|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.25|457.25|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.275|457.275|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.3|457.3|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.325|457.325|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
+  },
+  "L|12|457.35|457.35|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.375|457.375|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
+  },
+  "L|12|457.4|457.4|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.425|457.425|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
+  },
+  "L|12|457.45|457.45|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.475|457.475|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
+  },
+  "L|12|457.5|457.5|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.525|457.525|MO|11K2F3E|A": {
+    "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.|Rule 160: FCC Rule 60: This CH frequency is not subject to the 2 Watt ERP restriction listed in (c)(60)(i).|Rule 160: FCC Rule 60: Applicant Type Must be CH - Cargo Handling|Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
+  },
+  "L|12|457.55|457.55|MO|11K2F3E|A": {
+    "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.|Rule 160: FCC Rule 60: This CH frequency is not subject to the 2 Watt ERP restriction listed in (c)(60)(i).|Rule 160: FCC Rule 60: Applicant Type Must be CH - Cargo Handling|Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
+  },
+  "L|12|457.5625|457.5625|MO|11K2F3E|A": {
+    "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 30: Emissions may not exceed 11k.|Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.|Rule 160: FCC Rule 60: This CH frequency is not subject to the 2 Watt ERP restriction listed in (c)(60)(i).|Rule 160: FCC Rule 60: Applicant Type Must be CH - Cargo Handling|Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
+  },
+  "L|12|457.575|457.575|MO|11K2F3E|A": {
+    "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.|Rule 160: FCC Rule 60: This CH frequency is not subject to the 2 Watt ERP restriction listed in (c)(60)(i).|Rule 160: FCC Rule 60: Applicant Type Must be CH - Cargo Handling|Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
+  },
+  "L|12|457.5875|457.5875|MO|11K2F3E|A": {
+    "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 30: Emissions may not exceed 11k.|Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.|Rule 160: FCC Rule 60: This CH frequency is not subject to the 2 Watt ERP restriction listed in (c)(60)(i).|Rule 160: FCC Rule 60: Applicant Type Must be CH - Cargo Handling|Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
+  },
+  "L|12|457.6|457.6|MO|11K2F3E|A": {
+    "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.|Rule 160: FCC Rule 60: This CH frequency is not subject to the 2 Watt ERP restriction listed in (c)(60)(i).|Rule 160: FCC Rule 60: Applicant Type Must be CH - Cargo Handling|Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile."
+  },
+  "L|12|457.6125|457.6125|MO|11K2F3E|A": {
+    "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 30: Emissions may not exceed 11k.|Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.|Rule 160: FCC Rule 60: This CH frequency is not subject to the 2 Watt ERP restriction listed in (c)(60)(i).|Rule 160: FCC Rule 60: Applicant Type Must be CH - Cargo Handling"
+  },
+  "L|12|457.625|457.625|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.65|457.65|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.675|457.675|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.7|457.7|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.725|457.725|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.75|457.75|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.775|457.775|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
+  },
+  "L|12|457.8|457.8|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.825|457.825|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
+  },
+  "L|12|457.85|457.85|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|457.875|457.875|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
+  },
+  "L|12|457.975|457.975|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|458|458|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|459|459|MO|11K2F3E|A": {
+    "nxgen": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 131: IP Frequency"
+  },
+  "L|12|460.65|460.65|MO|11K2F3E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "L|12|460.675|460.675|MO|11K2F3E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "L|12|460.7|460.7|MO|11K2F3E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "L|12|460.725|460.725|MO|11K2F3E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "L|12|460.75|460.75|MO|11K2F3E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "L|12|460.775|460.775|MO|11K2F3E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "L|12|460.8|460.8|MO|11K2F3E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "L|12|460.825|460.825|MO|11K2F3E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "L|12|460.85|460.85|MO|11K2F3E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "L|12|460.875|460.875|MO|11K2F3E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "L|12|460.9|460.9|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
+  },
+  "L|12|460.9125|460.9125|MO|11K2F3E|A": {
+    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "L|12|460.925|460.925|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
+  },
+  "L|12|460.9375|460.9375|MO|11K2F3E|A": {
+    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "L|12|460.95|460.95|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
+  },
+  "L|12|460.9625|460.9625|MO|11K2F3E|A": {
+    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "L|12|460.975|460.975|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire.|Rule 66: Frequency is for CS - Central Station Alarm"
+  },
+  "L|12|460.9875|460.9875|MO|11K2F3E|A": {
+    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 66: Frequency is for CS - Central Station Alarm|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "L|12|461|461|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire.|Rule 66: Frequency is for CS - Central Station Alarm"
+  },
+  "L|12|461.0125|461.0125|MO|11K2F3E|A": {
+    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 66: Frequency is for CS - Central Station Alarm|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "L|12|461.025|461.025|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.05|461.05|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.075|461.075|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.1|461.1|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.125|461.125|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.15|461.15|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.175|461.175|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.2|461.2|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.225|461.225|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.25|461.25|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.275|461.275|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.3|461.3|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.325|461.325|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.35|461.35|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.375|461.375|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.4|461.4|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.425|461.425|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.45|461.45|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.475|461.475|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.5|461.5|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.525|461.525|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.55|461.55|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.575|461.575|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.6|461.6|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.625|461.625|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.65|461.65|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.675|461.675|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.7|461.7|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.725|461.725|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.75|461.75|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.775|461.775|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.8|461.8|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.825|461.825|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.85|461.85|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.875|461.875|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.9|461.9|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.925|461.925|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.95|461.95|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|461.975|461.975|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462|462|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462.025|462.025|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462.05|462.05|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462.075|462.075|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462.1|462.1|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462.125|462.125|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462.15|462.15|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462.175|462.175|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462.1875|462.1875|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462.2|462.2|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462.2125|462.2125|MO|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 85: Group B frequencies are available for non-voice operations on a primary basis.|Rule 85: Frequency is for Non Voice"
+  },
+  "L|12|462.225|462.225|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462.2375|462.2375|MO|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 85: Group B frequencies are available for non-voice operations on a primary basis.|Rule 85: Frequency is for Non Voice"
+  },
+  "L|12|462.25|462.25|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462.2625|462.2625|MO|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 85: Group B frequencies are available for non-voice operations on a primary basis.|Rule 85: Frequency is for Non Voice"
+  },
+  "L|12|462.275|462.275|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462.2875|462.2875|MO|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 85: Group B frequencies are available for non-voice operations on a primary basis.|Rule 85: Frequency is for Non Voice"
+  },
+  "L|12|462.3|462.3|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462.3125|462.3125|MO|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 85: Group B frequencies are available for non-voice operations on a primary basis.|Rule 85: Frequency is for Non Voice"
+  },
+  "L|12|462.325|462.325|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462.3375|462.3375|MO|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 85: Group B frequencies are available for non-voice operations on a primary basis.|Rule 85: Frequency is for Non Voice"
+  },
+  "L|12|462.35|462.35|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462.3625|462.3625|MO|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 85: Group B frequencies are available for non-voice operations on a primary basis.|Rule 85: Frequency is for Non Voice"
+  },
+  "L|12|462.375|462.375|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462.3875|462.3875|MO|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 85: Group B frequencies are available for non-voice operations on a primary basis.|Rule 85: Frequency is for Non Voice"
+  },
+  "L|12|462.4|462.4|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462.4125|462.4125|MO|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 85: Group B frequencies are available for non-voice operations on a primary basis.|Rule 85: Frequency is for Non Voice"
+  },
+  "L|12|462.425|462.425|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462.4375|462.4375|MO|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 85: Group B frequencies are available for non-voice operations on a primary basis.|Rule 85: Frequency is for Non Voice"
+  },
+  "L|12|462.45|462.45|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462.4625|462.4625|MO|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis."
+  },
+  "L|12|462.475|462.475|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|462.4875|462.4875|MO|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis."
+  },
+  "L|12|462.49375|462.49375|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462.5|462.5|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|462.5125|462.5125|MO|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis."
+  },
+  "L|12|462.525|462.525|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|463.2|463.2|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.225|463.225|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.25|463.25|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.275|463.275|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.3|463.3|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.325|463.325|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.35|463.35|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.375|463.375|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.4|463.4|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.425|463.425|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.45|463.45|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.475|463.475|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.5|463.5|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.525|463.525|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.55|463.55|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.575|463.575|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.6|463.6|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.625|463.625|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.65|463.65|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.675|463.675|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.7|463.7|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.725|463.725|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.75|463.75|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.775|463.775|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.8|463.8|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.825|463.825|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.85|463.85|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.875|463.875|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.9|463.9|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.925|463.925|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.95|463.95|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|463.975|463.975|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464|464|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.025|464.025|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.05|464.05|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.075|464.075|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.1|464.1|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.125|464.125|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.15|464.15|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.175|464.175|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.2|464.2|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.225|464.225|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.25|464.25|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.275|464.275|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.3|464.3|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.325|464.325|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.35|464.35|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.375|464.375|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.4|464.4|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.425|464.425|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.45|464.45|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.475|464.475|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.525|464.525|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.575|464.575|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.6|464.6|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.625|464.625|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.65|464.65|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.675|464.675|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.7|464.7|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.725|464.725|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.75|464.75|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.775|464.775|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.8|464.8|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.825|464.825|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.85|464.85|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.875|464.875|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.9|464.9|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.925|464.925|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.95|464.95|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|464.975|464.975|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|465.0125|465.0125|MO|11K2F3E|A": {
+    "nxgen": "Rule 88: Use of this frequency is on a secondary basis.|Rule 88: Subject to the provisions of § 90.267(h)(1),(h)(2), (h)(3) and (h)(4).|Rule 88: Power Must Be <= 2 Watts."
+  },
+  "L|12|465.65|465.65|MO|11K2F3E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "L|12|465.675|465.675|MO|11K2F3E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "L|12|465.7|465.7|MO|11K2F3E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "L|12|465.725|465.725|MO|11K2F3E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "L|12|465.75|465.75|MO|11K2F3E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "L|12|465.775|465.775|MO|11K2F3E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "L|12|465.8|465.8|MO|11K2F3E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "L|12|465.825|465.825|MO|11K2F3E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "L|12|465.85|465.85|MO|11K2F3E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "L|12|465.875|465.875|MO|11K2F3E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "L|12|465.9|465.9|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
+  },
+  "L|12|465.9125|465.9125|MO|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "L|12|465.925|465.925|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
+  },
+  "L|12|465.9375|465.9375|MO|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "L|12|465.95|465.95|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
+  },
+  "L|12|465.9625|465.9625|MO|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "L|12|465.975|465.975|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 66: Frequency is for CS - Central Station Alarm"
+  },
+  "L|12|465.9875|465.9875|MO|11K2F3E|A": {
+    "nxgen": "Rule 66: Frequency is for CS - Central Station Alarm|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "L|12|466|466|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
+  },
+  "L|12|466.0125|466.0125|MO|11K2F3E|A": {
+    "nxgen": "Rule 66: Frequency is for CS - Central Station Alarm|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "L|12|466.025|466.025|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.05|466.05|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.075|466.075|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.1|466.1|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.125|466.125|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.15|466.15|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.175|466.175|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.2|466.2|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.225|466.225|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.25|466.25|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.275|466.275|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.3|466.3|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.325|466.325|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.35|466.35|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.375|466.375|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.4|466.4|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.425|466.425|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.45|466.45|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.475|466.475|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.5|466.5|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.525|466.525|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.55|466.55|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.575|466.575|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.6|466.6|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.625|466.625|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.65|466.65|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.675|466.675|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.7|466.7|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.725|466.725|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.75|466.75|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.775|466.775|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.8|466.8|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.825|466.825|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.85|466.85|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.875|466.875|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.9|466.9|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.925|466.925|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.9375|466.9375|MO|11K2F3E|A": {
+    "nxgen": "Rule 88: Use of this frequency is on a secondary basis.|Rule 88: Subject to the provisions of § 90.267(h)(1),(h)(2), (h)(3) and (h)(4).|Rule 88: Power Must Be <= 2 Watts."
+  },
+  "L|12|466.95|466.95|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|466.975|466.975|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|467|467|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|467.025|467.025|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|467.05|467.05|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|467.075|467.075|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|467.1|467.1|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|467.125|467.125|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|467.15|467.15|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|467.175|467.175|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|467.2|467.2|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|467.225|467.225|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|467.25|467.25|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|467.275|467.275|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|467.3|467.3|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|467.325|467.325|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|467.35|467.35|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|467.375|467.375|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|467.4|467.4|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|467.425|467.425|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|467.45|467.45|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|467.475|467.475|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|467.5|467.5|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|467.525|467.525|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "L|12|468.2|468.2|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.225|468.225|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.25|468.25|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.275|468.275|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.3|468.3|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.325|468.325|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.35|468.35|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.375|468.375|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.4|468.4|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.425|468.425|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.45|468.45|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.475|468.475|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.5|468.5|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.525|468.525|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.55|468.55|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.575|468.575|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.6|468.6|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.625|468.625|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.65|468.65|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.675|468.675|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.7|468.7|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.725|468.725|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.75|468.75|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.775|468.775|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.8|468.8|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.825|468.825|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.85|468.85|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.875|468.875|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.9|468.9|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.925|468.925|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.95|468.95|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|468.975|468.975|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469|469|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.025|469.025|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.05|469.05|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.075|469.075|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.1|469.1|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.125|469.125|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.15|469.15|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.175|469.175|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.2|469.2|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.225|469.225|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.25|469.25|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.275|469.275|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.3|469.3|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.325|469.325|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.35|469.35|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.375|469.375|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.4|469.4|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.425|469.425|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.45|469.45|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.475|469.475|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.525|469.525|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.575|469.575|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.6|469.6|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.625|469.625|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.65|469.65|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.675|469.675|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.7|469.7|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.725|469.725|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.75|469.75|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.775|469.775|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.8|469.8|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.825|469.825|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.85|469.85|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.875|469.875|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.9|469.9|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.925|469.925|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.95|469.95|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|469.975|469.975|MO|11K2F3E|A": {
+    "nxgen": ""
+  },
+  "L|12|450|469.99999|MO|7K60FXE|C": {
+    "nxgen": ""
+  },
+  "LicType|Loc|LocNum|FreqLow|FreqType|Class|TxAntHgt": {
+    "legacy": "CoordCode"
+  },
+  "IB|A|1|461.6||FB2|3": {
+    "legacy": "C"
+  },
+  "IB|G|2|461.6||MO|0": {
+    "legacy": "C"
+  },
+  "IB|G|2|466.6||MO|0": {
+    "legacy": "C"
+  },
+  "IB|B|3|463.6125||FB2|10": {
+    "legacy": "C"
+  },
+  "IB|H|4|463.6125||MO|0": {
+    "legacy": "C"
+  },
+  "IB|H|4|468.6125||MO|0": {
+    "legacy": "C"
+  },
+  "IB|C|5|462.175||FB2|3": {
+    "legacy": "C"
+  },
+  "IB|I|6|462.175||MO|0": {
+    "legacy": "C"
+  },
+  "IB|I|6|467.175||MO|0": {
+    "legacy": "C"
+  },
+  "IB|D|7|464.2875||FB2|6": {
+    "legacy": "C"
+  },
+  "IB|J|8|464.2875||MO|0": {
+    "legacy": "C"
+  },
+  "IB|J|8|469.2875||MO|0": {
+    "legacy": "C"
+  },
+  "IB|E|9|464.9375||FB2|12": {
+    "legacy": "C"
+  },
+  "IB|K|10|464.9375||MO|0": {
+    "legacy": "C"
+  },
+  "IB|K|10|469.9375||MO|0": {
+    "legacy": "C"
+  },
+  "IB|F|11|451.025||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.0375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.05||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.0625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.075||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.0875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.1||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.1125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.1375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.15||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.1625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.175||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.1875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.2||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.2125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.225||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.2375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.25||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.2625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.275||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.2875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.3||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.3125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.325||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.3375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.35||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.3625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.3875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.4||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.4125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.425||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.4375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.45||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.4625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.475||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.4875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.5||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.5125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.525||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.5375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.55||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.55625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.5625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.56875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.575||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.5875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.6||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.60625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.6125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.61875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.6375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.65||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.65625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.6625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.66875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.675||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.6875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.7||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.70625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.7125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.71875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.725||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.7375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.75||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.75625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.7625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.76875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.775||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.7875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.825||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.8375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.85||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.8625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.8875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.9||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.9125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.925||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.9375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.95||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.9625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.975||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|451.9875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.0125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.025||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.0375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.05||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.0625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.075||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.0875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.1||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.1125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.1375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.15||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.1625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.175||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.1875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.2||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.2125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.225||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.2375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.25||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.2625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.275||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.2875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.3||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.3125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.325||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.3375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.35||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.3625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.3875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.4||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.4125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.425||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.4375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.45||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.4625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.475||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.4875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.5||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.5125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.525||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.5375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.55||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.5625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.575||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.5875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.6||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.6125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.6375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.65||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.6625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.675||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.6875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.7||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.7125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.725||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.7375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.75||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.7625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.775||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.7875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.8||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.8125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.825||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.8375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.85||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.8625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.8875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.975||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|452.9875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|453||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|453.0125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|454||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|457.525||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|457.55||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|457.5625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|457.575||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|457.5875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|457.6||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|457.6125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|459||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|460.6625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|460.6875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|460.7125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|460.7375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|460.7625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|460.7875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|460.8125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|460.8375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|460.8625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|460.8875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|460.9875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.0125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.025||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.05||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.075||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.1||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.15||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.175||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.2||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.225||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.25||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.275||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.3||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.325||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.35||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.3875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.4||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.4125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.425||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.4375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.45||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.4625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.475||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.4875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.5||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.5125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.525||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.5375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.55||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.5625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.575||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.5875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.6||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.6125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.6375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.65||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.6625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.675||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.6875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.7||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.7125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.725||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.7375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.75||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.7625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.775||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.7875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.8||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.8125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.825||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.8375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.85||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.8625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.8875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.9||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.9125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.925||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.9375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.95||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.9625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.975||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|461.9875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.0125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.025||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.0375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.05||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.0625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.075||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.0875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.1||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.1125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.1375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.15||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.1625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.175||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.1875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.2||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.2125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.225||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.2375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.25||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.2625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.275||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.2875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.3||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.3125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.325||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.3375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.35||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.3625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.3875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.4||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.4125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.425||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.4375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.45||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.4625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.475||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.4875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.5||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.5125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.525||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.75||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.775||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.8||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.825||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.85||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.9||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|462.925||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.2||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.2125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.225||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.2375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.25||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.2625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.275||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.2875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.3||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.3125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.325||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.3375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.35||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.3625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.3875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.4||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.4125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.425||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.4375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.45||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.4625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.475||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.4875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.5||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.5125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.525||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.5375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.55||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.5625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.575||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.5875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.6||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.6125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.6375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.65||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.6625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.675||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.6875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.7||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.7125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.725||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.7375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.75||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.7625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.775||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.7875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.8||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.8125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.825||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.8375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.85||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.8625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.8875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.9||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.9125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.925||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.9375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.95||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.9625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.975||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|463.9875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.0125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.025||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.0375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.05||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.0625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.075||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.0875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.1||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.1125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.1375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.15||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.1625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.175||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.1875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.2||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.2125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.225||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.2375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.25||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.2625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.275||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.2875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.3||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.3125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.325||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.3375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.35||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.3625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.3875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.4||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.4125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.425||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.4375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.45||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.4625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.475||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.525||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.575||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.5875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.6||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.6125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.6375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.65||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.6625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.675||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.6875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.7||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.7125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.725||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.7375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.75||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.7625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.775||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.7875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.8||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.8125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.825||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.8375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.85||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.8625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.8875||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.9||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.9125||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.925||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.9375||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.95||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.9625||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|464.975||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|465||FB2|10.7": {
+    "legacy": "A"
+  },
+  "IB|F|11|450||FB2|10.7": {
+    "legacy": "C"
+  },
+  "IB|L|12|451.025||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.0375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.05||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.0625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.075||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.0875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.1||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.1125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.1375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.15||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.1625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.175||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.1875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.2||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.2125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.225||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.2375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.25||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.2625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.275||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.2875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.3||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.3125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.325||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.3375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.35||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.3625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.3875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.4||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.4125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.425||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.4375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.45||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.4625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.475||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.4875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.5||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.5125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.525||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.5375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.55||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.55625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.5625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.56875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.575||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.5875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.6||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.60625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.6125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.61875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.6375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.65||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.65625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.6625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.66875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.675||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.6875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.7||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.70625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.7125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.71875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.725||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.7375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.75||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.75625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.7625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.76875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.775||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.7875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.825||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.8375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.85||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.8625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.8875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.9||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.9125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.925||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.9375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.95||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.9625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.975||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|451.9875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.0125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.025||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.0375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.05||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.0625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.075||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.0875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.1||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.1125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.1375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.15||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.1625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.175||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.1875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.2||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.2125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.225||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.2375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.25||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.2625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.275||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.2875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.3||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.3125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.325||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.3375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.35||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.3625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.3875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.4||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.4125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.425||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.4375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.45||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.4625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.475||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.4875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.5||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.5125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.525||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.5375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.55||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.5625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.575||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.5875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.6||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.6125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.6375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.65||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.6625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.675||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.6875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.7||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.7125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.725||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.7375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.75||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.7625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.775||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.7875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.8||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.8125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.825||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.8375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.85||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.8625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.8875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.975||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|452.9875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|453||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|453.0125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|454||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.025||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.0375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.05||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.0625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.075||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.0875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.1||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.1125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.1375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.15||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.1625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.175||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.1875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.2||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.2125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.225||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.2375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.25||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.2625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.275||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.2875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.3||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.3125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.325||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.3375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.35||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.3625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.3875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.4||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.4125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.425||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.4375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.45||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.4625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.475||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.4875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.5||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.5125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.525||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.5375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.55||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.5625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.575||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.5875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.6||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.6125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.6375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.65||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.6625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.675||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.6875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.7||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.7125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.725||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.7375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.75||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.7625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.775||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.7875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.825||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.8375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.85||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.8625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.8875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.9||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.9125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.925||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.9375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.95||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.9625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.975||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|456.9875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.0125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.025||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.0375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.05||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.0625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.075||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.0875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.1||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.1125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.1375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.15||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.1625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.175||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.1875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.2||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.2125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.225||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.2375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.25||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.2625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.275||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.2875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.3||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.3125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.325||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.3375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.35||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.3625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.3875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.4||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.4125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.425||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.4375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.45||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.4625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.475||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.4875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.5||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.5125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.525||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.55||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.5625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.575||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.5875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.6||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.6125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.6375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.65||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.6625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.675||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.6875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.7||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.7125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.725||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.7375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.75||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.7625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.775||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.7875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.8||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.8125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.825||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.8375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.85||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.8625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.8875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.975||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|457.9875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|458||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|458.0125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|459||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|460.65||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|460.6625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|460.675||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|460.6875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|460.7||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|460.7125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|460.725||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|460.7375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|460.75||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|460.7625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|460.775||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|460.7875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|460.8||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|460.8125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|460.825||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|460.8375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|460.85||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|460.8625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|460.875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|460.8875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|460.975||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|460.9875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.0125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.025||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.05||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.075||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.1||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.15||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.175||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.2||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.225||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.25||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.275||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.3||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.325||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.35||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.3875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.4||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.4125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.425||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.4375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.45||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.4625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.475||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.4875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.5||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.5125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.525||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.5375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.55||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.5625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.575||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.5875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.6||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.6125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.6375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.65||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.6625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.675||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.6875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.7||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.7125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.725||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.7375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.75||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.7625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.775||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.7875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.8||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.8125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.825||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.8375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.85||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.8625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.8875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.9||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.9125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.925||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.9375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.95||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.9625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.975||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|461.9875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.0125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.025||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.0375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.05||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.0625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.075||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.0875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.1||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.1125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.1375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.15||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.1625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.175||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.1875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.2||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.2125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.225||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.2375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.25||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.2625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.275||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.2875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.3||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.3125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.325||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.3375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.35||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.3625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.3875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.4||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.4125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.425||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.4375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.45||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.4625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.475||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.4875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.49375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.5||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.5125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|462.525||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.2||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.2125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.225||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.2375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.25||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.2625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.275||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.2875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.3||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.3125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.325||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.3375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.35||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.3625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.3875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.4||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.4125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.425||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.4375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.45||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.4625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.475||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.4875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.5||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.5125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.525||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.5375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.55||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.5625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.575||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.5875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.6||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.6125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.6375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.65||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.6625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.675||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.6875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.7||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.7125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.725||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.7375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.75||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.7625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.775||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.7875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.8||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.8125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.825||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.8375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.85||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.8625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.8875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.9||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.9125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.925||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.9375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.95||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.9625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.975||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|463.9875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.0125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.025||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.0375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.05||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.0625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.075||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.0875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.1||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.1125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.1375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.15||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.1625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.175||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.1875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.2||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.2125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.225||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.2375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.25||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.2625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.275||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.2875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.3||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.3125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.325||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.3375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.35||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.3625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.3875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.4||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.4125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.425||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.4375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.45||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.4625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.475||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.525||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.575||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.5875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.6||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.6125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.6375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.65||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.6625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.675||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.6875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.7||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.7125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.725||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.7375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.75||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.7625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.775||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.7875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.8||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.8125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.825||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.8375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.85||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.8625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.8875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.9||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.9125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.925||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.9375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.95||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.9625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.975||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|464.9875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.0125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.65||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.6625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.675||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.6875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.7||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.7125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.725||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.7375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.75||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.7625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.775||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.7875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.8||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.8125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.825||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.8375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.85||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.8625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.8875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.975||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|465.9875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.0125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.025||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.05||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.075||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.1||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.15||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.175||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.2||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.225||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.25||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.275||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.3||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.325||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.35||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.3875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.4||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.4125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.425||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.4375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.45||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.4625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.475||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.4875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.5||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.5125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.525||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.5375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.55||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.5625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.575||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.5875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.6||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.6125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.6375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.65||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.6625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.675||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.6875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.7||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.7125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.725||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.7375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.75||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.7625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.775||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.7875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.8||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.8125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.825||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.8375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.85||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.8625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.8875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.9||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.9125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.925||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.9375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.95||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.9625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.975||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|466.9875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.0125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.025||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.0375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.05||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.0625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.075||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.0875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.1||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.1125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.1375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.15||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.1625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.175||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.1875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.2||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.2125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.225||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.2375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.25||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.2625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.275||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.2875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.3||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.3125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.325||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.3375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.35||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.3625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.3875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.4||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.4125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.425||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.4375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.45||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.4625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.475||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.4875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.5||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.5125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|467.525||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.2||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.2125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.225||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.2375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.25||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.2625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.275||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.2875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.3||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.3125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.325||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.3375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.35||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.3625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.3875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.4||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.4125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.425||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.4375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.45||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.4625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.475||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.4875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.5||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.5125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.525||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.5375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.55||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.5625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.575||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.5875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.6||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.6125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.6375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.65||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.6625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.675||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.6875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.7||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.7125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.725||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.7375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.75||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.7625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.775||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.7875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.8||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.8125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.825||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.8375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.85||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.8625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.8875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.9||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.9125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.925||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.9375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.95||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.9625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.975||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|468.9875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.0125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.025||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.0375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.05||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.0625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.075||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.0875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.1||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.1125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.1375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.15||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.1625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.175||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.1875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.2||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.2125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.225||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.2375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.25||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.2625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.275||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.2875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.3||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.3125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.325||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.3375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.35||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.3625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.3875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.4||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.4125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.425||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.4375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.45||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.4625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.475||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.525||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.575||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.5875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.6||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.6125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.6375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.65||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.6625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.675||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.6875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.7||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.7125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.725||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.7375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.75||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.7625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.775||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.7875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.8||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.8125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.825||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.8375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.85||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.8625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.8875||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.9||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.9125||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.925||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.9375||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.95||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.9625||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|469.975||MO|0": {
+    "legacy": "A"
+  },
+  "IB|L|12|450||MO|0": {
+    "legacy": "C"
+  }
+}

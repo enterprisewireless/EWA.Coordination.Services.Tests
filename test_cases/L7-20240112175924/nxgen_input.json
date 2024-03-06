@@ -1,0 +1,49 @@
+{
+    "licenseType": "IB",
+    "scheduleGhs": [
+        {
+            "lineNum": 1,
+            "locationCode": "G",
+            "locationNum": 1,
+            "frequencyLow": 450,
+            "frequencyHigh": 469.99999,
+            "stationClass": "MO6",
+            "emissionDesignator": "7K60F1W",
+            "power": null,
+            "erp": 5,
+            "haat": null,
+            "transmittingAntennaHeight": null,
+            "coordinationCode": "C",
+            "requestNum": 1
+        },
+        {
+            "lineNum": 2,
+            "locationCode": "G",
+            "locationNum": 1,
+            "frequencyLow": 450,
+            "frequencyHigh": 469.99999,
+            "stationClass": "MO6",
+            "emissionDesignator": "11K2F1W",
+            "power": null,
+            "erp": 5,
+            "haat": null,
+            "transmittingAntennaHeight": null,
+            "coordinationCode": "A",
+            "requestNum": 2
+        }
+    ],
+    "scheduleEs": [
+        {
+            "state": null,
+            "city": null,
+            "county": null,
+            "locationNum": 1,
+            "locationCode": "G",
+            "latitude": 37.076639,
+            "longitude": -113.582194,
+            "areaOfOperation": "1",
+            "serviceAreaRadius": 32,
+            "elevation": null
+        }
+    ]
+}
