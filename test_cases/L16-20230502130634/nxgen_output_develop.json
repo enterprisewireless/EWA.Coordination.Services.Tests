@@ -1,0 +1,271 @@
+{
+  "results": [
+    {
+      "recordNum": 1,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 150.83,
+      "frequencyHigh": 150.83,
+      "frequencyType": null,
+      "emissionDesignator": "8K70D1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 2,
+      "lineNum": 2,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 150.83,
+      "frequencyHigh": 150.83,
+      "frequencyType": null,
+      "emissionDesignator": "9K80D7W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 28: State must be PR or VI",
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging",
+        "Rule 132: LA Frequency"
+      ]
+    },
+    {
+      "recordNum": 3,
+      "lineNum": 3,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 153.215,
+      "frequencyHigh": 153.215,
+      "frequencyType": null,
+      "emissionDesignator": "8K70D1W",
+      "stationClassCode": "MO",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 4,
+      "lineNum": 4,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 153.215,
+      "frequencyHigh": 153.215,
+      "frequencyType": null,
+      "emissionDesignator": "9K80D7W",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 5,
+      "lineNum": 5,
+      "locationCode": "G",
+      "locationNum": 3,
+      "frequencyLow": 150.83,
+      "frequencyHigh": 150.83,
+      "frequencyType": null,
+      "emissionDesignator": "8K70D1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 6,
+      "lineNum": 6,
+      "locationCode": "G",
+      "locationNum": 3,
+      "frequencyLow": 150.83,
+      "frequencyHigh": 150.83,
+      "frequencyType": null,
+      "emissionDesignator": "9K80D7W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 28: State must be PR or VI",
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging",
+        "Rule 132: LA Frequency"
+      ]
+    },
+    {
+      "recordNum": 7,
+      "lineNum": 7,
+      "locationCode": "H",
+      "locationNum": 5,
+      "frequencyLow": 150.83,
+      "frequencyHigh": 150.83,
+      "frequencyType": null,
+      "emissionDesignator": "8K70D1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 8,
+      "lineNum": 8,
+      "locationCode": "H",
+      "locationNum": 5,
+      "frequencyLow": 150.83,
+      "frequencyHigh": 150.83,
+      "frequencyType": null,
+      "emissionDesignator": "9K80D7W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 28: State must be PR or VI",
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging",
+        "Rule 132: LA Frequency"
+      ]
+    },
+    {
+      "recordNum": 9,
+      "lineNum": 9,
+      "locationCode": "I",
+      "locationNum": 7,
+      "frequencyLow": 150.83,
+      "frequencyHigh": 150.83,
+      "frequencyType": null,
+      "emissionDesignator": "8K70D1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 10,
+      "lineNum": 10,
+      "locationCode": "I",
+      "locationNum": 7,
+      "frequencyLow": 150.83,
+      "frequencyHigh": 150.83,
+      "frequencyType": null,
+      "emissionDesignator": "9K80D7W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 28: State must be PR or VI",
+        "Rule 29: Output power cannot exceed 350 watts.",
+        "Rule 29: Frequency is for OP - Oneway Paging",
+        "Rule 132: LA Frequency"
+      ]
+    },
+    {
+      "recordNum": 11,
+      "lineNum": 11,
+      "locationCode": "H",
+      "locationNum": 4,
+      "frequencyLow": 153.215,
+      "frequencyHigh": 153.215,
+      "frequencyType": null,
+      "emissionDesignator": "8K70D1W",
+      "stationClassCode": "MO",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 12,
+      "lineNum": 12,
+      "locationCode": "H",
+      "locationNum": 4,
+      "frequencyLow": 153.215,
+      "frequencyHigh": 153.215,
+      "frequencyType": null,
+      "emissionDesignator": "9K80D7W",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 13,
+      "lineNum": 13,
+      "locationCode": "I",
+      "locationNum": 6,
+      "frequencyLow": 153.215,
+      "frequencyHigh": 153.215,
+      "frequencyType": null,
+      "emissionDesignator": "8K70D1W",
+      "stationClassCode": "MO",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 14,
+      "lineNum": 14,
+      "locationCode": "I",
+      "locationNum": 6,
+      "frequencyLow": 153.215,
+      "frequencyHigh": 153.215,
+      "frequencyType": null,
+      "emissionDesignator": "9K80D7W",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 15,
+      "lineNum": 15,
+      "locationCode": "J",
+      "locationNum": 8,
+      "frequencyLow": 153.215,
+      "frequencyHigh": 153.215,
+      "frequencyType": null,
+      "emissionDesignator": "8K70D1W",
+      "stationClassCode": "MO",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 16,
+      "lineNum": 16,
+      "locationCode": "J",
+      "locationNum": 8,
+      "frequencyLow": 153.215,
+      "frequencyHigh": 153.215,
+      "frequencyType": null,
+      "emissionDesignator": "9K80D7W",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 17,
+      "lineNum": 17,
+      "locationCode": "K",
+      "locationNum": 9,
+      "frequencyLow": 153.215,
+      "frequencyHigh": 153.215,
+      "frequencyType": null,
+      "emissionDesignator": "8K70D1W",
+      "stationClassCode": "FX1",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 18,
+      "lineNum": 18,
+      "locationCode": "K",
+      "locationNum": 9,
+      "frequencyLow": 153.215,
+      "frequencyHigh": 153.215,
+      "frequencyType": null,
+      "emissionDesignator": "9K80D7W",
+      "stationClassCode": "FX1",
+      "coordinationCode": "C",
+      "limitationMessages": []
+    }
+  ],
+  "resultCount": 18
+}

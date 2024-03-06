@@ -1,0 +1,19 @@
+﻿LogID,LineNum,Loc,LocNum,FreqLow,FreqHi,FreqType,Class,Emission,Power,Erp,Haat,TxAntHgt,CoordCode,ErrTxt
+2.02305E+13,1,A,1,150.83,150.83,,FB2,8K70D1W,5,11.2,622.8,13.1,C,
+2.02305E+13,2,A,1,150.83,0,,FB2,9K80D7W,5,11.2,622.8,13.1,A,Rule 28: State must be PR or VI|Rule 28: Frequency is for OP - Oneway Paging|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 132: LA Frequency
+2.02305E+13,3,G,2,153.215,153.215,,MO,8K70D1W,100,100,0,0,C,
+2.02305E+13,4,G,2,153.215,0,,MO,9K80D7W,100,100,0,0,A,Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency
+2.02305E+13,5,B,3,150.83,150.83,,FB2,8K70D1W,20,14.8,23.5,67,C,
+2.02305E+13,6,B,3,150.83,0,,FB2,9K80D7W,20,14.8,23.5,67,A,Rule 28: State must be PR or VI|Rule 28: Frequency is for OP - Oneway Paging|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 132: LA Frequency
+2.02305E+13,7,H,4,153.215,153.215,,MO,8K70D1W,100,100,0,0,C,
+2.02305E+13,8,H,4,153.215,0,,MO,9K80D7W,100,100,0,0,A,Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency
+2.02305E+13,9,C,5,150.83,150.83,,FB2,8K70D1W,20,28.2,-204.9,9.1,C,
+2.02305E+13,10,C,5,150.83,0,,FB2,9K80D7W,20,28.2,-204.9,9.1,A,Rule 28: State must be PR or VI|Rule 28: Frequency is for OP - Oneway Paging|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 132: LA Frequency
+2.02305E+13,11,I,6,153.215,153.215,,MO,8K70D1W,100,100,0,0,C,
+2.02305E+13,12,I,6,153.215,0,,MO,9K80D7W,100,100,0,0,A,Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency
+2.02305E+13,13,D,7,150.83,150.83,,FB2,8K70D1W,20,26.4,371.7,29,C,
+2.02305E+13,14,D,7,150.83,0,,FB2,9K80D7W,20,26.4,371.7,29,A,Rule 28: State must be PR or VI|Rule 28: Frequency is for OP - Oneway Paging|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 132: LA Frequency
+2.02305E+13,15,J,8,153.215,153.215,,MO,8K70D1W,100,100,0,0,C,
+2.02305E+13,16,J,8,153.215,0,,MO,9K80D7W,100,100,0,0,A,Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency
+2.02305E+13,17,K,9,153.215,153.215,,FX1,8K70D1W,100,100,0,0,C,
+2.02305E+13,18,K,9,153.215,153.215,,FX1,9K80D7W,100,100,0,0,C,
