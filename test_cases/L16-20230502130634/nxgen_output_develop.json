@@ -63,7 +63,7 @@
     {
       "recordNum": 5,
       "lineNum": 5,
-      "locationCode": "G",
+      "locationCode": "B",
       "locationNum": 3,
       "frequencyLow": 150.83,
       "frequencyHigh": 150.83,
@@ -76,7 +76,7 @@
     {
       "recordNum": 6,
       "lineNum": 6,
-      "locationCode": "G",
+      "locationCode": "B",
       "locationNum": 3,
       "frequencyLow": 150.83,
       "frequencyHigh": 150.83,
@@ -94,7 +94,7 @@
     {
       "recordNum": 7,
       "lineNum": 7,
-      "locationCode": "H",
+      "locationCode": "C",
       "locationNum": 5,
       "frequencyLow": 150.83,
       "frequencyHigh": 150.83,
@@ -107,7 +107,7 @@
     {
       "recordNum": 8,
       "lineNum": 8,
-      "locationCode": "H",
+      "locationCode": "C",
       "locationNum": 5,
       "frequencyLow": 150.83,
       "frequencyHigh": 150.83,
@@ -125,7 +125,7 @@
     {
       "recordNum": 9,
       "lineNum": 9,
-      "locationCode": "I",
+      "locationCode": "D",
       "locationNum": 7,
       "frequencyLow": 150.83,
       "frequencyHigh": 150.83,
@@ -138,7 +138,7 @@
     {
       "recordNum": 10,
       "lineNum": 10,
-      "locationCode": "I",
+      "locationCode": "D",
       "locationNum": 7,
       "frequencyLow": 150.83,
       "frequencyHigh": 150.83,

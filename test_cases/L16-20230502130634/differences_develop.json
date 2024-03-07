@@ -3,43 +3,19 @@
     "nxgen": "Rule 28: State must be PR or VI|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 132: LA Frequency",
     "legacy": "Rule 28: State must be PR or VI|Rule 28: Frequency is for OP - Oneway Paging|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 132: LA Frequency"
   },
-  "G|3|150.83|150.83|FB2|8K70D1W|C": {
-    "nxgen": ""
+  "B|3|150.83|150.83|FB2|9K80D7W|A": {
+    "nxgen": "Rule 28: State must be PR or VI|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 132: LA Frequency",
+    "legacy": "Rule 28: State must be PR or VI|Rule 28: Frequency is for OP - Oneway Paging|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 132: LA Frequency"
   },
-  "G|3|150.83|150.83|FB2|9K80D7W|A": {
-    "nxgen": "Rule 28: State must be PR or VI|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 132: LA Frequency"
+  "C|5|150.83|150.83|FB2|9K80D7W|A": {
+    "nxgen": "Rule 28: State must be PR or VI|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 132: LA Frequency",
+    "legacy": "Rule 28: State must be PR or VI|Rule 28: Frequency is for OP - Oneway Paging|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 132: LA Frequency"
   },
-  "H|5|150.83|150.83|FB2|8K70D1W|C": {
-    "nxgen": ""
-  },
-  "H|5|150.83|150.83|FB2|9K80D7W|A": {
-    "nxgen": "Rule 28: State must be PR or VI|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 132: LA Frequency"
-  },
-  "I|7|150.83|150.83|FB2|8K70D1W|C": {
-    "nxgen": ""
-  },
-  "I|7|150.83|150.83|FB2|9K80D7W|A": {
-    "nxgen": "Rule 28: State must be PR or VI|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 132: LA Frequency"
+  "D|7|150.83|150.83|FB2|9K80D7W|A": {
+    "nxgen": "Rule 28: State must be PR or VI|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 132: LA Frequency",
+    "legacy": "Rule 28: State must be PR or VI|Rule 28: Frequency is for OP - Oneway Paging|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 132: LA Frequency"
   },
   "Loc|LocNum|FreqLow|FreqHi|Class|Emission|CoordCode": {
     "legacy": "ErrTxt"
-  },
-  "B|3|150.83|150.83|FB2|8K70D1W|C": {
-    "legacy": ""
-  },
-  "B|3|150.83|150.83|FB2|9K80D7W|A": {
-    "legacy": "Rule 28: State must be PR or VI|Rule 28: Frequency is for OP - Oneway Paging|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 132: LA Frequency"
-  },
-  "C|5|150.83|150.83|FB2|8K70D1W|C": {
-    "legacy": ""
-  },
-  "C|5|150.83|150.83|FB2|9K80D7W|A": {
-    "legacy": "Rule 28: State must be PR or VI|Rule 28: Frequency is for OP - Oneway Paging|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 132: LA Frequency"
-  },
-  "D|7|150.83|150.83|FB2|8K70D1W|C": {
-    "legacy": ""
-  },
-  "D|7|150.83|150.83|FB2|9K80D7W|A": {
-    "legacy": "Rule 28: State must be PR or VI|Rule 28: Frequency is for OP - Oneway Paging|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 132: LA Frequency"
   }
 }
