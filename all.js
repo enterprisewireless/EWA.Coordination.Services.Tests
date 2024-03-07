@@ -2,10 +2,10 @@ const process = require('process');
 const path = require('path');
 const dotenv = require('dotenv');
 
-let test_case = process.argv[2];
-let environment = process.argv[3] || "develop";
-
 var runner = require('./lib/runner');
+var fileUtilities = require('./lib/fileUtilities');
+
+let environment = process.argv[2] || "develop";
 
 dotenv.config({
   path: path.resolve(__dirname, `${environment}.env`)
@@ -24,4 +24,9 @@ switch(environment) {
     break;
 }
 
-runner.runTestCase(`./test_cases/${test_case}`, endpointUrl, environment);
+testCases = fileUtilities.getDirectoryNames('./test_cases');
+console.log(testCases);
+
+testCases.forEach(testCase => {
+  runner.runTestCase(`./test_cases/${testCase}`, endpointUrl, environment);
+});
