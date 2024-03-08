@@ -1,0 +1,233 @@
+{
+  "H|4|152.465|152.465|MO|11K2F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+  },
+  "H|4|153.1025|153.1025|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel"
+  },
+  "H|4|153.425|153.425|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.4325|153.4325|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.44|153.44|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.4475|153.4475|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.455|153.455|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.4625|153.4625|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.485|153.485|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.4925|153.4925|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.5|153.5|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.5075|153.5075|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.515|153.515|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.5225|153.5225|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.545|153.545|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.5525|153.5525|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.56|153.56|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.5675|153.5675|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.575|153.575|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.5825|153.5825|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.605|153.605|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.6125|153.6125|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.62|153.62|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.6275|153.6275|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.635|153.635|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.6425|153.6425|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.665|153.665|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.6725|153.6725|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.68|153.68|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|153.6875|153.6875|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 80: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, or TX.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|154.585|154.585|MO|11K2F3E|A": {
+    "nxgen": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 46: This frequency is limited to a maximum power of 20 watts.|Rule 131: IP Frequency",
+    "legacy": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 46: This frequency is limited to a maximum power of 20 watts."
+  },
+  "H|4|158.175|158.175|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 81: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, OR, TX, or WA.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|158.1825|158.1825|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 81: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, OR, TX, or WA.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|158.205|158.205|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 81: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, OR, TX, or WA.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|158.2125|158.2125|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 81: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, OR, TX, or WA.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|158.22|158.22|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 81: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, OR, TX, or WA.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|158.2275|158.2275|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 81: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, OR, TX, or WA.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|158.235|158.235|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 81: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, OR, TX, or WA.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|158.2425|158.2425|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 81: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, OR, TX, or WA.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|158.265|158.265|MO|11K2F3E|A": {
+    "nxgen": "Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 81: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, OR, TX, or WA.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|158.2725|158.2725|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 81: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, OR, TX, or WA.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+  },
+  "H|4|159.48|159.48|MO|11K2F3E|A": {
+    "nxgen": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 82: Emissions may not exceed 11k.|Rule 131: IP Frequency",
+    "legacy": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 131: IP Frequency"
+  },
+  "H|4|173.2375|173.2375|MO|11K2F3E|A": {
+    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
+  },
+  "H|4|173.2625|173.2625|MO|11K2F3E|A": {
+    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
+  },
+  "H|4|173.2875|173.2875|MO|11K2F3E|A": {
+    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
+  },
+  "H|4|173.3125|173.3125|MO|11K2F3E|A": {
+    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
+  },
+  "H|4|173.3375|173.3375|MO|11K2F3E|A": {
+    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
+  },
+  "H|4|173.3625|173.3625|MO|11K2F3E|A": {
+    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
+  },
+  "J|6|152.465|152.465|MO|11K2F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+  },
+  "J|6|154.585|154.585|MO|11K2F3E|A": {
+    "nxgen": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 46: This frequency is limited to a maximum power of 20 watts.|Rule 131: IP Frequency",
+    "legacy": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 46: This frequency is limited to a maximum power of 20 watts."
+  },
+  "J|6|159.48|159.48|MO|11K2F3E|A": {
+    "nxgen": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 82: Emissions may not exceed 11k.|Rule 131: IP Frequency",
+    "legacy": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 131: IP Frequency"
+  },
+  "J|6|173.2375|173.2375|MO|11K2F3E|A": {
+    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
+  },
+  "J|6|173.2625|173.2625|MO|11K2F3E|A": {
+    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
+  },
+  "J|6|173.2875|173.2875|MO|11K2F3E|A": {
+    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
+  },
+  "J|6|173.3125|173.3125|MO|11K2F3E|A": {
+    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
+  },
+  "J|6|173.3375|173.3375|MO|11K2F3E|A": {
+    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
+  },
+  "J|6|173.3625|173.3625|MO|11K2F3E|A": {
+    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
+  },
+  "Loc|LocNum|FreqLow|FreqHi|Class|Emission|CoordCode": {
+    "legacy": "ErrTxt"
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "G|1|150.9875|150.9875|MO|16K0F3E|A": {
+    "nxgen": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 30: Emissions may not exceed 11k2.|Rule 131: IP Frequency",
+    "legacy": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|152.2775|152.2775|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|152.2925|152.2925|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|152.3075|152.3075|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|152.3225|152.3225|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|152.3375|152.3375|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|152.3525|152.3525|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|152.3675|152.3675|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|152.3825|152.3825|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|152.3975|152.3975|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|152.4125|152.4125|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|152.4275|152.4275|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|152.4425|152.4425|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|152.4575|152.4575|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|152.465|152.465|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+  },
+  "G|1|153.0575|153.0575|MO|16K0F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k2.|Rule 121: Frequency is in Shared Channel",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|153.0875|153.0875|MO|16K0F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k2.|Rule 121: Frequency is in Shared Channel",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|153.1175|153.1175|MO|16K0F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k2.|Rule 121: Frequency is in Shared Channel",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|153.1475|153.1475|MO|16K0F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k2.|Rule 121: Frequency is in Shared Channel",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|153.1775|153.1775|MO|16K0F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k2.|Rule 121: Frequency is in Shared Channel",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|153.2075|153.2075|MO|16K0F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k2.|Rule 121: Frequency is in Shared Channel",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|153.2375|153.2375|MO|16K0F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k2.|Rule 121: Frequency is in Shared Channel",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|153.2675|153.2675|MO|16K0F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k2.|Rule 121: Frequency is in Shared Channel",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|153.2975|153.2975|MO|16K0F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k2.|Rule 121: Frequency is in Shared Channel",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|153.3275|153.3275|MO|16K0F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k2.|Rule 121: Frequency is in Shared Channel",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|153.3575|153.3575|MO|16K0F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k2.|Rule 121: Frequency is in Shared Channel",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|157.4775|157.4775|MO|16K0F3E|A": {
+    "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 30: Emissions may not exceed 11k2.|Rule 132: LA Frequency",
+    "legacy": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|157.4925|157.4925|MO|16K0F3E|A": {
+    "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 30: Emissions may not exceed 11k2.|Rule 132: LA Frequency",
+    "legacy": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|157.5075|157.5075|MO|16K0F3E|A": {
+    "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 30: Emissions may not exceed 11k2.|Rule 132: LA Frequency",
+    "legacy": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|157.5225|157.5225|MO|16K0F3E|A": {
+    "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 30: Emissions may not exceed 11k2.|Rule 132: LA Frequency",
+    "legacy": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|157.5375|157.5375|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|157.5525|157.5525|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|157.5675|157.5675|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|157.5825|157.5825|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|157.5975|157.5975|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|157.6125|157.6125|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|157.6275|157.6275|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|157.6425|157.6425|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|157.6575|157.6575|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|157.6725|157.6725|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|157.6875|157.6875|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|157.7025|157.7025|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|157.7175|157.7175|MO|16K0F3E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k2.",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|158.3175|158.3175|MO|16K0F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k2.|Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|158.3775|158.3775|MO|16K0F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k2.|Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|158.4375|158.4375|MO|16K0F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k2.|Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|159.48|159.48|MO|16K0F3E|A": {
+    "nxgen": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 82: Emissions may not exceed 11k.|Rule 131: IP Frequency",
+    "legacy": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 82: Emissions may not exceed 11k."
+  },
+  "G|1|159.4875|159.4875|MO|16K0F3E|A": {
+    "nxgen": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 30: Emissions may not exceed 11k2.|Rule 131: IP Frequency",
+    "legacy": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 30: Emissions may not exceed 11k."
+  },
+  "G|1|173.2375|173.2375|MO|16K0F3E|A": {
+    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz"
+  },
+  "G|1|173.2625|173.2625|MO|16K0F3E|A": {
+    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz"
+  },
+  "G|1|173.2875|173.2875|MO|16K0F3E|A": {
+    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz"
+  },
+  "G|1|173.3125|173.3125|MO|16K0F3E|A": {
+    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz"
+  },
+  "G|1|173.3375|173.3375|MO|16K0F3E|A": {
+    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz"
+  },
+  "G|1|173.3625|173.3625|MO|16K0F3E|A": {
+    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 92: Bandwidth can not exceed 11.5kHz"
+  }
+}

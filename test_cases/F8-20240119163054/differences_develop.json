@@ -1,0 +1,741 @@
+{
+  "A|1|451.1875|451.1875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|451.2875|451.2875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|451.3125|451.3125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|451.3625|451.3625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|451.3875|451.3875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|451.4125|451.4125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|451.4625|451.4625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|451.4875|451.4875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|451.5125|451.5125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|451.55625|451.55625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "A|1|451.5625|451.5625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|451.56875|451.56875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "A|1|451.5875|451.5875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|451.60625|451.60625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "A|1|451.6125|451.6125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|451.61875|451.61875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "A|1|451.65625|451.65625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "A|1|451.6625|451.6625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|451.66875|451.66875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "A|1|451.6875|451.6875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|451.70625|451.70625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "A|1|451.7125|451.7125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|451.71875|451.71875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "A|1|451.7375|451.7375|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|451.75625|451.75625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "A|1|451.7625|451.7625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|451.76875|451.76875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "A|1|452.0375|452.0375|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|452.0625|452.0625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|452.0875|452.0875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|452.1125|452.1125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|452.1375|452.1375|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|452.1625|452.1625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|452.1875|452.1875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|452.2875|452.2875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|452.4875|452.4875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|452.5375|452.5375|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL|Rule 132: LA Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|452.6375|452.6375|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|452.6625|452.6625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|452.6875|452.6875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|452.7125|452.7125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|452.7875|452.7875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|452.8125|452.8125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|452.8375|452.8375|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|452.8875|452.8875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|452.9875|452.9875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|460.6625|460.6625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Ft. Lauderdale Executive (FXE), Ft. Lauderdale-Hollywd Int'l (FLL), Kendall-Tamiami Executive (TMB), Miami Int'l (MIA), Opa Locka (OPF), Palm Beach International (PBI)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Kendall-Tamiami Executive (TMB)"
+  },
+  "A|1|460.6875|460.6875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Ft. Lauderdale Executive (FXE), Ft. Lauderdale-Hollywd Int'l (FLL), Kendall-Tamiami Executive (TMB), Miami Int'l (MIA), Opa Locka (OPF), Palm Beach International (PBI)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Kendall-Tamiami Executive (TMB)"
+  },
+  "A|1|460.7125|460.7125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Ft. Lauderdale Executive (FXE), Ft. Lauderdale-Hollywd Int'l (FLL), Kendall-Tamiami Executive (TMB), Miami Int'l (MIA), Opa Locka (OPF), Palm Beach International (PBI)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Kendall-Tamiami Executive (TMB)"
+  },
+  "A|1|460.7375|460.7375|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Ft. Lauderdale Executive (FXE), Ft. Lauderdale-Hollywd Int'l (FLL), Kendall-Tamiami Executive (TMB), Miami Int'l (MIA), Opa Locka (OPF), Palm Beach International (PBI)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Kendall-Tamiami Executive (TMB)"
+  },
+  "A|1|460.7625|460.7625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Ft. Lauderdale Executive (FXE), Ft. Lauderdale-Hollywd Int'l (FLL), Kendall-Tamiami Executive (TMB), Miami Int'l (MIA), Opa Locka (OPF), Palm Beach International (PBI)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Kendall-Tamiami Executive (TMB)"
+  },
+  "A|1|460.7875|460.7875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Ft. Lauderdale Executive (FXE), Ft. Lauderdale-Hollywd Int'l (FLL), Kendall-Tamiami Executive (TMB), Miami Int'l (MIA), Opa Locka (OPF), Palm Beach International (PBI)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Kendall-Tamiami Executive (TMB)"
+  },
+  "A|1|460.8125|460.8125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Ft. Lauderdale Executive (FXE), Ft. Lauderdale-Hollywd Int'l (FLL), Kendall-Tamiami Executive (TMB), Miami Int'l (MIA), Opa Locka (OPF), Palm Beach International (PBI)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Kendall-Tamiami Executive (TMB)"
+  },
+  "A|1|460.8375|460.8375|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Ft. Lauderdale Executive (FXE), Ft. Lauderdale-Hollywd Int'l (FLL), Kendall-Tamiami Executive (TMB), Miami Int'l (MIA), Opa Locka (OPF), Palm Beach International (PBI)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Kendall-Tamiami Executive (TMB)"
+  },
+  "A|1|460.8625|460.8625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Ft. Lauderdale Executive (FXE), Ft. Lauderdale-Hollywd Int'l (FLL), Kendall-Tamiami Executive (TMB), Miami Int'l (MIA), Opa Locka (OPF), Palm Beach International (PBI)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Kendall-Tamiami Executive (TMB)"
+  },
+  "A|1|460.8875|460.8875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Ft. Lauderdale Executive (FXE), Ft. Lauderdale-Hollywd Int'l (FLL), Kendall-Tamiami Executive (TMB), Miami Int'l (MIA), Opa Locka (OPF), Palm Beach International (PBI)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Kendall-Tamiami Executive (TMB)"
+  },
+  "A|1|462.1875|462.1875|FB2|11K2F3E|A": {
+    "nxgen": "",
+    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|462.4625|462.4625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|462.4875|462.4875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|462.5125|462.5125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "A|1|465|465|FB2|11K2F3E|A": {
+    "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts|Rule 36: Frequency is for OP - Oneway Paging",
+    "legacy": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts"
+  },
+  "B|3|451.1875|451.1875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|451.2875|451.2875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|451.3125|451.3125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|451.3625|451.3625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|451.3875|451.3875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|451.4125|451.4125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|451.4625|451.4625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|451.4875|451.4875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|451.5125|451.5125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|451.55625|451.55625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "B|3|451.5625|451.5625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|451.56875|451.56875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "B|3|451.5875|451.5875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|451.60625|451.60625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "B|3|451.6125|451.6125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|451.61875|451.61875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "B|3|451.65625|451.65625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "B|3|451.6625|451.6625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|451.66875|451.66875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "B|3|451.6875|451.6875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|451.70625|451.70625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "B|3|451.7125|451.7125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|451.71875|451.71875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "B|3|451.7375|451.7375|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|451.75625|451.75625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "B|3|451.7625|451.7625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|451.76875|451.76875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
+  },
+  "B|3|452.0375|452.0375|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|452.0625|452.0625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|452.0875|452.0875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|452.1125|452.1125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|452.1375|452.1375|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|452.1625|452.1625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|452.1875|452.1875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|452.2875|452.2875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|452.4875|452.4875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|452.5375|452.5375|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL|Rule 132: LA Frequency",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|452.6375|452.6375|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|452.6625|452.6625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|452.6875|452.6875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|452.7125|452.7125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|452.7875|452.7875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|452.8125|452.8125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|452.8375|452.8375|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|452.8875|452.8875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|452.9875|452.9875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|460.6625|460.6625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
+  },
+  "B|3|460.6875|460.6875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
+  },
+  "B|3|460.7125|460.7125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
+  },
+  "B|3|460.7375|460.7375|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
+  },
+  "B|3|460.7625|460.7625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
+  },
+  "B|3|460.7875|460.7875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
+  },
+  "B|3|460.8125|460.8125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
+  },
+  "B|3|460.8375|460.8375|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
+  },
+  "B|3|460.8625|460.8625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
+  },
+  "B|3|460.8875|460.8875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
+  },
+  "B|3|462.1875|462.1875|FB2|11K2F3E|A": {
+    "nxgen": "",
+    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|462.4625|462.4625|FB2|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|462.4875|462.4875|FB2|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|462.5125|462.5125|FB2|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL, WEST PALM BEACH, FL",
+    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. MIAMI, FL"
+  },
+  "B|3|465|465|FB2|11K2F3E|A": {
+    "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts|Rule 36: Frequency is for OP - Oneway Paging",
+    "legacy": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts"
+  },
+  "G|2|460.9|460.9|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
+  },
+  "G|2|460.9125|460.9125|MO|11K2F3E|A": {
+    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "G|2|460.925|460.925|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
+  },
+  "G|2|460.9375|460.9375|MO|11K2F3E|A": {
+    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "G|2|460.95|460.95|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
+  },
+  "G|2|460.9625|460.9625|MO|11K2F3E|A": {
+    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "G|2|462.1875|462.1875|MO|11K2F3E|A": {
+    "nxgen": "",
+    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis."
+  },
+  "G|2|465.9|465.9|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
+  },
+  "G|2|465.9125|465.9125|MO|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "G|2|465.925|465.925|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
+  },
+  "G|2|465.9375|465.9375|MO|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "G|2|465.95|465.95|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
+  },
+  "G|2|465.9625|465.9625|MO|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "G|2|466|466|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
+  },
+  "H|4|460.65|460.65|MO|11K2F3E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "H|4|460.6625|460.6625|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
+  },
+  "H|4|460.675|460.675|MO|11K2F3E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "H|4|460.6875|460.6875|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
+  },
+  "H|4|460.7|460.7|MO|11K2F3E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "H|4|460.7125|460.7125|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
+  },
+  "H|4|460.725|460.725|MO|11K2F3E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "H|4|460.7375|460.7375|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
+  },
+  "H|4|460.75|460.75|MO|11K2F3E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "H|4|460.7625|460.7625|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
+  },
+  "H|4|460.775|460.775|MO|11K2F3E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "H|4|460.7875|460.7875|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
+  },
+  "H|4|460.8|460.8|MO|11K2F3E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "H|4|460.8125|460.8125|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
+  },
+  "H|4|460.825|460.825|MO|11K2F3E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "H|4|460.8375|460.8375|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
+  },
+  "H|4|460.85|460.85|MO|11K2F3E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "H|4|460.8625|460.8625|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
+  },
+  "H|4|460.875|460.875|MO|11K2F3E|A": {
+    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
+  },
+  "H|4|460.8875|460.8875|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
+  },
+  "H|4|460.9|460.9|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
+  },
+  "H|4|460.9125|460.9125|MO|11K2F3E|A": {
+    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "H|4|460.925|460.925|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
+  },
+  "H|4|460.9375|460.9375|MO|11K2F3E|A": {
+    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "H|4|460.95|460.95|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
+  },
+  "H|4|460.9625|460.9625|MO|11K2F3E|A": {
+    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "H|4|462.1875|462.1875|MO|11K2F3E|A": {
+    "nxgen": "",
+    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis."
+  },
+  "H|4|465.65|465.65|MO|11K2F3E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
+  },
+  "H|4|465.6625|465.6625|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
+  },
+  "H|4|465.675|465.675|MO|11K2F3E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
+  },
+  "H|4|465.6875|465.6875|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
+  },
+  "H|4|465.7|465.7|MO|11K2F3E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
+  },
+  "H|4|465.7125|465.7125|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
+  },
+  "H|4|465.725|465.725|MO|11K2F3E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
+  },
+  "H|4|465.7375|465.7375|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
+  },
+  "H|4|465.75|465.75|MO|11K2F3E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
+  },
+  "H|4|465.7625|465.7625|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
+  },
+  "H|4|465.775|465.775|MO|11K2F3E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
+  },
+  "H|4|465.7875|465.7875|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
+  },
+  "H|4|465.8|465.8|MO|11K2F3E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
+  },
+  "H|4|465.8125|465.8125|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
+  },
+  "H|4|465.825|465.825|MO|11K2F3E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
+  },
+  "H|4|465.8375|465.8375|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
+  },
+  "H|4|465.85|465.85|MO|11K2F3E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
+  },
+  "H|4|465.8625|465.8625|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
+  },
+  "H|4|465.875|465.875|MO|11K2F3E|A": {
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
+  },
+  "H|4|465.8875|465.8875|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
+  },
+  "H|4|465.9|465.9|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
+  },
+  "H|4|465.9125|465.9125|MO|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "H|4|465.925|465.925|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
+  },
+  "H|4|465.9375|465.9375|MO|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "H|4|465.95|465.95|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
+  },
+  "H|4|465.9625|465.9625|MO|11K2F3E|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  },
+  "H|4|466|466|MO|11K2F3E|A": {
+    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
+  },
+  "Loc|LocNum|FreqLow|FreqHi|Class|Emission|CoordCode": {
+    "legacy": "ErrTxt"
+  },
+  "A|1|452.1|452.1|FB2|11K2F3E|A": {
+    "legacy": ""
+  },
+  "G|2|452.1|452.1|MO|11K2F3E|A": {
+    "legacy": ""
+  },
+  "B|3|452.1|452.1|FB2|11K2F3E|A": {
+    "legacy": ""
+  },
+  "H|4|452.1|452.1|MO|11K2F3E|A": {
+    "legacy": ""
+  }
+}

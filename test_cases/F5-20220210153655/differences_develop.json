@@ -1,0 +1,29 @@
+{
+  "A|1|173.39625|173.39625|FXO|6K00F2D|A": {
+    "nxgen": "Invalid Frequency Allocation.|This station class is not allowed on this frequency.|Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.",
+    "legacy": "Invalid Frequency Allocation.|This station class is not allowed on this frequency.|Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 42: Secondary to adjacent operations."
+  },
+  "B|2|173.39625|173.39625|FXO|6K00F2D|A": {
+    "nxgen": "Invalid Frequency Allocation.|This station class is not allowed on this frequency.|Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 42: Antenna Height for FX Class Must Be <= 15.24|Rule 42: Secondary to adjacent operations.",
+    "legacy": "Invalid Frequency Allocation.|This station class is not allowed on this frequency.|Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 42: Secondary to adjacent operations."
+  },
+  "C|3|173.39625|173.39625|FXO|6K00F2D|A": {
+    "nxgen": "Invalid Frequency Allocation.|This station class is not allowed on this frequency.|Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.",
+    "legacy": "Invalid Frequency Allocation.|This station class is not allowed on this frequency.|Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 42: Secondary to adjacent operations."
+  },
+  "D|4|173.39625|173.39625|FXO|6K00F2D|A": {
+    "nxgen": "Invalid Frequency Allocation.|This station class is not allowed on this frequency.|Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.",
+    "legacy": "Invalid Frequency Allocation.|This station class is not allowed on this frequency.|Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 42: Secondary to adjacent operations."
+  },
+  "E|5|173.39625|173.39625|FXO|6K00F2D|A": {
+    "nxgen": "Invalid Frequency Allocation.|This station class is not allowed on this frequency.|Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.",
+    "legacy": "Invalid Frequency Allocation.|This station class is not allowed on this frequency.|Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 42: Secondary to adjacent operations."
+  },
+  "F|6|173.39625|173.39625|FXO|6K00F2D|A": {
+    "nxgen": "Invalid Frequency Allocation.|This station class is not allowed on this frequency.|Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.",
+    "legacy": "Invalid Frequency Allocation.|This station class is not allowed on this frequency.|Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 42: Secondary to adjacent operations."
+  },
+  "Loc|LocNum|FreqLow|FreqHi|Class|Emission|CoordCode": {
+    "legacy": "ErrTxt"
+  }
+}
