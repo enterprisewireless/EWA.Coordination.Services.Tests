@@ -1,0 +1,78 @@
+{
+    "licenseType": "IB",
+    "scheduleGhs": [
+        {
+            "lineNum": 1,
+            "locationCode": "A",
+            "locationNum": 1,
+            "frequencyLow": 152.87,
+            "frequencyHigh": null,
+            "stationClass": "FB2",
+            "emissionDesignator": "11K2F3E",
+            "power": 25,
+            "erp": 35,
+            "haat": 10.9,
+            "transmittingAntennaHeight": 33,
+            "coordinationCode": "A",
+            "requestNum": 1
+        },
+        {
+            "lineNum": 2,
+            "locationCode": "G",
+            "locationNum": 2,
+            "frequencyLow": 152.87,
+            "frequencyHigh": null,
+            "stationClass": "MO",
+            "emissionDesignator": "11K2F3E",
+            "power": 4,
+            "erp": 4,
+            "haat": null,
+            "transmittingAntennaHeight": null,
+            "coordinationCode": "A",
+            "requestNum": 2
+        },
+        {
+            "lineNum": 3,
+            "locationCode": "G",
+            "locationNum": 2,
+            "frequencyLow": 159.695,
+            "frequencyHigh": null,
+            "stationClass": "MO",
+            "emissionDesignator": "11K2F3E",
+            "power": 4,
+            "erp": 4,
+            "haat": null,
+            "transmittingAntennaHeight": null,
+            "coordinationCode": "A",
+            "requestNum": 3
+        }
+    ],
+    "scheduleEs": [
+        {
+            "state": "PR",
+            "city": "MARGINAL KENNEDY",
+            "county": "CATANO",
+            "locationNum": 1,
+            "locationCode": "A",
+            "latitude": 18.440833,
+            "longitude": -66.121389,
+            "areaOfOperation": null,
+            "serviceAreaRadius": null,
+            "elevation": 1,
+            "areaOfOperationCode": null
+        },
+        {
+            "state": null,
+            "city": null,
+            "county": null,
+            "locationNum": 2,
+            "locationCode": "G",
+            "latitude": 0,
+            "longitude": 0,
+            "areaOfOperation": "1",
+            "serviceAreaRadius": 40,
+            "elevation": null,
+            "areaOfOperationCode": "A"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "recordNum": 1,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 152.87,
+      "frequencyHigh": 152.87,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "A copy of this application needs to be sent to the Arecibo Observatory in Puerto Rico."
+      ]
+    },
+    {
+      "recordNum": 2,
+      "lineNum": 2,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 152.87,
+      "frequencyHigh": 152.87,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 3,
+      "lineNum": 3,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 159.695,
+      "frequencyHigh": 159.695,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "The frequency could not be found."
+      ]
+    }
+  ],
+  "resultCount": 3
+}
