@@ -13,7 +13,7 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "The Maximum ERP for the EAH of 177.40 is 150 Watts.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Emissions may not exceed 11k2."
       ]
     },
     {
@@ -120,7 +120,7 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "The Maximum ERP for the EAH of 177.40 is 150 Watts.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Emissions may not exceed 11k2."
       ]
     },
     {
@@ -227,7 +227,7 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "The Maximum ERP for the EAH of 177.40 is 150 Watts.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Emissions may not exceed 11k2."
       ]
     },
     {
@@ -334,7 +334,7 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "The Maximum ERP for the EAH of 177.40 is 150 Watts.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Emissions may not exceed 11k2."
       ]
     },
     {
@@ -441,7 +441,7 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "The Maximum ERP for the EAH of 177.40 is 150 Watts.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Emissions may not exceed 11k2."
       ]
     },
     {
@@ -548,7 +548,7 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "The Maximum ERP for the EAH of 177.40 is 150 Watts.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Emissions may not exceed 11k2."
       ]
     },
     {
@@ -655,7 +655,7 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "The Maximum ERP for the EAH of 177.40 is 150 Watts.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Emissions may not exceed 11k2."
       ]
     },
     {
@@ -762,7 +762,7 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "The Maximum ERP for the EAH of 177.40 is 150 Watts.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Emissions may not exceed 11k2."
       ]
     },
     {
@@ -869,7 +869,7 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "The Maximum ERP for the EAH of 177.40 is 150 Watts.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Emissions may not exceed 11k2."
       ]
     },
     {
@@ -975,8 +975,7 @@
       "stationClassCode": "MO8",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k.",
-        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+        "Rule 30: Emissions may not exceed 11k2."
       ]
     },
     {
@@ -1082,8 +1081,7 @@
       "stationClassCode": "MO8",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k.",
-        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+        "Rule 30: Emissions may not exceed 11k2."
       ]
     },
     {
@@ -1189,8 +1187,7 @@
       "stationClassCode": "MO8",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k.",
-        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+        "Rule 30: Emissions may not exceed 11k2."
       ]
     },
     {
@@ -1296,8 +1293,7 @@
       "stationClassCode": "MO8",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k.",
-        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+        "Rule 30: Emissions may not exceed 11k2."
       ]
     },
     {
@@ -1403,7 +1399,7 @@
       "stationClassCode": "MO8",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Emissions may not exceed 11k2."
       ]
     },
     {
@@ -1509,7 +1505,7 @@
       "stationClassCode": "MO8",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Emissions may not exceed 11k2."
       ]
     },
     {
@@ -1615,7 +1611,7 @@
       "stationClassCode": "MO8",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Emissions may not exceed 11k2."
       ]
     },
     {
@@ -1721,7 +1717,7 @@
       "stationClassCode": "MO8",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Emissions may not exceed 11k2."
       ]
     },
     {
@@ -1827,7 +1823,7 @@
       "stationClassCode": "MO8",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Emissions may not exceed 11k2."
       ]
     },
     {

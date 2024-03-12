@@ -1764,8 +1764,7 @@
       "stationClassCode": "FB2",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
       ]
     },
     {
@@ -8039,8 +8038,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
       ]
     },
     {
@@ -10823,6 +10821,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
+        "Rule 81: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, OR, TX, or WA.",
         "Rule 121: Frequency is in Shared Channel",
         "Rule 133: IW, IP Frequency"
       ]
@@ -10840,6 +10839,7 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 81: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, OR, TX, or WA.",
         "Rule 121: Frequency is in Shared Channel",
         "Rule 133: IW, IP Frequency"
       ]
@@ -10887,6 +10887,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
+        "Rule 81: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, OR, TX, or WA.",
         "Rule 121: Frequency is in Shared Channel",
         "Rule 133: IW, IP Frequency"
       ]
@@ -10904,6 +10905,7 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 81: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, OR, TX, or WA.",
         "Rule 121: Frequency is in Shared Channel",
         "Rule 133: IW, IP Frequency"
       ]
@@ -10920,6 +10922,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
+        "Rule 81: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, OR, TX, or WA.",
         "Rule 121: Frequency is in Shared Channel",
         "Rule 133: IW, IP Frequency"
       ]
@@ -10937,6 +10940,7 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 81: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, OR, TX, or WA.",
         "Rule 121: Frequency is in Shared Channel",
         "Rule 133: IW, IP Frequency"
       ]
@@ -10953,6 +10957,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
+        "Rule 81: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, OR, TX, or WA.",
         "Rule 121: Frequency is in Shared Channel",
         "Rule 133: IW, IP Frequency"
       ]
@@ -10970,6 +10975,7 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 81: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, OR, TX, or WA.",
         "Rule 121: Frequency is in Shared Channel",
         "Rule 133: IW, IP Frequency"
       ]
@@ -11017,6 +11023,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
+        "Rule 81: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, OR, TX, or WA.",
         "Rule 121: Frequency is in Shared Channel",
         "Rule 133: IW, IP Frequency"
       ]
@@ -11034,6 +11041,7 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 81: Concurrence required from the Petroleum Coordinator for transmitters in AR, LA, OK, OR, TX, or WA.",
         "Rule 121: Frequency is in Shared Channel",
         "Rule 133: IW, IP Frequency"
       ]
@@ -15078,8 +15086,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
       ]
     },
     {
