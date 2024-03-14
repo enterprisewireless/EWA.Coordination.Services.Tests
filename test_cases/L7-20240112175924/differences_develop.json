@@ -97,8 +97,5 @@
   },
   "Loc|LocNum|FreqLow|FreqHi|Class|Emission|CoordCode": {
     "legacy": "ErrTxt"
-  },
-  "G|1|452.1|452.1|MO6|11K2F1W|A": {
-    "legacy": ""
   }
 }

@@ -54,14 +54,5 @@
   "G|1|462.1875|462.1875|MO|11K2F3E|A": {
     "nxgen": "",
     "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis."
-  },
-  "G|1|452.1|452.1|MO|11K2F3E|A": {
-    "legacy": ""
-  },
-  "A|2|452.1|452.1|FB2|11K2F3E|A": {
-    "legacy": "A copy of this application needs for be sent to the Nation Radio Astronomy Observatory at Green Bank, WV."
-  },
-  "H|3|452.1|452.1|MO|11K2F3E|A": {
-    "legacy": ""
   }
 }

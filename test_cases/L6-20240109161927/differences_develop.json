@@ -1,14 +1,18 @@
 {
   "B|3|152.465|152.465|FB2|4K00F1D|A": {
-    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY",
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 79: Base or mobile stations located 80.47 km (50 miles) or less from the center or any urbanized area of 600,000 or more population (U.S. Census of Population, 1970) must be operated in the half-duplex mode CINCINNATI, OH, DAYTON, OH",
     "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
   },
   "B|3|154.585|154.585|FB2|4K00F1D|A": {
     "nxgen": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 46: This frequency is limited to a maximum power of 20 watts.|Rule 131: IP Frequency",
     "legacy": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 46: This frequency is limited to a maximum power of 20 watts."
   },
+  "B|3|157.725|157.725|FB2|4K00F1D|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 79: Base or mobile stations located 80.47 km (50 miles) or less from the center or any urbanized area of 600,000 or more population (U.S. Census of Population, 1970) must be operated in the half-duplex mode CINCINNATI, OH, DAYTON, OH",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+  },
   "H|4|152.465|152.465|MO|4K00F1D|A": {
-    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY",
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 79: Base or mobile stations located 80.47 km (50 miles) or less from the center or any urbanized area of 600,000 or more population (U.S. Census of Population, 1970) must be operated in the half-duplex mode CINCINNATI, OH, DAYTON, OH",
     "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
   },
   "H|4|154.45625|154.45625|MO|4K00F1D|A": {
@@ -18,6 +22,10 @@
   "H|4|154.47875|154.47875|MO|4K00F1D|A": {
     "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 42: ERP for Mobiles Must Be <= 2 Watts|Rule 42: Secondary to adjacent operations.",
     "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 42: Secondary to adjacent operations."
+  },
+  "H|4|157.725|157.725|MO|4K00F1D|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 79: Base or mobile stations located 80.47 km (50 miles) or less from the center or any urbanized area of 600,000 or more population (U.S. Census of Population, 1970) must be operated in the half-duplex mode CINCINNATI, OH, DAYTON, OH",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
   },
   "H|4|173.2375|173.2375|MO|4K00F1D|A": {
     "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",

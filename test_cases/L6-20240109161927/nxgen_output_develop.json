@@ -1804,7 +1804,7 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+        "Rule 79: Base or mobile stations located 80.47 km (50 miles) or less from the center or any urbanized area of 600,000 or more population (U.S. Census of Population, 1970) must be operated in the half-duplex mode CINCINNATI, OH, DAYTON, OH"
       ]
     },
     {
@@ -4174,7 +4174,8 @@
       "stationClassCode": "FB2",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
+        "Rule 79: Base or mobile stations located 80.47 km (50 miles) or less from the center or any urbanized area of 600,000 or more population (U.S. Census of Population, 1970) must be operated in the half-duplex mode CINCINNATI, OH, DAYTON, OH"
       ]
     },
     {
@@ -8149,7 +8150,7 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+        "Rule 79: Base or mobile stations located 80.47 km (50 miles) or less from the center or any urbanized area of 600,000 or more population (U.S. Census of Population, 1970) must be operated in the half-duplex mode CINCINNATI, OH, DAYTON, OH"
       ]
     },
     {
@@ -10908,7 +10909,8 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
+        "Rule 79: Base or mobile stations located 80.47 km (50 miles) or less from the center or any urbanized area of 600,000 or more population (U.S. Census of Population, 1970) must be operated in the half-duplex mode CINCINNATI, OH, DAYTON, OH"
       ]
     },
     {
@@ -15333,7 +15335,7 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+        "Rule 79: Base or mobile stations located 80.47 km (50 miles) or less from the center or any urbanized area of 600,000 or more population (U.S. Census of Population, 1970) must be operated in the half-duplex mode CINCINNATI, OH, DAYTON, OH"
       ]
     },
     {
@@ -18092,7 +18094,8 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
+        "Rule 79: Base or mobile stations located 80.47 km (50 miles) or less from the center or any urbanized area of 600,000 or more population (U.S. Census of Population, 1970) must be operated in the half-duplex mode CINCINNATI, OH, DAYTON, OH"
       ]
     },
     {

@@ -52,7 +52,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
   },
   "A|1|451.1875|451.1875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|451.2|451.2|FB2|7K60FXE|A": {
@@ -84,7 +84,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
   },
   "A|1|451.2875|451.2875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|451.3|451.3|FB2|7K60FXE|A": {
@@ -92,7 +92,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
   },
   "A|1|451.3125|451.3125|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|451.325|451.325|FB2|7K60FXE|A": {
@@ -108,7 +108,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
   },
   "A|1|451.3625|451.3625|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|451.375|451.375|FB2|7K60FXE|A": {
@@ -116,7 +116,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
   },
   "A|1|451.3875|451.3875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|451.4|451.4|FB2|7K60FXE|A": {
@@ -124,7 +124,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
   },
   "A|1|451.4125|451.4125|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|451.425|451.425|FB2|7K60FXE|A": {
@@ -140,7 +140,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
   },
   "A|1|451.4625|451.4625|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|451.475|451.475|FB2|7K60FXE|A": {
@@ -148,7 +148,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
   },
   "A|1|451.4875|451.4875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|451.5|451.5|FB2|7K60FXE|A": {
@@ -156,7 +156,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
   },
   "A|1|451.5125|451.5125|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|451.525|451.525|FB2|7K60FXE|A": {
@@ -172,15 +172,15 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
   },
   "A|1|451.55625|451.55625|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
   "A|1|451.5625|451.5625|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|451.56875|451.56875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
   "A|1|451.575|451.575|FB2|7K60FXE|A": {
@@ -188,7 +188,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
   },
   "A|1|451.5875|451.5875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|451.6|451.6|FB2|7K60FXE|A": {
@@ -196,15 +196,15 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
   },
   "A|1|451.60625|451.60625|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
   "A|1|451.6125|451.6125|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|451.61875|451.61875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
   "A|1|451.625|451.625|FB2|7K60FXE|A": {
@@ -220,15 +220,15 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
   },
   "A|1|451.65625|451.65625|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
   "A|1|451.6625|451.6625|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|451.66875|451.66875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
   "A|1|451.675|451.675|FB2|7K60FXE|A": {
@@ -236,7 +236,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
   },
   "A|1|451.6875|451.6875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|451.7|451.7|FB2|7K60FXE|A": {
@@ -244,15 +244,15 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
   },
   "A|1|451.70625|451.70625|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
   "A|1|451.7125|451.7125|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|451.71875|451.71875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
   "A|1|451.725|451.725|FB2|7K60FXE|A": {
@@ -260,7 +260,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
   },
   "A|1|451.7375|451.7375|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|451.75|451.75|FB2|7K60FXE|A": {
@@ -268,15 +268,15 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency"
   },
   "A|1|451.75625|451.75625|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
   "A|1|451.7625|451.7625|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|451.76875|451.76875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
   "A|1|451.775|451.775|FB2|7K60FXE|A": {
@@ -356,7 +356,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
   },
   "A|1|452.0375|452.0375|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|452.05|452.05|FB2|7K60FXE|A": {
@@ -364,7 +364,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
   },
   "A|1|452.0625|452.0625|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|452.075|452.075|FB2|7K60FXE|A": {
@@ -372,11 +372,15 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
   },
   "A|1|452.0875|452.0875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
+  "A|1|452.1|452.1|FB2|7K60FXE|A": {
+    "nxgen": "This site is north of Line 'A'.",
+    "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
+  },
   "A|1|452.1125|452.1125|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|452.125|452.125|FB2|7K60FXE|A": {
@@ -384,7 +388,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
   },
   "A|1|452.1375|452.1375|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|452.15|452.15|FB2|7K60FXE|A": {
@@ -392,7 +396,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
   },
   "A|1|452.1625|452.1625|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|452.175|452.175|FB2|7K60FXE|A": {
@@ -400,7 +404,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
   },
   "A|1|452.1875|452.1875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|452.2|452.2|FB2|7K60FXE|A": {
@@ -432,7 +436,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
   },
   "A|1|452.2875|452.2875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|452.3|452.3|FB2|7K60FXE|A": {
@@ -496,7 +500,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
   },
   "A|1|452.4875|452.4875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|452.5|452.5|FB2|7K60FXE|A": {
@@ -512,7 +516,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 132: LA Frequency"
   },
   "A|1|452.5375|452.5375|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA|Rule 132: LA Frequency",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA|Rule 132: LA Frequency",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|452.55|452.55|FB2|7K60FXE|A": {
@@ -544,7 +548,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
   },
   "A|1|452.6375|452.6375|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|452.65|452.65|FB2|7K60FXE|A": {
@@ -552,7 +556,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
   },
   "A|1|452.6625|452.6625|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|452.675|452.675|FB2|7K60FXE|A": {
@@ -560,7 +564,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
   },
   "A|1|452.6875|452.6875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|452.7|452.7|FB2|7K60FXE|A": {
@@ -568,7 +572,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
   },
   "A|1|452.7125|452.7125|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|452.725|452.725|FB2|7K60FXE|A": {
@@ -592,7 +596,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
   },
   "A|1|452.7875|452.7875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|452.8|452.8|FB2|7K60FXE|A": {
@@ -600,7 +604,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
   },
   "A|1|452.8125|452.8125|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|452.825|452.825|FB2|7K60FXE|A": {
@@ -608,7 +612,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
   },
   "A|1|452.8375|452.8375|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|452.85|452.85|FB2|7K60FXE|A": {
@@ -624,7 +628,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 121: Frequency is in Shared Channel|Rule 134: Frequency is for LR - Railroad"
   },
   "A|1|452.8875|452.8875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|452.975|452.975|FB2|7K60FXE|A": {
@@ -632,7 +636,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
   },
   "A|1|452.9875|452.9875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|453|453|FB2|7K60FXE|A": {
@@ -680,43 +684,43 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 131: IP Frequency"
   },
   "A|1|460.6625|460.6625|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Tacoma Narrows (TIW)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Boeing/King County Int'l (BFI), Seattle-Tacoma Int'l (SEA), Tacoma Narrows (TIW)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Tacoma Narrows (TIW)"
   },
   "A|1|460.6875|460.6875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Tacoma Narrows (TIW)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Boeing/King County Int'l (BFI), Seattle-Tacoma Int'l (SEA), Tacoma Narrows (TIW)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Tacoma Narrows (TIW)"
   },
   "A|1|460.7125|460.7125|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Tacoma Narrows (TIW)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Boeing/King County Int'l (BFI), Seattle-Tacoma Int'l (SEA), Tacoma Narrows (TIW)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Tacoma Narrows (TIW)"
   },
   "A|1|460.7375|460.7375|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Tacoma Narrows (TIW)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Boeing/King County Int'l (BFI), Seattle-Tacoma Int'l (SEA), Tacoma Narrows (TIW)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Tacoma Narrows (TIW)"
   },
   "A|1|460.7625|460.7625|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Tacoma Narrows (TIW)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Boeing/King County Int'l (BFI), Seattle-Tacoma Int'l (SEA), Tacoma Narrows (TIW)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Tacoma Narrows (TIW)"
   },
   "A|1|460.7875|460.7875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Tacoma Narrows (TIW)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Boeing/King County Int'l (BFI), Seattle-Tacoma Int'l (SEA), Tacoma Narrows (TIW)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Tacoma Narrows (TIW)"
   },
   "A|1|460.8125|460.8125|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Tacoma Narrows (TIW)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Boeing/King County Int'l (BFI), Seattle-Tacoma Int'l (SEA), Tacoma Narrows (TIW)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Tacoma Narrows (TIW)"
   },
   "A|1|460.8375|460.8375|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Tacoma Narrows (TIW)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Boeing/King County Int'l (BFI), Seattle-Tacoma Int'l (SEA), Tacoma Narrows (TIW)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Tacoma Narrows (TIW)"
   },
   "A|1|460.8625|460.8625|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Tacoma Narrows (TIW)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Boeing/King County Int'l (BFI), Seattle-Tacoma Int'l (SEA), Tacoma Narrows (TIW)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Tacoma Narrows (TIW)"
   },
   "A|1|460.8875|460.8875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Tacoma Narrows (TIW)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Boeing/King County Int'l (BFI), Seattle-Tacoma Int'l (SEA), Tacoma Narrows (TIW)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Tacoma Narrows (TIW)"
   },
   "A|1|460.9875|460.9875|FB2|7K60FXE|A": {
@@ -1132,7 +1136,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
   },
   "A|1|462.4625|462.4625|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|462.475|462.475|FB2|7K60FXE|A": {
@@ -1140,7 +1144,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
   },
   "A|1|462.4875|462.4875|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|462.5|462.5|FB2|7K60FXE|A": {
@@ -1148,7 +1152,7 @@
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
   },
   "A|1|462.5125|462.5125|FB2|7K60FXE|A": {
-    "nxgen": "This site is north of Line 'A'.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA",
+    "nxgen": "This site is north of Line 'A'.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. TACOMA, WA"
   },
   "A|1|462.525|462.525|FB2|7K60FXE|A": {
@@ -1739,60 +1743,12 @@
     "nxgen": "This site is north of Line 'A'.|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts|Rule 36: Emission Must be A1D, A2D, A3E, F1D, F2D, F3E, G3E",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'.|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts"
   },
-  "G|2|460.9|460.9|MO|7K60FXE|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
-  },
-  "G|2|460.9125|460.9125|MO|7K60FXE|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "G|2|460.925|460.925|MO|7K60FXE|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
-  },
-  "G|2|460.9375|460.9375|MO|7K60FXE|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "G|2|460.95|460.95|MO|7K60FXE|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
-  },
-  "G|2|460.9625|460.9625|MO|7K60FXE|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
   "G|2|462.1875|462.1875|MO|7K60FXE|A": {
     "nxgen": "",
     "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis."
   },
-  "G|2|465.9|465.9|MO|7K60FXE|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
-  },
-  "G|2|465.9125|465.9125|MO|7K60FXE|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "G|2|465.925|465.925|MO|7K60FXE|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
-  },
-  "G|2|465.9375|465.9375|MO|7K60FXE|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "G|2|465.95|465.95|MO|7K60FXE|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
-  },
-  "G|2|465.9625|465.9625|MO|7K60FXE|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "G|2|466|466|MO|7K60FXE|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
-  },
   "H|3|462.1875|462.1875|MO|7K60FXE|A": {
     "nxgen": "",
     "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis."
-  },
-  "A|1|452.1|452.1|FB2|7K60FXE|A": {
-    "legacy": "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3|This site is north of Line 'A'."
-  },
-  "G|2|452.1|452.1|MO|7K60FXE|A": {
-    "legacy": ""
-  },
-  "H|3|452.1|452.1|MO|7K60FXE|A": {
-    "legacy": ""
   }
 }

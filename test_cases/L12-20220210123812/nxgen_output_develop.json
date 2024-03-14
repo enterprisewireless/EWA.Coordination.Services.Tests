@@ -503,7 +503,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 10: Station Class must be itinerant. DETROIT, MI"
+        "Rule 10: Station Class must be itinerant except within 56 km of Detroit, MI where itinerant/permanent use permitted. DETROIT, MI"
       ]
     },
     {
