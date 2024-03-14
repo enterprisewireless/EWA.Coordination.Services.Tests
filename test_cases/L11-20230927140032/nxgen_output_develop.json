@@ -230,6 +230,22 @@
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
+      "frequencyLow": 150.8525,
+      "frequencyHigh": 150.8525,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 132: LA Frequency"
+      ]
+    },
+    {
+      "recordNum": 19,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
       "frequencyLow": 150.86,
       "frequencyHigh": 150.86,
       "frequencyType": null,
@@ -241,7 +257,23 @@
       ]
     },
     {
-      "recordNum": 19,
+      "recordNum": 20,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 150.8675,
+      "frequencyHigh": 150.8675,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 132: LA Frequency"
+      ]
+    },
+    {
+      "recordNum": 21,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -256,7 +288,23 @@
       ]
     },
     {
-      "recordNum": 20,
+      "recordNum": 22,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 150.8825,
+      "frequencyHigh": 150.8825,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 132: LA Frequency"
+      ]
+    },
+    {
+      "recordNum": 23,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -271,7 +319,23 @@
       ]
     },
     {
-      "recordNum": 21,
+      "recordNum": 24,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 150.8975,
+      "frequencyHigh": 150.8975,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 132: LA Frequency"
+      ]
+    },
+    {
+      "recordNum": 25,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -286,7 +350,7 @@
       ]
     },
     {
-      "recordNum": 22,
+      "recordNum": 26,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -301,7 +365,23 @@
       ]
     },
     {
-      "recordNum": 23,
+      "recordNum": 27,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 150.9425,
+      "frequencyHigh": 150.9425,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 132: LA Frequency"
+      ]
+    },
+    {
+      "recordNum": 28,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -316,7 +396,23 @@
       ]
     },
     {
-      "recordNum": 24,
+      "recordNum": 29,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 150.9575,
+      "frequencyHigh": 150.9575,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 132: LA Frequency"
+      ]
+    },
+    {
+      "recordNum": 30,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -331,7 +427,23 @@
       ]
     },
     {
-      "recordNum": 25,
+      "recordNum": 31,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 150.9725,
+      "frequencyHigh": 150.9725,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 132: LA Frequency"
+      ]
+    },
+    {
+      "recordNum": 32,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -347,7 +459,7 @@
       ]
     },
     {
-      "recordNum": 26,
+      "recordNum": 33,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -359,12 +471,444 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.",
-        "Rule 30: Emissions may not exceed 11k.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 131: IP Frequency"
       ]
     },
     {
-      "recordNum": 27,
+      "recordNum": 34,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.0025,
+      "frequencyHigh": 151.0025,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 35,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.0175,
+      "frequencyHigh": 151.0175,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 36,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.0325,
+      "frequencyHigh": 151.0325,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 37,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.0475,
+      "frequencyHigh": 151.0475,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 38,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.0925,
+      "frequencyHigh": 151.0925,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 39,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.1075,
+      "frequencyHigh": 151.1075,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 40,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.1225,
+      "frequencyHigh": 151.1225,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 41,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.1375,
+      "frequencyHigh": 151.1375,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 42,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.1525,
+      "frequencyHigh": 151.1525,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 43,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.1675,
+      "frequencyHigh": 151.1675,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 44,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.2125,
+      "frequencyHigh": 151.2125,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 45,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.2275,
+      "frequencyHigh": 151.2275,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 46,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.2425,
+      "frequencyHigh": 151.2425,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 47,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.2575,
+      "frequencyHigh": 151.2575,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 48,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.2725,
+      "frequencyHigh": 151.2725,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 49,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.2875,
+      "frequencyHigh": 151.2875,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 50,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.3325,
+      "frequencyHigh": 151.3325,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 51,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.3475,
+      "frequencyHigh": 151.3475,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 52,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.3625,
+      "frequencyHigh": 151.3625,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 53,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.3775,
+      "frequencyHigh": 151.3775,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 54,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.3925,
+      "frequencyHigh": 151.3925,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 55,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.4075,
+      "frequencyHigh": 151.4075,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 56,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.4225,
+      "frequencyHigh": 151.4225,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 57,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.4375,
+      "frequencyHigh": 151.4375,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 58,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.4525,
+      "frequencyHigh": 151.4525,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 59,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.4675,
+      "frequencyHigh": 151.4675,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 60,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.4825,
+      "frequencyHigh": 151.4825,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 31: The State Must Be PR or VI"
+      ]
+    },
+    {
+      "recordNum": 61,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -379,7 +923,22 @@
       ]
     },
     {
-      "recordNum": 28,
+      "recordNum": 62,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.4975,
+      "frequencyHigh": 151.4975,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 63,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -392,7 +951,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 29,
+      "recordNum": 64,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.5275,
+      "frequencyHigh": 151.5275,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 65,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -405,7 +979,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 30,
+      "recordNum": 66,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.5425,
+      "frequencyHigh": 151.5425,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 67,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -418,7 +1007,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 31,
+      "recordNum": 68,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.5575,
+      "frequencyHigh": 151.5575,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 69,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -431,7 +1035,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 32,
+      "recordNum": 70,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.5725,
+      "frequencyHigh": 151.5725,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 71,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -444,7 +1063,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 33,
+      "recordNum": 72,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.5875,
+      "frequencyHigh": 151.5875,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 73,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -457,7 +1091,37 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 34,
+      "recordNum": 74,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.6025,
+      "frequencyHigh": 151.6025,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 75,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.6475,
+      "frequencyHigh": 151.6475,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 76,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -470,7 +1134,52 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 35,
+      "recordNum": 77,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.6625,
+      "frequencyHigh": 151.6625,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 78,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.67,
+      "frequencyHigh": 151.67,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 79,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.6775,
+      "frequencyHigh": 151.6775,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 80,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -483,7 +1192,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 36,
+      "recordNum": 81,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -496,7 +1205,37 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 37,
+      "recordNum": 82,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.7225,
+      "frequencyHigh": 151.7225,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 83,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.73,
+      "frequencyHigh": 151.73,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 84,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -509,7 +1248,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 38,
+      "recordNum": 85,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -522,7 +1261,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 39,
+      "recordNum": 86,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -535,7 +1274,52 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 40,
+      "recordNum": 87,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.7825,
+      "frequencyHigh": 151.7825,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 88,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.79,
+      "frequencyHigh": 151.79,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 89,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.7975,
+      "frequencyHigh": 151.7975,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 90,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -548,7 +1332,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 41,
+      "recordNum": 91,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -561,7 +1345,52 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 42,
+      "recordNum": 92,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.8425,
+      "frequencyHigh": 151.8425,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 93,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.85,
+      "frequencyHigh": 151.85,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 94,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.8575,
+      "frequencyHigh": 151.8575,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 95,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -574,7 +1403,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 43,
+      "recordNum": 96,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -587,7 +1416,52 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 44,
+      "recordNum": 97,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.9025,
+      "frequencyHigh": 151.9025,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 98,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.91,
+      "frequencyHigh": 151.91,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 99,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.9175,
+      "frequencyHigh": 151.9175,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 100,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -600,7 +1474,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 45,
+      "recordNum": 101,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -613,7 +1487,52 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 46,
+      "recordNum": 102,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.9625,
+      "frequencyHigh": 151.9625,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 103,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.97,
+      "frequencyHigh": 151.97,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 104,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 151.9775,
+      "frequencyHigh": 151.9775,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 105,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -626,7 +1545,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 47,
+      "recordNum": 106,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -641,7 +1560,7 @@
       ]
     },
     {
-      "recordNum": 48,
+      "recordNum": 107,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -653,11 +1572,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 49,
+      "recordNum": 108,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -672,7 +1591,7 @@
       ]
     },
     {
-      "recordNum": 50,
+      "recordNum": 109,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -684,11 +1603,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 51,
+      "recordNum": 110,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -703,7 +1622,7 @@
       ]
     },
     {
-      "recordNum": 52,
+      "recordNum": 111,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -715,11 +1634,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 53,
+      "recordNum": 112,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -734,7 +1653,7 @@
       ]
     },
     {
-      "recordNum": 54,
+      "recordNum": 113,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -746,11 +1665,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 55,
+      "recordNum": 114,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -765,7 +1684,7 @@
       ]
     },
     {
-      "recordNum": 56,
+      "recordNum": 115,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -777,11 +1696,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 57,
+      "recordNum": 116,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -796,7 +1715,7 @@
       ]
     },
     {
-      "recordNum": 58,
+      "recordNum": 117,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -808,11 +1727,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 59,
+      "recordNum": 118,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -827,7 +1746,7 @@
       ]
     },
     {
-      "recordNum": 60,
+      "recordNum": 119,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -839,11 +1758,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 61,
+      "recordNum": 120,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -858,7 +1777,7 @@
       ]
     },
     {
-      "recordNum": 62,
+      "recordNum": 121,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -870,11 +1789,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 63,
+      "recordNum": 122,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -889,7 +1808,7 @@
       ]
     },
     {
-      "recordNum": 64,
+      "recordNum": 123,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -901,11 +1820,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 65,
+      "recordNum": 124,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -920,7 +1839,7 @@
       ]
     },
     {
-      "recordNum": 66,
+      "recordNum": 125,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -932,11 +1851,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 67,
+      "recordNum": 126,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -951,7 +1870,7 @@
       ]
     },
     {
-      "recordNum": 68,
+      "recordNum": 127,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -963,11 +1882,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 69,
+      "recordNum": 128,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -982,7 +1901,7 @@
       ]
     },
     {
-      "recordNum": 70,
+      "recordNum": 129,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -994,11 +1913,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 71,
+      "recordNum": 130,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1013,7 +1932,7 @@
       ]
     },
     {
-      "recordNum": 72,
+      "recordNum": 131,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1025,11 +1944,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 73,
+      "recordNum": 132,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1040,12 +1959,11 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
       ]
     },
     {
-      "recordNum": 74,
+      "recordNum": 133,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1063,7 +1981,7 @@
       ]
     },
     {
-      "recordNum": 75,
+      "recordNum": 134,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1076,7 +1994,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 76,
+      "recordNum": 135,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 152.8775,
+      "frequencyHigh": 152.8775,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 136,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1089,7 +2022,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 77,
+      "recordNum": 137,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 152.8925,
+      "frequencyHigh": 152.8925,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 138,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1102,7 +2050,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 78,
+      "recordNum": 139,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 152.9075,
+      "frequencyHigh": 152.9075,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 140,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1115,7 +2078,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 79,
+      "recordNum": 141,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 152.9225,
+      "frequencyHigh": 152.9225,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 142,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1128,7 +2106,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 80,
+      "recordNum": 143,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 152.9375,
+      "frequencyHigh": 152.9375,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 144,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1141,7 +2134,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 81,
+      "recordNum": 145,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 152.9525,
+      "frequencyHigh": 152.9525,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 146,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1154,7 +2162,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 82,
+      "recordNum": 147,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 152.9675,
+      "frequencyHigh": 152.9675,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 148,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1167,7 +2190,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 83,
+      "recordNum": 149,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 152.9825,
+      "frequencyHigh": 152.9825,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 150,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1180,7 +2218,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 84,
+      "recordNum": 151,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 152.9975,
+      "frequencyHigh": 152.9975,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 152,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1193,7 +2246,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 85,
+      "recordNum": 153,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.0125,
+      "frequencyHigh": 153.0125,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 154,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1206,7 +2274,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 86,
+      "recordNum": 155,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.0275,
+      "frequencyHigh": 153.0275,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 156,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1222,7 +2305,23 @@
       ]
     },
     {
-      "recordNum": 87,
+      "recordNum": 157,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.0425,
+      "frequencyHigh": 153.0425,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel"
+      ]
+    },
+    {
+      "recordNum": 158,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1244,7 +2343,7 @@
       ]
     },
     {
-      "recordNum": 88,
+      "recordNum": 159,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1261,12 +2360,12 @@
         "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
         "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
         "Rule 7: Geophysical operations will be authorized on a secondary basis.",
-        "Rule 30: Emissions may not exceed 11k.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 121: Frequency is in Shared Channel"
       ]
     },
     {
-      "recordNum": 89,
+      "recordNum": 160,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1282,7 +2381,23 @@
       ]
     },
     {
-      "recordNum": 90,
+      "recordNum": 161,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.0725,
+      "frequencyHigh": 153.0725,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel"
+      ]
+    },
+    {
+      "recordNum": 162,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1304,7 +2419,7 @@
       ]
     },
     {
-      "recordNum": 91,
+      "recordNum": 163,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1321,12 +2436,12 @@
         "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
         "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
         "Rule 7: Geophysical operations will be authorized on a secondary basis.",
-        "Rule 30: Emissions may not exceed 11k.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 121: Frequency is in Shared Channel"
       ]
     },
     {
-      "recordNum": 92,
+      "recordNum": 164,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1342,7 +2457,23 @@
       ]
     },
     {
-      "recordNum": 93,
+      "recordNum": 165,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.1025,
+      "frequencyHigh": 153.1025,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel"
+      ]
+    },
+    {
+      "recordNum": 166,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1364,7 +2495,7 @@
       ]
     },
     {
-      "recordNum": 94,
+      "recordNum": 167,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1381,12 +2512,12 @@
         "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
         "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
         "Rule 7: Geophysical operations will be authorized on a secondary basis.",
-        "Rule 30: Emissions may not exceed 11k.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 121: Frequency is in Shared Channel"
       ]
     },
     {
-      "recordNum": 95,
+      "recordNum": 168,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1402,7 +2533,23 @@
       ]
     },
     {
-      "recordNum": 96,
+      "recordNum": 169,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.1325,
+      "frequencyHigh": 153.1325,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel"
+      ]
+    },
+    {
+      "recordNum": 170,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1424,7 +2571,7 @@
       ]
     },
     {
-      "recordNum": 97,
+      "recordNum": 171,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1441,12 +2588,12 @@
         "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
         "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
         "Rule 7: Geophysical operations will be authorized on a secondary basis.",
-        "Rule 30: Emissions may not exceed 11k.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 121: Frequency is in Shared Channel"
       ]
     },
     {
-      "recordNum": 98,
+      "recordNum": 172,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1462,7 +2609,23 @@
       ]
     },
     {
-      "recordNum": 99,
+      "recordNum": 173,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.1625,
+      "frequencyHigh": 153.1625,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel"
+      ]
+    },
+    {
+      "recordNum": 174,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1484,7 +2647,7 @@
       ]
     },
     {
-      "recordNum": 100,
+      "recordNum": 175,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1501,12 +2664,12 @@
         "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
         "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
         "Rule 7: Geophysical operations will be authorized on a secondary basis.",
-        "Rule 30: Emissions may not exceed 11k.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 121: Frequency is in Shared Channel"
       ]
     },
     {
-      "recordNum": 101,
+      "recordNum": 176,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1522,7 +2685,23 @@
       ]
     },
     {
-      "recordNum": 102,
+      "recordNum": 177,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.1925,
+      "frequencyHigh": 153.1925,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel"
+      ]
+    },
+    {
+      "recordNum": 178,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1544,7 +2723,7 @@
       ]
     },
     {
-      "recordNum": 103,
+      "recordNum": 179,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1561,12 +2740,12 @@
         "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
         "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
         "Rule 7: Geophysical operations will be authorized on a secondary basis.",
-        "Rule 30: Emissions may not exceed 11k.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 121: Frequency is in Shared Channel"
       ]
     },
     {
-      "recordNum": 104,
+      "recordNum": 180,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1582,7 +2761,23 @@
       ]
     },
     {
-      "recordNum": 105,
+      "recordNum": 181,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.2225,
+      "frequencyHigh": 153.2225,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel"
+      ]
+    },
+    {
+      "recordNum": 182,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1604,7 +2799,7 @@
       ]
     },
     {
-      "recordNum": 106,
+      "recordNum": 183,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1621,12 +2816,12 @@
         "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
         "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
         "Rule 7: Geophysical operations will be authorized on a secondary basis.",
-        "Rule 30: Emissions may not exceed 11k.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 121: Frequency is in Shared Channel"
       ]
     },
     {
-      "recordNum": 107,
+      "recordNum": 184,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1642,7 +2837,23 @@
       ]
     },
     {
-      "recordNum": 108,
+      "recordNum": 185,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.2525,
+      "frequencyHigh": 153.2525,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel"
+      ]
+    },
+    {
+      "recordNum": 186,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1664,7 +2875,7 @@
       ]
     },
     {
-      "recordNum": 109,
+      "recordNum": 187,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1681,12 +2892,12 @@
         "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
         "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
         "Rule 7: Geophysical operations will be authorized on a secondary basis.",
-        "Rule 30: Emissions may not exceed 11k.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 121: Frequency is in Shared Channel"
       ]
     },
     {
-      "recordNum": 110,
+      "recordNum": 188,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1702,7 +2913,23 @@
       ]
     },
     {
-      "recordNum": 111,
+      "recordNum": 189,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.2825,
+      "frequencyHigh": 153.2825,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel"
+      ]
+    },
+    {
+      "recordNum": 190,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1724,7 +2951,7 @@
       ]
     },
     {
-      "recordNum": 112,
+      "recordNum": 191,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1741,12 +2968,12 @@
         "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
         "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
         "Rule 7: Geophysical operations will be authorized on a secondary basis.",
-        "Rule 30: Emissions may not exceed 11k.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 121: Frequency is in Shared Channel"
       ]
     },
     {
-      "recordNum": 113,
+      "recordNum": 192,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1762,7 +2989,23 @@
       ]
     },
     {
-      "recordNum": 114,
+      "recordNum": 193,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.3125,
+      "frequencyHigh": 153.3125,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel"
+      ]
+    },
+    {
+      "recordNum": 194,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1784,7 +3027,7 @@
       ]
     },
     {
-      "recordNum": 115,
+      "recordNum": 195,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1801,12 +3044,12 @@
         "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
         "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
         "Rule 7: Geophysical operations will be authorized on a secondary basis.",
-        "Rule 30: Emissions may not exceed 11k.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 121: Frequency is in Shared Channel"
       ]
     },
     {
-      "recordNum": 116,
+      "recordNum": 196,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1822,7 +3065,23 @@
       ]
     },
     {
-      "recordNum": 117,
+      "recordNum": 197,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.3425,
+      "frequencyHigh": 153.3425,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel"
+      ]
+    },
+    {
+      "recordNum": 198,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1844,7 +3103,7 @@
       ]
     },
     {
-      "recordNum": 118,
+      "recordNum": 199,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1861,12 +3120,12 @@
         "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
         "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
         "Rule 7: Geophysical operations will be authorized on a secondary basis.",
-        "Rule 30: Emissions may not exceed 11k.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 121: Frequency is in Shared Channel"
       ]
     },
     {
-      "recordNum": 119,
+      "recordNum": 200,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1882,7 +3141,23 @@
       ]
     },
     {
-      "recordNum": 120,
+      "recordNum": 201,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.3725,
+      "frequencyHigh": 153.3725,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel"
+      ]
+    },
+    {
+      "recordNum": 202,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1898,7 +3173,23 @@
       ]
     },
     {
-      "recordNum": 121,
+      "recordNum": 203,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.3875,
+      "frequencyHigh": 153.3875,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel"
+      ]
+    },
+    {
+      "recordNum": 204,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1914,7 +3205,23 @@
       ]
     },
     {
-      "recordNum": 122,
+      "recordNum": 205,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.4025,
+      "frequencyHigh": 153.4025,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel"
+      ]
+    },
+    {
+      "recordNum": 206,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1929,7 +3236,23 @@
       ]
     },
     {
-      "recordNum": 123,
+      "recordNum": 207,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.4175,
+      "frequencyHigh": 153.4175,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 208,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1945,7 +3268,24 @@
       ]
     },
     {
-      "recordNum": 124,
+      "recordNum": 209,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.4325,
+      "frequencyHigh": 153.4325,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 210,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1961,7 +3301,24 @@
       ]
     },
     {
-      "recordNum": 125,
+      "recordNum": 211,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.4475,
+      "frequencyHigh": 153.4475,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 212,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1977,7 +3334,24 @@
       ]
     },
     {
-      "recordNum": 126,
+      "recordNum": 213,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.4625,
+      "frequencyHigh": 153.4625,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 214,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -1992,7 +3366,23 @@
       ]
     },
     {
-      "recordNum": 127,
+      "recordNum": 215,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.4775,
+      "frequencyHigh": 153.4775,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 216,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2008,7 +3398,24 @@
       ]
     },
     {
-      "recordNum": 128,
+      "recordNum": 217,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.4925,
+      "frequencyHigh": 153.4925,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 218,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2024,7 +3431,24 @@
       ]
     },
     {
-      "recordNum": 129,
+      "recordNum": 219,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.5075,
+      "frequencyHigh": 153.5075,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 220,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2040,7 +3464,24 @@
       ]
     },
     {
-      "recordNum": 130,
+      "recordNum": 221,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.5225,
+      "frequencyHigh": 153.5225,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 222,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2055,7 +3496,23 @@
       ]
     },
     {
-      "recordNum": 131,
+      "recordNum": 223,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.5375,
+      "frequencyHigh": 153.5375,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 224,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2071,7 +3528,58 @@
       ]
     },
     {
-      "recordNum": 132,
+      "recordNum": 225,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.5525,
+      "frequencyHigh": 153.5525,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 226,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.56,
+      "frequencyHigh": 153.56,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 227,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.5675,
+      "frequencyHigh": 153.5675,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 228,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2087,7 +3595,24 @@
       ]
     },
     {
-      "recordNum": 133,
+      "recordNum": 229,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.5825,
+      "frequencyHigh": 153.5825,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 230,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2102,7 +3627,23 @@
       ]
     },
     {
-      "recordNum": 134,
+      "recordNum": 231,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.5975,
+      "frequencyHigh": 153.5975,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 232,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2118,7 +3659,24 @@
       ]
     },
     {
-      "recordNum": 135,
+      "recordNum": 233,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.6125,
+      "frequencyHigh": 153.6125,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 234,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2134,7 +3692,24 @@
       ]
     },
     {
-      "recordNum": 136,
+      "recordNum": 235,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.6275,
+      "frequencyHigh": 153.6275,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 236,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2150,7 +3725,24 @@
       ]
     },
     {
-      "recordNum": 137,
+      "recordNum": 237,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.6425,
+      "frequencyHigh": 153.6425,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 238,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2165,7 +3757,23 @@
       ]
     },
     {
-      "recordNum": 138,
+      "recordNum": 239,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.6575,
+      "frequencyHigh": 153.6575,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 240,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2181,7 +3789,24 @@
       ]
     },
     {
-      "recordNum": 139,
+      "recordNum": 241,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.6725,
+      "frequencyHigh": 153.6725,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 242,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2197,7 +3822,24 @@
       ]
     },
     {
-      "recordNum": 140,
+      "recordNum": 243,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.6875,
+      "frequencyHigh": 153.6875,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 244,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2212,7 +3854,23 @@
       ]
     },
     {
-      "recordNum": 141,
+      "recordNum": 245,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.7025,
+      "frequencyHigh": 153.7025,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 246,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2227,7 +3885,23 @@
       ]
     },
     {
-      "recordNum": 142,
+      "recordNum": 247,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.7175,
+      "frequencyHigh": 153.7175,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 248,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2242,7 +3916,38 @@
       ]
     },
     {
-      "recordNum": 143,
+      "recordNum": 249,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 153.7325,
+      "frequencyHigh": 153.7325,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 250,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 154.4825,
+      "frequencyHigh": 154.4825,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 251,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2255,7 +3960,37 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 144,
+      "recordNum": 252,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 154.4975,
+      "frequencyHigh": 154.4975,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 253,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 154.505,
+      "frequencyHigh": 154.505,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 254,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2268,7 +4003,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 145,
+      "recordNum": 255,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2281,7 +4016,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 146,
+      "recordNum": 256,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 154.5475,
+      "frequencyHigh": 154.5475,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 257,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2298,7 +4048,7 @@
       ]
     },
     {
-      "recordNum": 147,
+      "recordNum": 258,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2316,7 +4066,7 @@
       ]
     },
     {
-      "recordNum": 148,
+      "recordNum": 259,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2332,7 +4082,7 @@
       ]
     },
     {
-      "recordNum": 149,
+      "recordNum": 260,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2344,12 +4094,12 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 12: This frequency may not be used aboard aircraft in flight.",
-        "Rule 30: Emissions may not exceed 11k.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 132: LA Frequency"
       ]
     },
     {
-      "recordNum": 150,
+      "recordNum": 261,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2365,7 +4115,7 @@
       ]
     },
     {
-      "recordNum": 151,
+      "recordNum": 262,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2377,12 +4127,12 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 12: This frequency may not be used aboard aircraft in flight.",
-        "Rule 30: Emissions may not exceed 11k.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 132: LA Frequency"
       ]
     },
     {
-      "recordNum": 152,
+      "recordNum": 263,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2398,7 +4148,7 @@
       ]
     },
     {
-      "recordNum": 153,
+      "recordNum": 264,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2410,12 +4160,12 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 12: This frequency may not be used aboard aircraft in flight.",
-        "Rule 30: Emissions may not exceed 11k.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 132: LA Frequency"
       ]
     },
     {
-      "recordNum": 154,
+      "recordNum": 265,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2431,7 +4181,7 @@
       ]
     },
     {
-      "recordNum": 155,
+      "recordNum": 266,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2443,12 +4193,12 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 12: This frequency may not be used aboard aircraft in flight.",
-        "Rule 30: Emissions may not exceed 11k.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 132: LA Frequency"
       ]
     },
     {
-      "recordNum": 156,
+      "recordNum": 267,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2463,7 +4213,7 @@
       ]
     },
     {
-      "recordNum": 157,
+      "recordNum": 268,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2475,11 +4225,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 158,
+      "recordNum": 269,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2494,7 +4244,7 @@
       ]
     },
     {
-      "recordNum": 159,
+      "recordNum": 270,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2506,11 +4256,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 160,
+      "recordNum": 271,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2525,7 +4275,7 @@
       ]
     },
     {
-      "recordNum": 161,
+      "recordNum": 272,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2537,11 +4287,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 162,
+      "recordNum": 273,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2556,7 +4306,7 @@
       ]
     },
     {
-      "recordNum": 163,
+      "recordNum": 274,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2568,11 +4318,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 164,
+      "recordNum": 275,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2587,7 +4337,7 @@
       ]
     },
     {
-      "recordNum": 165,
+      "recordNum": 276,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2599,11 +4349,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 166,
+      "recordNum": 277,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2618,7 +4368,7 @@
       ]
     },
     {
-      "recordNum": 167,
+      "recordNum": 278,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2630,11 +4380,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 168,
+      "recordNum": 279,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2649,7 +4399,7 @@
       ]
     },
     {
-      "recordNum": 169,
+      "recordNum": 280,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2661,11 +4411,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 170,
+      "recordNum": 281,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2680,7 +4430,7 @@
       ]
     },
     {
-      "recordNum": 171,
+      "recordNum": 282,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2692,11 +4442,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 172,
+      "recordNum": 283,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2711,7 +4461,7 @@
       ]
     },
     {
-      "recordNum": 173,
+      "recordNum": 284,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2723,11 +4473,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 174,
+      "recordNum": 285,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2742,7 +4492,7 @@
       ]
     },
     {
-      "recordNum": 175,
+      "recordNum": 286,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2754,11 +4504,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 176,
+      "recordNum": 287,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2773,7 +4523,7 @@
       ]
     },
     {
-      "recordNum": 177,
+      "recordNum": 288,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2785,11 +4535,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 178,
+      "recordNum": 289,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2804,7 +4554,7 @@
       ]
     },
     {
-      "recordNum": 179,
+      "recordNum": 290,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2816,11 +4566,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 180,
+      "recordNum": 291,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2835,7 +4585,7 @@
       ]
     },
     {
-      "recordNum": 181,
+      "recordNum": 292,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2847,11 +4597,11 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
-      "recordNum": 182,
+      "recordNum": 293,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2866,7 +4616,7 @@
       ]
     },
     {
-      "recordNum": 183,
+      "recordNum": 294,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2884,7 +4634,7 @@
       ]
     },
     {
-      "recordNum": 184,
+      "recordNum": 295,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2899,7 +4649,23 @@
       ]
     },
     {
-      "recordNum": 185,
+      "recordNum": 296,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 158.1375,
+      "frequencyHigh": 158.1375,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 297,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2915,7 +4681,24 @@
       ]
     },
     {
-      "recordNum": 186,
+      "recordNum": 298,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 158.1525,
+      "frequencyHigh": 158.1525,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 299,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2931,7 +4714,24 @@
       ]
     },
     {
-      "recordNum": 187,
+      "recordNum": 300,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 158.1675,
+      "frequencyHigh": 158.1675,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 301,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2947,7 +4747,24 @@
       ]
     },
     {
-      "recordNum": 188,
+      "recordNum": 302,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 158.1825,
+      "frequencyHigh": 158.1825,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 303,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2962,7 +4779,23 @@
       ]
     },
     {
-      "recordNum": 189,
+      "recordNum": 304,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 158.1975,
+      "frequencyHigh": 158.1975,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 305,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2978,7 +4811,24 @@
       ]
     },
     {
-      "recordNum": 190,
+      "recordNum": 306,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 158.2125,
+      "frequencyHigh": 158.2125,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 307,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -2994,7 +4844,24 @@
       ]
     },
     {
-      "recordNum": 191,
+      "recordNum": 308,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 158.2275,
+      "frequencyHigh": 158.2275,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 309,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3010,7 +4877,24 @@
       ]
     },
     {
-      "recordNum": 192,
+      "recordNum": 310,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 158.2425,
+      "frequencyHigh": 158.2425,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 311,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3025,7 +4909,23 @@
       ]
     },
     {
-      "recordNum": 193,
+      "recordNum": 312,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 158.2575,
+      "frequencyHigh": 158.2575,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 313,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3041,7 +4941,24 @@
       ]
     },
     {
-      "recordNum": 194,
+      "recordNum": 314,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 158.2725,
+      "frequencyHigh": 158.2725,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 133: IW, IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 315,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3057,7 +4974,24 @@
       ]
     },
     {
-      "recordNum": 195,
+      "recordNum": 316,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 158.2875,
+      "frequencyHigh": 158.2875,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 317,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3073,7 +5007,24 @@
       ]
     },
     {
-      "recordNum": 196,
+      "recordNum": 318,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 158.3025,
+      "frequencyHigh": 158.3025,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 319,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3095,7 +5046,7 @@
       ]
     },
     {
-      "recordNum": 197,
+      "recordNum": 320,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3112,13 +5063,13 @@
         "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
         "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
         "Rule 7: Geophysical operations will be authorized on a secondary basis.",
-        "Rule 30: Emissions may not exceed 11k.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 121: Frequency is in Shared Channel",
         "Rule 131: IP Frequency"
       ]
     },
     {
-      "recordNum": 198,
+      "recordNum": 321,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3134,7 +5085,24 @@
       ]
     },
     {
-      "recordNum": 199,
+      "recordNum": 322,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 158.3325,
+      "frequencyHigh": 158.3325,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 323,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3147,7 +5115,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 200,
+      "recordNum": 324,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 158.3475,
+      "frequencyHigh": 158.3475,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 325,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3163,7 +5146,24 @@
       ]
     },
     {
-      "recordNum": 201,
+      "recordNum": 326,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 158.3625,
+      "frequencyHigh": 158.3625,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 327,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3185,7 +5185,7 @@
       ]
     },
     {
-      "recordNum": 202,
+      "recordNum": 328,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3202,13 +5202,13 @@
         "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
         "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
         "Rule 7: Geophysical operations will be authorized on a secondary basis.",
-        "Rule 30: Emissions may not exceed 11k.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 121: Frequency is in Shared Channel",
         "Rule 131: IP Frequency"
       ]
     },
     {
-      "recordNum": 203,
+      "recordNum": 329,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3221,7 +5221,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 204,
+      "recordNum": 330,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 158.3925,
+      "frequencyHigh": 158.3925,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 331,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3237,7 +5252,24 @@
       ]
     },
     {
-      "recordNum": 205,
+      "recordNum": 332,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 158.4225,
+      "frequencyHigh": 158.4225,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 121: Frequency is in Shared Channel",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 333,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3259,7 +5291,7 @@
       ]
     },
     {
-      "recordNum": 206,
+      "recordNum": 334,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3276,13 +5308,13 @@
         "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
         "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
         "Rule 7: Geophysical operations will be authorized on a secondary basis.",
-        "Rule 30: Emissions may not exceed 11k.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 121: Frequency is in Shared Channel",
         "Rule 131: IP Frequency"
       ]
     },
     {
-      "recordNum": 207,
+      "recordNum": 335,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3298,7 +5330,7 @@
       ]
     },
     {
-      "recordNum": 208,
+      "recordNum": 336,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3318,7 +5350,7 @@
       ]
     },
     {
-      "recordNum": 209,
+      "recordNum": 337,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3335,7 +5367,7 @@
       ]
     },
     {
-      "recordNum": 210,
+      "recordNum": 338,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3347,12 +5379,12 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.",
-        "Rule 30: Emissions may not exceed 11k.",
+        "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 131: IP Frequency"
       ]
     },
     {
-      "recordNum": 211,
+      "recordNum": 339,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3365,7 +5397,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 212,
+      "recordNum": 340,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.5025,
+      "frequencyHigh": 159.5025,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 341,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3378,7 +5425,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 213,
+      "recordNum": 342,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.5175,
+      "frequencyHigh": 159.5175,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 343,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3391,7 +5453,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 214,
+      "recordNum": 344,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.5325,
+      "frequencyHigh": 159.5325,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 345,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3404,7 +5481,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 215,
+      "recordNum": 346,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.5475,
+      "frequencyHigh": 159.5475,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 347,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3417,7 +5509,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 216,
+      "recordNum": 348,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.5625,
+      "frequencyHigh": 159.5625,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 349,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3430,7 +5537,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 217,
+      "recordNum": 350,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.5775,
+      "frequencyHigh": 159.5775,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 351,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3443,7 +5565,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 218,
+      "recordNum": 352,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.5925,
+      "frequencyHigh": 159.5925,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 353,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3456,7 +5593,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 219,
+      "recordNum": 354,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.6075,
+      "frequencyHigh": 159.6075,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 355,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3469,7 +5621,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 220,
+      "recordNum": 356,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.6225,
+      "frequencyHigh": 159.6225,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 357,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3482,7 +5649,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 221,
+      "recordNum": 358,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.6375,
+      "frequencyHigh": 159.6375,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 359,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3495,7 +5677,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 222,
+      "recordNum": 360,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.6525,
+      "frequencyHigh": 159.6525,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 361,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3508,7 +5705,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 223,
+      "recordNum": 362,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.6675,
+      "frequencyHigh": 159.6675,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 363,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3521,7 +5733,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 224,
+      "recordNum": 364,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.6825,
+      "frequencyHigh": 159.6825,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 365,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3534,7 +5761,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 225,
+      "recordNum": 366,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.6975,
+      "frequencyHigh": 159.6975,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 367,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3547,7 +5789,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 226,
+      "recordNum": 368,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.7125,
+      "frequencyHigh": 159.7125,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 369,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3560,7 +5817,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 227,
+      "recordNum": 370,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.7275,
+      "frequencyHigh": 159.7275,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 371,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3573,7 +5845,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 228,
+      "recordNum": 372,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.7425,
+      "frequencyHigh": 159.7425,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 373,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3586,7 +5873,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 229,
+      "recordNum": 374,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.7575,
+      "frequencyHigh": 159.7575,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 375,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3599,7 +5901,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 230,
+      "recordNum": 376,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.7725,
+      "frequencyHigh": 159.7725,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 377,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3612,7 +5929,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 231,
+      "recordNum": 378,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.7875,
+      "frequencyHigh": 159.7875,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 379,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3625,7 +5957,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 232,
+      "recordNum": 380,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.8025,
+      "frequencyHigh": 159.8025,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 381,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3638,7 +5985,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 233,
+      "recordNum": 382,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.8175,
+      "frequencyHigh": 159.8175,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 383,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3651,7 +6013,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 234,
+      "recordNum": 384,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.8325,
+      "frequencyHigh": 159.8325,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 385,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3664,7 +6041,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 235,
+      "recordNum": 386,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.8475,
+      "frequencyHigh": 159.8475,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 387,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3677,7 +6069,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 236,
+      "recordNum": 388,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.8625,
+      "frequencyHigh": 159.8625,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 389,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3690,7 +6097,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 237,
+      "recordNum": 390,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.8775,
+      "frequencyHigh": 159.8775,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 391,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3703,7 +6125,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 238,
+      "recordNum": 392,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.8925,
+      "frequencyHigh": 159.8925,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 393,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3716,7 +6153,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 239,
+      "recordNum": 394,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.9075,
+      "frequencyHigh": 159.9075,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 395,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3729,7 +6181,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 240,
+      "recordNum": 396,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.9225,
+      "frequencyHigh": 159.9225,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 397,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3742,7 +6209,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 241,
+      "recordNum": 398,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.9375,
+      "frequencyHigh": 159.9375,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 399,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3755,7 +6237,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 242,
+      "recordNum": 400,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.9525,
+      "frequencyHigh": 159.9525,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 401,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3768,7 +6265,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 243,
+      "recordNum": 402,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.9675,
+      "frequencyHigh": 159.9675,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 403,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3781,7 +6293,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 244,
+      "recordNum": 404,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.9825,
+      "frequencyHigh": 159.9825,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 405,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3794,7 +6321,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 245,
+      "recordNum": 406,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 159.9975,
+      "frequencyHigh": 159.9975,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 407,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3807,7 +6349,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 246,
+      "recordNum": 408,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 160.0125,
+      "frequencyHigh": 160.0125,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 409,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3820,7 +6377,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 247,
+      "recordNum": 410,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 160.0275,
+      "frequencyHigh": 160.0275,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 411,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3833,7 +6405,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 248,
+      "recordNum": 412,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 160.0425,
+      "frequencyHigh": 160.0425,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 413,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3846,7 +6433,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 249,
+      "recordNum": 414,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 160.0575,
+      "frequencyHigh": 160.0575,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 415,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3859,7 +6461,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 250,
+      "recordNum": 416,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 160.0725,
+      "frequencyHigh": 160.0725,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 417,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3872,7 +6489,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 251,
+      "recordNum": 418,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 160.0875,
+      "frequencyHigh": 160.0875,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 419,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3885,7 +6517,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 252,
+      "recordNum": 420,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 160.1025,
+      "frequencyHigh": 160.1025,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 421,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3898,7 +6545,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 253,
+      "recordNum": 422,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 160.1175,
+      "frequencyHigh": 160.1175,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 423,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3911,7 +6573,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 254,
+      "recordNum": 424,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 160.1325,
+      "frequencyHigh": 160.1325,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 425,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3924,7 +6601,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 255,
+      "recordNum": 426,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 160.1475,
+      "frequencyHigh": 160.1475,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 427,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3937,7 +6629,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 256,
+      "recordNum": 428,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 160.1625,
+      "frequencyHigh": 160.1625,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 429,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3950,7 +6657,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 257,
+      "recordNum": 430,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 160.1775,
+      "frequencyHigh": 160.1775,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 431,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3963,7 +6685,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 258,
+      "recordNum": 432,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 160.1925,
+      "frequencyHigh": 160.1925,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 433,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3976,7 +6713,22 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 259,
+      "recordNum": 434,
+      "lineNum": 16,
+      "locationCode": "G",
+      "locationNum": 1,
+      "frequencyLow": 160.2075,
+      "frequencyHigh": 160.2075,
+      "frequencyType": null,
+      "emissionDesignator": "11K2F3E",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 435,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -3991,7 +6743,7 @@
       ]
     },
     {
-      "recordNum": 260,
+      "recordNum": 436,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4006,7 +6758,7 @@
       ]
     },
     {
-      "recordNum": 261,
+      "recordNum": 437,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4021,7 +6773,7 @@
       ]
     },
     {
-      "recordNum": 262,
+      "recordNum": 438,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4036,7 +6788,7 @@
       ]
     },
     {
-      "recordNum": 263,
+      "recordNum": 439,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4051,7 +6803,7 @@
       ]
     },
     {
-      "recordNum": 264,
+      "recordNum": 440,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4066,7 +6818,7 @@
       ]
     },
     {
-      "recordNum": 265,
+      "recordNum": 441,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4081,7 +6833,7 @@
       ]
     },
     {
-      "recordNum": 266,
+      "recordNum": 442,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4096,7 +6848,7 @@
       ]
     },
     {
-      "recordNum": 267,
+      "recordNum": 443,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4111,7 +6863,7 @@
       ]
     },
     {
-      "recordNum": 268,
+      "recordNum": 444,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4126,7 +6878,7 @@
       ]
     },
     {
-      "recordNum": 269,
+      "recordNum": 445,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4141,7 +6893,7 @@
       ]
     },
     {
-      "recordNum": 270,
+      "recordNum": 446,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4156,7 +6908,7 @@
       ]
     },
     {
-      "recordNum": 271,
+      "recordNum": 447,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4171,7 +6923,7 @@
       ]
     },
     {
-      "recordNum": 272,
+      "recordNum": 448,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4186,7 +6938,7 @@
       ]
     },
     {
-      "recordNum": 273,
+      "recordNum": 449,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4201,7 +6953,7 @@
       ]
     },
     {
-      "recordNum": 274,
+      "recordNum": 450,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4216,7 +6968,7 @@
       ]
     },
     {
-      "recordNum": 275,
+      "recordNum": 451,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4231,7 +6983,7 @@
       ]
     },
     {
-      "recordNum": 276,
+      "recordNum": 452,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4246,7 +6998,7 @@
       ]
     },
     {
-      "recordNum": 277,
+      "recordNum": 453,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4261,7 +7013,7 @@
       ]
     },
     {
-      "recordNum": 278,
+      "recordNum": 454,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4276,7 +7028,7 @@
       ]
     },
     {
-      "recordNum": 279,
+      "recordNum": 455,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4289,7 +7041,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 280,
+      "recordNum": 456,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4308,7 +7060,7 @@
       ]
     },
     {
-      "recordNum": 281,
+      "recordNum": 457,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4324,7 +7076,7 @@
       ]
     },
     {
-      "recordNum": 282,
+      "recordNum": 458,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4343,7 +7095,7 @@
       ]
     },
     {
-      "recordNum": 283,
+      "recordNum": 459,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4356,7 +7108,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 284,
+      "recordNum": 460,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4375,7 +7127,7 @@
       ]
     },
     {
-      "recordNum": 285,
+      "recordNum": 461,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4391,7 +7143,7 @@
       ]
     },
     {
-      "recordNum": 286,
+      "recordNum": 462,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4410,7 +7162,7 @@
       ]
     },
     {
-      "recordNum": 287,
+      "recordNum": 463,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4423,7 +7175,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 288,
+      "recordNum": 464,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4442,7 +7194,7 @@
       ]
     },
     {
-      "recordNum": 289,
+      "recordNum": 465,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4457,7 +7209,7 @@
       ]
     },
     {
-      "recordNum": 290,
+      "recordNum": 466,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4476,7 +7228,7 @@
       ]
     },
     {
-      "recordNum": 291,
+      "recordNum": 467,
       "lineNum": 16,
       "locationCode": "G",
       "locationNum": 1,
@@ -4489,7 +7241,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 292,
+      "recordNum": 468,
       "lineNum": 17,
       "locationCode": "G",
       "locationNum": 1,
@@ -4502,7 +7254,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 293,
+      "recordNum": 469,
       "lineNum": 18,
       "locationCode": "G",
       "locationNum": 1,
@@ -4515,5 +7267,5 @@
       "limitationMessages": []
     }
   ],
-  "resultCount": 293
+  "resultCount": 469
 }
