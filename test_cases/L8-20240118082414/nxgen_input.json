@@ -14,7 +14,8 @@
             "haat": 15.8,
             "transmittingAntennaHeight": 18.9,
             "coordinationCode": "A",
-            "requestNum": 1
+            "requestNum": 1,
+            "frequencyType": null
         },
         {
             "lineNum": 2,
@@ -29,7 +30,8 @@
             "haat": null,
             "transmittingAntennaHeight": null,
             "coordinationCode": "A",
-            "requestNum": 2
+            "requestNum": 2,
+            "frequencyType": null
         },
         {
             "lineNum": 3,
@@ -44,7 +46,8 @@
             "haat": null,
             "transmittingAntennaHeight": null,
             "coordinationCode": "A",
-            "requestNum": 3
+            "requestNum": 3,
+            "frequencyType": "LP"
         }
     ],
     "scheduleEs": [
@@ -58,7 +61,8 @@
             "longitude": -81.643056,
             "areaOfOperation": null,
             "serviceAreaRadius": null,
-            "elevation": 2
+            "elevation": 2,
+            "areaOfOperationCode": null
         },
         {
             "state": null,
@@ -70,7 +74,8 @@
             "longitude": 0,
             "areaOfOperation": "1",
             "serviceAreaRadius": 8,
-            "elevation": null
+            "elevation": null,
+            "areaOfOperationCode": null
         },
         {
             "state": "FL",
@@ -82,7 +87,8 @@
             "longitude": -81.643056,
             "areaOfOperation": null,
             "serviceAreaRadius": 8,
-            "elevation": null
+            "elevation": null,
+            "areaOfOperationCode": null
         }
     ]
 }
