@@ -15,15 +15,13 @@ TENANT_ID=9339fae2-efaa-4336-a27a-4821384ea343
 ```
 
 # Usage
-Run a test case by opening Powershell and running the following command in the root directory:
+## Run a single test case
+Run a single test case by opening Powershell and running the following command in the root directory:
 ```
 node main.js test_case_directory_name environment_name
 ```
 
-If the `enviornment_name` argument is not provided it defaults to Develop. The `environment_name` can be:
-- `local` - the local development environment
-- `develop` - the NxGen Develop environment on Azure
-- *more to follow...*
+*Note*: See [Arguments](#Arguments) for more information on cli arguments available for main.js.
 
 **Examples**
 
@@ -36,6 +34,33 @@ This will run the test case in the `1_3_a` on the Local environment (must be run
 ```
 node main.js 1_3_a local
 ```
+
+## Run a regression test
+To run multiple test cases at once, or to regression test, open a Powershell window and run the following command in the root directory:
+```
+node regression.js environment_name --exclude "old, not_working"
+```
+
+**Examples**
+
+This will run all the test cases in `./test_cases` on the Develop environment.
+```
+node regression.js develop
+```
+
+This will run all the test cases in `./test_cases` other than "old" and "not_working" on the Release environment.
+```
+node regression.js develop --exclude "old, not_working"
+```
+
+If the `environment_name` argument is not provided, it defaults to Develop. The `environment_name`
+
+## Arguments
+| Argument      | Default Value | Use cases | Available values |
+| ----------- | ----------- | ----------- | ----------- |
+| `enviornment_name` | develop | main.js, regression.js | develop, release, *more to follow...* |
+| `test_case_directory_name` | null | main.js | directory name in `./test_cases` |
+| `--exclude "value"` | null | regression.js | directories in `./test_cases` you don't want to run, comma separated. All whitespace in the "value" will be removed. |
 
 # Add Test Cases
 Add the following files
@@ -79,7 +104,8 @@ EWA.Coordination.Services.Tests
             "longitude": <double>,
             "areaOfOperation": <string>,
             "serviceAreaRadius": <double>,
-            "elevation": <double>
+            "elevation": <double>,
+            "areaOfOperationCode": <string>
         },
         ...
     ]
