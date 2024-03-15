@@ -1,6 +1,6 @@
 {
   "A|1|152.465|152.465|FB6|11K2F1E|A": {
-    "nxgen": "The Maximum HAAT of 670 for the Safe Harbor Table was exceeded. While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY",
+    "nxgen": "The Maximum HAAT of 670 for the Safe Harbor Table was exceeded. While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 79: Base or mobile stations located 80.47 km (50 miles) or less from the center or any urbanized area of 600,000 or more population (U.S. Census of Population, 1970) must be operated in the half-duplex mode LOS ANGELES, CA",
     "legacy": "The Maximum HAAT of 670 for the Safe Harbor Table was exceeded. While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
   },
   "A|1|152.48|152.48|FB6|11K2F1E|A": {
@@ -103,6 +103,10 @@
     "nxgen": "The Maximum HAAT of 670 for the Safe Harbor Table was exceeded. While testing Location 2|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 36: Emission Must be A1D, A2D, A3E, F1D, F2D, F3E, G3E|Rule 37: Frequency is available on a secondary basis to one-way paging.|Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts|Rule 96: Power Must Be <= 20 Watts",
     "legacy": "The Maximum HAAT of 670 for the Safe Harbor Table was exceeded. While testing Location 2|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 36: Emission Must be A1D, A2D, A3E, F1D, F2D, F3E, G3E"
   },
+  "A|1|157.725|157.725|FB6|11K2F1E|A": {
+    "nxgen": "The Maximum HAAT of 670 for the Safe Harbor Table was exceeded. While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 79: Base or mobile stations located 80.47 km (50 miles) or less from the center or any urbanized area of 600,000 or more population (U.S. Census of Population, 1970) must be operated in the half-duplex mode LOS ANGELES, CA",
+    "legacy": "The Maximum HAAT of 670 for the Safe Harbor Table was exceeded. While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+  },
   "A|1|157.74|157.74|FB6|11K2F1E|A": {
     "nxgen": "The Maximum HAAT of 670 for the Safe Harbor Table was exceeded. While testing Location 2|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 36: Emission Must be A1D, A2D, A3E, F1D, F2D, F3E, G3E|Rule 37: Frequency is available on a secondary basis to one-way paging.",
     "legacy": "The Maximum HAAT of 670 for the Safe Harbor Table was exceeded. While testing Location 2|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 36: Emission Must be A1D, A2D, A3E, F1D, F2D, F3E, G3E"
@@ -140,7 +144,7 @@
     "legacy": "The Maximum HAAT of 670 for the Safe Harbor Table was exceeded. While testing Location 2|Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 131: IP Frequency"
   },
   "G|2|152.465|152.465|MO6|11K2F1E|A": {
-    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY",
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 79: Base or mobile stations located 80.47 km (50 miles) or less from the center or any urbanized area of 600,000 or more population (U.S. Census of Population, 1970) must be operated in the half-duplex mode LOS ANGELES, CA",
     "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
   },
   "G|2|152.48|152.48|MO6|11K2F1E|A": {
@@ -150,6 +154,10 @@
   "G|2|154.585|154.585|MO6|11K2F1E|A": {
     "nxgen": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 46: This frequency is limited to a maximum power of 20 watts.|Rule 131: IP Frequency",
     "legacy": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 46: This frequency is limited to a maximum power of 20 watts."
+  },
+  "G|2|157.725|157.725|MO6|11K2F1E|A": {
+    "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 79: Base or mobile stations located 80.47 km (50 miles) or less from the center or any urbanized area of 600,000 or more population (U.S. Census of Population, 1970) must be operated in the half-duplex mode LOS ANGELES, CA",
+    "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
   },
   "G|2|157.74|157.74|MO6|11K2F1E|A": {
     "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 36: Emission Must be A1D, A2D, A3E, F1D, F2D, F3E, G3E|Rule 37: Frequency is available on a secondary basis to one-way paging.",

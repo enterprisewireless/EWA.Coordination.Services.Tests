@@ -1071,7 +1071,7 @@
         "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
         "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
         "Rule 7: Geophysical operations will be authorized on a secondary basis.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
@@ -1099,7 +1099,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
@@ -1133,7 +1133,7 @@
         "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
         "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
         "Rule 7: Geophysical operations will be authorized on a secondary basis.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
@@ -1161,7 +1161,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
@@ -1189,7 +1189,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
@@ -1217,7 +1217,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
@@ -1245,7 +1245,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
@@ -1273,7 +1273,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
@@ -1301,7 +1301,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
@@ -1329,7 +1329,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
@@ -1357,7 +1357,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
@@ -1385,7 +1385,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
@@ -1413,7 +1413,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
@@ -1441,7 +1441,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
@@ -1469,7 +1469,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
@@ -1497,7 +1497,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
@@ -1531,7 +1531,7 @@
         "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
         "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
         "Rule 7: Geophysical operations will be authorized on a secondary basis.",
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
@@ -1559,7 +1559,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 30: Emissions may not exceed 11k."
+        "Rule 30: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
