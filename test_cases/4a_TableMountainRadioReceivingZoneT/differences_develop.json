@@ -375,6 +375,10 @@
     "nxgen": "Applicant is urged to communicate with the Mountain Radio Receiving Zone.|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. DENVER, CO",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 23. While testing Location 2|Applicant is urged to  communicate with the Mountain Radio Receiving Zone.|Applicant is urged to  communicate with the Mountain Radio Receiving Zone.|This site is north of Line 'A'.|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. DENVER, CO"
   },
+  "A|1|452.1|452.1|FB2|7K60FXE|A": {
+    "nxgen": "Applicant is urged to communicate with the Mountain Radio Receiving Zone.|This site is north of Line 'A'.",
+    "legacy": "The ERP exceeded the Safe Harbor Table limit of 23. While testing Location 2|Applicant is urged to  communicate with the Mountain Radio Receiving Zone.|Applicant is urged to  communicate with the Mountain Radio Receiving Zone.|This site is north of Line 'A'.|This site is north of Line 'A'."
+  },
   "A|1|452.1125|452.1125|FB2|7K60FXE|A": {
     "nxgen": "Applicant is urged to communicate with the Mountain Radio Receiving Zone.|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. DENVER, CO",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 23. While testing Location 2|Applicant is urged to  communicate with the Mountain Radio Receiving Zone.|Applicant is urged to  communicate with the Mountain Radio Receiving Zone.|This site is north of Line 'A'.|This site is north of Line 'A'.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. DENVER, CO"
@@ -1739,56 +1743,11 @@
     "nxgen": "Applicant is urged to communicate with the Mountain Radio Receiving Zone.|This site is north of Line 'A'.|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts|Rule 36: Emission Must be A1D, A2D, A3E, F1D, F2D, F3E, G3E",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 23. While testing Location 2|Applicant is urged to  communicate with the Mountain Radio Receiving Zone.|Applicant is urged to  communicate with the Mountain Radio Receiving Zone.|This site is north of Line 'A'.|This site is north of Line 'A'.|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts"
   },
-  "G|2|460.9|460.9|MO|7K60FXE|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
-  },
-  "G|2|460.9125|460.9125|MO|7K60FXE|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "G|2|460.925|460.925|MO|7K60FXE|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
-  },
-  "G|2|460.9375|460.9375|MO|7K60FXE|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "G|2|460.95|460.95|MO|7K60FXE|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
-  },
-  "G|2|460.9625|460.9625|MO|7K60FXE|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
   "G|2|462.1875|462.1875|MO|7K60FXE|A": {
     "nxgen": "",
     "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis."
   },
-  "G|2|465.9|465.9|MO|7K60FXE|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
-  },
-  "G|2|465.9125|465.9125|MO|7K60FXE|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "G|2|465.925|465.925|MO|7K60FXE|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
-  },
-  "G|2|465.9375|465.9375|MO|7K60FXE|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "G|2|465.95|465.95|MO|7K60FXE|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
-  },
-  "G|2|465.9625|465.9625|MO|7K60FXE|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "G|2|466|466|MO|7K60FXE|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
-  },
   "Loc|LocNum|FreqLow|FreqHi|Class|Emission|CoordCode": {
     "legacy": "ErrTxt"
-  },
-  "A|1|452.1|452.1|FB2|7K60FXE|A": {
-    "legacy": "The ERP exceeded the Safe Harbor Table limit of 23. While testing Location 2|Applicant is urged to  communicate with the Mountain Radio Receiving Zone.|Applicant is urged to  communicate with the Mountain Radio Receiving Zone.|This site is north of Line 'A'.|This site is north of Line 'A'."
-  },
-  "G|2|452.1|452.1|MO|7K60FXE|A": {
-    "legacy": ""
   }
 }

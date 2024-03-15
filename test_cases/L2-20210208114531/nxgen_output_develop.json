@@ -858,8 +858,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
       ]
     },
     {

@@ -1,0 +1,4491 @@
+{
+  "results": [
+    {
+      "recordNum": 1,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 25.02,
+      "frequencyHigh": 25.02,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 3: Geophysical purposes only.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 2,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 25.04,
+      "frequencyHigh": 25.04,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 3,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 25.06,
+      "frequencyHigh": 25.06,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 3: Geophysical purposes only.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 4,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 25.08,
+      "frequencyHigh": 25.08,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.",
+        "Rule 9: Secondary to stations in the maritime mobile service.",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 5,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 25.1,
+      "frequencyHigh": 25.1,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 3: Geophysical purposes only.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 9: Secondary to stations in the maritime mobile service.",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 6,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 25.12,
+      "frequencyHigh": 25.12,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 9: Secondary to stations in the maritime mobile service.",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 7,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 25.14,
+      "frequencyHigh": 25.14,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 3: Geophysical purposes only.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 9: Secondary to stations in the maritime mobile service.",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 8,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 25.16,
+      "frequencyHigh": 25.16,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 9: Secondary to stations in the maritime mobile service.",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 9,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 25.18,
+      "frequencyHigh": 25.18,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 3: Geophysical purposes only.",
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 9: Secondary to stations in the maritime mobile service.",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 10,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 25.2,
+      "frequencyHigh": 25.2,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 9: Secondary to stations in the maritime mobile service.",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 11,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 25.22,
+      "frequencyHigh": 25.22,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 12,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 25.24,
+      "frequencyHigh": 25.24,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 13,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 25.26,
+      "frequencyHigh": 25.26,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 14,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 25.28,
+      "frequencyHigh": 25.28,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 15,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 25.3,
+      "frequencyHigh": 25.3,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 16,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 25.32,
+      "frequencyHigh": 25.32,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 17,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 27.43,
+      "frequencyHigh": 27.43,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 18,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 27.45,
+      "frequencyHigh": 27.45,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 19,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 27.47,
+      "frequencyHigh": 27.47,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 20,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 27.555,
+      "frequencyHigh": 27.555,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 89: May be assigned only to forest product on a secondary basis to Federal Government."
+      ]
+    },
+    {
+      "recordNum": 21,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 27.615,
+      "frequencyHigh": 27.615,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 89: May be assigned only to forest product on a secondary basis to Federal Government."
+      ]
+    },
+    {
+      "recordNum": 22,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 27.635,
+      "frequencyHigh": 27.635,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 89: May be assigned only to forest product on a secondary basis to Federal Government."
+      ]
+    },
+    {
+      "recordNum": 23,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 27.655,
+      "frequencyHigh": 27.655,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 89: May be assigned only to forest product on a secondary basis to Federal Government."
+      ]
+    },
+    {
+      "recordNum": 24,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 27.765,
+      "frequencyHigh": 27.765,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 89: May be assigned only to forest product on a secondary basis to Federal Government."
+      ]
+    },
+    {
+      "recordNum": 25,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 27.86,
+      "frequencyHigh": 27.86,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 89: May be assigned only to forest product on a secondary basis to Federal Government."
+      ]
+    },
+    {
+      "recordNum": 26,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 29.71,
+      "frequencyHigh": 29.71,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 27,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 29.73,
+      "frequencyHigh": 29.73,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 28,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 29.75,
+      "frequencyHigh": 29.75,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 29,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 29.77,
+      "frequencyHigh": 29.77,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 30,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 29.79,
+      "frequencyHigh": 29.79,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 31,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 30.58,
+      "frequencyHigh": 30.58,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 32,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 30.6,
+      "frequencyHigh": 30.6,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 33,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 30.62,
+      "frequencyHigh": 30.62,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 34,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 30.64,
+      "frequencyHigh": 30.64,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 35,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 30.66,
+      "frequencyHigh": 30.66,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 207: Geophysical operation is on a secondary basis"
+      ]
+    },
+    {
+      "recordNum": 36,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 30.68,
+      "frequencyHigh": 30.68,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 37,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 30.7,
+      "frequencyHigh": 30.7,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 38,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 30.72,
+      "frequencyHigh": 30.72,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 39,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 30.74,
+      "frequencyHigh": 30.74,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 207: Geophysical operation is on a secondary basis"
+      ]
+    },
+    {
+      "recordNum": 40,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 30.76,
+      "frequencyHigh": 30.76,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 41,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 30.78,
+      "frequencyHigh": 30.78,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.",
+        "Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.",
+        "Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.",
+        "Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.",
+        "Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.",
+        "Rule 7: Geophysical operations will be authorized on a secondary basis.",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 42,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 30.8,
+      "frequencyHigh": 30.8,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 43,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 30.82,
+      "frequencyHigh": 30.82,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 207: Geophysical operation is on a secondary basis"
+      ]
+    },
+    {
+      "recordNum": 44,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 30.86,
+      "frequencyHigh": 30.86,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 13: Shared co-equal with Public Safety licensees"
+      ]
+    },
+    {
+      "recordNum": 45,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 30.88,
+      "frequencyHigh": 30.88,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 46,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 30.9,
+      "frequencyHigh": 30.9,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 13: Shared co-equal with Public Safety licensees"
+      ]
+    },
+    {
+      "recordNum": 47,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 30.92,
+      "frequencyHigh": 30.92,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 48,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 30.94,
+      "frequencyHigh": 30.94,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 13: Shared co-equal with Public Safety licensees"
+      ]
+    },
+    {
+      "recordNum": 49,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 30.96,
+      "frequencyHigh": 30.96,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 50,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 30.98,
+      "frequencyHigh": 30.98,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 13: Shared co-equal with Public Safety licensees"
+      ]
+    },
+    {
+      "recordNum": 51,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31,
+      "frequencyHigh": 31,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 52,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.02,
+      "frequencyHigh": 31.02,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 13: Shared co-equal with Public Safety licensees"
+      ]
+    },
+    {
+      "recordNum": 53,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.04,
+      "frequencyHigh": 31.04,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 54,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.06,
+      "frequencyHigh": 31.06,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 13: Shared co-equal with Public Safety licensees"
+      ]
+    },
+    {
+      "recordNum": 55,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.08,
+      "frequencyHigh": 31.08,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 56,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.1,
+      "frequencyHigh": 31.1,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 13: Shared co-equal with Public Safety licensees"
+      ]
+    },
+    {
+      "recordNum": 57,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.12,
+      "frequencyHigh": 31.12,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 58,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.14,
+      "frequencyHigh": 31.14,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 13: Shared co-equal with Public Safety licensees"
+      ]
+    },
+    {
+      "recordNum": 59,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.16,
+      "frequencyHigh": 31.16,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 60,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.2,
+      "frequencyHigh": 31.2,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 61,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.24,
+      "frequencyHigh": 31.24,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 62,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.28,
+      "frequencyHigh": 31.28,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 63,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.32,
+      "frequencyHigh": 31.32,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 64,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.36,
+      "frequencyHigh": 31.36,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 65,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.4,
+      "frequencyHigh": 31.4,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 66,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.44,
+      "frequencyHigh": 31.44,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 67,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.48,
+      "frequencyHigh": 31.48,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 68,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.52,
+      "frequencyHigh": 31.52,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 69,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.56,
+      "frequencyHigh": 31.56,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 70,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.6,
+      "frequencyHigh": 31.6,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 71,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.64,
+      "frequencyHigh": 31.64,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 72,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.68,
+      "frequencyHigh": 31.68,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 73,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.72,
+      "frequencyHigh": 31.72,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 74,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.76,
+      "frequencyHigh": 31.76,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 75,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.8,
+      "frequencyHigh": 31.8,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 76,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.84,
+      "frequencyHigh": 31.84,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 77,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.88,
+      "frequencyHigh": 31.88,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 78,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.92,
+      "frequencyHigh": 31.92,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 79,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 31.96,
+      "frequencyHigh": 31.96,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 80,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 33.16,
+      "frequencyHigh": 33.16,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 81,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 33.18,
+      "frequencyHigh": 33.18,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 82,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 33.2,
+      "frequencyHigh": 33.2,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 83,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 33.22,
+      "frequencyHigh": 33.22,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 84,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 33.24,
+      "frequencyHigh": 33.24,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 85,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 33.26,
+      "frequencyHigh": 33.26,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 86,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 33.28,
+      "frequencyHigh": 33.28,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 87,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 33.3,
+      "frequencyHigh": 33.3,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 88,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 33.32,
+      "frequencyHigh": 33.32,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 89,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 33.34,
+      "frequencyHigh": 33.34,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 90,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 33.36,
+      "frequencyHigh": 33.36,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 91,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 33.38,
+      "frequencyHigh": 33.38,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 92,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.06,
+      "frequencyHigh": 35.06,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 93,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.08,
+      "frequencyHigh": 35.08,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 94,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.1,
+      "frequencyHigh": 35.1,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 95,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.12,
+      "frequencyHigh": 35.12,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 96,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.14,
+      "frequencyHigh": 35.14,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 97,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.16,
+      "frequencyHigh": 35.16,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 98,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.18,
+      "frequencyHigh": 35.18,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 99,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.28,
+      "frequencyHigh": 35.28,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 100,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.32,
+      "frequencyHigh": 35.32,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 101,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.36,
+      "frequencyHigh": 35.36,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 102,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.4,
+      "frequencyHigh": 35.4,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 103,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.44,
+      "frequencyHigh": 35.44,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 104,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.48,
+      "frequencyHigh": 35.48,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 105,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.52,
+      "frequencyHigh": 35.52,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 106,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.7,
+      "frequencyHigh": 35.7,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 107,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.72,
+      "frequencyHigh": 35.72,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 108,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.74,
+      "frequencyHigh": 35.74,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 109,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.76,
+      "frequencyHigh": 35.76,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 110,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.78,
+      "frequencyHigh": 35.78,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 111,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.8,
+      "frequencyHigh": 35.8,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 112,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.82,
+      "frequencyHigh": 35.82,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 113,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.84,
+      "frequencyHigh": 35.84,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 114,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.86,
+      "frequencyHigh": 35.86,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 115,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.88,
+      "frequencyHigh": 35.88,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 116,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.9,
+      "frequencyHigh": 35.9,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 117,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.92,
+      "frequencyHigh": 35.92,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 118,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.94,
+      "frequencyHigh": 35.94,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 119,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.96,
+      "frequencyHigh": 35.96,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 120,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 35.98,
+      "frequencyHigh": 35.98,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 121,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 36.25,
+      "frequencyHigh": 36.25,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 15: Govt frequency available for oil spill containment/cleanup confined to Inland and Coastal waterways.",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 122,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.44,
+      "frequencyHigh": 37.44,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 123,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.46,
+      "frequencyHigh": 37.46,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 124,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.48,
+      "frequencyHigh": 37.48,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 125,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.5,
+      "frequencyHigh": 37.5,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 126,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.52,
+      "frequencyHigh": 37.52,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 127,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.54,
+      "frequencyHigh": 37.54,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 128,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.56,
+      "frequencyHigh": 37.56,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 129,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.58,
+      "frequencyHigh": 37.58,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 130,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.6,
+      "frequencyHigh": 37.6,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 16: Available only to Stations operating an interconnected or coordinated utility system.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 131,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.62,
+      "frequencyHigh": 37.62,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 132,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.64,
+      "frequencyHigh": 37.64,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 133,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.66,
+      "frequencyHigh": 37.66,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 134,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.68,
+      "frequencyHigh": 37.68,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 135,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.7,
+      "frequencyHigh": 37.7,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 136,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.72,
+      "frequencyHigh": 37.72,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 137,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.74,
+      "frequencyHigh": 37.74,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 138,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.76,
+      "frequencyHigh": 37.76,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 139,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.78,
+      "frequencyHigh": 37.78,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 140,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.8,
+      "frequencyHigh": 37.8,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 141,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.82,
+      "frequencyHigh": 37.82,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 142,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.84,
+      "frequencyHigh": 37.84,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 16: Available only to Stations operating an interconnected or coordinated utility system.",
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 143,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.86,
+      "frequencyHigh": 37.86,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 144,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 37.88,
+      "frequencyHigh": 37.88,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 145,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 41.71,
+      "frequencyHigh": 41.71,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 15: Govt frequency available for oil spill containment/cleanup confined to Inland and Coastal waterways.",
+        "Rule 131: IP Frequency"
+      ]
+    },
+    {
+      "recordNum": 146,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 42.96,
+      "frequencyHigh": 42.96,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 147,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43,
+      "frequencyHigh": 43,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 148,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.02,
+      "frequencyHigh": 43.02,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 149,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.06,
+      "frequencyHigh": 43.06,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 150,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.08,
+      "frequencyHigh": 43.08,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 151,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.1,
+      "frequencyHigh": 43.1,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 152,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.12,
+      "frequencyHigh": 43.12,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 153,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.14,
+      "frequencyHigh": 43.14,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 154,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.18,
+      "frequencyHigh": 43.18,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 155,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.28,
+      "frequencyHigh": 43.28,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 156,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.32,
+      "frequencyHigh": 43.32,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 157,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.36,
+      "frequencyHigh": 43.36,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 158,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.4,
+      "frequencyHigh": 43.4,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 159,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.44,
+      "frequencyHigh": 43.44,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 160,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.48,
+      "frequencyHigh": 43.48,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 161,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.52,
+      "frequencyHigh": 43.52,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 162,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.7,
+      "frequencyHigh": 43.7,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 163,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.72,
+      "frequencyHigh": 43.72,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 164,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.74,
+      "frequencyHigh": 43.74,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 165,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.76,
+      "frequencyHigh": 43.76,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 166,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.78,
+      "frequencyHigh": 43.78,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 167,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.8,
+      "frequencyHigh": 43.8,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 168,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.82,
+      "frequencyHigh": 43.82,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 169,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.84,
+      "frequencyHigh": 43.84,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 170,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.86,
+      "frequencyHigh": 43.86,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation. Base transmits on high side."
+      ]
+    },
+    {
+      "recordNum": 171,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.88,
+      "frequencyHigh": 43.88,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation. Base transmits on high side."
+      ]
+    },
+    {
+      "recordNum": 172,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.9,
+      "frequencyHigh": 43.9,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation. Base transmits on high side."
+      ]
+    },
+    {
+      "recordNum": 173,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.92,
+      "frequencyHigh": 43.92,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.",
+        "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation. Base transmits on high side."
+      ]
+    },
+    {
+      "recordNum": 174,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.94,
+      "frequencyHigh": 43.94,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation. Base transmits on high side."
+      ]
+    },
+    {
+      "recordNum": 175,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.96,
+      "frequencyHigh": 43.96,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 176,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 43.98,
+      "frequencyHigh": 43.98,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 177,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44,
+      "frequencyHigh": 44,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 178,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.02,
+      "frequencyHigh": 44.02,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 179,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.04,
+      "frequencyHigh": 44.04,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 180,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.06,
+      "frequencyHigh": 44.06,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 181,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.08,
+      "frequencyHigh": 44.08,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 182,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.1,
+      "frequencyHigh": 44.1,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 183,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.12,
+      "frequencyHigh": 44.12,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 208: Frequency Type is 8 - Oil Spill Containment"
+      ]
+    },
+    {
+      "recordNum": 184,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.14,
+      "frequencyHigh": 44.14,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 185,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.16,
+      "frequencyHigh": 44.16,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 186,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.18,
+      "frequencyHigh": 44.18,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 187,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.2,
+      "frequencyHigh": 44.2,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 188,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.22,
+      "frequencyHigh": 44.22,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 189,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.24,
+      "frequencyHigh": 44.24,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 190,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.26,
+      "frequencyHigh": 44.26,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 191,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.28,
+      "frequencyHigh": 44.28,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 192,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.3,
+      "frequencyHigh": 44.3,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 193,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.32,
+      "frequencyHigh": 44.32,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 194,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.34,
+      "frequencyHigh": 44.34,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 195,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.36,
+      "frequencyHigh": 44.36,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.",
+        "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation. Base transmits on high side."
+      ]
+    },
+    {
+      "recordNum": 196,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.38,
+      "frequencyHigh": 44.38,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation. Base transmits on high side."
+      ]
+    },
+    {
+      "recordNum": 197,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.4,
+      "frequencyHigh": 44.4,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.",
+        "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation. Base transmits on high side."
+      ]
+    },
+    {
+      "recordNum": 198,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.42,
+      "frequencyHigh": 44.42,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation. Base transmits on high side."
+      ]
+    },
+    {
+      "recordNum": 199,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.44,
+      "frequencyHigh": 44.44,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 19: Available to FBM. Pairs assigned with 500 KHz separation. Base transmits on high side."
+      ]
+    },
+    {
+      "recordNum": 200,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.46,
+      "frequencyHigh": 44.46,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 201,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.48,
+      "frequencyHigh": 44.48,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 202,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.5,
+      "frequencyHigh": 44.5,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 203,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.52,
+      "frequencyHigh": 44.52,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 204,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.54,
+      "frequencyHigh": 44.54,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 205,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.56,
+      "frequencyHigh": 44.56,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 206,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.58,
+      "frequencyHigh": 44.58,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 207,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 44.6,
+      "frequencyHigh": 44.6,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 208,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 47.44,
+      "frequencyHigh": 47.44,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 209,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 47.48,
+      "frequencyHigh": 47.48,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 210,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 47.52,
+      "frequencyHigh": 47.52,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 211,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 47.56,
+      "frequencyHigh": 47.56,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 212,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 47.6,
+      "frequencyHigh": 47.6,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 213,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 47.64,
+      "frequencyHigh": 47.64,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 214,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 47.68,
+      "frequencyHigh": 47.68,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 215,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 47.7,
+      "frequencyHigh": 47.7,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 216,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 47.72,
+      "frequencyHigh": 47.72,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 217,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 47.74,
+      "frequencyHigh": 47.74,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 218,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 47.76,
+      "frequencyHigh": 47.76,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 219,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 47.78,
+      "frequencyHigh": 47.78,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 220,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 47.8,
+      "frequencyHigh": 47.8,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 221,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 47.82,
+      "frequencyHigh": 47.82,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 222,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 47.84,
+      "frequencyHigh": 47.84,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 223,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 47.86,
+      "frequencyHigh": 47.86,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 224,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 47.88,
+      "frequencyHigh": 47.88,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 225,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 47.9,
+      "frequencyHigh": 47.9,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 226,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 47.92,
+      "frequencyHigh": 47.92,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 227,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 47.94,
+      "frequencyHigh": 47.94,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 228,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 47.96,
+      "frequencyHigh": 47.96,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 229,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 47.98,
+      "frequencyHigh": 47.98,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 230,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48,
+      "frequencyHigh": 48,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 231,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.02,
+      "frequencyHigh": 48.02,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 232,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.04,
+      "frequencyHigh": 48.04,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 233,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.06,
+      "frequencyHigh": 48.06,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 234,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.08,
+      "frequencyHigh": 48.08,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 235,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.1,
+      "frequencyHigh": 48.1,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 236,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.12,
+      "frequencyHigh": 48.12,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 237,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.14,
+      "frequencyHigh": 48.14,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 238,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.16,
+      "frequencyHigh": 48.16,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 239,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.18,
+      "frequencyHigh": 48.18,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 240,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.2,
+      "frequencyHigh": 48.2,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 241,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.22,
+      "frequencyHigh": 48.22,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 242,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.24,
+      "frequencyHigh": 48.24,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 243,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.26,
+      "frequencyHigh": 48.26,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 244,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.28,
+      "frequencyHigh": 48.28,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 245,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.3,
+      "frequencyHigh": 48.3,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 246,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.32,
+      "frequencyHigh": 48.32,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 247,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.34,
+      "frequencyHigh": 48.34,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 248,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.36,
+      "frequencyHigh": 48.36,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 249,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.38,
+      "frequencyHigh": 48.38,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 250,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.4,
+      "frequencyHigh": 48.4,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 251,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.42,
+      "frequencyHigh": 48.42,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 252,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.44,
+      "frequencyHigh": 48.44,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 253,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.46,
+      "frequencyHigh": 48.46,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 254,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.48,
+      "frequencyHigh": 48.48,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 255,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.5,
+      "frequencyHigh": 48.5,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 256,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.52,
+      "frequencyHigh": 48.52,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 257,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.54,
+      "frequencyHigh": 48.54,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 130: IW Frequency"
+      ]
+    },
+    {
+      "recordNum": 258,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.56,
+      "frequencyHigh": 48.56,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 259,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.58,
+      "frequencyHigh": 48.58,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 260,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.6,
+      "frequencyHigh": 48.6,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 261,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.62,
+      "frequencyHigh": 48.62,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 262,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.64,
+      "frequencyHigh": 48.64,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 263,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.66,
+      "frequencyHigh": 48.66,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 264,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.68,
+      "frequencyHigh": 48.68,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 265,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.7,
+      "frequencyHigh": 48.7,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 266,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.72,
+      "frequencyHigh": 48.72,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 267,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.74,
+      "frequencyHigh": 48.74,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 268,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.76,
+      "frequencyHigh": 48.76,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 269,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.78,
+      "frequencyHigh": 48.78,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 270,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.8,
+      "frequencyHigh": 48.8,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 271,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.82,
+      "frequencyHigh": 48.82,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 272,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.84,
+      "frequencyHigh": 48.84,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 273,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.86,
+      "frequencyHigh": 48.86,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 274,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.88,
+      "frequencyHigh": 48.88,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 275,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.9,
+      "frequencyHigh": 48.9,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 276,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.92,
+      "frequencyHigh": 48.92,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 277,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.94,
+      "frequencyHigh": 48.94,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 278,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.96,
+      "frequencyHigh": 48.96,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 279,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 48.98,
+      "frequencyHigh": 48.98,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 280,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49,
+      "frequencyHigh": 49,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 281,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.02,
+      "frequencyHigh": 49.02,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 282,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.04,
+      "frequencyHigh": 49.04,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 283,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.06,
+      "frequencyHigh": 49.06,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 284,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.08,
+      "frequencyHigh": 49.08,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 285,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.1,
+      "frequencyHigh": 49.1,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 286,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.12,
+      "frequencyHigh": 49.12,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 287,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.14,
+      "frequencyHigh": 49.14,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 288,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.16,
+      "frequencyHigh": 49.16,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 289,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.18,
+      "frequencyHigh": 49.18,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 290,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.2,
+      "frequencyHigh": 49.2,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 291,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.22,
+      "frequencyHigh": 49.22,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 292,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.24,
+      "frequencyHigh": 49.24,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 293,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.26,
+      "frequencyHigh": 49.26,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 294,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.28,
+      "frequencyHigh": 49.28,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 295,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.3,
+      "frequencyHigh": 49.3,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 296,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.32,
+      "frequencyHigh": 49.32,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 297,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.34,
+      "frequencyHigh": 49.34,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 298,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.36,
+      "frequencyHigh": 49.36,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 299,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.38,
+      "frequencyHigh": 49.38,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 300,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.4,
+      "frequencyHigh": 49.4,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 301,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.42,
+      "frequencyHigh": 49.42,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 302,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.44,
+      "frequencyHigh": 49.44,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 303,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.46,
+      "frequencyHigh": 49.46,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 304,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.48,
+      "frequencyHigh": 49.48,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 305,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.5,
+      "frequencyHigh": 49.5,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules."
+      ]
+    },
+    {
+      "recordNum": 306,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.52,
+      "frequencyHigh": 49.52,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 307,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.54,
+      "frequencyHigh": 49.54,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 308,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.56,
+      "frequencyHigh": 49.56,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": []
+    },
+    {
+      "recordNum": 309,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
+      "frequencyLow": 49.58,
+      "frequencyHigh": 49.58,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "FB2",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    },
+    {
+      "recordNum": 310,
+      "lineNum": 2,
+      "locationCode": "G",
+      "locationNum": 2,
+      "frequencyLow": 30.64,
+      "frequencyHigh": 30.64,
+      "frequencyType": null,
+      "emissionDesignator": "4K00F1W",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
+      ]
+    }
+  ],
+  "resultCount": 310
+}
