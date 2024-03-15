@@ -70,7 +70,12 @@ EWA.Coordination.Services.Tests
     | - YOUR_TEST_CASE_LABEL
         | + legacy_output.csv
         | + nxgen_input.json 
+        | (OPTIONAL) + legacy_output_adjusted.csv
 ```
+`legacy_output_adjusted.csv` is a copy of `legacy_output.csv` but with adjustments made from approved discrepancies. This data in this file is typically updated by adding or removing messages from the `ErrTxt` column.
+
+*Note*: See [Apply verified adjustments](#Apply-verified-adjustments) for more information on how to adjust the legacy output using verified discrepancies.
+
 `nxgen_input.json` should have the following format:
 ```
 {
@@ -130,7 +135,29 @@ EWA.Coordination.Services.Tests
 | TxAntHgt    | TransmittingAntennaHeight |
 | CoordCode   | CoordinationCode          |
 | ErrTxt      | LimitationMessages        |
-														
+
+## Apply verified adjustments
+If a test case has verified differences between the legacy and NxGen output then you can add a file in the test case directory named `legacy_output_adjusted.csv` and it will use this file to compare against rather than the `legacy_output.csv` file.
+
+This way you can make adjustments to the legacy output to match with NxGen so you don't have to see discrepancies that you know will always show up.
+
+## Adding a rule to a legacy output record
+You can add a rule message to a legacy output record by finding it using the differences key using the frequency, station class code, and location number. Once you have found the line number for this record you can find the `ErrTxt` column and insert the missing text.
+
+**Example** from 6e_SafeHarborHaatExceeded test case 
+
+`./test_cases/6e_SafeHarborHaatExceeded/legacy_results.csv`
+```
+20230321171624,12,L,12,173.2875,0,,MO,11K0F3E,110,110,0,0,A,"Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas."
+```
+`./test_cases/6e_SafeHarborHaatExceeded/legacy_results.csv`
+(adding Rule 93)
+```
+20230321171624,12,L,12,173.2875,0,,MO,11K0F3E,110,110,0,0,A,"Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies"
+```
+
+## Removing a rule to a legacy output record
+Removing a rule from a legacy record is very similar to adding a rule, just remove the text from the `ErrTxt` column that is part of the rule's text.
 
 # Improvements to be made
 - **PRIORITY** Allow for another file for adjusted legacy results so we don't have to see discrepancies that have been approved. 
