@@ -1764,8 +1764,7 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.",
-        "Rule 79: Must be within 48.28km Buffalo, NY BUFFALO, NY"
+        "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
       ]
     },
     {
@@ -5168,7 +5167,6 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.",
-        "Rule 82: Emissions may not exceed 11k.",
         "Rule 131: IP Frequency"
       ]
     },
@@ -6860,7 +6858,6 @@
       "limitationMessages": [
         "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations",
         "Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.",
-        "Rule 92: Bandwidth can not exceed 11.5kHz",
         "Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3",
         "Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies"
       ]
@@ -6895,7 +6892,6 @@
       "limitationMessages": [
         "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations",
         "Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.",
-        "Rule 92: Bandwidth can not exceed 11.5kHz",
         "Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3",
         "Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies"
       ]
@@ -6927,7 +6923,6 @@
       "limitationMessages": [
         "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations",
         "Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.",
-        "Rule 92: Bandwidth can not exceed 11.5kHz",
         "Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3",
         "Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies"
       ]
@@ -6962,7 +6957,6 @@
       "limitationMessages": [
         "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations",
         "Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.",
-        "Rule 92: Bandwidth can not exceed 11.5kHz",
         "Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3",
         "Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies"
       ]
@@ -6994,7 +6988,6 @@
       "limitationMessages": [
         "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations",
         "Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.",
-        "Rule 92: Bandwidth can not exceed 11.5kHz",
         "Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3",
         "Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies"
       ]
@@ -7028,7 +7021,6 @@
       "limitationMessages": [
         "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations",
         "Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.",
-        "Rule 92: Bandwidth can not exceed 11.5kHz",
         "Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3",
         "Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies"
       ]

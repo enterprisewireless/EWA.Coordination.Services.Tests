@@ -211,6 +211,7 @@
       "stationClassCode": "MO8",
       "coordinationCode": "A",
       "limitationMessages": [
+        "Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population CINCINNATI, OH, LOUISVILLE, KY",
         "Rule 64: Power Must Be <= 30 Watts"
       ]
     },
@@ -347,6 +348,7 @@
       "stationClassCode": "MO8",
       "coordinationCode": "A",
       "limitationMessages": [
+        "Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population CINCINNATI, OH, LOUISVILLE, KY",
         "Rule 64: Power Must Be <= 30 Watts"
       ]
     },
@@ -940,6 +942,7 @@
       "stationClassCode": "MO8",
       "coordinationCode": "A",
       "limitationMessages": [
+        "Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population LOUISVILLE, KY",
         "Rule 64: Power Must Be <= 30 Watts"
       ]
     },
@@ -1279,6 +1282,7 @@
       "stationClassCode": "MO8",
       "coordinationCode": "A",
       "limitationMessages": [
+        "Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population CINCINNATI, OH, LOUISVILLE, KY",
         "Rule 64: Power Must Be <= 30 Watts",
         "Rule 65: Central station may communicate with police and fire."
       ]
@@ -1347,6 +1351,7 @@
       "stationClassCode": "MO8",
       "coordinationCode": "A",
       "limitationMessages": [
+        "Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population CINCINNATI, OH, LOUISVILLE, KY",
         "Rule 64: Power Must Be <= 30 Watts",
         "Rule 65: Central station may communicate with police and fire."
       ]
@@ -1415,6 +1420,7 @@
       "stationClassCode": "MO8",
       "coordinationCode": "A",
       "limitationMessages": [
+        "Rule 63: Non CS - Central Station Alarm licensee Must Be > 120km From cities with 200K+ population LOUISVILLE, KY",
         "Rule 64: Power Must Be <= 30 Watts",
         "Rule 65: Central station may communicate with police and fire."
       ]

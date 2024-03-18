@@ -14,7 +14,8 @@
             "haat": 775.7,
             "transmittingAntennaHeight": 15.2,
             "coordinationCode": "C",
-            "requestNum": 1
+            "requestNum": 1,
+            "frequencyType": null
         },
         {
             "lineNum": 2,
@@ -29,7 +30,8 @@
             "haat": 775.7,
             "transmittingAntennaHeight": 15.2,
             "coordinationCode": "A",
-            "requestNum": 2
+            "requestNum": 2,
+            "frequencyType": null
         },
         {
             "lineNum": 3,
@@ -44,7 +46,8 @@
             "haat": null,
             "transmittingAntennaHeight": null,
             "coordinationCode": "C",
-            "requestNum": 3
+            "requestNum": 3,
+            "frequencyType": null
         },
         {
             "lineNum": 4,
@@ -59,7 +62,8 @@
             "haat": null,
             "transmittingAntennaHeight": null,
             "coordinationCode": "A",
-            "requestNum": 4
+            "requestNum": 4,
+            "frequencyType": null
         }
     ],
     "scheduleEs": [
@@ -73,7 +77,8 @@
             "longitude": -118.238222,
             "areaOfOperation": null,
             "serviceAreaRadius": null,
-            "elevation": 1540
+            "elevation": 1540,
+            "areaOfOperationCode": null
         },
         {
             "state": null,
@@ -85,7 +90,8 @@
             "longitude": 0,
             "areaOfOperation": "1",
             "serviceAreaRadius": 40,
-            "elevation": null
+            "elevation": null,
+            "areaOfOperationCode": null
         }
     ]
 }

@@ -187,993 +187,343 @@
     "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts|Rule 36: Frequency is for OP - Oneway Paging",
     "legacy": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts"
   },
-  "G|2|451.1875|451.1875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
+  "G|2|451.55625|451.55625|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
-  "G|2|451.2875|451.2875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
+  "G|2|451.56875|451.56875|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
-  "G|2|451.3125|451.3125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
+  "G|2|451.60625|451.60625|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
-  "G|2|451.3625|451.3625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
+  "G|2|451.61875|451.61875|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
-  "G|2|451.3875|451.3875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
+  "G|2|451.65625|451.65625|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
-  "G|2|451.4125|451.4125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
+  "G|2|451.66875|451.66875|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
-  "G|2|451.4625|451.4625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
+  "G|2|451.70625|451.70625|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
-  "G|2|451.4875|451.4875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
+  "G|2|451.71875|451.71875|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
-  "G|2|451.5125|451.5125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
+  "G|2|451.75625|451.75625|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
-  "G|2|451.5625|451.5625|MO|11K2F3E|A": {
-    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|451.5875|451.5875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|451.6125|451.6125|MO|11K2F3E|A": {
-    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|451.6625|451.6625|MO|11K2F3E|A": {
-    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|451.6875|451.6875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|451.7125|451.7125|MO|11K2F3E|A": {
-    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|451.7375|451.7375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|451.7625|451.7625|MO|11K2F3E|A": {
-    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|452.0375|452.0375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|452.0625|452.0625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|452.0875|452.0875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|452.1125|452.1125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|452.1375|452.1375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|452.1625|452.1625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|452.1875|452.1875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|452.2875|452.2875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|452.4875|452.4875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
+  "G|2|451.76875|451.76875|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
   "G|2|452.5375|452.5375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 132: LA Frequency",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX|Rule 132: LA Frequency",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|452.6375|452.6375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|452.6625|452.6625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|452.6875|452.6875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|452.7125|452.7125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|452.7875|452.7875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|452.8125|452.8125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|452.8375|452.8375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|452.8875|452.8875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|452.9875|452.9875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|456.1875|456.1875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|456.2875|456.2875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|456.3125|456.3125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|456.3625|456.3625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|456.3875|456.3875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|456.4125|456.4125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|456.4625|456.4625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|456.4875|456.4875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|456.5125|456.5125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|456.5625|456.5625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|456.5875|456.5875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|456.6125|456.6125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|456.6625|456.6625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|456.6875|456.6875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|456.7125|456.7125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|456.7375|456.7375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|456.7625|456.7625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|457.0375|457.0375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|457.0625|457.0625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|457.0875|457.0875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|457.1125|457.1125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|457.1375|457.1375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|457.1625|457.1625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|457.1875|457.1875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|457.2875|457.2875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|457.4875|457.4875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|457.6375|457.6375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|457.6625|457.6625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|457.6875|457.6875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|457.7125|457.7125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|457.7875|457.7875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|457.8125|457.8125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|457.8375|457.8375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|457.8875|457.8875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|457.9875|457.9875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|460.65|460.65|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "G|2|460.6625|460.6625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: W.P. Hobby (HOU) "
-  },
-  "G|2|460.675|460.675|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "G|2|460.6875|460.6875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: W.P. Hobby (HOU) "
-  },
-  "G|2|460.7|460.7|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "G|2|460.7125|460.7125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: W.P. Hobby (HOU) "
-  },
-  "G|2|460.725|460.725|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "G|2|460.7375|460.7375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: W.P. Hobby (HOU) "
-  },
-  "G|2|460.75|460.75|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "G|2|460.7625|460.7625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: W.P. Hobby (HOU) "
-  },
-  "G|2|460.775|460.775|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "G|2|460.7875|460.7875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: W.P. Hobby (HOU) "
-  },
-  "G|2|460.8|460.8|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "G|2|460.8125|460.8125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: W.P. Hobby (HOU) "
-  },
-  "G|2|460.825|460.825|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "G|2|460.8375|460.8375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: W.P. Hobby (HOU) "
-  },
-  "G|2|460.85|460.85|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "G|2|460.8625|460.8625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: W.P. Hobby (HOU) "
-  },
-  "G|2|460.875|460.875|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "G|2|460.8875|460.8875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: W.P. Hobby (HOU) "
-  },
-  "G|2|460.9125|460.9125|MO|11K2F3E|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "G|2|460.9375|460.9375|MO|11K2F3E|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "G|2|460.9625|460.9625|MO|11K2F3E|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
   },
   "G|2|462.1875|462.1875|MO|11K2F3E|A": {
     "nxgen": "",
     "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
   },
-  "G|2|462.4625|462.4625|MO|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|462.4875|462.4875|MO|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "G|2|462.49375|462.49375|MO|11K2F3E|A": {
-    "nxgen": ""
-  },
-  "G|2|462.5125|462.5125|MO|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
   "G|2|465.65|465.65|MO|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "G|2|465.6625|465.6625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "G|2|465.675|465.675|MO|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "G|2|465.6875|465.6875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "G|2|465.7|465.7|MO|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "G|2|465.7125|465.7125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "G|2|465.725|465.725|MO|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "G|2|465.7375|465.7375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "G|2|465.75|465.75|MO|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "G|2|465.7625|465.7625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "G|2|465.775|465.775|MO|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "G|2|465.7875|465.7875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "G|2|465.8|465.8|MO|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "G|2|465.8125|465.8125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "G|2|465.825|465.825|MO|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "G|2|465.8375|465.8375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "G|2|465.85|465.85|MO|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "G|2|465.8625|465.8625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "G|2|465.875|465.875|MO|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "G|2|465.8875|465.8875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
-  "G|2|465.9125|465.9125|MO|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  "I|5|451.55625|451.55625|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
-  "G|2|465.9375|465.9375|MO|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  "I|5|451.56875|451.56875|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
-  "G|2|465.9625|465.9625|MO|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
+  "I|5|451.60625|451.60625|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
-  "G|2|467.1875|467.1875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
+  "I|5|451.61875|451.61875|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
-  "G|2|467.4625|467.4625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
+  "I|5|451.65625|451.65625|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
-  "G|2|467.4875|467.4875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
+  "I|5|451.66875|451.66875|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
-  "G|2|467.5125|467.5125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
+  "I|5|451.70625|451.70625|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
-  "I|5|451.1875|451.1875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
+  "I|5|451.71875|451.71875|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
-  "I|5|451.2875|451.2875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
+  "I|5|451.75625|451.75625|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
-  "I|5|451.3125|451.3125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|451.3625|451.3625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|451.3875|451.3875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|451.4125|451.4125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|451.4625|451.4625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|451.4875|451.4875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|451.5125|451.5125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|451.5625|451.5625|MO|11K2F3E|A": {
-    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|451.5875|451.5875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|451.6125|451.6125|MO|11K2F3E|A": {
-    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|451.6625|451.6625|MO|11K2F3E|A": {
-    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|451.6875|451.6875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|451.7125|451.7125|MO|11K2F3E|A": {
-    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|451.7375|451.7375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|451.7625|451.7625|MO|11K2F3E|A": {
-    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|452.0375|452.0375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|452.0625|452.0625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|452.0875|452.0875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|452.1125|452.1125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|452.1375|452.1375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|452.1625|452.1625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|452.1875|452.1875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|452.2875|452.2875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|452.4875|452.4875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
+  "I|5|451.76875|451.76875|MO|11K2F3E|A": {
+    "nxgen": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX",
+    "legacy": "Rule 4: Geophysical may use tone/impulse signaling on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 33: Emissions may not exceed 6k"
   },
   "I|5|452.5375|452.5375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 132: LA Frequency",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX|Rule 132: LA Frequency",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|452.6375|452.6375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|452.6625|452.6625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|452.6875|452.6875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|452.7125|452.7125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|452.7875|452.7875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|452.8125|452.8125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|452.8375|452.8375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|452.8875|452.8875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|452.9875|452.9875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|456.1875|456.1875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|456.2875|456.2875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|456.3125|456.3125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|456.3625|456.3625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|456.3875|456.3875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|456.4125|456.4125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|456.4625|456.4625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|456.4875|456.4875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|456.5125|456.5125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|456.5625|456.5625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|456.5875|456.5875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|456.6125|456.6125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|456.6625|456.6625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|456.6875|456.6875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|456.7125|456.7125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|456.7375|456.7375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|456.7625|456.7625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|457.0375|457.0375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|457.0625|457.0625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|457.0875|457.0875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|457.1125|457.1125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|457.1375|457.1375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|457.1625|457.1625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|457.1875|457.1875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|457.2875|457.2875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|457.4875|457.4875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|457.6375|457.6375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|457.6625|457.6625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|457.6875|457.6875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|457.7125|457.7125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|457.7875|457.7875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|457.8125|457.8125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|457.8375|457.8375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|457.8875|457.8875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|457.9875|457.9875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|460.65|460.65|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "I|5|460.6625|460.6625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: W.P. Hobby (HOU) "
-  },
-  "I|5|460.675|460.675|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "I|5|460.6875|460.6875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: W.P. Hobby (HOU) "
-  },
-  "I|5|460.7|460.7|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "I|5|460.7125|460.7125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: W.P. Hobby (HOU) "
-  },
-  "I|5|460.725|460.725|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "I|5|460.7375|460.7375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: W.P. Hobby (HOU) "
-  },
-  "I|5|460.75|460.75|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "I|5|460.7625|460.7625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: W.P. Hobby (HOU) "
-  },
-  "I|5|460.775|460.775|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "I|5|460.7875|460.7875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: W.P. Hobby (HOU) "
-  },
-  "I|5|460.8|460.8|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "I|5|460.8125|460.8125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: W.P. Hobby (HOU) "
-  },
-  "I|5|460.825|460.825|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "I|5|460.8375|460.8375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: W.P. Hobby (HOU) "
-  },
-  "I|5|460.85|460.85|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "I|5|460.8625|460.8625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: W.P. Hobby (HOU) "
-  },
-  "I|5|460.875|460.875|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "I|5|460.8875|460.8875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: W.P. Hobby (HOU) "
-  },
-  "I|5|460.9125|460.9125|MO|11K2F3E|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "I|5|460.9375|460.9375|MO|11K2F3E|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "I|5|460.9625|460.9625|MO|11K2F3E|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
   },
   "I|5|462.1875|462.1875|MO|11K2F3E|A": {
     "nxgen": "",
     "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
   },
-  "I|5|462.4625|462.4625|MO|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|462.4875|462.4875|MO|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|462.49375|462.49375|MO|11K2F3E|A": {
-    "nxgen": ""
-  },
-  "I|5|462.5125|462.5125|MO|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
   "I|5|465.65|465.65|MO|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "I|5|465.6625|465.6625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "I|5|465.675|465.675|MO|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "I|5|465.6875|465.6875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "I|5|465.7|465.7|MO|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "I|5|465.7125|465.7125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "I|5|465.725|465.725|MO|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "I|5|465.7375|465.7375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "I|5|465.75|465.75|MO|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "I|5|465.7625|465.7625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "I|5|465.775|465.775|MO|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "I|5|465.7875|465.7875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "I|5|465.8|465.8|MO|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "I|5|465.8125|465.8125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "I|5|465.825|465.825|MO|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "I|5|465.8375|465.8375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "I|5|465.85|465.85|MO|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "I|5|465.8625|465.8625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "I|5|465.875|465.875|MO|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
   },
   "I|5|465.8875|465.8875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: D.W. Hooks Memorial (DWH), George Bush Intercontinental (IAH), W.P. Hobby (HOU)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: W.P. Hobby (HOU) "
-  },
-  "I|5|465.9125|465.9125|MO|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "I|5|465.9375|465.9375|MO|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "I|5|465.9625|465.9625|MO|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "I|5|467.1875|467.1875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|467.4625|467.4625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|467.4875|467.4875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
-  },
-  "I|5|467.5125|467.5125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. HOUSTON, TX"
   },
   "Loc|LocNum|FreqLow|FreqHi|Class|Emission|CoordCode": {
     "legacy": "ErrTxt"
-  },
-  "A|1|452.1|452.1|FB2|11K2F3E|A": {
-    "legacy": ""
-  },
-  "G|2|452.1|452.1|MO|11K2F3E|A": {
-    "legacy": ""
-  },
-  "B|4|452.1|452.1|FB2|11K2F3E|A": {
-    "legacy": ""
-  },
-  "I|5|452.1|452.1|MO|11K2F3E|A": {
-    "legacy": ""
   }
 }

@@ -487,136 +487,49 @@
     "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts|Rule 36: Frequency is for OP - Oneway Paging",
     "legacy": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts"
   },
-  "G|2|460.9|460.9|MO|11K2F3E|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
-  },
-  "G|2|460.9125|460.9125|MO|11K2F3E|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "G|2|460.925|460.925|MO|11K2F3E|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
-  },
-  "G|2|460.9375|460.9375|MO|11K2F3E|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "G|2|460.95|460.95|MO|11K2F3E|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
-  },
-  "G|2|460.9625|460.9625|MO|11K2F3E|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
   "G|2|462.1875|462.1875|MO|11K2F3E|A": {
     "nxgen": "",
     "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis."
   },
-  "G|2|465.9|465.9|MO|11K2F3E|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
-  },
-  "G|2|465.9125|465.9125|MO|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "G|2|465.925|465.925|MO|11K2F3E|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
-  },
-  "G|2|465.9375|465.9375|MO|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "G|2|465.95|465.95|MO|11K2F3E|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
-  },
-  "G|2|465.9625|465.9625|MO|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "G|2|466|466|MO|11K2F3E|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
-  },
-  "H|4|460.65|460.65|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
-  },
   "H|4|460.6625|460.6625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
-  },
-  "H|4|460.675|460.675|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "H|4|460.6875|460.6875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
-  },
-  "H|4|460.7|460.7|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "H|4|460.7125|460.7125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
-  },
-  "H|4|460.725|460.725|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "H|4|460.7375|460.7375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
-  },
-  "H|4|460.75|460.75|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "H|4|460.7625|460.7625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
-  },
-  "H|4|460.775|460.775|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "H|4|460.7875|460.7875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
-  },
-  "H|4|460.8|460.8|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "H|4|460.8125|460.8125|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
-  },
-  "H|4|460.825|460.825|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "H|4|460.8375|460.8375|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
-  },
-  "H|4|460.85|460.85|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "H|4|460.8625|460.8625|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
-  },
-  "H|4|460.875|460.875|MO|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "H|4|460.8875|460.8875|MO|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Ft. Lauderdale-Hollywd Int'l (FLL)"
-  },
-  "H|4|460.9|460.9|MO|11K2F3E|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
-  },
-  "H|4|460.9125|460.9125|MO|11K2F3E|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "H|4|460.925|460.925|MO|11K2F3E|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
-  },
-  "H|4|460.9375|460.9375|MO|11K2F3E|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "H|4|460.95|460.95|MO|11K2F3E|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
-  },
-  "H|4|460.9625|460.9625|MO|11K2F3E|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
   },
   "H|4|462.1875|462.1875|MO|11K2F3E|A": {
     "nxgen": "",
@@ -702,40 +615,7 @@
     "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
   },
-  "H|4|465.9|465.9|MO|11K2F3E|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
-  },
-  "H|4|465.9125|465.9125|MO|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "H|4|465.925|465.925|MO|11K2F3E|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
-  },
-  "H|4|465.9375|465.9375|MO|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "H|4|465.95|465.95|MO|11K2F3E|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
-  },
-  "H|4|465.9625|465.9625|MO|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "H|4|466|466|MO|11K2F3E|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
-  },
   "Loc|LocNum|FreqLow|FreqHi|Class|Emission|CoordCode": {
     "legacy": "ErrTxt"
-  },
-  "A|1|452.1|452.1|FB2|11K2F3E|A": {
-    "legacy": ""
-  },
-  "G|2|452.1|452.1|MO|11K2F3E|A": {
-    "legacy": ""
-  },
-  "B|3|452.1|452.1|FB2|11K2F3E|A": {
-    "legacy": ""
-  },
-  "H|4|452.1|452.1|MO|11K2F3E|A": {
-    "legacy": ""
   }
 }

@@ -47,185 +47,131 @@
     "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts|Rule 36: Frequency is for OP - Oneway Paging",
     "legacy": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts"
   },
-  "M|13|460.65|460.65|MO6|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
-  },
   "M|13|460.6625|460.6625|MO6|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT), Portland International Jetport (PWM)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT)"
-  },
-  "M|13|460.675|460.675|MO6|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "M|13|460.6875|460.6875|MO6|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT), Portland International Jetport (PWM)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT)"
-  },
-  "M|13|460.7|460.7|MO6|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "M|13|460.7125|460.7125|MO6|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT), Portland International Jetport (PWM)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT)"
-  },
-  "M|13|460.725|460.725|MO6|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "M|13|460.7375|460.7375|MO6|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT), Portland International Jetport (PWM)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT)"
-  },
-  "M|13|460.75|460.75|MO6|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "M|13|460.7625|460.7625|MO6|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT), Portland International Jetport (PWM)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT)"
-  },
-  "M|13|460.775|460.775|MO6|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "M|13|460.7875|460.7875|MO6|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT), Portland International Jetport (PWM)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT)"
-  },
-  "M|13|460.8|460.8|MO6|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "M|13|460.8125|460.8125|MO6|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT), Portland International Jetport (PWM)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT)"
-  },
-  "M|13|460.825|460.825|MO6|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "M|13|460.8375|460.8375|MO6|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT), Portland International Jetport (PWM)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT)"
-  },
-  "M|13|460.85|460.85|MO6|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "M|13|460.8625|460.8625|MO6|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT), Portland International Jetport (PWM)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT)"
-  },
-  "M|13|460.875|460.875|MO6|11K2F3E|A": {
-    "nxgen": "Rule 61: Air Transportation frequency, available to I/B on a secondary basis."
   },
   "M|13|460.8875|460.8875|MO6|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT), Portland International Jetport (PWM)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT)"
-  },
-  "M|13|460.9125|460.9125|MO6|11K2F3E|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "M|13|460.9375|460.9375|MO6|11K2F3E|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "M|13|460.9625|460.9625|MO6|11K2F3E|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
   },
   "M|13|462.1875|462.1875|MO6|11K2F3E|A": {
     "nxgen": "",
     "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis."
   },
   "M|13|465.65|465.65|MO6|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT), Portland International Jetport (PWM)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT)"
   },
   "M|13|465.6625|465.6625|MO6|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT), Portland International Jetport (PWM)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT)"
   },
   "M|13|465.675|465.675|MO6|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT), Portland International Jetport (PWM)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT)"
   },
   "M|13|465.6875|465.6875|MO6|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT), Portland International Jetport (PWM)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT)"
   },
   "M|13|465.7|465.7|MO6|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT), Portland International Jetport (PWM)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT)"
   },
   "M|13|465.7125|465.7125|MO6|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT), Portland International Jetport (PWM)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT)"
   },
   "M|13|465.725|465.725|MO6|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT), Portland International Jetport (PWM)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT)"
   },
   "M|13|465.7375|465.7375|MO6|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT), Portland International Jetport (PWM)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT)"
   },
   "M|13|465.75|465.75|MO6|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT), Portland International Jetport (PWM)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT)"
   },
   "M|13|465.7625|465.7625|MO6|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT), Portland International Jetport (PWM)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT)"
   },
   "M|13|465.775|465.775|MO6|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT), Portland International Jetport (PWM)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT)"
   },
   "M|13|465.7875|465.7875|MO6|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT), Portland International Jetport (PWM)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT)"
   },
   "M|13|465.8|465.8|MO6|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT), Portland International Jetport (PWM)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT)"
   },
   "M|13|465.8125|465.8125|MO6|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT), Portland International Jetport (PWM)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT)"
   },
   "M|13|465.825|465.825|MO6|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT), Portland International Jetport (PWM)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT)"
   },
   "M|13|465.8375|465.8375|MO6|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT), Portland International Jetport (PWM)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT)"
   },
   "M|13|465.85|465.85|MO6|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT), Portland International Jetport (PWM)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT)"
   },
   "M|13|465.8625|465.8625|MO6|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT), Portland International Jetport (PWM)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT)"
   },
   "M|13|465.875|465.875|MO6|11K2F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT), Portland International Jetport (PWM)",
     "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT)"
   },
   "M|13|465.8875|465.8875|MO6|11K2F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT), Portland International Jetport (PWM)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT)"
-  },
-  "M|13|465.9125|465.9125|MO6|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "M|13|465.9375|465.9375|MO6|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "M|13|465.9625|465.9625|MO6|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
   },
   "Loc|LocNum|FreqLow|FreqHi|Class|Emission|CoordCode": {
     "legacy": "ErrTxt"
-  },
-  "F|12|452.1|452.1|FB6|11K2F3E|A": {
-    "legacy": ""
-  },
-  "M|13|452.1|452.1|MO6|11K2F3E|A": {
-    "legacy": ""
   }
 }

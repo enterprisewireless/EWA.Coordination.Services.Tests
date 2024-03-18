@@ -1638,6 +1638,21 @@
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
+      "frequencyLow": 452.1,
+      "frequencyHigh": 452.1,
+      "frequencyType": null,
+      "emissionDesignator": "10K6G1D",
+      "stationClassCode": "FXO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "This site is north of Line 'A'."
+      ]
+    },
+    {
+      "recordNum": 96,
+      "lineNum": 1,
+      "locationCode": "A",
+      "locationNum": 1,
       "frequencyLow": 452.1125,
       "frequencyHigh": 452.1125,
       "frequencyType": null,
@@ -1650,7 +1665,7 @@
       ]
     },
     {
-      "recordNum": 96,
+      "recordNum": 97,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1665,7 +1680,7 @@
       ]
     },
     {
-      "recordNum": 97,
+      "recordNum": 98,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1681,7 +1696,7 @@
       ]
     },
     {
-      "recordNum": 98,
+      "recordNum": 99,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1696,7 +1711,7 @@
       ]
     },
     {
-      "recordNum": 99,
+      "recordNum": 100,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1712,7 +1727,7 @@
       ]
     },
     {
-      "recordNum": 100,
+      "recordNum": 101,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1727,7 +1742,7 @@
       ]
     },
     {
-      "recordNum": 101,
+      "recordNum": 102,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1743,7 +1758,7 @@
       ]
     },
     {
-      "recordNum": 102,
+      "recordNum": 103,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1758,7 +1773,7 @@
       ]
     },
     {
-      "recordNum": 103,
+      "recordNum": 104,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1774,7 +1789,7 @@
       ]
     },
     {
-      "recordNum": 104,
+      "recordNum": 105,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1789,7 +1804,7 @@
       ]
     },
     {
-      "recordNum": 105,
+      "recordNum": 106,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1805,7 +1820,7 @@
       ]
     },
     {
-      "recordNum": 106,
+      "recordNum": 107,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1820,7 +1835,7 @@
       ]
     },
     {
-      "recordNum": 107,
+      "recordNum": 108,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1836,7 +1851,7 @@
       ]
     },
     {
-      "recordNum": 108,
+      "recordNum": 109,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1851,7 +1866,7 @@
       ]
     },
     {
-      "recordNum": 109,
+      "recordNum": 110,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1867,7 +1882,7 @@
       ]
     },
     {
-      "recordNum": 110,
+      "recordNum": 111,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1882,7 +1897,7 @@
       ]
     },
     {
-      "recordNum": 111,
+      "recordNum": 112,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1899,7 +1914,7 @@
       ]
     },
     {
-      "recordNum": 112,
+      "recordNum": 113,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1916,7 +1931,7 @@
       ]
     },
     {
-      "recordNum": 113,
+      "recordNum": 114,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1932,7 +1947,7 @@
       ]
     },
     {
-      "recordNum": 114,
+      "recordNum": 115,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1947,7 +1962,7 @@
       ]
     },
     {
-      "recordNum": 115,
+      "recordNum": 116,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1963,7 +1978,7 @@
       ]
     },
     {
-      "recordNum": 116,
+      "recordNum": 117,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1980,7 +1995,7 @@
       ]
     },
     {
-      "recordNum": 117,
+      "recordNum": 118,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -1996,7 +2011,7 @@
       ]
     },
     {
-      "recordNum": 118,
+      "recordNum": 119,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2011,7 +2026,7 @@
       ]
     },
     {
-      "recordNum": 119,
+      "recordNum": 120,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2028,7 +2043,7 @@
       ]
     },
     {
-      "recordNum": 120,
+      "recordNum": 121,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2045,7 +2060,7 @@
       ]
     },
     {
-      "recordNum": 121,
+      "recordNum": 122,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2061,7 +2076,7 @@
       ]
     },
     {
-      "recordNum": 122,
+      "recordNum": 123,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2076,7 +2091,7 @@
       ]
     },
     {
-      "recordNum": 123,
+      "recordNum": 124,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2092,7 +2107,7 @@
       ]
     },
     {
-      "recordNum": 124,
+      "recordNum": 125,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2109,7 +2124,7 @@
       ]
     },
     {
-      "recordNum": 125,
+      "recordNum": 126,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2125,7 +2140,7 @@
       ]
     },
     {
-      "recordNum": 126,
+      "recordNum": 127,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2140,7 +2155,7 @@
       ]
     },
     {
-      "recordNum": 127,
+      "recordNum": 128,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2157,7 +2172,7 @@
       ]
     },
     {
-      "recordNum": 128,
+      "recordNum": 129,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2173,7 +2188,7 @@
       ]
     },
     {
-      "recordNum": 129,
+      "recordNum": 130,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2190,7 +2205,7 @@
       ]
     },
     {
-      "recordNum": 130,
+      "recordNum": 131,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2206,7 +2221,7 @@
       ]
     },
     {
-      "recordNum": 131,
+      "recordNum": 132,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2223,7 +2238,7 @@
       ]
     },
     {
-      "recordNum": 132,
+      "recordNum": 133,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2239,7 +2254,7 @@
       ]
     },
     {
-      "recordNum": 133,
+      "recordNum": 134,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2256,7 +2271,7 @@
       ]
     },
     {
-      "recordNum": 134,
+      "recordNum": 135,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2272,7 +2287,7 @@
       ]
     },
     {
-      "recordNum": 135,
+      "recordNum": 136,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2289,7 +2304,7 @@
       ]
     },
     {
-      "recordNum": 136,
+      "recordNum": 137,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2304,7 +2319,7 @@
       ]
     },
     {
-      "recordNum": 137,
+      "recordNum": 138,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2320,7 +2335,7 @@
       ]
     },
     {
-      "recordNum": 138,
+      "recordNum": 139,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2335,7 +2350,7 @@
       ]
     },
     {
-      "recordNum": 139,
+      "recordNum": 140,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2351,7 +2366,7 @@
       ]
     },
     {
-      "recordNum": 140,
+      "recordNum": 141,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2366,7 +2381,7 @@
       ]
     },
     {
-      "recordNum": 141,
+      "recordNum": 142,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2382,7 +2397,7 @@
       ]
     },
     {
-      "recordNum": 142,
+      "recordNum": 143,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2397,7 +2412,7 @@
       ]
     },
     {
-      "recordNum": 143,
+      "recordNum": 144,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2413,7 +2428,7 @@
       ]
     },
     {
-      "recordNum": 144,
+      "recordNum": 145,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2428,7 +2443,7 @@
       ]
     },
     {
-      "recordNum": 145,
+      "recordNum": 146,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2444,7 +2459,7 @@
       ]
     },
     {
-      "recordNum": 146,
+      "recordNum": 147,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2459,7 +2474,7 @@
       ]
     },
     {
-      "recordNum": 147,
+      "recordNum": 148,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2476,7 +2491,7 @@
       ]
     },
     {
-      "recordNum": 148,
+      "recordNum": 149,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2493,7 +2508,7 @@
       ]
     },
     {
-      "recordNum": 149,
+      "recordNum": 150,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2509,7 +2524,7 @@
       ]
     },
     {
-      "recordNum": 150,
+      "recordNum": 151,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2524,7 +2539,7 @@
       ]
     },
     {
-      "recordNum": 151,
+      "recordNum": 152,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2540,7 +2555,7 @@
       ]
     },
     {
-      "recordNum": 152,
+      "recordNum": 153,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2557,7 +2572,7 @@
       ]
     },
     {
-      "recordNum": 153,
+      "recordNum": 154,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2573,7 +2588,7 @@
       ]
     },
     {
-      "recordNum": 154,
+      "recordNum": 155,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2588,7 +2603,7 @@
       ]
     },
     {
-      "recordNum": 155,
+      "recordNum": 156,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2605,7 +2620,7 @@
       ]
     },
     {
-      "recordNum": 156,
+      "recordNum": 157,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2622,7 +2637,7 @@
       ]
     },
     {
-      "recordNum": 157,
+      "recordNum": 158,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2638,7 +2653,7 @@
       ]
     },
     {
-      "recordNum": 158,
+      "recordNum": 159,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2653,7 +2668,7 @@
       ]
     },
     {
-      "recordNum": 159,
+      "recordNum": 160,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2669,7 +2684,7 @@
       ]
     },
     {
-      "recordNum": 160,
+      "recordNum": 161,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2684,7 +2699,7 @@
       ]
     },
     {
-      "recordNum": 161,
+      "recordNum": 162,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2700,7 +2715,7 @@
       ]
     },
     {
-      "recordNum": 162,
+      "recordNum": 163,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2717,7 +2732,7 @@
       ]
     },
     {
-      "recordNum": 163,
+      "recordNum": 164,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2737,7 +2752,7 @@
       ]
     },
     {
-      "recordNum": 164,
+      "recordNum": 165,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2757,7 +2772,7 @@
       ]
     },
     {
-      "recordNum": 165,
+      "recordNum": 166,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2778,7 +2793,7 @@
       ]
     },
     {
-      "recordNum": 166,
+      "recordNum": 167,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2798,7 +2813,7 @@
       ]
     },
     {
-      "recordNum": 167,
+      "recordNum": 168,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2819,7 +2834,7 @@
       ]
     },
     {
-      "recordNum": 168,
+      "recordNum": 169,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2839,7 +2854,7 @@
       ]
     },
     {
-      "recordNum": 169,
+      "recordNum": 170,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2859,7 +2874,7 @@
       ]
     },
     {
-      "recordNum": 170,
+      "recordNum": 171,
       "lineNum": 1,
       "locationCode": "A",
       "locationNum": 1,
@@ -2876,7 +2891,7 @@
       ]
     },
     {
-      "recordNum": 171,
+      "recordNum": 172,
       "lineNum": 2,
       "locationCode": "A",
       "locationNum": 1,
@@ -2889,7 +2904,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 172,
+      "recordNum": 173,
       "lineNum": 3,
       "locationCode": "G",
       "locationNum": 2,
@@ -2902,7 +2917,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 173,
+      "recordNum": 174,
       "lineNum": 4,
       "locationCode": "G",
       "locationNum": 2,
@@ -2915,7 +2930,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 174,
+      "recordNum": 175,
       "lineNum": 5,
       "locationCode": "G",
       "locationNum": 2,
@@ -2928,7 +2943,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 175,
+      "recordNum": 176,
       "lineNum": 6,
       "locationCode": "G",
       "locationNum": 2,
@@ -2941,5 +2956,5 @@
       "limitationMessages": []
     }
   ],
-  "resultCount": 175
+  "resultCount": 176
 }

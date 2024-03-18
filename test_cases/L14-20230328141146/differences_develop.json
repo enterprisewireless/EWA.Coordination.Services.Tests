@@ -301,20 +301,5 @@
   },
   "Loc|LocNum|FreqLow|FreqHi|Class|Emission|CoordCode": {
     "legacy": "ErrTxt"
-  },
-  "A|1|452.1|452.1|FXO|11K0F2D|A": {
-    "legacy": "This site is north of Line 'A'."
-  },
-  "B|2|452.1|452.1|FXO|11K0F2D|A": {
-    "legacy": "This site is north of Line 'A'."
-  },
-  "C|3|452.1|452.1|FXO|11K0F2D|A": {
-    "legacy": "This site is north of Line 'A'."
-  },
-  "D|4|452.1|452.1|FXO|11K0F2D|A": {
-    "legacy": "This site is north of Line 'A'."
-  },
-  "G|5|452.1|452.1|MO|11K0F2D|A": {
-    "legacy": ""
   }
 }

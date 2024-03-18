@@ -91,56 +91,8 @@
     "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts|Rule 36: Frequency is for OP - Oneway Paging",
     "legacy": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts"
   },
-  "L|12|460.9|460.9|MO|11K2F3E|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
-  },
-  "L|12|460.9125|460.9125|MO|11K2F3E|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "L|12|460.925|460.925|MO|11K2F3E|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
-  },
-  "L|12|460.9375|460.9375|MO|11K2F3E|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "L|12|460.95|460.95|MO|11K2F3E|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations|Rule 65: Central station may communicate with police and fire."
-  },
-  "L|12|460.9625|460.9625|MO|11K2F3E|A": {
-    "nxgen": "Rule 65: Central station may communicate with police and fire.|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
   "L|12|462.1875|462.1875|MO|11K2F3E|A": {
     "nxgen": "",
     "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis."
-  },
-  "L|12|465.9|465.9|MO|11K2F3E|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
-  },
-  "L|12|465.9125|465.9125|MO|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "L|12|465.925|465.925|MO|11K2F3E|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
-  },
-  "L|12|465.9375|465.9375|MO|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "L|12|465.95|465.95|MO|11K2F3E|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
-  },
-  "L|12|465.9625|465.9625|MO|11K2F3E|A": {
-    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 87: Output power is limited to 2 watts"
-  },
-  "L|12|466|466|MO|11K2F3E|A": {
-    "nxgen": "Rule 64: CS - Central Station Alarm is on a Secondary, Non-Interference Basis to Base/Mobile operations"
-  },
-  "Loc|LocNum|FreqLow|FreqHi|Class|Emission|CoordCode": {
-    "legacy": "ErrTxt"
-  },
-  "F|11|452.1|452.1|FB2|11K2F3E|A": {
-    "legacy": ""
-  },
-  "L|12|452.1|452.1|MO|11K2F3E|A": {
-    "legacy": ""
   }
 }
