@@ -160,6 +160,5 @@ You can add a rule message to a legacy output record by finding it using the dif
 Removing a rule from a legacy record is very similar to adding a rule, just remove the text from the `ErrTxt` column that is part of the rule's text.
 
 # Improvements to be made
-- **PRIORITY** Allow for another file for adjusted legacy results so we don't have to see discrepancies that have been approved. 
 - Add project directories such as Tools and AutoCoord instead of just Validate test cases.
 - Add different node scripts for `/External?` or `/Internal?` or have a parameter to signal.
