@@ -5006,7 +5006,8 @@
       "stationClassCode": "FB2",
       "coordinationCode": "A",
       "limitationMessages": [
-        "A copy of this application needs for be sent to the Nation Radio Astronomy Observatory at Green Bank, WV."
+        "A copy of this application needs for be sent to the Nation Radio Astronomy Observatory at Green Bank, WV.",
+        "Rule 83: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
@@ -14141,7 +14142,9 @@
       "emissionDesignator": "11K2F3E",
       "stationClassCode": "MO",
       "coordinationCode": "A",
-      "limitationMessages": []
+      "limitationMessages": [
+        "Rule 83: Telemetry operations will be authorized on a secondary basis."
+      ]
     },
     {
       "recordNum": 913,
@@ -26807,7 +26810,9 @@
       "emissionDesignator": "11K2F3E",
       "stationClassCode": "MO",
       "coordinationCode": "A",
-      "limitationMessages": []
+      "limitationMessages": [
+        "Rule 83: Telemetry operations will be authorized on a secondary basis."
+      ]
     },
     {
       "recordNum": 1781,
