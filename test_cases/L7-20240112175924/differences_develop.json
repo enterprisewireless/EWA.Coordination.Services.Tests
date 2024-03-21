@@ -35,10 +35,6 @@
     "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 33: Emissions may not exceed 6k|Rule 47: Frequency may be used for mobile, remote control and telemetering. A1D, A2D, F1D, or F2D possible.|Rule 60: ERP Must Be <= 2 Watts",
     "legacy": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 33: Emissions may not exceed 6k"
   },
-  "G|1|462.1875|462.1875|MO6|11K2F1W|A": {
-    "nxgen": "",
-    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis."
-  },
   "G|1|467.75|467.75|MO6|11K2F1W|A": {
     "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 35: Frequency may be used for mobile, radio remote and telemetering. A1D, A2D, F1D, or F2D possible.|Rule 60: ERP Must Be <= 2 Watts|Rule 260: FCC Rule 60: For Mobile Relay ops frequency pairing requires offset of 10.225 from Relay to Mobile.",
     "legacy": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 35: Frequency may be used for mobile, radio remote and telemetering. A1D, A2D, F1D, or F2D possible.|Rule 60: ERP Must Be <= 2 Watts"

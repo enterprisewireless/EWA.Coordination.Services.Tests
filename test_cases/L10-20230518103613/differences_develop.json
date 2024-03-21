@@ -83,10 +83,6 @@
     "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Kansas City Int'l (MCI)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Kansas City Int'l (MCI)"
   },
-  "A|1|462.1875|462.1875|FB2|11K0F3E|A": {
-    "nxgen": "",
-    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. KANSAS CITY, MO"
-  },
   "A|1|465|465|FB2|11K0F3E|A": {
     "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts|Rule 36: Frequency is for OP - Oneway Paging",
     "legacy": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts"
@@ -134,90 +130,6 @@
   "H|3|460.8875|460.8875|MO|11K0F3E|A": {
     "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Kansas City Int'l (MCI)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Applicant type must be Commercial air service pursuant to §90.179 when within 16km of an airport Kansas City Int'l (MCI)"
-  },
-  "H|3|462.1875|462.1875|MO|11K0F3E|A": {
-    "nxgen": "",
-    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis."
-  },
-  "H|3|465.65|465.65|MO|11K0F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
-    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
-  },
-  "H|3|465.6625|465.6625|MO|11K0F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
-  },
-  "H|3|465.675|465.675|MO|11K0F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
-    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
-  },
-  "H|3|465.6875|465.6875|MO|11K0F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
-  },
-  "H|3|465.7|465.7|MO|11K0F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
-    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
-  },
-  "H|3|465.7125|465.7125|MO|11K0F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
-  },
-  "H|3|465.725|465.725|MO|11K0F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
-    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
-  },
-  "H|3|465.7375|465.7375|MO|11K0F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
-  },
-  "H|3|465.75|465.75|MO|11K0F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
-    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
-  },
-  "H|3|465.7625|465.7625|MO|11K0F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
-  },
-  "H|3|465.775|465.775|MO|11K0F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
-    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
-  },
-  "H|3|465.7875|465.7875|MO|11K0F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
-  },
-  "H|3|465.8|465.8|MO|11K0F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
-    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
-  },
-  "H|3|465.8125|465.8125|MO|11K0F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
-  },
-  "H|3|465.825|465.825|MO|11K0F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
-    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
-  },
-  "H|3|465.8375|465.8375|MO|11K0F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
-  },
-  "H|3|465.85|465.85|MO|11K0F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
-    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
-  },
-  "H|3|465.8625|465.8625|MO|11K0F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
-  },
-  "H|3|465.875|465.875|MO|11K0F3E|A": {
-    "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
-    "legacy": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
-  },
-  "H|3|465.8875|465.8875|MO|11K0F3E|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Applicant Type must be Air Transportation when within 16km of airport.|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
   },
   "G|2|467.925|467.925|MO|11K0F3E|A": {
     "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 235: Emission Must be A1D, A2D, F1D, F2D",

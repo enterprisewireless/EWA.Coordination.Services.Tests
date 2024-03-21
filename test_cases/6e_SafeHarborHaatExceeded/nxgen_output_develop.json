@@ -3866,7 +3866,7 @@
       "limitationMessages": [
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -3885,7 +3885,7 @@
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -4794,7 +4794,7 @@
         "Rule 29: Frequency is for OP - Oneway Paging",
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -10140,7 +10140,7 @@
       "limitationMessages": [
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -10159,7 +10159,7 @@
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -11068,7 +11068,7 @@
         "Rule 29: Frequency is for OP - Oneway Paging",
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -16414,7 +16414,7 @@
       "limitationMessages": [
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -16433,7 +16433,7 @@
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -17342,7 +17342,7 @@
         "Rule 29: Frequency is for OP - Oneway Paging",
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -23207,7 +23207,7 @@
         "The ERP exceeded the Safe Harbor Table limit of 12. While testing Location 8",
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -23228,7 +23228,7 @@
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -24244,7 +24244,7 @@
         "Rule 29: Frequency is for OP - Oneway Paging",
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -29852,7 +29852,7 @@
       "limitationMessages": [
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -29871,7 +29871,7 @@
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -30780,7 +30780,7 @@
         "Rule 29: Frequency is for OP - Oneway Paging",
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -36126,7 +36126,7 @@
       "limitationMessages": [
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -36145,7 +36145,7 @@
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -37054,7 +37054,7 @@
         "Rule 29: Frequency is for OP - Oneway Paging",
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -42400,7 +42400,7 @@
       "limitationMessages": [
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -43695,7 +43695,7 @@
         "Rule 29: Frequency is for OP - Oneway Paging",
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -49449,7 +49449,7 @@
       "limitationMessages": [
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -50744,7 +50744,7 @@
         "Rule 29: Frequency is for OP - Oneway Paging",
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -56498,7 +56498,7 @@
       "limitationMessages": [
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -57793,7 +57793,7 @@
         "Rule 29: Frequency is for OP - Oneway Paging",
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -63547,7 +63547,7 @@
       "limitationMessages": [
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -64842,7 +64842,7 @@
         "Rule 29: Frequency is for OP - Oneway Paging",
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -70596,7 +70596,7 @@
       "limitationMessages": [
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -71891,7 +71891,7 @@
         "Rule 29: Frequency is for OP - Oneway Paging",
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -77645,7 +77645,7 @@
       "limitationMessages": [
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },
@@ -78940,7 +78940,7 @@
         "Rule 29: Frequency is for OP - Oneway Paging",
         "Rule 36: Frequency is for OP - Oneway Paging",
         "Rule 37: Frequency is available on a secondary basis to one-way paging.",
-        "Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts",
+        "Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts",
         "Rule 96: Power Must Be <= 20 Watts"
       ]
     },

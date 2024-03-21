@@ -4138,7 +4138,9 @@
       "emissionDesignator": "10K5W1W",
       "stationClassCode": "FXO",
       "coordinationCode": "A",
-      "limitationMessages": []
+      "limitationMessages": [
+        "Rule 83: Telemetry operations will be authorized on a secondary basis."
+      ]
     },
     {
       "recordNum": 272,
@@ -10942,7 +10944,9 @@
       "emissionDesignator": "10K5W1W",
       "stationClassCode": "FXO",
       "coordinationCode": "A",
-      "limitationMessages": []
+      "limitationMessages": [
+        "Rule 83: Telemetry operations will be authorized on a secondary basis."
+      ]
     },
     {
       "recordNum": 727,

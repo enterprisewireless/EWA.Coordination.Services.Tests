@@ -4628,7 +4628,8 @@
       "coordinationCode": "A",
       "limitationMessages": [
         "The ERP exceeded the Safe Harbor Table limit of 2. While testing Location 3",
-        "This site is north of Line 'A'."
+        "This site is north of Line 'A'.",
+        "Rule 83: Telemetry operations will be authorized on a secondary basis."
       ]
     },
     {
@@ -13811,7 +13812,9 @@
       "emissionDesignator": "7K60FXE",
       "stationClassCode": "MO",
       "coordinationCode": "A",
-      "limitationMessages": []
+      "limitationMessages": [
+        "Rule 83: Telemetry operations will be authorized on a secondary basis."
+      ]
     },
     {
       "recordNum": 859,
@@ -26244,7 +26247,9 @@
       "emissionDesignator": "7K60FXE",
       "stationClassCode": "MO",
       "coordinationCode": "A",
-      "limitationMessages": []
+      "limitationMessages": [
+        "Rule 83: Telemetry operations will be authorized on a secondary basis."
+      ]
     },
     {
       "recordNum": 1712,

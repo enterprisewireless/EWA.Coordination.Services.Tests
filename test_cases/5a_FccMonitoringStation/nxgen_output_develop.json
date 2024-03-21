@@ -6529,7 +6529,9 @@
       "stationClassCode": "FB2",
       "coordinationCode": "A",
       "limitationMessages": [
-        "This site is near the FCC monitoring station at KINGSVILLE, TX"
+        "This site is near the FCC monitoring station at KINGSVILLE, TX",
+        "Rule 83: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. CORPUS CHRISTI, TX"
       ]
     },
     {
@@ -20547,7 +20549,10 @@
       "emissionDesignator": "4K00F1E",
       "stationClassCode": "MO",
       "coordinationCode": "A",
-      "limitationMessages": []
+      "limitationMessages": [
+        "Rule 83: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+      ]
     },
     {
       "recordNum": 1339,
@@ -41131,7 +41136,10 @@
       "emissionDesignator": "4K00F1E",
       "stationClassCode": "MO",
       "coordinationCode": "A",
-      "limitationMessages": []
+      "limitationMessages": [
+        "Rule 83: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
+      ]
     },
     {
       "recordNum": 2785,

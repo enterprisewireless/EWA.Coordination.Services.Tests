@@ -39,10 +39,6 @@
     "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Hilo Int'l (ITO)|Rule 62: All Fixed Operation Are on a Secondary Basis to Land Mobile Operations.|Rule 62: 90.261(c)All fixed systems are limited to one frequency pair with 5 MHz spacing...|Rule 62: Fixed Statn located 140km or more from ctr of urbanized areas, cannot have pwr greater than 75Watt|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Hilo Int’l (ITO)"
   },
-  "A|1|462.1875|462.1875|FXO|10K5W1W|A": {
-    "nxgen": "",
-    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis."
-  },
   "B|2|460.6625|460.6625|FXO|10K5W1W|A": {
     "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 62: All Fixed Operation Are on a Secondary Basis to Land Mobile Operations.|Rule 62: 90.261(c)All fixed systems are limited to one frequency pair with 5 MHz spacing...|Rule 62: Fixed Statn located 140km or more from ctr of urbanized areas, cannot have pwr greater than 75Watt|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 62: All Fixed Operation Are on a Secondary Basis to Land Mobile Operations.|Rule 62: 90.261(c)All fixed systems are limited to one frequency pair with 5 MHz spacing...|Rule 62: Fixed Statn located 140km or more from ctr of urbanized areas, cannot have pwr greater than 75Watt"
@@ -82,9 +78,5 @@
   "B|2|460.8875|460.8875|FXO|10K5W1W|A": {
     "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 62: All Fixed Operation Are on a Secondary Basis to Land Mobile Operations.|Rule 62: 90.261(c)All fixed systems are limited to one frequency pair with 5 MHz spacing...|Rule 62: Fixed Statn located 140km or more from ctr of urbanized areas, cannot have pwr greater than 75Watt|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: Air Transportation frequency, available to I/B on a secondary basis.|Rule 62: All Fixed Operation Are on a Secondary Basis to Land Mobile Operations.|Rule 62: 90.261(c)All fixed systems are limited to one frequency pair with 5 MHz spacing...|Rule 62: Fixed Statn located 140km or more from ctr of urbanized areas, cannot have pwr greater than 75Watt"
-  },
-  "B|2|462.1875|462.1875|FXO|10K5W1W|A": {
-    "nxgen": "",
-    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis."
   }
 }

@@ -43,10 +43,6 @@
     "nxgen": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
   },
-  "A|1|462.1875|462.1875|FB2|4K00F1E|A": {
-    "nxgen": "This site is near the FCC monitoring station at KINGSVILLE, TX",
-    "legacy": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. CORPUS CHRISTI, TX"
-  },
   "A|1|464.89375|464.89375|FB2|4K00F1E|A": {
     "nxgen": "This site is near the FCC monitoring station at KINGSVILLE, TX",
     "legacy": "This site is near the FCC monitoring station at KINGSVILLE, TX|Rule 66: Frequency is for CS - Central Station Alarm"
@@ -98,10 +94,6 @@
   "G|2|460.8875|460.8875|MO|4K00F1E|A": {
     "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
-  },
-  "G|2|462.1875|462.1875|MO|4K00F1E|A": {
-    "nxgen": "",
-    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
   },
   "G|2|464.89375|464.89375|MO|4K00F1E|A": {
     "nxgen": "",
@@ -190,10 +182,6 @@
   "H|3|460.8875|460.8875|MO|4K00F1E|A": {
     "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Corpus Christi International (CRP)"
-  },
-  "H|3|462.1875|462.1875|MO|4K00F1E|A": {
-    "nxgen": "",
-    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis.|Rule 84: For Mobiles, when within 80km of top 100 urban areas, max ERP should not be more than 6W. CORPUS CHRISTI, TX"
   },
   "H|3|464.89375|464.89375|MO|4K00F1E|A": {
     "nxgen": "",
