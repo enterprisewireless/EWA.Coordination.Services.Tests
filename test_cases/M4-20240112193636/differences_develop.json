@@ -39,10 +39,6 @@
     "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT), Portland International Jetport (PWM)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT)"
   },
-  "F|12|462.1875|462.1875|FB6|11K2F3E|A": {
-    "nxgen": "",
-    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis."
-  },
   "F|12|465|465|FB6|11K2F3E|A": {
     "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts|Rule 36: Frequency is for OP - Oneway Paging",
     "legacy": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts"
@@ -86,10 +82,6 @@
   "M|13|460.8875|460.8875|MO6|11K2F3E|A": {
     "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT), Portland International Jetport (PWM)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Manchester (MHT)"
-  },
-  "M|13|462.1875|462.1875|MO6|11K2F3E|A": {
-    "nxgen": "",
-    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis."
   },
   "M|13|465.65|465.65|MO6|11K2F3E|A": {
     "nxgen": "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.|Rule 68: Secondary use, Max ERP of 6 watts at locations between 16 km and 80km from the airport: Manchester (MHT), Portland International Jetport (PWM)",

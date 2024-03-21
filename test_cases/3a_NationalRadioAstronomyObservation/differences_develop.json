@@ -39,20 +39,8 @@
     "nxgen": "A copy of this application needs for be sent to the Nation Radio Astronomy Observatory at Green Bank, WV.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Lynchburg Regional-Preston Glen Field (LYH), Roanoke Regional/Woodrum Field (ROA)|Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW.",
     "legacy": "A copy of this application needs for be sent to the Nation Radio Astronomy Observatory at Green Bank, WV.|Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 61: For non AT Applicant type, Max ERP of 10 Watts within 80 km of airports. Airport: Roanoke Regional/Woodrum Field (ROA)"
   },
-  "A|2|462.1875|462.1875|FB2|11K2F3E|A": {
-    "nxgen": "A copy of this application needs for be sent to the Nation Radio Astronomy Observatory at Green Bank, WV.",
-    "legacy": "A copy of this application needs for be sent to the Nation Radio Astronomy Observatory at Green Bank, WV.|Rule 83: Telemetry operations will be authorized on a secondary basis."
-  },
   "A|2|465|465|FB2|11K2F3E|A": {
     "nxgen": "A copy of this application needs for be sent to the Nation Radio Astronomy Observatory at Green Bank, WV.|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts|Rule 36: Frequency is for OP - Oneway Paging",
     "legacy": "A copy of this application needs for be sent to the Nation Radio Astronomy Observatory at Green Bank, WV.|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts"
-  },
-  "H|3|462.1875|462.1875|MO|11K2F3E|A": {
-    "nxgen": "",
-    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis."
-  },
-  "G|1|462.1875|462.1875|MO|11K2F3E|A": {
-    "nxgen": "",
-    "legacy": "Rule 83: Telemetry operations will be authorized on a secondary basis."
   }
 }

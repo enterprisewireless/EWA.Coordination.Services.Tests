@@ -4031,7 +4031,10 @@
       "emissionDesignator": "11K0F3E",
       "stationClassCode": "FB2",
       "coordinationCode": "A",
-      "limitationMessages": []
+      "limitationMessages": [
+        "Rule 83: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. KANSAS CITY, MO"
+      ]
     },
     {
       "recordNum": 264,
@@ -12639,7 +12642,9 @@
       "emissionDesignator": "11K0F3E",
       "stationClassCode": "MO",
       "coordinationCode": "A",
-      "limitationMessages": []
+      "limitationMessages": [
+        "Rule 83: Telemetry operations will be authorized on a secondary basis."
+      ]
     },
     {
       "recordNum": 847,
@@ -15018,7 +15023,8 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
       ]
     },
     {
@@ -15035,6 +15041,7 @@
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport.",
         "Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
       ]
     },
@@ -15050,7 +15057,8 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
       ]
     },
     {
@@ -15067,6 +15075,7 @@
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport.",
         "Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
       ]
     },
@@ -15082,7 +15091,8 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
       ]
     },
     {
@@ -15099,6 +15109,7 @@
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport.",
         "Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
       ]
     },
@@ -15114,7 +15125,8 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
       ]
     },
     {
@@ -15131,6 +15143,7 @@
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport.",
         "Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
       ]
     },
@@ -15146,7 +15159,8 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
       ]
     },
     {
@@ -15163,6 +15177,7 @@
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport.",
         "Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
       ]
     },
@@ -15178,7 +15193,8 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
       ]
     },
     {
@@ -15195,6 +15211,7 @@
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport.",
         "Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
       ]
     },
@@ -15210,7 +15227,8 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
       ]
     },
     {
@@ -15227,6 +15245,7 @@
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport.",
         "Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
       ]
     },
@@ -15242,7 +15261,8 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
       ]
     },
     {
@@ -15259,6 +15279,7 @@
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport.",
         "Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
       ]
     },
@@ -15274,7 +15295,8 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
       ]
     },
     {
@@ -15291,6 +15313,7 @@
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport.",
         "Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
       ]
     },
@@ -15306,7 +15329,8 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
       ]
     },
     {
@@ -15323,6 +15347,7 @@
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport.",
         "Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
       ]
     },

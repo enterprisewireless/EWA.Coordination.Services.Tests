@@ -4765,7 +4765,9 @@
       "emissionDesignator": "11K2F3E",
       "stationClassCode": "FB6",
       "coordinationCode": "A",
-      "limitationMessages": []
+      "limitationMessages": [
+        "Rule 83: Telemetry operations will be authorized on a secondary basis."
+      ]
     },
     {
       "recordNum": 324,
@@ -13379,7 +13381,9 @@
       "emissionDesignator": "11K2F3E",
       "stationClassCode": "MO6",
       "coordinationCode": "A",
-      "limitationMessages": []
+      "limitationMessages": [
+        "Rule 83: Telemetry operations will be authorized on a secondary basis."
+      ]
     },
     {
       "recordNum": 907,

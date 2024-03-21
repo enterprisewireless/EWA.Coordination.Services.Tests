@@ -1,6 +1,6 @@
 {
-  "A|1|173.39625|173.39625|FXO|6K000FFF|A": {
-    "nxgen": "Invalid Frequency Allocation.|This station class is not allowed on this frequency.|Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 44: Emission Must Be A1A, A1D, A2B, A2D, F1B, F1D, F2B, F2D, G1B, G1D, G2B, G2D"
+  "A|1|173.39625|173.39625|FXO|6K000F2D|A": {
+    "nxgen": "Invalid Frequency Allocation.|This station class is not allowed on this frequency.|Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas."
   },
   "B|2|173.39625|173.39625|FXO|6K00F2D|A": {
     "nxgen": "Invalid Frequency Allocation.|This station class is not allowed on this frequency.|Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.",

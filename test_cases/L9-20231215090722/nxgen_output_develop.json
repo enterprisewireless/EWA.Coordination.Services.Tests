@@ -4135,7 +4135,9 @@
       "emissionDesignator": "7K60FXW",
       "stationClassCode": "FB2",
       "coordinationCode": "A",
-      "limitationMessages": []
+      "limitationMessages": [
+        "Rule 83: Telemetry operations will be authorized on a secondary basis."
+      ]
     },
     {
       "recordNum": 274,
@@ -12887,7 +12889,9 @@
       "emissionDesignator": "7K60FXW",
       "stationClassCode": "MO",
       "coordinationCode": "A",
-      "limitationMessages": []
+      "limitationMessages": [
+        "Rule 83: Telemetry operations will be authorized on a secondary basis."
+      ]
     },
     {
       "recordNum": 867,
@@ -20702,6 +20706,21 @@
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
+      "frequencyLow": 462.1875,
+      "frequencyHigh": 462.1875,
+      "frequencyType": "LP",
+      "emissionDesignator": "7K60FXW",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 83: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 1405,
+      "lineNum": 3,
+      "locationCode": "H",
+      "locationNum": 3,
       "frequencyLow": 462.2125,
       "frequencyHigh": 462.2125,
       "frequencyType": "LP",
@@ -20714,7 +20733,7 @@
       ]
     },
     {
-      "recordNum": 1405,
+      "recordNum": 1406,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20730,7 +20749,7 @@
       ]
     },
     {
-      "recordNum": 1406,
+      "recordNum": 1407,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20746,7 +20765,7 @@
       ]
     },
     {
-      "recordNum": 1407,
+      "recordNum": 1408,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20762,7 +20781,7 @@
       ]
     },
     {
-      "recordNum": 1408,
+      "recordNum": 1409,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20778,7 +20797,7 @@
       ]
     },
     {
-      "recordNum": 1409,
+      "recordNum": 1410,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20794,7 +20813,7 @@
       ]
     },
     {
-      "recordNum": 1410,
+      "recordNum": 1411,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20810,7 +20829,7 @@
       ]
     },
     {
-      "recordNum": 1411,
+      "recordNum": 1412,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20826,7 +20845,7 @@
       ]
     },
     {
-      "recordNum": 1412,
+      "recordNum": 1413,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20842,7 +20861,7 @@
       ]
     },
     {
-      "recordNum": 1413,
+      "recordNum": 1414,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20858,7 +20877,7 @@
       ]
     },
     {
-      "recordNum": 1414,
+      "recordNum": 1415,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20873,7 +20892,7 @@
       ]
     },
     {
-      "recordNum": 1415,
+      "recordNum": 1416,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20888,7 +20907,7 @@
       ]
     },
     {
-      "recordNum": 1416,
+      "recordNum": 1417,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20901,7 +20920,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 1417,
+      "recordNum": 1418,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20916,7 +20935,7 @@
       ]
     },
     {
-      "recordNum": 1418,
+      "recordNum": 1419,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20933,7 +20952,7 @@
       ]
     },
     {
-      "recordNum": 1419,
+      "recordNum": 1420,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20951,7 +20970,7 @@
       ]
     },
     {
-      "recordNum": 1420,
+      "recordNum": 1421,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20967,7 +20986,7 @@
       ]
     },
     {
-      "recordNum": 1421,
+      "recordNum": 1422,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20983,7 +21002,7 @@
       ]
     },
     {
-      "recordNum": 1422,
+      "recordNum": 1423,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20999,7 +21018,7 @@
       ]
     },
     {
-      "recordNum": 1423,
+      "recordNum": 1424,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -21015,7 +21034,7 @@
       ]
     },
     {
-      "recordNum": 1424,
+      "recordNum": 1425,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -21031,7 +21050,7 @@
       ]
     },
     {
-      "recordNum": 1425,
+      "recordNum": 1426,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -21047,7 +21066,7 @@
       ]
     },
     {
-      "recordNum": 1426,
+      "recordNum": 1427,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -21063,7 +21082,7 @@
       ]
     },
     {
-      "recordNum": 1427,
+      "recordNum": 1428,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -21079,7 +21098,7 @@
       ]
     },
     {
-      "recordNum": 1428,
+      "recordNum": 1429,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -21095,7 +21114,7 @@
       ]
     },
     {
-      "recordNum": 1429,
+      "recordNum": 1430,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -21111,7 +21130,7 @@
       ]
     },
     {
-      "recordNum": 1430,
+      "recordNum": 1431,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -21127,7 +21146,7 @@
       ]
     },
     {
-      "recordNum": 1431,
+      "recordNum": 1432,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -21143,7 +21162,7 @@
       ]
     },
     {
-      "recordNum": 1432,
+      "recordNum": 1433,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -21159,7 +21178,7 @@
       ]
     },
     {
-      "recordNum": 1433,
+      "recordNum": 1434,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -21175,5 +21194,5 @@
       ]
     }
   ],
-  "resultCount": 1433
+  "resultCount": 1434
 }

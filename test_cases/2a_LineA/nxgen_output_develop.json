@@ -4383,7 +4383,9 @@
       "stationClassCode": "FB2",
       "coordinationCode": "A",
       "limitationMessages": [
-        "This site is north of Line 'A'."
+        "This site is north of Line 'A'.",
+        "Rule 83: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. SEATTLE, WA, TACOMA, WA"
       ]
     },
     {
@@ -13381,7 +13383,9 @@
       "emissionDesignator": "7K60FXE",
       "stationClassCode": "MO",
       "coordinationCode": "A",
-      "limitationMessages": []
+      "limitationMessages": [
+        "Rule 83: Telemetry operations will be authorized on a secondary basis."
+      ]
     },
     {
       "recordNum": 856,
@@ -25814,7 +25818,9 @@
       "emissionDesignator": "7K60FXE",
       "stationClassCode": "MO",
       "coordinationCode": "A",
-      "limitationMessages": []
+      "limitationMessages": [
+        "Rule 83: Telemetry operations will be authorized on a secondary basis."
+      ]
     },
     {
       "recordNum": 1709,
