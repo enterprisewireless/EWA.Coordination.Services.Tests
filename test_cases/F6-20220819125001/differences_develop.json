@@ -604,11 +604,11 @@
     "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
   },
   "O|9|160.68|160.68|MO|7K60FXE|A": {
-    "nxgen": "Invalid Frequency Allocation.|Rule 50: Activated only by associated automatic control equipment and equipped with a time delay.|Rule 50: Pursuant to provisions of  paragraph § 90.425 are exempt from identification requirements.",
+    "nxgen": "Invalid Frequency Allocation.|Rule 50: Activated only by associated automatic control equipment and equipped with a time delay.|Rule 50: Pursuant to provisions of paragraph § 90.425 are exempt from identification requirements.",
     "legacy": "Rule 50: Activated only by associated automatic control equipment and equipped with a time delay.|Rule 50: Pursuant to provisions of paragraph § 90.425 are exempt from identification requirements."
   },
   "P|10|160.68|160.68|MO|7K60FXE|A": {
-    "nxgen": "Invalid Frequency Allocation.|Rule 50: Activated only by associated automatic control equipment and equipped with a time delay.|Rule 50: Pursuant to provisions of  paragraph § 90.425 are exempt from identification requirements.",
+    "nxgen": "Invalid Frequency Allocation.|Rule 50: Activated only by associated automatic control equipment and equipped with a time delay.|Rule 50: Pursuant to provisions of paragraph § 90.425 are exempt from identification requirements.",
     "legacy": "Rule 50: Activated only by associated automatic control equipment and equipped with a time delay.|Rule 50: Pursuant to provisions of paragraph § 90.425 are exempt from identification requirements."
   },
   "Q|11|150.815|150.815|MO|7K60FXE|A": {

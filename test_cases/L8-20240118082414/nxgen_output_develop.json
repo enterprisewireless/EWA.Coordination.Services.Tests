@@ -4031,7 +4031,10 @@
       "emissionDesignator": "7K60FXE",
       "stationClassCode": "FB2",
       "coordinationCode": "A",
-      "limitationMessages": []
+      "limitationMessages": [
+        "Rule 83: Telemetry operations will be authorized on a secondary basis.",
+        "Rule 84: For OP Fixed or Base when within 80km of top 100 urban areas, max ERP should not be more than 20W. JACKSONVILLE, FL"
+      ]
     },
     {
       "recordNum": 264,
@@ -12623,7 +12626,9 @@
       "emissionDesignator": "7K60FXE",
       "stationClassCode": "MO",
       "coordinationCode": "A",
-      "limitationMessages": []
+      "limitationMessages": [
+        "Rule 83: Telemetry operations will be authorized on a secondary basis."
+      ]
     },
     {
       "recordNum": 846,
@@ -15002,7 +15007,8 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
       ]
     },
     {
@@ -15019,6 +15025,7 @@
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport.",
         "Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
       ]
     },
@@ -15034,7 +15041,8 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
       ]
     },
     {
@@ -15051,6 +15059,7 @@
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport.",
         "Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
       ]
     },
@@ -15066,7 +15075,8 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
       ]
     },
     {
@@ -15083,6 +15093,7 @@
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport.",
         "Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
       ]
     },
@@ -15098,7 +15109,8 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
       ]
     },
     {
@@ -15115,6 +15127,7 @@
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport.",
         "Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
       ]
     },
@@ -15130,7 +15143,8 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
       ]
     },
     {
@@ -15147,6 +15161,7 @@
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport.",
         "Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
       ]
     },
@@ -15162,7 +15177,8 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
       ]
     },
     {
@@ -15179,6 +15195,7 @@
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport.",
         "Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
       ]
     },
@@ -15194,7 +15211,8 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
       ]
     },
     {
@@ -15211,6 +15229,7 @@
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport.",
         "Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
       ]
     },
@@ -15226,7 +15245,8 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
       ]
     },
     {
@@ -15243,6 +15263,7 @@
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport.",
         "Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
       ]
     },
@@ -15258,7 +15279,8 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
       ]
     },
     {
@@ -15275,6 +15297,7 @@
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport.",
         "Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
       ]
     },
@@ -15290,7 +15313,8 @@
       "stationClassCode": "MO",
       "coordinationCode": "A",
       "limitationMessages": [
-        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis."
+        "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport."
       ]
     },
     {
@@ -15307,6 +15331,7 @@
       "limitationMessages": [
         "Rule 30: Telemetry operations will be authorized on a secondary basis.",
         "Rule 68: Air Transportation frequency, available to I/B on a secondary basis.",
+        "Rule 68: Applicant Type must be Air Transportation when within 16km of airport.",
         "Rule 69: Hospital & healthcare may use on secondary non interference basis. Output power not to exceed 20mW."
       ]
     },
@@ -20438,6 +20463,21 @@
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
+      "frequencyLow": 462.1875,
+      "frequencyHigh": 462.1875,
+      "frequencyType": "LP",
+      "emissionDesignator": "7K60FXE",
+      "stationClassCode": "MO",
+      "coordinationCode": "A",
+      "limitationMessages": [
+        "Rule 83: Telemetry operations will be authorized on a secondary basis."
+      ]
+    },
+    {
+      "recordNum": 1384,
+      "lineNum": 3,
+      "locationCode": "H",
+      "locationNum": 3,
       "frequencyLow": 462.2125,
       "frequencyHigh": 462.2125,
       "frequencyType": "LP",
@@ -20450,7 +20490,7 @@
       ]
     },
     {
-      "recordNum": 1384,
+      "recordNum": 1385,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20466,7 +20506,7 @@
       ]
     },
     {
-      "recordNum": 1385,
+      "recordNum": 1386,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20482,7 +20522,7 @@
       ]
     },
     {
-      "recordNum": 1386,
+      "recordNum": 1387,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20498,7 +20538,7 @@
       ]
     },
     {
-      "recordNum": 1387,
+      "recordNum": 1388,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20514,7 +20554,7 @@
       ]
     },
     {
-      "recordNum": 1388,
+      "recordNum": 1389,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20530,7 +20570,7 @@
       ]
     },
     {
-      "recordNum": 1389,
+      "recordNum": 1390,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20546,7 +20586,7 @@
       ]
     },
     {
-      "recordNum": 1390,
+      "recordNum": 1391,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20562,7 +20602,7 @@
       ]
     },
     {
-      "recordNum": 1391,
+      "recordNum": 1392,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20578,7 +20618,7 @@
       ]
     },
     {
-      "recordNum": 1392,
+      "recordNum": 1393,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20594,7 +20634,7 @@
       ]
     },
     {
-      "recordNum": 1393,
+      "recordNum": 1394,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20609,7 +20649,7 @@
       ]
     },
     {
-      "recordNum": 1394,
+      "recordNum": 1395,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20624,7 +20664,7 @@
       ]
     },
     {
-      "recordNum": 1395,
+      "recordNum": 1396,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20637,7 +20677,7 @@
       "limitationMessages": []
     },
     {
-      "recordNum": 1396,
+      "recordNum": 1397,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20652,7 +20692,7 @@
       ]
     },
     {
-      "recordNum": 1397,
+      "recordNum": 1398,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20669,7 +20709,7 @@
       ]
     },
     {
-      "recordNum": 1398,
+      "recordNum": 1399,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20687,7 +20727,7 @@
       ]
     },
     {
-      "recordNum": 1399,
+      "recordNum": 1400,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20703,7 +20743,7 @@
       ]
     },
     {
-      "recordNum": 1400,
+      "recordNum": 1401,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20719,7 +20759,7 @@
       ]
     },
     {
-      "recordNum": 1401,
+      "recordNum": 1402,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20735,7 +20775,7 @@
       ]
     },
     {
-      "recordNum": 1402,
+      "recordNum": 1403,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20751,7 +20791,7 @@
       ]
     },
     {
-      "recordNum": 1403,
+      "recordNum": 1404,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20767,7 +20807,7 @@
       ]
     },
     {
-      "recordNum": 1404,
+      "recordNum": 1405,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20783,7 +20823,7 @@
       ]
     },
     {
-      "recordNum": 1405,
+      "recordNum": 1406,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20799,7 +20839,7 @@
       ]
     },
     {
-      "recordNum": 1406,
+      "recordNum": 1407,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20815,7 +20855,7 @@
       ]
     },
     {
-      "recordNum": 1407,
+      "recordNum": 1408,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20831,7 +20871,7 @@
       ]
     },
     {
-      "recordNum": 1408,
+      "recordNum": 1409,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20847,7 +20887,7 @@
       ]
     },
     {
-      "recordNum": 1409,
+      "recordNum": 1410,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20863,7 +20903,7 @@
       ]
     },
     {
-      "recordNum": 1410,
+      "recordNum": 1411,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20879,7 +20919,7 @@
       ]
     },
     {
-      "recordNum": 1411,
+      "recordNum": 1412,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20895,7 +20935,7 @@
       ]
     },
     {
-      "recordNum": 1412,
+      "recordNum": 1413,
       "lineNum": 3,
       "locationCode": "H",
       "locationNum": 3,
@@ -20911,5 +20951,5 @@
       ]
     }
   ],
-  "resultCount": 1412
+  "resultCount": 1413
 }
