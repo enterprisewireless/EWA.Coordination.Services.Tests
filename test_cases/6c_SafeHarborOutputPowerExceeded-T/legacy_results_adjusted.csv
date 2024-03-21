@@ -1,0 +1,1002 @@
+LogID,LineNum,Loc,LocNum,FreqLow,FreqHi,FreqType,Class,Emission,Power,Erp,Haat,TxAntHgt,CoordCode,ErrTxt
+20240321105238,1,A,1,25.02,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 3: Geophysical purposes only.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 131: IP Frequency
+20240321105238,1,A,1,25.04,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 131: IP Frequency
+20240321105238,1,A,1,25.06,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 3: Geophysical purposes only.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 131: IP Frequency
+20240321105238,1,A,1,25.08,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,1,A,1,25.1,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 3: Geophysical purposes only.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,1,A,1,25.12,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,1,A,1,25.14,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 3: Geophysical purposes only.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,1,A,1,25.16,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,1,A,1,25.18,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 3: Geophysical purposes only.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,1,A,1,25.2,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,1,A,1,25.22,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 131: IP Frequency
+20240321105238,1,A,1,25.24,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 131: IP Frequency
+20240321105238,1,A,1,25.26,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 131: IP Frequency
+20240321105238,1,A,1,25.28,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 131: IP Frequency
+20240321105238,1,A,1,25.3,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 131: IP Frequency
+20240321105238,1,A,1,25.32,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 131: IP Frequency
+20240321105238,1,A,1,27.555,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.|Rule 89: Power must be <= 150 Watts output power
+20240321105238,1,A,1,27.615,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.|Rule 89: Power must be <= 150 Watts output power
+20240321105238,1,A,1,27.635,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.|Rule 89: Power must be <= 150 Watts output power
+20240321105238,1,A,1,27.655,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.|Rule 89: Power must be <= 150 Watts output power
+20240321105238,1,A,1,27.765,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.|Rule 89: Power must be <= 150 Watts output power
+20240321105238,1,A,1,27.86,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.|Rule 89: Power must be <= 150 Watts output power
+20240321105238,1,A,1,30.64,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,30.66,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 207: Geophysical operation is on a secondary basis|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,30.7,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 131: IP Frequency
+20240321105238,1,A,1,30.74,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 207: Geophysical operation is on a secondary basis|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,30.78,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 131: IP Frequency
+20240321105238,1,A,1,30.82,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 207: Geophysical operation is on a secondary basis|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,30.86,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 13: Shared co-equal with Public Safety licensees|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,30.9,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 13: Shared co-equal with Public Safety licensees|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,30.94,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 13: Shared co-equal with Public Safety licensees|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,30.98,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 13: Shared co-equal with Public Safety licensees|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,31.02,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 13: Shared co-equal with Public Safety licensees|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,31.06,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 13: Shared co-equal with Public Safety licensees|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,31.1,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 13: Shared co-equal with Public Safety licensees|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,31.14,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 13: Shared co-equal with Public Safety licensees|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,31.28,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,31.36,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,31.4,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,31.44,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,31.48,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,31.52,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,31.56,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,31.6,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,31.64,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,31.68,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,31.72,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,31.76,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,31.8,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,31.84,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,31.88,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,31.92,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,31.96,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,33.18,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 131: IP Frequency
+20240321105238,1,A,1,33.2,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 131: IP Frequency
+20240321105238,1,A,1,33.22,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 131: IP Frequency
+20240321105238,1,A,1,33.24,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 131: IP Frequency
+20240321105238,1,A,1,33.26,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 131: IP Frequency
+20240321105238,1,A,1,33.28,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 131: IP Frequency
+20240321105238,1,A,1,33.3,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 131: IP Frequency
+20240321105238,1,A,1,33.32,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 131: IP Frequency
+20240321105238,1,A,1,33.34,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 131: IP Frequency
+20240321105238,1,A,1,33.36,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 131: IP Frequency
+20240321105238,1,A,1,33.38,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 131: IP Frequency
+20240321105238,1,A,1,35.32,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,35.36,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,35.4,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,35.44,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,35.48,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,35.52,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,36.25,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 15: Govt frequency available for oil spill containment/cleanup confined to Inland and Coastal waterways.|Rule 131: IP Frequency
+20240321105238,1,A,1,37.46,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,37.48,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,37.5,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,37.52,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,37.54,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,37.56,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,37.58,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,37.6,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 16: Available only to Stations operating an interconnected or coordinated utility system.|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,37.62,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,37.64,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,37.66,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,37.68,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,37.7,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,37.72,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,37.74,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,37.76,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,37.78,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,37.8,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,37.82,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,37.84,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 16: Available only to Stations operating an interconnected or coordinated utility system.|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,37.86,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,41.71,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 15: Govt frequency available for oil spill containment/cleanup confined to Inland and Coastal waterways.|Rule 131: IP Frequency
+20240321105238,1,A,1,43.02,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,43.06,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,43.08,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,43.1,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,43.12,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,43.14,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,43.28,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,43.32,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,43.36,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,43.4,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,43.44,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,43.48,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,43.52,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,43.72,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,43.74,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,43.82,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,43.84,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,43.86,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,43.88,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,43.9,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,43.92,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,43.94,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,43.96,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,44.12,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 208: Frequency Type is 8 - Oil Spill Containment|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,44.16,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,44.18,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,44.2,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,44.32,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,44.36,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,44.38,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,44.4,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,44.42,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,44.44,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,44.46,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,44.48,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,47.7,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,47.72,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,47.74,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,47.76,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,47.78,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,47.8,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,47.82,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,47.84,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,47.86,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,47.88,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,47.9,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,47.92,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,47.94,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,47.96,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,47.98,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.02,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.04,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.06,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.08,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.1,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.12,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.14,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.16,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.18,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.2,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.22,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.24,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.26,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.28,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.3,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.32,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.34,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.36,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.38,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.4,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.42,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.44,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.46,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.48,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.5,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.52,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.54,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.84,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.86,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,48.92,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,49.02,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,49.08,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,49.1,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,49.16,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,49.2,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,49.24,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,49.26,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,49.28,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,49.36,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,49.4,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,49.46,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,49.5,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,49.52,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,49.54,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,1,A,1,49.58,0,,FB2,11K0F3E,450,110,-32.4,18.3,A,The Maximum Ouput Power of 300 Watts was exceeded the Safe Harbor Table.  While testing Location 2|Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,2,G,2,25.02,0,,MO,11K0F3E,45,45,0,0,A,Rule 3: Geophysical purposes only.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 131: IP Frequency
+20240321105238,2,G,2,25.04,0,,MO,11K0F3E,45,45,0,0,A,Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 131: IP Frequency
+20240321105238,2,G,2,25.06,0,,MO,11K0F3E,45,45,0,0,A,Rule 3: Geophysical purposes only.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 131: IP Frequency
+20240321105238,2,G,2,25.08,0,,MO,11K0F3E,45,45,0,0,A,Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,2,G,2,25.1,0,,MO,11K0F3E,45,45,0,0,A,Rule 3: Geophysical purposes only.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,2,G,2,25.12,0,,MO,11K0F3E,45,45,0,0,A,Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,2,G,2,25.14,0,,MO,11K0F3E,45,45,0,0,A,Rule 3: Geophysical purposes only.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,2,G,2,25.16,0,,MO,11K0F3E,45,45,0,0,A,Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,2,G,2,25.18,0,,MO,11K0F3E,45,45,0,0,A,Rule 3: Geophysical purposes only.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,2,G,2,25.2,0,,MO,11K0F3E,45,45,0,0,A,Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,2,G,2,25.22,0,,MO,11K0F3E,45,45,0,0,A,Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 131: IP Frequency
+20240321105238,2,G,2,25.24,0,,MO,11K0F3E,45,45,0,0,A,Rule 131: IP Frequency
+20240321105238,2,G,2,25.26,0,,MO,11K0F3E,45,45,0,0,A,Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 131: IP Frequency
+20240321105238,2,G,2,25.28,0,,MO,11K0F3E,45,45,0,0,A,Rule 131: IP Frequency
+20240321105238,2,G,2,25.3,0,,MO,11K0F3E,45,45,0,0,A,Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 131: IP Frequency
+20240321105238,2,G,2,25.32,0,,MO,11K0F3E,45,45,0,0,A,Rule 131: IP Frequency
+20240321105238,2,G,2,27.43,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,27.45,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,27.47,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,27.555,0,,MO,11K0F3E,45,45,0,0,A,Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.
+20240321105238,2,G,2,27.615,0,,MO,11K0F3E,45,45,0,0,A,Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.
+20240321105238,2,G,2,27.635,0,,MO,11K0F3E,45,45,0,0,A,Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.
+20240321105238,2,G,2,27.655,0,,MO,11K0F3E,45,45,0,0,A,Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.
+20240321105238,2,G,2,27.765,0,,MO,11K0F3E,45,45,0,0,A,Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.
+20240321105238,2,G,2,27.86,0,,MO,11K0F3E,45,45,0,0,A,Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.
+20240321105238,2,G,2,29.71,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,29.73,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,29.75,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,29.77,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,29.79,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,30.58,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,30.6,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,30.62,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,30.64,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,30.66,0,,MO,11K0F3E,45,45,0,0,A,Rule 207: Geophysical operation is on a secondary basis
+20240321105238,2,G,2,30.68,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,30.7,0,,MO,11K0F3E,45,45,0,0,A,Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 131: IP Frequency
+20240321105238,2,G,2,30.72,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,30.74,0,,MO,11K0F3E,45,45,0,0,A,Rule 207: Geophysical operation is on a secondary basis
+20240321105238,2,G,2,30.76,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,30.78,0,,MO,11K0F3E,45,45,0,0,A,Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 131: IP Frequency
+20240321105238,2,G,2,30.8,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,30.82,0,,MO,11K0F3E,45,45,0,0,A,Rule 207: Geophysical operation is on a secondary basis
+20240321105238,2,G,2,30.86,0,,MO,11K0F3E,45,45,0,0,A,Rule 13: Shared co-equal with Public Safety licensees
+20240321105238,2,G,2,30.88,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,30.9,0,,MO,11K0F3E,45,45,0,0,A,Rule 13: Shared co-equal with Public Safety licensees
+20240321105238,2,G,2,30.92,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,30.94,0,,MO,11K0F3E,45,45,0,0,A,Rule 13: Shared co-equal with Public Safety licensees
+20240321105238,2,G,2,30.96,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,30.98,0,,MO,11K0F3E,45,45,0,0,A,Rule 13: Shared co-equal with Public Safety licensees
+20240321105238,2,G,2,31,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,31.02,0,,MO,11K0F3E,45,45,0,0,A,Rule 13: Shared co-equal with Public Safety licensees
+20240321105238,2,G,2,31.04,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,31.06,0,,MO,11K0F3E,45,45,0,0,A,Rule 13: Shared co-equal with Public Safety licensees
+20240321105238,2,G,2,31.08,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,31.1,0,,MO,11K0F3E,45,45,0,0,A,Rule 13: Shared co-equal with Public Safety licensees
+20240321105238,2,G,2,31.12,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,31.14,0,,MO,11K0F3E,45,45,0,0,A,Rule 13: Shared co-equal with Public Safety licensees
+20240321105238,2,G,2,31.16,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,31.2,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,31.24,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,31.28,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,31.32,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,31.36,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,31.4,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,31.44,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,31.48,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,31.52,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,31.56,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,31.6,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,31.64,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,31.68,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,31.72,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,31.76,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,31.8,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,31.84,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,31.88,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,31.92,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,31.96,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,33.16,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,33.18,0,,MO,11K0F3E,45,45,0,0,A,Rule 131: IP Frequency
+20240321105238,2,G,2,33.2,0,,MO,11K0F3E,45,45,0,0,A,Rule 131: IP Frequency
+20240321105238,2,G,2,33.22,0,,MO,11K0F3E,45,45,0,0,A,Rule 131: IP Frequency
+20240321105238,2,G,2,33.24,0,,MO,11K0F3E,45,45,0,0,A,Rule 131: IP Frequency
+20240321105238,2,G,2,33.26,0,,MO,11K0F3E,45,45,0,0,A,Rule 131: IP Frequency
+20240321105238,2,G,2,33.28,0,,MO,11K0F3E,45,45,0,0,A,Rule 131: IP Frequency
+20240321105238,2,G,2,33.3,0,,MO,11K0F3E,45,45,0,0,A,Rule 131: IP Frequency
+20240321105238,2,G,2,33.32,0,,MO,11K0F3E,45,45,0,0,A,Rule 131: IP Frequency
+20240321105238,2,G,2,33.34,0,,MO,11K0F3E,45,45,0,0,A,Rule 131: IP Frequency
+20240321105238,2,G,2,33.36,0,,MO,11K0F3E,45,45,0,0,A,Rule 131: IP Frequency
+20240321105238,2,G,2,33.38,0,,MO,11K0F3E,45,45,0,0,A,Rule 131: IP Frequency
+20240321105238,2,G,2,33.4,0,,MO,11K0F3E,45,45,0,0,A,Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 14: Power must be <= 1 Watts
+20240321105238,2,G,2,35.06,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,35.08,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,35.1,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,35.12,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,35.14,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,35.16,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,35.18,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,35.28,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,35.32,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,35.36,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,35.4,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,35.44,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,35.48,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,35.52,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,35.7,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,35.72,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,35.74,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,35.76,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,35.78,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,35.8,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,35.82,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,35.84,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,35.86,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,35.88,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,35.9,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,35.92,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,35.94,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,35.96,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,35.98,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,36.25,0,,MO,11K0F3E,45,45,0,0,A,Rule 15: Govt frequency available for oil spill containment/cleanup confined to Inland and Coastal waterways.|Rule 131: IP Frequency
+20240321105238,2,G,2,37.44,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,37.46,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,37.48,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,37.5,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,37.52,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,37.54,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,37.56,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,37.58,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,37.6,0,,MO,11K0F3E,45,45,0,0,A,Rule 16: Available only to Stations operating an interconnected or coordinated utility system.|Rule 130: IW Frequency
+20240321105238,2,G,2,37.62,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,37.64,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,37.66,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,37.68,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,37.7,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,37.72,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,37.74,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,37.76,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,37.78,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,37.8,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,37.82,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,37.84,0,,MO,11K0F3E,45,45,0,0,A,Rule 16: Available only to Stations operating an interconnected or coordinated utility system.|Rule 130: IW Frequency
+20240321105238,2,G,2,37.86,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,37.88,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,41.71,0,,MO,11K0F3E,45,45,0,0,A,Rule 15: Govt frequency available for oil spill containment/cleanup confined to Inland and Coastal waterways.|Rule 131: IP Frequency
+20240321105238,2,G,2,42.96,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,43,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,43.02,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,43.06,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,43.08,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,43.1,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,43.12,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,43.14,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,43.16,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,43.18,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,43.28,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,43.32,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,43.36,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,43.4,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,43.44,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,43.48,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,43.52,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,43.7,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,43.72,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,43.74,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,43.76,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,43.78,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,43.8,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,43.82,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,43.84,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,43.86,0,,MO,11K0F3E,45,45,0,0,A,Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.
+20240321105238,2,G,2,43.88,0,,MO,11K0F3E,45,45,0,0,A,Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.
+20240321105238,2,G,2,43.9,0,,MO,11K0F3E,45,45,0,0,A,Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.
+20240321105238,2,G,2,43.92,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.
+20240321105238,2,G,2,43.94,0,,MO,11K0F3E,45,45,0,0,A,Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.
+20240321105238,2,G,2,43.96,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,43.98,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,44,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,44.02,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,44.04,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,44.06,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,44.08,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,44.1,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,44.12,0,,MO,11K0F3E,45,45,0,0,A,Rule 208: Frequency Type is 8 - Oil Spill Containment
+20240321105238,2,G,2,44.14,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,44.16,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,44.18,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,44.2,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,44.22,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,44.24,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,44.26,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,44.28,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,44.3,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,44.32,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,44.34,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,44.36,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.
+20240321105238,2,G,2,44.38,0,,MO,11K0F3E,45,45,0,0,A,Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.
+20240321105238,2,G,2,44.4,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.
+20240321105238,2,G,2,44.42,0,,MO,11K0F3E,45,45,0,0,A,Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.
+20240321105238,2,G,2,44.44,0,,MO,11K0F3E,45,45,0,0,A,Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.
+20240321105238,2,G,2,44.46,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,44.48,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,44.5,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,44.52,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,44.54,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,44.56,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,44.58,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,44.6,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,47.44,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,47.48,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,47.52,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,47.56,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,47.6,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,47.64,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,47.68,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,47.7,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,47.72,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,47.74,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,47.76,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,47.78,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,47.8,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,47.82,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,47.84,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,47.86,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,47.88,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,47.9,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,47.92,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,47.94,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,47.96,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,47.98,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.02,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.04,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.06,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.08,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.1,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.12,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.14,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.16,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.18,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.2,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.22,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.24,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.26,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.28,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.3,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.32,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.34,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.36,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.38,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.4,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.42,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.44,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.46,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.48,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.5,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.52,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.54,0,,MO,11K0F3E,45,45,0,0,A,Rule 130: IW Frequency
+20240321105238,2,G,2,48.56,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,48.58,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,48.6,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,48.62,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,48.64,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,48.66,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,48.68,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,48.7,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,48.72,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,48.74,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,48.76,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,48.78,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,48.8,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,48.82,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,48.84,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,48.86,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,48.88,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,48.9,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,48.92,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,48.94,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,48.96,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,48.98,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,49,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,49.02,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,49.04,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,49.06,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,49.08,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,49.1,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,49.12,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,49.14,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,49.16,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,49.18,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,49.2,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,49.22,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,49.24,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,49.26,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,49.28,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,49.3,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,49.32,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,49.34,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,49.36,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,49.38,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,49.4,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,49.42,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,49.44,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,49.46,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,49.48,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,49.5,0,,MO,11K0F3E,45,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,2,G,2,49.52,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,49.54,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,2,G,2,49.56,0,,MO,11K0F3E,45,45,0,0,A,
+20240321105238,2,G,2,49.58,0,,MO,11K0F3E,45,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,25.02,0,,MO,11K0F3E,60,60,0,0,A,Rule 3: Geophysical purposes only.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 131: IP Frequency
+20240321105238,3,H,3,25.04,0,,MO,11K0F3E,60,60,0,0,A,Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 131: IP Frequency
+20240321105238,3,H,3,25.06,0,,MO,11K0F3E,60,60,0,0,A,Rule 3: Geophysical purposes only.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 131: IP Frequency
+20240321105238,3,H,3,25.08,0,,MO,11K0F3E,60,60,0,0,A,Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,3,H,3,25.1,0,,MO,11K0F3E,60,60,0,0,A,Rule 3: Geophysical purposes only.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,3,H,3,25.12,0,,MO,11K0F3E,60,60,0,0,A,Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,3,H,3,25.14,0,,MO,11K0F3E,60,60,0,0,A,Rule 3: Geophysical purposes only.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,3,H,3,25.16,0,,MO,11K0F3E,60,60,0,0,A,Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,3,H,3,25.18,0,,MO,11K0F3E,60,60,0,0,A,Rule 3: Geophysical purposes only.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,3,H,3,25.2,0,,MO,11K0F3E,60,60,0,0,A,Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,3,H,3,25.22,0,,MO,11K0F3E,60,60,0,0,A,Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 131: IP Frequency
+20240321105238,3,H,3,25.24,0,,MO,11K0F3E,60,60,0,0,A,Rule 131: IP Frequency
+20240321105238,3,H,3,25.26,0,,MO,11K0F3E,60,60,0,0,A,Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 131: IP Frequency
+20240321105238,3,H,3,25.28,0,,MO,11K0F3E,60,60,0,0,A,Rule 131: IP Frequency
+20240321105238,3,H,3,25.3,0,,MO,11K0F3E,60,60,0,0,A,Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 131: IP Frequency
+20240321105238,3,H,3,25.32,0,,MO,11K0F3E,60,60,0,0,A,Rule 131: IP Frequency
+20240321105238,3,H,3,27.43,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,27.45,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,27.47,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,27.555,0,,MO,11K0F3E,60,60,0,0,A,Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.
+20240321105238,3,H,3,27.615,0,,MO,11K0F3E,60,60,0,0,A,Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.
+20240321105238,3,H,3,27.635,0,,MO,11K0F3E,60,60,0,0,A,Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.
+20240321105238,3,H,3,27.655,0,,MO,11K0F3E,60,60,0,0,A,Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.
+20240321105238,3,H,3,27.765,0,,MO,11K0F3E,60,60,0,0,A,Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.
+20240321105238,3,H,3,27.86,0,,MO,11K0F3E,60,60,0,0,A,Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.
+20240321105238,3,H,3,29.71,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,29.73,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,29.75,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,29.77,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,29.79,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,30.58,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,30.6,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,30.62,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,30.64,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,30.66,0,,MO,11K0F3E,60,60,0,0,A,Rule 207: Geophysical operation is on a secondary basis
+20240321105238,3,H,3,30.68,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,30.7,0,,MO,11K0F3E,60,60,0,0,A,Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 131: IP Frequency
+20240321105238,3,H,3,30.72,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,30.74,0,,MO,11K0F3E,60,60,0,0,A,Rule 207: Geophysical operation is on a secondary basis
+20240321105238,3,H,3,30.76,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,30.78,0,,MO,11K0F3E,60,60,0,0,A,Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 131: IP Frequency
+20240321105238,3,H,3,30.8,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,30.82,0,,MO,11K0F3E,60,60,0,0,A,Rule 207: Geophysical operation is on a secondary basis
+20240321105238,3,H,3,30.86,0,,MO,11K0F3E,60,60,0,0,A,Rule 13: Shared co-equal with Public Safety licensees
+20240321105238,3,H,3,30.88,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,30.9,0,,MO,11K0F3E,60,60,0,0,A,Rule 13: Shared co-equal with Public Safety licensees
+20240321105238,3,H,3,30.92,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,30.94,0,,MO,11K0F3E,60,60,0,0,A,Rule 13: Shared co-equal with Public Safety licensees
+20240321105238,3,H,3,30.96,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,30.98,0,,MO,11K0F3E,60,60,0,0,A,Rule 13: Shared co-equal with Public Safety licensees
+20240321105238,3,H,3,31,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,31.02,0,,MO,11K0F3E,60,60,0,0,A,Rule 13: Shared co-equal with Public Safety licensees
+20240321105238,3,H,3,31.04,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,31.06,0,,MO,11K0F3E,60,60,0,0,A,Rule 13: Shared co-equal with Public Safety licensees
+20240321105238,3,H,3,31.08,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,31.1,0,,MO,11K0F3E,60,60,0,0,A,Rule 13: Shared co-equal with Public Safety licensees
+20240321105238,3,H,3,31.12,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,31.14,0,,MO,11K0F3E,60,60,0,0,A,Rule 13: Shared co-equal with Public Safety licensees
+20240321105238,3,H,3,31.16,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,31.2,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,31.24,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,31.28,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,31.32,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,31.36,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,31.4,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,31.44,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,31.48,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,31.52,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,31.56,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,31.6,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,31.64,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,31.68,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,31.72,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,31.76,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,31.8,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,31.84,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,31.88,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,31.92,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,31.96,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,33.16,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,33.18,0,,MO,11K0F3E,60,60,0,0,A,Rule 131: IP Frequency
+20240321105238,3,H,3,33.2,0,,MO,11K0F3E,60,60,0,0,A,Rule 131: IP Frequency
+20240321105238,3,H,3,33.22,0,,MO,11K0F3E,60,60,0,0,A,Rule 131: IP Frequency
+20240321105238,3,H,3,33.24,0,,MO,11K0F3E,60,60,0,0,A,Rule 131: IP Frequency
+20240321105238,3,H,3,33.26,0,,MO,11K0F3E,60,60,0,0,A,Rule 131: IP Frequency
+20240321105238,3,H,3,33.28,0,,MO,11K0F3E,60,60,0,0,A,Rule 131: IP Frequency
+20240321105238,3,H,3,33.3,0,,MO,11K0F3E,60,60,0,0,A,Rule 131: IP Frequency
+20240321105238,3,H,3,33.32,0,,MO,11K0F3E,60,60,0,0,A,Rule 131: IP Frequency
+20240321105238,3,H,3,33.34,0,,MO,11K0F3E,60,60,0,0,A,Rule 131: IP Frequency
+20240321105238,3,H,3,33.36,0,,MO,11K0F3E,60,60,0,0,A,Rule 131: IP Frequency
+20240321105238,3,H,3,33.38,0,,MO,11K0F3E,60,60,0,0,A,Rule 131: IP Frequency
+20240321105238,3,H,3,33.4,0,,MO,11K0F3E,60,60,0,0,A,Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 14: Power must be <= 1 Watts
+20240321105238,3,H,3,35.06,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,35.08,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,35.1,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,35.12,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,35.14,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,35.16,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,35.18,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,35.28,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,35.32,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,35.36,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,35.4,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,35.44,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,35.48,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,35.52,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,35.7,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,35.72,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,35.74,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,35.76,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,35.78,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,35.8,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,35.82,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,35.84,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,35.86,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,35.88,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,35.9,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,35.92,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,35.94,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,35.96,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,35.98,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,36.25,0,,MO,11K0F3E,60,60,0,0,A,Rule 15: Govt frequency available for oil spill containment/cleanup confined to Inland and Coastal waterways.|Rule 131: IP Frequency
+20240321105238,3,H,3,37.44,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,37.46,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,37.48,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,37.5,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,37.52,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,37.54,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,37.56,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,37.58,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,37.6,0,,MO,11K0F3E,60,60,0,0,A,Rule 16: Available only to Stations operating an interconnected or coordinated utility system.|Rule 130: IW Frequency
+20240321105238,3,H,3,37.62,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,37.64,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,37.66,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,37.68,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,37.7,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,37.72,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,37.74,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,37.76,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,37.78,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,37.8,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,37.82,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,37.84,0,,MO,11K0F3E,60,60,0,0,A,Rule 16: Available only to Stations operating an interconnected or coordinated utility system.|Rule 130: IW Frequency
+20240321105238,3,H,3,37.86,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,37.88,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,41.71,0,,MO,11K0F3E,60,60,0,0,A,Rule 15: Govt frequency available for oil spill containment/cleanup confined to Inland and Coastal waterways.|Rule 131: IP Frequency
+20240321105238,3,H,3,42.96,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,43,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,43.02,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,43.06,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,43.08,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,43.1,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,43.12,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,43.14,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,43.16,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,43.18,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,43.28,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,43.32,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,43.36,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,43.4,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,43.44,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,43.48,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,43.52,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,43.7,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,43.72,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,43.74,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,43.76,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,43.78,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,43.8,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,43.82,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,43.84,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,43.86,0,,MO,11K0F3E,60,60,0,0,A,Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.
+20240321105238,3,H,3,43.88,0,,MO,11K0F3E,60,60,0,0,A,Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.
+20240321105238,3,H,3,43.9,0,,MO,11K0F3E,60,60,0,0,A,Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.
+20240321105238,3,H,3,43.92,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.
+20240321105238,3,H,3,43.94,0,,MO,11K0F3E,60,60,0,0,A,Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.
+20240321105238,3,H,3,43.96,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,43.98,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,44,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,44.02,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,44.04,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,44.06,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,44.08,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,44.1,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,44.12,0,,MO,11K0F3E,60,60,0,0,A,Rule 208: Frequency Type is 8 - Oil Spill Containment
+20240321105238,3,H,3,44.14,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,44.16,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,44.18,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,44.2,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,44.22,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,44.24,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,44.26,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,44.28,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,44.3,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,44.32,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,44.34,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,44.36,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.
+20240321105238,3,H,3,44.38,0,,MO,11K0F3E,60,60,0,0,A,Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.
+20240321105238,3,H,3,44.4,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.
+20240321105238,3,H,3,44.42,0,,MO,11K0F3E,60,60,0,0,A,Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.
+20240321105238,3,H,3,44.44,0,,MO,11K0F3E,60,60,0,0,A,Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.
+20240321105238,3,H,3,44.46,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,44.48,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,44.5,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,44.52,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,44.54,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,44.56,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,44.58,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,44.6,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,47.44,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,47.48,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,47.52,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,47.56,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,47.6,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,47.64,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,47.68,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,47.7,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,47.72,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,47.74,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,47.76,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,47.78,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,47.8,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,47.82,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,47.84,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,47.86,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,47.88,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,47.9,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,47.92,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,47.94,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,47.96,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,47.98,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.02,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.04,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.06,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.08,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.1,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.12,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.14,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.16,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.18,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.2,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.22,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.24,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.26,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.28,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.3,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.32,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.34,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.36,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.38,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.4,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.42,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.44,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.46,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.48,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.5,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.52,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.54,0,,MO,11K0F3E,60,60,0,0,A,Rule 130: IW Frequency
+20240321105238,3,H,3,48.56,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,48.58,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,48.6,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,48.62,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,48.64,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,48.66,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,48.68,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,48.7,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,48.72,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,48.74,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,48.76,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,48.78,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,48.8,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,48.82,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,48.84,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,48.86,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,48.88,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,48.9,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,48.92,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,48.94,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,48.96,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,48.98,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,49,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,49.02,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,49.04,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,49.06,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,49.08,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,49.1,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,49.12,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,49.14,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,49.16,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,49.18,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,49.2,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,49.22,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,49.24,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,49.26,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,49.28,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,49.3,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,49.32,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,49.34,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,49.36,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,49.38,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,49.4,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,49.42,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,49.44,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,49.46,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,49.48,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,49.5,0,,MO,11K0F3E,60,60,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.
+20240321105238,3,H,3,49.52,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,49.54,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,3,H,3,49.56,0,,MO,11K0F3E,60,60,0,0,A,
+20240321105238,3,H,3,49.58,0,,MO,11K0F3E,60,60,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+20240321105238,4,H,3,25.02,0,,MO,11K0F3E,450,45,0,0,A,Rule 3: Geophysical purposes only.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 131: IP Frequency
+20240321105238,4,H,3,25.04,0,,MO,11K0F3E,450,45,0,0,A,Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 131: IP Frequency
+20240321105238,4,H,3,25.06,0,,MO,11K0F3E,450,45,0,0,A,Rule 3: Geophysical purposes only.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 131: IP Frequency
+20240321105238,4,H,3,25.08,0,,MO,11K0F3E,450,45,0,0,A,Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,4,H,3,25.1,0,,MO,11K0F3E,450,45,0,0,A,Rule 3: Geophysical purposes only.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,4,H,3,25.12,0,,MO,11K0F3E,450,45,0,0,A,Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,4,H,3,25.14,0,,MO,11K0F3E,450,45,0,0,A,Rule 3: Geophysical purposes only.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,4,H,3,25.16,0,,MO,11K0F3E,450,45,0,0,A,Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,4,H,3,25.18,0,,MO,11K0F3E,450,45,0,0,A,Rule 3: Geophysical purposes only.|Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,4,H,3,25.2,0,,MO,11K0F3E,450,45,0,0,A,Rule 9: Secondary to stations in the maritime mobile service.|Rule 131: IP Frequency
+20240321105238,4,H,3,25.22,0,,MO,11K0F3E,450,45,0,0,A,Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 131: IP Frequency
+20240321105238,4,H,3,25.24,0,,MO,11K0F3E,450,45,0,0,A,Rule 131: IP Frequency
+20240321105238,4,H,3,25.26,0,,MO,11K0F3E,450,45,0,0,A,Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 131: IP Frequency
+20240321105238,4,H,3,25.28,0,,MO,11K0F3E,450,45,0,0,A,Rule 131: IP Frequency
+20240321105238,4,H,3,25.3,0,,MO,11K0F3E,450,45,0,0,A,Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 131: IP Frequency
+20240321105238,4,H,3,25.32,0,,MO,11K0F3E,450,45,0,0,A,Rule 131: IP Frequency
+20240321105238,4,H,3,27.555,0,,MO,11K0F3E,450,45,0,0,A,Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.|Rule 89: Power must be <= 150 Watts output power
+20240321105238,4,H,3,27.615,0,,MO,11K0F3E,450,45,0,0,A,Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.|Rule 89: Power must be <= 150 Watts output power
+20240321105238,4,H,3,27.635,0,,MO,11K0F3E,450,45,0,0,A,Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.|Rule 89: Power must be <= 150 Watts output power
+20240321105238,4,H,3,27.655,0,,MO,11K0F3E,450,45,0,0,A,Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.|Rule 89: Power must be <= 150 Watts output power
+20240321105238,4,H,3,27.765,0,,MO,11K0F3E,450,45,0,0,A,Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.|Rule 89: Power must be <= 150 Watts output power
+20240321105238,4,H,3,27.86,0,,MO,11K0F3E,450,45,0,0,A,Rule 89: May be assigned only to forest product on a secondary basis to Federal Government.|Rule 89: Power must be <= 150 Watts output power
+20240321105238,4,H,3,30.64,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,30.66,0,,MO,11K0F3E,450,45,0,0,A,Rule 207: Geophysical operation is on a secondary basis|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,30.7,0,,MO,11K0F3E,450,45,0,0,A,Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 131: IP Frequency
+20240321105238,4,H,3,30.74,0,,MO,11K0F3E,450,45,0,0,A,Rule 207: Geophysical operation is on a secondary basis|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,30.78,0,,MO,11K0F3E,450,45,0,0,A,Rule 4: Geophysical may use tone/impulse signaling  on a secondary basis based on the following.|Rule 4: Maximum duration of a single non-voice transmission may not exceed 3 minutes.|Rule 4: Bandwidth shall not exceed that authorized for voice emission on the frequency.|Rule 4: Use of secondary tone/impulse signaling will not be considered in frequency loading.|Rule 4: Maximum transmitter output power for tone/impulse transmissions shall not exceed 50 watts.|Rule 7: Geophysical operations will be authorized on a secondary basis.|Rule 131: IP Frequency
+20240321105238,4,H,3,30.82,0,,MO,11K0F3E,450,45,0,0,A,Rule 207: Geophysical operation is on a secondary basis|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,30.86,0,,MO,11K0F3E,450,45,0,0,A,Rule 13: Shared co-equal with Public Safety licensees|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,30.9,0,,MO,11K0F3E,450,45,0,0,A,Rule 13: Shared co-equal with Public Safety licensees|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,30.94,0,,MO,11K0F3E,450,45,0,0,A,Rule 13: Shared co-equal with Public Safety licensees|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,30.98,0,,MO,11K0F3E,450,45,0,0,A,Rule 13: Shared co-equal with Public Safety licensees|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,31.02,0,,MO,11K0F3E,450,45,0,0,A,Rule 13: Shared co-equal with Public Safety licensees|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,31.06,0,,MO,11K0F3E,450,45,0,0,A,Rule 13: Shared co-equal with Public Safety licensees|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,31.1,0,,MO,11K0F3E,450,45,0,0,A,Rule 13: Shared co-equal with Public Safety licensees|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,31.14,0,,MO,11K0F3E,450,45,0,0,A,Rule 13: Shared co-equal with Public Safety licensees|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,31.28,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,31.36,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,31.4,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,31.44,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,31.48,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,31.52,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,31.56,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,31.6,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,31.64,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,31.68,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,31.72,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,31.76,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,31.8,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,31.84,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,31.88,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,31.92,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,31.96,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,33.18,0,,MO,11K0F3E,450,45,0,0,A,Rule 131: IP Frequency
+20240321105238,4,H,3,33.2,0,,MO,11K0F3E,450,45,0,0,A,Rule 131: IP Frequency
+20240321105238,4,H,3,33.22,0,,MO,11K0F3E,450,45,0,0,A,Rule 131: IP Frequency
+20240321105238,4,H,3,33.24,0,,MO,11K0F3E,450,45,0,0,A,Rule 131: IP Frequency
+20240321105238,4,H,3,33.26,0,,MO,11K0F3E,450,45,0,0,A,Rule 131: IP Frequency
+20240321105238,4,H,3,33.28,0,,MO,11K0F3E,450,45,0,0,A,Rule 131: IP Frequency
+20240321105238,4,H,3,33.3,0,,MO,11K0F3E,450,45,0,0,A,Rule 131: IP Frequency
+20240321105238,4,H,3,33.32,0,,MO,11K0F3E,450,45,0,0,A,Rule 131: IP Frequency
+20240321105238,4,H,3,33.34,0,,MO,11K0F3E,450,45,0,0,A,Rule 131: IP Frequency
+20240321105238,4,H,3,33.36,0,,MO,11K0F3E,450,45,0,0,A,Rule 131: IP Frequency
+20240321105238,4,H,3,33.38,0,,MO,11K0F3E,450,45,0,0,A,Rule 131: IP Frequency
+20240321105238,4,H,3,33.4,0,,MO,11K0F3E,450,45,0,0,A,Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 14: Power must be <= 1 Watts
+20240321105238,4,H,3,35.32,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,35.36,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,35.4,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,35.44,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,35.48,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,35.52,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,36.25,0,,MO,11K0F3E,450,45,0,0,A,Rule 15: Govt frequency available for oil spill containment/cleanup confined to Inland and Coastal waterways.|Rule 131: IP Frequency
+20240321105238,4,H,3,37.46,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,37.48,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,37.5,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,37.52,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,37.54,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,37.56,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,37.58,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,37.6,0,,MO,11K0F3E,450,45,0,0,A,Rule 16: Available only to Stations operating an interconnected or coordinated utility system.|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,37.62,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,37.64,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,37.66,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,37.68,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,37.7,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,37.72,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,37.74,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,37.76,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,37.78,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,37.8,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,37.82,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,37.84,0,,MO,11K0F3E,450,45,0,0,A,Rule 16: Available only to Stations operating an interconnected or coordinated utility system.|Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,37.86,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,41.71,0,,MO,11K0F3E,450,45,0,0,A,Rule 15: Govt frequency available for oil spill containment/cleanup confined to Inland and Coastal waterways.|Rule 131: IP Frequency
+20240321105238,4,H,3,43.02,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,43.06,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,43.08,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,43.1,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,43.12,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,43.14,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,43.28,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,43.32,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,43.36,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,43.4,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,43.44,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,43.48,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,43.52,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,43.72,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,43.74,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,43.82,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,43.84,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,43.86,0,,MO,11K0F3E,450,45,0,0,A,Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,43.88,0,,MO,11K0F3E,450,45,0,0,A,Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,43.9,0,,MO,11K0F3E,450,45,0,0,A,Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,43.92,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,43.94,0,,MO,11K0F3E,450,45,0,0,A,Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,43.96,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,44.12,0,,MO,11K0F3E,450,45,0,0,A,Rule 208: Frequency Type is 8 - Oil Spill Containment|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,44.16,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,44.18,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,44.2,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,44.32,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,44.36,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,44.38,0,,MO,11K0F3E,450,45,0,0,A,Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,44.4,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,44.42,0,,MO,11K0F3E,450,45,0,0,A,Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,44.44,0,,MO,11K0F3E,450,45,0,0,A,Rule 19: Available to FBM. Pairs assigned with 500 KHz separation.  Base transmits on high side.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,44.46,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,44.48,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,47.7,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,47.72,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,47.74,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,47.76,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,47.78,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,47.8,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,47.82,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,47.84,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,47.86,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,47.88,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,47.9,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,47.92,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,47.94,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,47.96,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,47.98,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.02,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.04,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.06,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.08,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.1,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.12,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.14,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.16,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.18,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.2,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.22,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.24,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.26,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.28,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.3,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.32,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.34,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.36,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.38,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.4,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.42,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.44,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.46,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.48,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.5,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.52,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.54,0,,MO,11K0F3E,450,45,0,0,A,Rule 130: IW Frequency|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.84,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.86,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,48.92,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,49.02,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,49.08,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,49.1,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,49.16,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,49.2,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,49.24,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,49.26,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,49.28,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,49.36,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,49.4,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,49.46,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,49.5,0,,MO,11K0F3E,450,45,0,0,A,Rule 18: Frequency is also used on a secondary basis for cordless telephones under Part 15 rules.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,49.52,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,49.54,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
+20240321105238,4,H,3,49.58,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
