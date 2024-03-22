@@ -35,6 +35,11 @@ This will run the test case in the `1_3_a` on the Local environment (must be run
 node main.js 1_3_a local
 ```
 
+This will only check the differences between the nxgen output file and the legacy output file, it will not contact the server. You would use this when making changes to the `legacy_results_adjusted` file and want to quickly run the difference again.
+```
+node main.js 1_3_a --use-existing-output
+```
+
 ## Run a regression test
 To run multiple test cases at once, or to regression test, open a Powershell window and run the following command in the root directory:
 ```
@@ -56,11 +61,12 @@ node regression.js develop --exclude "old, not_working"
 If the `environment_name` argument is not provided, it defaults to Develop. The `environment_name`
 
 ## Arguments
-| Argument      | Default Value | Use cases | Available values |
-| ----------- | ----------- | ----------- | ----------- |
-| `enviornment_name` | develop | main.js, regression.js | develop, release, *more to follow...* |
-| `test_case_directory_name` | null | main.js | directory name in `./test_cases` |
-| `--exclude "value"` | null | regression.js | directories in `./test_cases` you don't want to run, comma separated. All whitespace in the "value" will be removed. |
+| Argument      | Default Value | Use cases | Available values | Description |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| `enviornment_name` | develop | main.js, regression.js | develop, release, *more to follow...* | |
+| `test_case_directory_name` | null | main.js | directory name in `./test_cases` | |
+| `--exclude "value"` | null | regression.js | directories in `./test_cases` you don't want to run, comma separated. All whitespace in the "value" will be removed. | |
+| `--use-existing-output` | develop | main.js | N/A | Use this when you don't need new nxgen output just want to re-run differences |
 
 # Add Test Cases
 Add the following files
