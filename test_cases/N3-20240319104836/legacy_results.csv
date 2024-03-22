@@ -1,4 +1,3 @@
-LogID,LineNum,Loc,LocNum,FreqLow,FreqHi,FreqType,Class,Emission,Power,Erp,Haat,TxAntHgt,CoordCode,ErrTxt
 20240319104836,3,B,3,151.0925,0,,FB2,11K0F3E,40,45,-8.4,12.2,A,Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 31: The State Must Be PR or VI
 20240319104836,3,B,3,151.1075,0,,FB2,11K0F3E,40,45,-8.4,12.2,A,Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 31: The State Must Be PR or VI
 20240319104836,3,B,3,151.1225,0,,FB2,11K0F3E,40,45,-8.4,12.2,A,Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 31: The State Must Be PR or VI

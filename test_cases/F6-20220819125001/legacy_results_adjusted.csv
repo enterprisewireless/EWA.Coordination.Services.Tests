@@ -1,5 +1,4 @@
-﻿LogID,LineNum,Loc,LocNum,FreqLow,FreqHi,FreqType,Class,Emission,Power,Erp,Haat,TxAntHgt,CoordCode,ErrTxt
-2.02208E+13,1,G,1,161.61,0,,MO,7K60FXE,5,5,0,0,A,
+﻿2.02208E+13,1,G,1,161.61,0,,MO,7K60FXE,5,5,0,0,A,
 2.02208E+13,2,H,2,150.8525,0,,MO,7K60FXE,5,5,0,0,A,Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 132: LA Frequency
 2.02208E+13,2,H,2,150.8675,0,,MO,7K60FXE,5,5,0,0,A,Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 132: LA Frequency
 2.02208E+13,2,H,2,150.8825,0,,MO,7K60FXE,5,5,0,0,A,Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 132: LA Frequency
