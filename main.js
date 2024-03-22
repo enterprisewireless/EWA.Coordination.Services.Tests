@@ -6,7 +6,7 @@ var api = require('./lib/api');
 
 let test_case = process.argv[2];
 let environment;
-if(process.argv[3] != "develop" || process.argv[3] != "release" || process.argv[3] != "prod-test") {
+if(process.argv[3] != "local" && process.argv[3] != "develop" && process.argv[3] != "release" && process.argv[3] != "prod-test") {
   environment = "develop";
 }
 else {
