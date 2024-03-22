@@ -447,7 +447,7 @@
 20240122150039,1,A,1,464.95,0,,FB8,7K60FXD,100,75,125.6,96,A,
 20240122150039,1,A,1,464.9625,0,,FB8,7K60FXD,100,75,125.6,96,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
 20240122150039,1,A,1,464.975,0,,FB8,7K60FXD,100,75,125.6,96,A,
-20240122150039,1,A,1,465,0,,FB8,7K60FXD,100,75,125.6,96,A,Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts
+20240122150039,1,A,1,465,0,,FB8,7K60FXD,100,75,125.6,96,A,"Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 34: Power May Not Exceed 35 Watts|Rule 36: Emission Must be A1D, A2D, A3E, F1D, F2D, F3E, G3E"
 20240122150039,2,A,1,450,469.99999,,FB8,7K60FXE,100,75,125.6,96,C,
 20240122150039,3,G,2,451.025,0,,MO8,7K60FXD,40,40,0,0,A,Rule 130: IW Frequency
 20240122150039,3,G,2,451.0375,0,,MO8,7K60FXD,40,40,0,0,A,Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 130: IW Frequency
