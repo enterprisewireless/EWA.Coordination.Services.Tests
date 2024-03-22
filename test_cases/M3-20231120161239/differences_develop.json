@@ -54,8 +54,5 @@
   "G|2|158.46|158.46|MO6|11K2F1E|A": {
     "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 36: Emission Must be A1D, A2D, A3E, F1D, F2D, F3E, G3E|Rule 37: Frequency is available on a secondary basis to one-way paging.",
     "legacy": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 36: Emission Must be A1D, A2D, A3E, F1D, F2D, F3E, G3E"
-  },
-  "Loc|LocNum|FreqLow|FreqHi|Class|Emission|CoordCode": {
-    "legacy": "ErrTxt"
   }
 }
