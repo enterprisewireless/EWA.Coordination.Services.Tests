@@ -1,0 +1,8 @@
+{
+  "G|1|462.1875|462.1875|MO|7K60FXD|A": {
+    "nxgen": "Rule 83: Telemetry operations will be authorized on a secondary basis."
+  },
+  "Loc|LocNum|FreqLow|FreqHi|Class|Emission|CoordCode": {
+    "legacy": "ErrTxt"
+  }
+}
