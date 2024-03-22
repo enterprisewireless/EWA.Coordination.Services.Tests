@@ -7,21 +7,9 @@
     "nxgen": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 46: This frequency is limited to a maximum power of 20 watts.|Rule 131: IP Frequency",
     "legacy": "Rule 8: Primary oil spill-Secondary FBM users required to forego use if primary users receive interference.|Rule 46: This frequency is limited to a maximum power of 20 watts."
   },
-  "B|3|154.625|154.625|FB2|4K00F1D|A": {
-    "nxgen": "Rule 36: Frequency is for OP - Oneway Paging|Rule 37: Frequency is available on a secondary basis to one-way paging.|Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts|Rule 96: Power Must Be <= 20 Watts",
-    "legacy": "Rule 36: Frequency is for OP - Oneway Paging|Rule 37: Frequency is available on a secondary basis to one-way paging.|Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts|Rule 96: Power Must Be <= 20 Watts"
-  },
-  "B|3|154.64|154.64|FB2|4K00F1D|A": {
-    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 36: Frequency is for OP - Oneway Paging|Rule 37: Frequency is available on a secondary basis to one-way paging.|Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts|Rule 96: Power Must Be <= 20 Watts",
-    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 36: Frequency is for OP - Oneway Paging|Rule 37: Frequency is available on a secondary basis to one-way paging.|Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts|Rule 96: Power Must Be <= 20 Watts"
-  },
   "B|3|157.725|157.725|FB2|4K00F1D|A": {
     "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 79: Base or mobile stations located 80.47 km (50 miles) or less from the center or any urbanized area of 600,000 or more population (U.S. Census of Population, 1970) must be operated in the half-duplex mode CINCINNATI, OH, DAYTON, OH",
     "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
-  },
-  "B|3|158.46|158.46|FB2|4K00F1D|A": {
-    "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 36: Frequency is for OP - Oneway Paging|Rule 37: Frequency is available on a secondary basis to one-way paging.|Rule 48: For AT - Commercial Air Transportation, output power limited to 20 watts|Rule 96: Power Must Be <= 20 Watts",
-    "legacy": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 36: Frequency is for OP - Oneway Paging|Rule 37: Frequency is available on a secondary basis to one-way paging.|Rule 48: For AT - Commertial Air Transportation, output power limited to 20 watts|Rule 96: Power Must Be <= 20 Watts"
   },
   "H|4|152.465|152.465|MO|4K00F1D|A": {
     "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 79: Base or mobile stations located 80.47 km (50 miles) or less from the center or any urbanized area of 600,000 or more population (U.S. Census of Population, 1970) must be operated in the half-duplex mode CINCINNATI, OH, DAYTON, OH",
@@ -39,30 +27,6 @@
     "nxgen": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 79: Base or mobile stations located 80.47 km (50 miles) or less from the center or any urbanized area of 600,000 or more population (U.S. Census of Population, 1970) must be operated in the half-duplex mode CINCINNATI, OH, DAYTON, OH",
     "legacy": "Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized."
   },
-  "H|4|173.2375|173.2375|MO|4K00F1D|A": {
-    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
-    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
-  },
-  "H|4|173.2625|173.2625|MO|4K00F1D|A": {
-    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
-    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
-  },
-  "H|4|173.2875|173.2875|MO|4K00F1D|A": {
-    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
-    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
-  },
-  "H|4|173.3125|173.3125|MO|4K00F1D|A": {
-    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
-    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
-  },
-  "H|4|173.3375|173.3375|MO|4K00F1D|A": {
-    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
-    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
-  },
-  "H|4|173.3625|173.3625|MO|4K00F1D|A": {
-    "nxgen": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies",
-    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
-  },
   "B|3|154.45625|154.45625|FB2|4K00F1D|A": {
     "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 42: Secondary to adjacent operations."
   },
@@ -76,21 +40,21 @@
     "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 42: Secondary to adjacent operations."
   },
   "B|3|173.2375|173.2375|FB2|4K00F1D|A": {
-    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies"
   },
   "B|3|173.2625|173.2625|FB2|4K00F1D|A": {
-    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies"
   },
   "B|3|173.2875|173.2875|FB2|4K00F1D|A": {
-    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies"
   },
   "B|3|173.3125|173.3125|FB2|4K00F1D|A": {
-    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies"
   },
   "B|3|173.3375|173.3375|FB2|4K00F1D|A": {
-    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies"
   },
   "B|3|173.3625|173.3625|FB2|4K00F1D|A": {
-    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3"
+    "legacy": "Rule 40: Shared with Public Safety for Remote Control and Telemetry Operations|Rule 41: Operational fixed stations must employ either directional and omnidirectional antennas.|Rule 93: Telemetry/VRS frequency: Station Class must be FXO, FXOT or MO3|Rule 94: Licensee required to show Min. 50 mobile units per freq. before requesting additional frequencies"
   }
 }
