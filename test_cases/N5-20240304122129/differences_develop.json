@@ -1,0 +1,25 @@
+{
+  "J|6|425.2|425.2|MO|11K2F3E|A": {
+    "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging",
+    "legacy": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+  },
+  "J|6|425.225|425.225|MO|11K2F3E|A": {
+    "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging",
+    "legacy": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+  },
+  "J|6|425.0375|425.0375|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+  },
+  "J|6|425.1|425.1|MO|11K2F3E|A": {
+    "nxgen": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging",
+    "legacy": "Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+  },
+  "J|6|425.2375|425.2375|MO|11K2F3E|A": {
+    "nxgen": "Rule 30: Telemetry operations will be authorized on a secondary basis.",
+    "legacy": "Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 100: Must within 80.47Km of either Detroit, MI or Cleveland, OH or 48.28Km of Buffalo, NY Detroit, MI"
+  },
+  "Loc|LocNum|FreqLow|FreqHi|Class|Emission|CoordCode": {
+    "legacy": "ErrTxt"
+  }
+}
