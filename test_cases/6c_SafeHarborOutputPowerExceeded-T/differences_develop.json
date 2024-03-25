@@ -1,13 +1,1 @@
-{
-  "G|2|33.4|33.4|MO|11K0F3E|A": {
-    "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 14: Power must be <= 1 Watts|Rule 288: Power Must Be <= 1 Watts",
-    "legacy": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 14: Power must be <= 1 Watts"
-  },
-  "H|3|33.4|33.4|MO|11K0F3E|A": {
-    "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 14: Power must be <= 1 Watts|Rule 288: Power Must Be <= 1 Watts",
-    "legacy": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 14: Power must be <= 1 Watts"
-  },
-  "Loc|LocNum|FreqLow|FreqHi|Class|Emission|CoordCode": {
-    "legacy": "ErrTxt"
-  }
-}
+{}
