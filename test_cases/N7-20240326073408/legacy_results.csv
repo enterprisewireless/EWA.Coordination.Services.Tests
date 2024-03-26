@@ -1,0 +1,18 @@
+LogID,LineNum,Loc,LocNum,FreqLow,FreqHi,FreqType,Class,Emission,Power,Erp,Haat,TxAntHgt,CoordCode,ErrTxt
+20240322135214,1,G,1,451.325,0,,MO,11K2F3E,4,4,0,0,A,
+20240322135214,1,G,1,451.3375,0,,MO,11K2F3E,4,4,0,0,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20240322135214,1,G,1,451.35,0,,MO,11K2F3E,4,4,0,0,A,
+20240322135214,1,G,1,451.3625,0,,MO,11K2F3E,4,4,0,0,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20240322135214,1,G,1,451.375,0,,MO,11K2F3E,4,4,0,0,A,"Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+20240322135214,1,G,1,451.3875,0,,MO,11K2F3E,4,4,0,0,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20240322135214,1,G,1,451.4,0,,MO,11K2F3E,4,4,0,0,A,
+20240322135214,1,G,1,451.3125,0,,MO,11K2F3E,4,4,0,0,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20240322135214,1,G,1,451.3,0,,MO,11K2F3E,4,4,0,0,A,
+20240322135214,1,G,1,451.2875,0,,MO,11K2F3E,4,4,0,0,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20240322135214,1,G,1,451.275,0,,MO,11K2F3E,4,4,0,0,A,"Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+20240322135214,1,G,1,451.2625,0,,MO,11K2F3E,4,4,0,0,A,Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 130: IW Frequency
+20240322135214,1,G,1,451.25,0,,MO,11K2F3E,4,4,0,0,A,Rule 130: IW Frequency
+20240322135214,1,G,1,451.2375,0,,MO,11K2F3E,4,4,0,0,A,Rule 30: Telemetry operations will be authorized on a secondary basis.
+20240322135214,1,G,1,451.225,0,,MO,11K2F3E,4,4,0,0,A,"Rule 121: Frequency is in Shared Channel|Rule 133: IW, IP Frequency"
+20240322135214,1,G,1,451.2125,0,,MO,11K2F3E,4,4,0,0,A,Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 130: IW Frequency
+20240322135214,1,G,1,451.2,0,,MO,11K2F3E,4,4,0,0,A,Rule 130: IW Frequency

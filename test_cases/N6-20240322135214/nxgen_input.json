@@ -1,0 +1,68 @@
+{
+    "licenseType": "IB",
+    "scheduleGhs": [
+        {
+            "lineNum": 3,
+            "locationCode": "G",
+            "locationNum": 1,
+            "frequencyLow": 450,
+            "frequencyHigh": 469.99999,
+            "stationClass": "MO",
+            "emissionDesignator": "7K60FXD",
+            "power": 4,
+            "erp": 4,
+            "haat": null,
+            "transmittingAntennaHeight": null,
+            "coordinationCode": "C",
+            "requestNum": 3,
+            "frequencyType": null
+        },
+        {
+            "lineNum": 2,
+            "locationCode": "G",
+            "locationNum": 1,
+            "frequencyLow": 450,
+            "frequencyHigh": 469.99999,
+            "stationClass": "MO",
+            "emissionDesignator": "7K60FXE",
+            "power": 4,
+            "erp": 4,
+            "haat": null,
+            "transmittingAntennaHeight": null,
+            "coordinationCode": "C",
+            "requestNum": 2,
+            "frequencyType": null
+        },
+        {
+            "lineNum": 1,
+            "locationCode": "G",
+            "locationNum": 1,
+            "frequencyLow": 450,
+            "frequencyHigh": 469.99999,
+            "stationClass": "MO",
+            "emissionDesignator": "11K2F3E",
+            "power": 4,
+            "erp": 4,
+            "haat": null,
+            "transmittingAntennaHeight": null,
+            "coordinationCode": "A",
+            "requestNum": 1,
+            "frequencyType": null
+        }
+    ],
+    "scheduleEs": [
+        {
+            "state": "CA",
+            "city": "Upland",
+            "county": "San Bernardino",
+            "locationNum": 1,
+            "locationCode": "G",
+            "latitude": 34.116889,
+            "longitude": -117.673361,
+            "areaOfOperation": null,
+            "serviceAreaRadius": 8,
+            "elevation": null,
+            "areaOfOperationCode": "P"
+        }
+    ]
+}
