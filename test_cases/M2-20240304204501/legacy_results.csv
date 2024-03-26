@@ -1,4 +1,3 @@
-LogID,LineNum,Loc,LocNum,FreqLow,FreqHi,FreqType,Class,Emission,Power,Erp,Haat,TxAntHgt,CoordCode,ErrTxt
 20240304204501,3,G,2,159.695,159.695,,MO,11K2F3E,4,4,0,0,A,The frequency could not be found.
 20240304204501,2,G,2,152.87,0,,MO,11K2F3E,4,4,0,0,A,
 20240304204501,1,A,1,152.87,152.87,,FB2,11K2F3E,25,35,10.9,33,A,A copy of this application needs to be sent to the Arecibo Observatory in Puerto Rico.

@@ -1,3 +1,2 @@
-﻿LogID,LineNum,Loc,LocNum,FreqLow,FreqHi,FreqType,Class,Emission,Power,Erp,Haat,TxAntHgt,CoordCode,ErrTxt
-2.02209E+13,1,A,1,30.64,0,,FB,11K2F3E,100,200,66.8,24.4,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
+﻿2.02209E+13,1,A,1,30.64,0,,FB,11K2F3E,100,200,66.8,24.4,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.
 2.02209E+13,2,G,2,30.64,0,,MO,11K2F3E,100,100,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.

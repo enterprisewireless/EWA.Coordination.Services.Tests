@@ -2,9 +2,5 @@
   "A|1|159.6|159.6|FB2|11K2F3E|A": {
     "nxgen": "",
     "legacy": "The ERP exceeded the Safe Harbor Table limit of 191. While testing Location 9"
-  },
-  "K|9|151.625|151.625|MO|11K2F3E|A": {
-    "nxgen": "Rule 10: Station Class must be itinerant except within 56 km of Detroit, MI where itinerant/permanent use permitted. DETROIT, MI",
-    "legacy": "Rule 10: Itinerant except within 56 km of Detroit, MI where itinerant/permanent use permitted. Detroit, MI|Rule 10: Station Class must be itinerant. Detroit, MI"
   }
 }

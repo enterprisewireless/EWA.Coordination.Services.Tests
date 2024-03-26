@@ -1,5 +1,4 @@
-﻿LogID,LineNum,Loc,LocNum,FreqLow,FreqHi,FreqType,Class,Emission,Power,Erp,Haat,TxAntHgt,CoordCode,ErrTxt
-2.02305E+13,1,A,1,150.83,150.83,,FB2,8K70D1W,5,11.2,622.8,13.1,C,
+﻿2.02305E+13,1,A,1,150.83,150.83,,FB2,8K70D1W,5,11.2,622.8,13.1,C,
 2.02305E+13,2,A,1,150.83,0,,FB2,9K80D7W,5,11.2,622.8,13.1,A,Rule 28: State must be PR or VI|Rule 28: Frequency is for OP - Oneway Paging|Rule 29: Output power cannot exceed 350 watts.|Rule 29: Frequency is for OP - Oneway Paging|Rule 132: LA Frequency
 2.02305E+13,3,G,2,153.215,153.215,,MO,8K70D1W,100,100,0,0,C,
 2.02305E+13,4,G,2,153.215,0,,MO,9K80D7W,100,100,0,0,A,Rule 121: Frequency is in Shared Channel|Rule 131: IP Frequency

@@ -1,4 +1,3 @@
-LogID,LineNum,Loc,LocNum,FreqLow,FreqHi,FreqType,Class,Emission,Power,Erp,Haat,TxAntHgt,CoordCode,ErrTxt
 20240321132557,24,B,4,451.0375,0,,FB6,7K60F1E,0,40,0,11,A,Rule 30: Telemetry operations will be authorized on a secondary basis.|Rule 130: IW Frequency
 20240321132557,24,B,4,451.05,0,,FB6,7K60F1E,0,40,0,11,A,Rule 130: IW Frequency
 20240321132557,24,B,4,451.025,0,,FB6,7K60F1E,0,40,0,11,A,Rule 130: IW Frequency

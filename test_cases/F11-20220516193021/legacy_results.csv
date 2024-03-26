@@ -1,4 +1,3 @@
-LogID,LineNum,Loc,LocNum,FreqLow,FreqHi,FreqType,Class,Emission,Power,Erp,Haat,TxAntHgt,CoordCode,ErrTxt
 20220516193021,1,G,1,72.02,0,,MO,11K0F1D,1,1,0,0,A,Rule 23: Shared with fixed stations in other services and not protected from interference.|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
 20220516193021,2,G,1,72.06,0,,MO,11K0F1D,1,1,0,0,A,Rule 23: Shared with fixed stations in other services and not protected from interference.|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
 20220516193021,3,G,1,72.1,0,,MO,11K0F1D,1,1,0,0,A,Rule 23: Shared with fixed stations in other services and not protected from interference.|Rule 24: All operations on this frequency are subject to the provisions of § 90.257(b).
