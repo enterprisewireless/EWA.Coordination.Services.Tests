@@ -3,7 +3,7 @@
     "scheduleGhs": [
         {
             "lineNum": 1,
-            "locationCode": "A",
+            "locationCode": "G",
             "locationNum": 1,
             "frequencyLow": 450,
             "frequencyHigh": 469.99999,
@@ -13,13 +13,13 @@
             "erp": 4,
             "haat": null,
             "transmittingAntennaHeight": null,
-            "coordinationCode": "C",
+            "coordinationCode": "A",
             "requestNum": 1,
             "frequencyType": null
         },
         {
             "lineNum": 2,
-            "locationCode": "A",
+            "locationCode": "G",
             "locationNum": 1,
             "frequencyLow": 450,
             "frequencyHigh": 469.99999,
@@ -40,13 +40,13 @@
             "city": "Rock Springs",
             "county": "Walker",
             "locationNum": 1,
-            "locationCode": "M",
-            "latitude": "A",
-            "longitude": 34.821444,
-            "areaOfOperation": "-85.243944",
-            "serviceAreaRadius": null,
-            "elevation": 7,
-            "areaOfOperationCode": null
+            "locationCode": "G",
+            "latitude": 34.821444,
+            "longitude": -85.243944,
+            "areaOfOperation": null,
+            "serviceAreaRadius": 7,
+            "elevation": null,
+            "areaOfOperationCode": "P"
         }
     ]
 }
