@@ -278,7 +278,7 @@
 20240321105238,2,G,2,33.34,0,,MO,11K0F3E,45,45,0,0,A,Rule 131: IP Frequency
 20240321105238,2,G,2,33.36,0,,MO,11K0F3E,45,45,0,0,A,Rule 131: IP Frequency
 20240321105238,2,G,2,33.38,0,,MO,11K0F3E,45,45,0,0,A,Rule 131: IP Frequency
-20240321105238,2,G,2,33.4,0,,MO,11K0F3E,45,45,0,0,A,Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 14: Power must be <= 1 Watts
+20240321105238,2,G,2,33.4,0,,MO,11K0F3E,45,45,0,0,A,Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 14: Power must be <= 1 Watts|Rule 288: Power Must Be <= 1 Watts
 20240321105238,2,G,2,35.06,0,,MO,11K0F3E,45,45,0,0,A,
 20240321105238,2,G,2,35.08,0,,MO,11K0F3E,45,45,0,0,A,
 20240321105238,2,G,2,35.1,0,,MO,11K0F3E,45,45,0,0,A,
@@ -589,7 +589,7 @@
 20240321105238,3,H,3,33.34,0,,MO,11K0F3E,60,60,0,0,A,Rule 131: IP Frequency
 20240321105238,3,H,3,33.36,0,,MO,11K0F3E,60,60,0,0,A,Rule 131: IP Frequency
 20240321105238,3,H,3,33.38,0,,MO,11K0F3E,60,60,0,0,A,Rule 131: IP Frequency
-20240321105238,3,H,3,33.4,0,,MO,11K0F3E,60,60,0,0,A,Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 14: Power must be <= 1 Watts
+20240321105238,3,H,3,33.4,0,,MO,11K0F3E,60,60,0,0,A,Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 14: Power must be <= 1 Watts|Rule 288: Power Must Be <= 1 Watts
 20240321105238,3,H,3,35.06,0,,MO,11K0F3E,60,60,0,0,A,
 20240321105238,3,H,3,35.08,0,,MO,11K0F3E,60,60,0,0,A,
 20240321105238,3,H,3,35.1,0,,MO,11K0F3E,60,60,0,0,A,
@@ -873,7 +873,7 @@
 20240321105238,4,H,3,33.34,0,,MO,11K0F3E,450,45,0,0,A,Rule 131: IP Frequency
 20240321105238,4,H,3,33.36,0,,MO,11K0F3E,450,45,0,0,A,Rule 131: IP Frequency
 20240321105238,4,H,3,33.38,0,,MO,11K0F3E,450,45,0,0,A,Rule 131: IP Frequency
-20240321105238,4,H,3,33.4,0,,MO,11K0F3E,450,45,0,0,A,Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 14: Power must be <= 1 Watts
+20240321105238,4,H,3,33.4,0,,MO,11K0F3E,450,45,0,0,A,Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 14: Power must be <= 1 Watts|Rule 288: Power Must Be <= 1 Watts
 20240321105238,4,H,3,35.32,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
 20240321105238,4,H,3,35.36,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
 20240321105238,4,H,3,35.4,0,,MO,11K0F3E,450,45,0,0,A,Rule 6: Must be paired (5.26 MHz) within SMA (1950 Census). Outside simplex operation authorized.|Rule 286: Power Must Be <= 300 Watts
