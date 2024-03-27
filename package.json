@@ -4,5 +4,20 @@
     "chalk": "^4.1.2",
     "csv-parse": "^5.5.3",
     "dotenv": "^16.4.4"
-  }
+  },
+  "name": "ewa.coordination.services.tests",
+  "description": "This repository contains scripts to test the outputs of the EWA.Coordination.Services APIs.",
+  "version": "1.0.0",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "main": "node main.js",
+    "regression": "node regression.js --exclude",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED"
 }
