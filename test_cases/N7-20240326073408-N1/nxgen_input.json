@@ -1,0 +1,52 @@
+{
+    "licenseType": "IB",
+    "scheduleGhs": [
+        {
+            "lineNum": 1,
+            "locationCode": "G",
+            "locationNum": 1,
+            "frequencyLow": 450,
+            "frequencyHigh": 469.99999,
+            "stationClass": "MO",
+            "emissionDesignator": "7K60FXD",
+            "power": 4,
+            "erp": 4,
+            "haat": null,
+            "transmittingAntennaHeight": null,
+            "coordinationCode": "A",
+            "requestNum": 1,
+            "frequencyType": null
+        },
+        {
+            "lineNum": 2,
+            "locationCode": "G",
+            "locationNum": 1,
+            "frequencyLow": 450,
+            "frequencyHigh": 469.99999,
+            "stationClass": "MO",
+            "emissionDesignator": "7K60FXE",
+            "power": 4,
+            "erp": 4,
+            "haat": null,
+            "transmittingAntennaHeight": null,
+            "coordinationCode": "C",
+            "requestNum": 2,
+            "frequencyType": null
+        }
+    ],
+    "scheduleEs": [
+        {
+            "state": "GA",
+            "city": "Rock Springs",
+            "county": "Walker",
+            "locationNum": 1,
+            "locationCode": "G",
+            "latitude": 34.821444,
+            "longitude": -85.243944,
+            "areaOfOperation": null,
+            "serviceAreaRadius": 7,
+            "elevation": null,
+            "areaOfOperationCode": "P"
+        }
+    ]
+}
