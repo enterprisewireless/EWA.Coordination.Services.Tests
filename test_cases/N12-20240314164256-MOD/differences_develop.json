@@ -1,0 +1,29 @@
+{
+  "G|1|153.65|153.65|MO|11K2F3E|C": {
+    "nxgen": ""
+  },
+  "A|2|153.65|153.65|FB2|11K2F3E|C": {
+    "nxgen": ""
+  },
+  "G|1|157.5|157.5|MO|11K2F3E|C": {
+    "nxgen": ""
+  },
+  "G|1|157.5|157.5|MO|4K00F1E|A": {
+    "nxgen": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 132: LA Frequency"
+  },
+  "Loc|LocNum|FreqLow|FreqHi|Class|Emission|CoordCode": {
+    "legacy": "ErrTxt"
+  },
+  "G|1|153.65|153.65|MO|11K2F3E|A": {
+    "legacy": "Rule 130: IW Frequency"
+  },
+  "G|1|157.5|157.5|MO|11K2F3E|A": {
+    "legacy": "Rule 12: This frequency may not be used aboard aircraft in flight.|Rule 132: LA Frequency"
+  },
+  "G|1|157.5|157.5|MO|4K00F1E|C": {
+    "legacy": ""
+  },
+  "A|2|153.65|153.65|FB2|11K2F3E|A": {
+    "legacy": "Rule 130: IW Frequency"
+  }
+}
